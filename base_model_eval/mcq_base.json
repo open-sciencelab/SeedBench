@@ -1,0 +1,3602 @@
+[
+    {
+        "question": "The field test conducted in Beijing in 2018 on plant lines found that overexpression of OsDREB1C led to what effect on grain yield per plant?",
+        "A": "Decrease by 45.1 to 67.6%",
+        "B": "Increase by 45.1 to 67.6%",
+        "C": "No significant change",
+        "D": "Decrease by 16.1 to 29.1%",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "In the same field test, knockout (KO) of OsDREB1C resulted in what effect on yield per plot?",
+        "A": "Increase by 13.8 to 27.8%",
+        "B": "Increase by 41.3 to 68.3%",
+        "C": "No significant change",
+        "D": "Decrease by 13.8 to 27.8%",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "How did the overexpression of OsDREB1C affect the harvest index of the plants?",
+        "A": "Increased by 40.3 to 55.7%",
+        "B": "Decreased by 40.3 to 55.7%",
+        "C": "No significant change",
+        "D": "Decreased by 22.4 to 33.7%",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What effect did the overexpression of OsDREB1C have on the levels of photosynthetic pigments in the leaves of the plants?",
+        "A": "Increased pigment levels",
+        "B": "Decreased pigment levels",
+        "C": "Pigment levels fluctuated unpredictably",
+        "D": "No significant change in pigment levels",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Fertilization Independent Endosperm (FIE) plays a crucial role in which complex?",
+        "A": "Polycomb Repressive Complex 1 (PRC1)",
+        "B": "Polycomb Repressive Complex 3 (PRC3)",
+        "C": "Polycomb Repressive Complex 2 (PRC2)",
+        "D": "Polycomb Repressive Complex 4 (PRC4)",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "How many FIE homologs are there in the rice genome?",
+        "A": "Four",
+        "B": "One",
+        "C": "Three",
+        "D": "Two",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Which FIE homolog in the rice genome has a specific expression pattern and methylation landscape?",
+        "A": "OsFIE2",
+        "B": "OsFIE1",
+        "C": "Neither OsFIE1 nor OsFIE2",
+        "D": "Both OsFIE1 and OsFIE2",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Which FIE homolog in the rice genome underwent a less intensive purifying selection during evolution?",
+        "A": "Both OsFIE1 and OsFIE2",
+        "B": "Neither OsFIE1 nor OsFIE2",
+        "C": "OsFIE1",
+        "D": "OsFIE2",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsFIE1 probably duplicated from which FIE homolog in the rice genome?",
+        "A": "OsFIE2",
+        "B": "Both OsFIE1 and OsFIE2",
+        "C": "OsFIE1 itself",
+        "D": "Neither OsFIE1 nor OsFIE2",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What method was used to study the expression pattern of OsRELA?",
+        "A": "Real-time quantitative PCR (RT–qPCR) and GUS staining experiments",
+        "B": "Microscopy",
+        "C": "DNA sequencing",
+        "D": "Gel electrophoresis",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "In which tissues was OsRELA expressed?",
+        "A": "In various tissues of rice",
+        "B": "Only in the stem",
+        "C": "Only in the leaf sheath",
+        "D": "Only in the root",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Where was strong GUS staining observed?",
+        "A": "In the lamina joint, young florets, stem, vascular bundles, leaf sheath and root",
+        "B": "Only in the vascular bundles",
+        "C": "Only in the young florets",
+        "D": "Only in the lamina joint",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What growth stages are associated with OsRELA expression?",
+        "A": "The phenotypes of the rela mutant",
+        "B": "The photosynthesis process",
+        "C": "The growth of the rice plant",
+        "D": "The reproductive process of the rice plant",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, how many OsDT11-overexpressing lines were obtained for the study?",
+        "A": "3",
+        "B": "10",
+        "C": "7",
+        "D": "13",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, how did the OsDT11-overexpressing lines react to being deprived of water for 17 days compared to wild-type plants?",
+        "A": "They exhibited more wilting",
+        "B": "They died",
+        "C": "They exhibited the same amount of wilting",
+        "D": "They exhibited less wilting",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, what was the correlation between OsDT11 expression in the transgenic plants and water loss?",
+        "A": "r = 0.767",
+        "B": "r = -0.855",
+        "C": "r = 0.855",
+        "D": "r = -0.767",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, how did the knockdown transgenic lines react to drought stress compared to wild-type plants?",
+        "A": "They were more sensitive and did not recover after rewatering",
+        "B": "They were equally sensitive and did not recover after rewatering",
+        "C": "They were less sensitive and recovered after rewatering",
+        "D": "They were more sensitive but recovered after rewatering",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, what was found to be higher in the overexpressing lines compared to the wild-type lines under normal conditions?",
+        "A": "Endogenous ABA levels",
+        "B": "Water loss",
+        "C": "Stomatal density",
+        "D": "Water retention",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "The study focuses on the molecular mechanisms underlying which gene-mediated BPH resistance?",
+        "A": "Bph32",
+        "B": "Bph31",
+        "C": "Bph34",
+        "D": "Bph33",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Which method was used to examine the expression profile of the Bph32 gene?",
+        "A": "Western Blot analysis",
+        "B": "RT PCR analysis and transgenic plants carrying a Bph32 promoter-driven GUS reporter gene",
+        "C": "Mass spectrometry",
+        "D": "DNA sequencing",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "In which tissue was the expression level of Bph32 found to be highest?",
+        "A": "Culms",
+        "B": "Roots",
+        "C": "Leaf sheaths",
+        "D": "Leaf blades",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Where was GUS activity strongly detected?",
+        "A": "Epidermal cells",
+        "B": "Parenchyma cells and the vascular bundle",
+        "C": "Xylem cells",
+        "D": "Phloem cells",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What may be associated with the different expression levels of the Bph32 gene in some tissues of the susceptible line and the resistant line?",
+        "A": "Differences in gene duplication",
+        "B": "Differences in 5′ regulatory sequences",
+        "C": "Differences in gene mutation",
+        "D": "Differences in 3′ regulatory sequences",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻OsSIZ2基因在水稻的哪个染色体上？",
+        "A": "3号染色体",
+        "B": "2号染色体",
+        "C": "4号染色体",
+        "D": "1号染色体",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "敲除或介导敲低OsSIZ2基因对突变体会有什么影响？",
+        "A": "正向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的负调控",
+        "B": "正向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的正调控",
+        "C": "负向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的负调控",
+        "D": "负向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的正调控",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻OsSIZ2基因的序列长度是多少？",
+        "A": "7180bp",
+        "B": "10180bp",
+        "C": "8180bp",
+        "D": "9180bp",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻OsSIZ2基因编码的蛋白质是什么？",
+        "A": "SUMO E3连接酶",
+        "B": "SUMO E4连接酶",
+        "C": "SUMO E1连接酶",
+        "D": "SUMO E2连接酶",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻OsSIZ2基因在水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)的编号是什么？",
+        "A": "Os03g0719300",
+        "B": "Os03g0719100",
+        "C": "Os03g0719200",
+        "D": "Os03g0719400",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "截至2024年7月的研究发现，OsJRL45基因可能通过调节哪些相关基因的表达来提高水稻的盐耐受性？",
+        "A": "与氮素吸收、磷酸盐转运相关的基因",
+        "B": "与离子转运、盐胁迫响应和激素响应相关的基因",
+        "C": "与病虫害防治、生长发育相关的基因",
+        "D": "与糖分解、光合作用相关的基因",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在OsJRL45基因敲除突变体水稻中下调的基因包括哪些？",
+        "A": "Os10g0210500, Os06g0193200, Os08g0564300, OsHAK8, OsHAK9, CAX3, G6PGH1, WOX5, PIN3",
+        "B": "Os10g0210500, Os06g0193200, Os08g0564300, OsHAK8, OsHAK9, CAX3, G6PGH1, WOX4, PIN2",
+        "C": "Os10g0210500, Os06g0193200, Os08g0564300, OsHAK8, OsHAK9, CAX4, G6PGH1, WOX4, PIN2",
+        "D": "Os10g0210500, Os06g0193200, Os08g0564300, OsHAK7, OsHAK9, CAX3, G6PGH1, WOX4, PIN2",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsHCAR基因编码的7-羟甲基叶绿素a还原酶有什么功能？",
+        "A": "将7-羟基甲基叶绿素 a 转化为叶绿素 b",
+        "B": "将叶绿素 a 转化为7-羟基甲基叶绿素 a",
+        "C": "将叶绿素 b 转化为7-羟基甲基叶绿素 a",
+        "D": "将7-羟基甲基叶绿素 a 转化为叶绿素 a",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsHCAR基因位于水稻的哪个染色体上？",
+        "A": "2号染色体",
+        "B": "3号染色体",
+        "C": "4号染色体",
+        "D": "1号染色体",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsHCAR基因的序列长度是多少？",
+        "A": "5284bp",
+        "B": "5428bp",
+        "C": "4285bp",
+        "D": "4528bp",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsHCAR基因被预测的蛋白质域包括哪些？",
+        "A": "FrhB_FdhB_D 和 FrhB_FdhB_E",
+        "B": "FrhB_FdhB_A 和 FrhB_FdhB_B",
+        "C": "FrhB_FdhB_C 和 FrhB_FdhB_N",
+        "D": "FrhB_FdhB_F 和 FrhB_FdhB_G",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）中，OsHCAR基因的编号是什么？",
+        "A": "LOC_Os04g25403",
+        "B": "LOC_Os04g25401",
+        "C": "LOC_Os04g25402",
+        "D": "LOC_Os04g25400",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "CDPK13基因可能影响的植物性状包括哪些？",
+        "A": "耐寒性",
+        "B": "耐旱性",
+        "C": "所有以上",
+        "D": "耐盐性",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "CDPK13基因在RiceSuperPIRdb数据库中的预测功能是什么？",
+        "A": "包括蛋白丝氨酸/苏氨酸激酶活性",
+        "B": "包括催化活性",
+        "C": "包括钙/钙调蛋白依赖性蛋白激酶",
+        "D": "包括响应酸性化学物质",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsCHR709基因的功能包括哪些？",
+        "A": "催化活性",
+        "B": "所有以上",
+        "C": "响应酸性化学物质",
+        "D": "蛋白激酶活性",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在RAPDB数据库中，CDPK13基因的功能包括哪些？",
+        "A": "耐冷和耐盐/干旱",
+        "B": "类似于钙依赖性蛋白激酶",
+        "C": "所有以上",
+        "D": "激活稻根中NADPH氧化酶",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，CDPK13基因的功能包括哪些？",
+        "A": "细胞核",
+        "B": "细胞质",
+        "C": "所有以上",
+        "D": "转移酶活性",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在国家水稻数据中心（China Rice Data Center）的数据库中，AM1基因可能影响的植物性状包括哪项？",
+        "A": "生长速度",
+        "B": "叶色",
+        "C": "果实大小",
+        "D": "开花时间",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在RiceSuperPIRdb数据库中，AM1基因的预测功能是什么？",
+        "A": "氮固定酶活性",
+        "B": "脱氧核糖核酸复制",
+        "C": "磷酸二酯酶活性",
+        "D": "钾离子反向转运蛋白",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在RAPDB数据库中，AM1基因的功能包括哪项？",
+        "A": "光合作用",
+        "B": "细胞分裂",
+        "C": "钾离子反向转运",
+        "D": "氨基酸合成",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，AM1基因的功能包括哪项？",
+        "A": "脱氧核糖核酸修复",
+        "B": "细胞膜",
+        "C": "脂肪酸代谢",
+        "D": "蛋白质翻译",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在国家水稻数据中心（China Rice Data Center）的数据库中，AM1基因可能影响的植物性状不包括哪项？",
+        "A": "果实颜色",
+        "B": "耐旱性",
+        "C": "过氧化氢含量",
+        "D": "叶色",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "GWD1基因可能影响的植物性状中不包括哪项？",
+        "A": "单株穗数",
+        "B": "糊化温度",
+        "C": "株高",
+        "D": "花色",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "GWD1基因的预测功能是什么？",
+        "A": "cold acclimation",
+        "B": "polysaccharide catabolic process",
+        "C": "alpha-glucan water dikinase, chloroplast precursor",
+        "D": "mRNA binding",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在RAPDB数据库中，GWD1基因的功能不包括哪项？",
+        "A": "Tolerance to abiotic stress",
+        "B": "Positive regulation of seed germination",
+        "C": "Alpha-glucan; water dikinase",
+        "D": "Regulation of grain color",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，GWD1基因的功能不包括哪项？",
+        "A": "mRNA binding",
+        "B": "starch catabolic process",
+        "C": "regulation of seed size",
+        "D": "cold acclimation",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "GWD1基因可能影响下列哪项性状？",
+        "A": "株高",
+        "B": "籽粒长宽比",
+        "C": "发芽率",
+        "D": "单株穗数",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsGPT1基因可能影响的植物性状中不包括哪项？",
+        "A": "分蘖数",
+        "B": "株高",
+        "C": "叶色",
+        "D": "花粉败育",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsGPT1基因在RiceSuperPIRdb数据库中的功能预测是什么？",
+        "A": "转录因子",
+        "B": "抗氧化酶",
+        "C": "水通道蛋白",
+        "D": "磷酸/磷酸转运蛋白",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在RAPDB数据库中，OsGPT1基因的功能是什么？",
+        "A": "抗氧化酶",
+        "B": "转录因子",
+        "C": "磷酸/磷酸转运蛋白",
+        "D": "水通道蛋白",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在KEGG分析中，OsGPT1基因被归类为哪个家族的成员？",
+        "A": "转录因子家族",
+        "B": "抗氧化酶家族",
+        "C": "溶质载体家族35，成员E1",
+        "D": "水通道蛋白家族",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，OsGPT1基因的生物过程（biological process）是什么？",
+        "A": "抗氧化过程",
+        "B": "跨膜运输",
+        "C": "转录调控",
+        "D": "水分子通道",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在水稻中的主要功能是什么？",
+        "A": "调节水稻的生长速度",
+        "B": "调节水稻的光合作用",
+        "C": "调节水稻的抗病性",
+        "D": "调节水稻多个器官的发育",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在哪个植物激素的合成通路中起作用？",
+        "A": "赤霉素",
+        "B": "脱落酸",
+        "C": "吲哚乙酸",
+        "D": "赤霉酸",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在赤霉酸合成通路中的作用是什么？",
+        "A": "负反馈调控",
+        "B": "无反馈调控",
+        "C": "正反馈调控",
+        "D": "双向反馈调控",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在水稻中的哪个器官发育中起作用？",
+        "A": "茎",
+        "B": "种子",
+        "C": "花",
+        "D": "叶片",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在水稻的哪个生长过程中起作用？",
+        "A": "叶片脱落",
+        "B": "分蘖和侧根发育",
+        "C": "种子成熟",
+        "D": "花朵开放",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Pb2基因可能影响的植物性状包括哪些？",
+        "A": "叶瘟抗性和纹枯病抗性",
+        "B": "叶瘟抗性和叶斑病抗性",
+        "C": "穗颈瘟抗性和叶斑病抗性",
+        "D": "叶瘟抗性和穗颈瘟抗性",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在RiceSuperPIRdb数据库中，Pb2基因的预测功能是什么？",
+        "A": "GO:0016020_membrane",
+        "B": "rust-resistance protein Lr21",
+        "C": "NB-ARC domain containing disease resistance protein",
+        "D": "Panicle blast resistance",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，Pb2基因的预测功能是什么？",
+        "A": "Panicle blast resistance",
+        "B": "GO:0016020_membrane",
+        "C": "rust-resistance protein Lr21",
+        "D": "NB-ARC domain containing disease resistance protein",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Pb2基因的数据来源包括哪些数据库？",
+        "A": "EnsemblPlants数据库和国家水稻数据中心",
+        "B": "RiceSuperPIRdb数据库、RAPDB数据库、EnsemblPlants数据库和国家水稻数据中心",
+        "C": "RAPDB数据库和EnsemblPlants数据库",
+        "D": "RiceSuperPIRdb数据库和RAPDB数据库",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What is the potential influence of OSCS1 on plant traits according to the China Rice Data Center?",
+        "A": "Aluminum sensitivity",
+        "B": "Iron sensitivity",
+        "C": "Zinc sensitivity",
+        "D": "Copper sensitivity",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What is one of the potential functions of OSCS1 according to the RiceSuperPIRdb database?",
+        "A": "DNA synthesis",
+        "B": "Protein synthesis",
+        "C": "Citrate synthesis",
+        "D": "Lipid synthesis",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Which of the following is not a potential function of OSCS1 according to GO and KEGG analyses?",
+        "A": "Molecular function",
+        "B": "Catalytic activity",
+        "C": "Protein folding",
+        "D": "Nucleotide binding",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What is one of the inferred functions of OSCS1 according to the RAPDB database?",
+        "A": "Confer iron tolerance",
+        "B": "Confer zinc tolerance",
+        "C": "Confer copper tolerance",
+        "D": "Confer aluminum tolerance",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Which of the following is not an inferred function of OSCS1 according to the EnsemblPlants database?",
+        "A": "Acyltransferase activity",
+        "B": "Carbohydrate metabolic process",
+        "C": "Tricarboxylic acid cycle",
+        "D": "Lipid metabolic process",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsCHR709是哪种类型的因子？",
+        "A": "翻译因子",
+        "B": "染色质重塑因子",
+        "C": "转录因子",
+        "D": "信号转导因子",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsCHR709基因位于哪个染色体上？",
+        "A": "第三染色体",
+        "B": "第四染色体",
+        "C": "第一染色体",
+        "D": "第二染色体",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsCHR709编码的蛋白属于哪个家族？",
+        "A": "G家族蛋白",
+        "B": "NF-κB家族蛋白",
+        "C": "SNF2家族蛋白",
+        "D": "MAPK家族蛋白",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsCHR709的同义基因是什么？",
+        "A": "OsCHR708",
+        "B": "OsPIE1",
+        "C": "OsCHR710",
+        "D": "OsPIE2",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在Rice Genome Annotation Project (RGAP)数据库中，OsCHR709的标识符是什么？",
+        "A": "AGIS_Os02g041810",
+        "B": "LOC_Os02g46450",
+        "C": "Os02g0689800",
+        "D": "Os02g0689900",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Os3BGlu6是什么类型的基因？",
+        "A": "酶基因",
+        "B": "转运蛋白基因",
+        "C": "转录因子基因",
+        "D": "结构蛋白基因",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Os3BGlu6基因位于哪个物种的染色体上？",
+        "A": "Homo sapiens",
+        "B": "Zea mays",
+        "C": "Oryza sativa ssp. japonica cv. Nipponbare",
+        "D": "Arabidopsis thaliana",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Os3BGlu6基因的总序列长度是多少？",
+        "A": "7061 bp",
+        "B": "5923642 bp",
+        "C": "5930702 bp",
+        "D": "10000 bp",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Os3BGlu6基因编码的是什么蛋白质？",
+        "A": "BGLU8蛋白",
+        "B": "BGLU7蛋白",
+        "C": "BGLU6蛋白",
+        "D": "BGLU5蛋白",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在Rice Genome Annotation Project (RGAP)数据库中，Os3BGlu6基因的标识符是什么？",
+        "A": "LOC_Os03g11420",
+        "B": "Os03g11420",
+        "C": "Os03g0212800",
+        "D": "AGIS_Os03g009600",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsHDA709基因可能涉及的功能包括哪些？",
+        "A": "DNA复制",
+        "B": "蛋白质翻译",
+        "C": "细胞分裂",
+        "D": "组蛋白去乙酰化酶19的表达",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "OsHDA709基因可能具有的分子功能是什么？",
+        "A": "转录因子活性",
+        "B": "水解酶活性",
+        "C": "信号转导活性",
+        "D": "运输蛋白活性",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "根据RAPDB数据库，OsHDA709基因可能参与哪种生物过程？",
+        "A": "DNA修复过程",
+        "B": "能量代谢过程",
+        "C": "盐胁迫响应",
+        "D": "免疫系统过程",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "根据EnsemblPlants数据库，OsHDA709基因可能具有哪种细胞组分？",
+        "A": "细胞核",
+        "B": "高尔基体",
+        "C": "线粒体",
+        "D": "细胞质",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What is the function of the gene LOC_Os02g25230 (TAC4)?",
+        "A": "It decreases the tiller angle in plants.",
+        "B": "It increases the tiller angle in plants.",
+        "C": "It regulates the height of the plant.",
+        "D": "It has no effect on the tiller angle in plants.",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What is the correlation between the expression level of TAC4 and tiller angle?",
+        "A": "Uncertain correlation",
+        "B": "No correlation",
+        "C": "Negative correlation",
+        "D": "Positive correlation",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What is the effect of the tac4 mutation on plant height?",
+        "A": "It causes variable effects on plant height.",
+        "B": "It has no effect on plant height.",
+        "C": "It increases plant height.",
+        "D": "It decreases plant height.",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What is the effect of the tac4 mutation on grain length?",
+        "A": "It increases grain length.",
+        "B": "It decreases grain length.",
+        "C": "It has no effect on grain length.",
+        "D": "It causes variable effects on grain length.",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What is the effect of the tac4 mutation on the number of primary and secondary branches per panicle?",
+        "A": "It decreases the number of branches.",
+        "B": "It causes variable effects on the number of branches.",
+        "C": "It increases the number of branches.",
+        "D": "It has no effect on the number of branches.",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What environmental factors affect DTH8？",
+        "A": "ight",
+        "B": "temperature",
+        "C": "ater",
+        "D": "rought",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What was the finding regarding the expression levels of DTH8 and Ghd7 in NIL (hd1) grown under LD conditions?",
+        "A": "The expression levels were not changed.",
+        "B": "The expression levels were decreased.",
+        "C": "The expression levels were increased.",
+        "D": "The expression levels were not examined.",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What effect does DTH8 have on rice flowering?",
+        "A": "The effect of DTH8 on rice flowering was not examined.",
+        "B": "DTH8 suppresses rice flowering by down-regulating the expression of Ehd1 and Hd3a.",
+        "C": "DTH8 has no effect on rice flowering.",
+        "D": "DTH8 promotes rice flowering by up-regulating the expression of Ehd1 and Hd3a.",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "How does DTH8 regulate height according to the findings?",
+        "A": "DTH8 does not regulate height.",
+        "B": "By altering cell elongation in the internodes and keeping culm thickness stable.",
+        "C": "By altering culm thickness and keeping cell elongation in the internodes stable.",
+        "D": "By altering both cell elongation in the internodes and culm thickness.",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Where did a significant peak appear according to the given context?",
+        "A": "Chromosome 4",
+        "B": "Chromosome 3",
+        "C": "Chromosome 2",
+        "D": "Chromosome 1",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "How many candidate genes were detected in the candidate region of 30.45–30.65 Mb?",
+        "A": "10",
+        "B": "33",
+        "C": "50",
+        "D": "20",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "How many of the 33 genes contain non-synonymous SNPs?",
+        "A": "15",
+        "B": "20",
+        "C": "5",
+        "D": "10",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "What is the full length of OsSYL2?",
+        "A": "200 bp",
+        "B": "400 bp",
+        "C": "800 bp",
+        "D": "602 bp",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在研究中，GL10位点最初被映射到哪两个标记之间的区间？",
+        "A": "标记NP-11和标记NC9",
+        "B": "标记M15和标记NP-11",
+        "C": "标记M15和标记NC14",
+        "D": "标记NC9和标记NC14",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在BC5F3世代中，GL10被映射到了哪两个标记之间的区域？",
+        "A": "标记NC9和标记NC14",
+        "B": "标记NP-11和标记NC9",
+        "C": "标记M15和标记NP-11",
+        "D": "标记M15和标记NC14",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在研究中，GL10被映射到标记NC9和标记NC14之间的区域的大小是多少？",
+        "A": "18.5 kb",
+        "B": "25 kb",
+        "C": "10 kb",
+        "D": "20 kb",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在研究中，被映射区域包含一个预测的开放阅读框（ORF），它的编号是什么？",
+        "A": "Os10g0536200",
+        "B": "Os10g0536400",
+        "C": "Os10g0536300",
+        "D": "Os10g0536100",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻土是适宜种植哪种作物的土壤？",
+        "A": "大豆",
+        "B": "小麦",
+        "C": "水稻",
+        "D": "玉米",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻土的形成条件是什么？",
+        "A": "长期干旱的环境",
+        "B": "长期沙漠化的环境",
+        "C": "长期冻土的环境",
+        "D": "长期淹水种稻的环境",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻土的哪种特性使得土壤中的氧化铁被还原成易溶于水的氧化亚铁？",
+        "A": "土壤中富含有机物质",
+        "B": "土壤中富含矿物质",
+        "C": "长期处于水淹的缺氧状态",
+        "D": "土壤下层较为粘重",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻土的哪一层较为粘重？",
+        "A": "土壤上层",
+        "B": "土壤下层",
+        "C": "土壤中层",
+        "D": "土壤表层",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻的原产地是哪里？",
+        "A": "美洲",
+        "B": "欧洲",
+        "C": "非洲",
+        "D": "中国",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "稻主要在哪些地区种植？",
+        "A": "中国西部地区",
+        "B": "中国北方地区",
+        "C": "中国南方地区",
+        "D": "中国东部地区",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "稻种下主要分为几个亚种？",
+        "A": "4个",
+        "B": "1个",
+        "C": "2个",
+        "D": "3个",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "稻的药用价值主要体现在哪些方面？",
+        "A": "治疗高血压",
+        "B": "和中消食，健脾开胃",
+        "C": "治疗糖尿病",
+        "D": "治疗感冒",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "豫农粳12是哪个单位选育的？",
+        "A": "河南农业大学",
+        "B": "上海农业大学",
+        "C": "广东农业大学",
+        "D": "北京农业大学",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "豫农粳12的母本是什么？",
+        "A": "镇稻88",
+        "B": "方欣4号",
+        "C": "镇稻89",
+        "D": "方欣5号",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "豫农粳12的平均株高是多少？",
+        "A": "22.8cm",
+        "B": "18.8cm",
+        "C": "20.8cm",
+        "D": "15.8cm",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "豫农粳12的千粒重是多少？",
+        "A": "5.9g",
+        "B": "6.9g",
+        "C": "7.9g",
+        "D": "8.9g",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "杂交水稻是如何产生的？",
+        "A": "通过遗传基因突变",
+        "B": "通过人工合成",
+        "C": "通过两个遗传背景不同的双亲相互杂交",
+        "D": "通过自然选择",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "两系杂交水稻中常用的不育系类型是什么？",
+        "A": "光温敏不育系",
+        "B": "水稻细胞质雄性不育系",
+        "C": "保持系",
+        "D": "恢复系",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "三系杂交水稻中常用的不育系类型是什么？",
+        "A": "保持系",
+        "B": "恢复系",
+        "C": "水稻细胞质雄性不育系",
+        "D": "光温敏不育系",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "杂交水稻具有什么优势？",
+        "A": "抗虫优势",
+        "B": "抗旱优势",
+        "C": "杂种优势",
+        "D": "抗病优势",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻的幼苗期是从什么时候开始的？",
+        "A": "从种子成熟开始",
+        "B": "从种子播种开始",
+        "C": "从种子萌发开始",
+        "D": "从种子收获开始",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在水稻的幼苗期，以下哪个环境条件不是必要的？",
+        "A": "充足的营养",
+        "B": "强烈的光照",
+        "C": "充足的水分",
+        "D": "适宜的温度",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻的幼苗期是水稻生长发育的哪个阶段？",
+        "A": "后期阶段",
+        "B": "中期阶段",
+        "C": "收获阶段",
+        "D": "初期阶段",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻的幼苗期结束于什么时候？",
+        "A": "四叶期",
+        "B": "三叶期",
+        "C": "二叶期",
+        "D": "一叶期",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "原丰早是哪个机构选育的？",
+        "A": "浙江省农业科学院作物与核技术利用研究所",
+        "B": "四川省农业科学院",
+        "C": "中国农业科学院",
+        "D": "广东省农业科学院",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "原丰早适合在哪个地区种植？",
+        "A": "松花江流域",
+        "B": "辽河流域",
+        "C": "海河流域",
+        "D": "长江流域",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "原丰早是哪种类型的水稻？",
+        "A": "籼型常规水稻",
+        "B": "粳型杂交水稻",
+        "C": "粳型常规水稻",
+        "D": "籼型杂交水稻",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "原丰早的特性是什么？",
+        "A": "晚熟、高产、抗性好",
+        "B": "早熟、高产、抗性好",
+        "C": "晚熟、低产、抗性差",
+        "D": "早熟、低产、抗性差",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄丰占是哪个机构育成的水稻新品种？",
+        "A": "广东省农业大学",
+        "B": "广东省农业研究所",
+        "C": "广东省农业科学院",
+        "D": "广东省农科院水稻研究所",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄丰占的母本黄华占的特性中，以下哪项是错误的？",
+        "A": "抗稻瘟病和白叶枯病",
+        "B": "具有较好的株型",
+        "C": "稻米外观品质鉴定为早造特二级",
+        "D": "苗期耐热性较强",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄丰占的父本丰秀占的特性中，以下哪项是错误的？",
+        "A": "早造米质未达优质国标",
+        "B": "株型适中",
+        "C": "叶色浓绿",
+        "D": "抗倒性、苗期耐寒性中等",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄丰占的父本丰秀占的稻米质量达到了什么标准？",
+        "A": "国标优质1级",
+        "B": "国标优质2级",
+        "C": "国标优质3级",
+        "D": "国标优质4级",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "C两优7号是由哪两个单位育种的？",
+        "A": "湖南农业大学与北京希望种业科技有限公司",
+        "B": "湖南农业大学与湖南希望种业科技有限公司",
+        "C": "北京农业大学与湖南希望种业科技有限公司",
+        "D": "北京农业大学与北京希望种业科技有限公司",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "C两优7号的育种方法是什么？",
+        "A": "以恢复系C815S为父本，R777为母本育成的小麦品种",
+        "B": "以恢复系R777为父本，C815S为母本育成的小麦品种",
+        "C": "以恢复系C815S为父本，R777为母本育成的水稻品种",
+        "D": "以恢复系R777为父本，C815S为母本育成的水稻品种",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "C两优7号是什么类型的水稻品种？",
+        "A": "两系杂交晚稻新组合",
+        "B": "两系杂交早稻新组合",
+        "C": "三系杂交早稻新组合",
+        "D": "三系杂交晚稻新组合",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "中嘉8号是由哪些单位育成的水稻品种？",
+        "A": "中国农业科学院、江苏省农业科学研究院(所)和中国科学院遗传与发育生物学研究所",
+        "B": "中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所",
+        "C": "中国农业科学院、浙江省农业科学研究院(所)和中国科学院遗传与发育生物学研究所",
+        "D": "中国水稻研究所、江苏省农业科学研究院(所)和中国科学院遗传与发育生物学研究所",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "中嘉8号的育种方法是以哪两种水稻品种为父母本育成的？",
+        "A": "ZH558和嘉禾218",
+        "B": "ZH558和嘉禾219",
+        "C": "ZH559和嘉禾218",
+        "D": "ZH559和嘉禾219",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "中嘉8号的全生育期平均多少天？",
+        "A": "162.1天",
+        "B": "160.1天",
+        "C": "166.1天",
+        "D": "164.1天",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "宁香粳9号是由哪个单位育种的？",
+        "A": "南京农业大学水稻研究所",
+        "B": "上海农业大学水稻研究所",
+        "C": "北京农业大学水稻研究所",
+        "D": "广州农业大学水稻研究所",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "宁香粳9号的母本是什么？",
+        "A": "宁粳2号/武软1",
+        "B": "宁粳3号",
+        "C": "宁粳1号/武软2",
+        "D": "宁粳4号",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "宁香粳9号的全生育期大约是多少天？",
+        "A": "180天",
+        "B": "200天",
+        "C": "159.6天",
+        "D": "120天",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "宁香粳9号的米质理化指标中，出糙率是多少？",
+        "A": "46%",
+        "B": "71.3%",
+        "C": "80.3%",
+        "D": "66.1%",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "宁香粳9号对以下哪种病害抗性最强？",
+        "A": "水稻白叶枯病",
+        "B": "稻纹枯病",
+        "C": "水稻条纹叶枯病",
+        "D": "稻瘟病",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "龙粳31是由哪个单位育种的？",
+        "A": "黑龙江省农业科学院佳木斯水稻研究所和黑龙江省龙粳高科有限责任公司",
+        "B": "中国农业大学",
+        "C": "中国农业科学院",
+        "D": "中国科学院",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "龙粳31的生育日数大约是多少天？",
+        "A": "150天",
+        "B": "130天",
+        "C": "180天",
+        "D": "100天",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "龙粳31的米率和品质如何？",
+        "A": "米率高、品质差",
+        "B": "米率低、品质佳",
+        "C": "米率高、品质佳",
+        "D": "米率低、品质差",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "龙粳31主要在哪个地区种植？",
+        "A": "山东省",
+        "B": "广东省",
+        "C": "江苏省",
+        "D": "黑龙江省",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "C两优7号是哪两个单位合作选育的两系杂交晚稻新组合？",
+        "A": "湖南希望种业科技有限公司与湖南农业科学院",
+        "B": "湖南农业大学与湖南希望种业科技有限公司",
+        "C": "湖南农业大学与湖南省农业科学院",
+        "D": "湖南农业大学与湖南农业科学院",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "C两优7号的母本和父本分别是什么？",
+        "A": "R815S和C777",
+        "B": "C815S和C777",
+        "C": "C815S和R777",
+        "D": "R777和C815S",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "C两优7号在产量方面的表现如何？",
+        "A": "产量一般",
+        "B": "产量极高",
+        "C": "产量较低",
+        "D": "产量较高",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "冈优22是哪个机构育成的中籼迟熟杂交稻？",
+        "A": "贵州省农科院水稻所",
+        "B": "湖南省农科院作物所",
+        "C": "江苏省农科院作物所",
+        "D": "四川省农科院作物所",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "冈优22的全生育期大约是多少天？",
+        "A": "160天",
+        "B": "170天",
+        "C": "145天",
+        "D": "152天",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "冈优22的每亩有效穗数量大约是多少？",
+        "A": "10-12万",
+        "B": "13-15万",
+        "C": "20-22万",
+        "D": "17-18万",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "冈优22适宜在哪个省份的海拔1000米以下地区种植？",
+        "A": "四川省",
+        "B": "江苏省",
+        "C": "贵州省",
+        "D": "湖南省",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "越光是哪个国家育种的水稻品种？",
+        "A": "中国",
+        "B": "日本",
+        "C": "泰国",
+        "D": "韩国",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "越光的育种母本和父本分别是什么？",
+        "A": "母本为农林22号，父本为农林1号",
+        "B": "母本为农林22号，父本为农林11号",
+        "C": "母本为农林11号，父本为农林22号",
+        "D": "母本为农林1号，父本为农林22号",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "越光的哪个特性使其易于倒伏？",
+        "A": "茎秆细软",
+        "B": "分蘖中等",
+        "C": "植株高度中等",
+        "D": "千粒重25g左右",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "空育131是由哪个机构育种的？",
+        "A": "中国科学院",
+        "B": "黑龙江省农垦科学院水稻研究所",
+        "C": "中国农业科学院",
+        "D": "中国农业大学",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "空育131的哪项特性使其具有较高的产量？",
+        "A": "米质优良",
+        "B": "抗逆性强，植株矮壮，茎秆强韧",
+        "C": "丰产稳产，属穗数型品种，株型紧凑，分蘖力强，成穗率和结实率高",
+        "D": "适应性广，对温度、光照反应不敏感，生态适应性强",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "甬优7850是由哪两个机构合作育成的籼粳杂交稻新品种？",
+        "A": "宁波市种子有限公司和浙江省农业局",
+        "B": "浙江省宁波市农科院和宁波市种子有限公司",
+        "C": "浙江省农科院和浙江省种子有限公司",
+        "D": "浙江省农科院和宁波市农业局",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "甬优7850的最佳播种期是什么时候？",
+        "A": "6月上旬",
+        "B": "3月上旬",
+        "C": "5月上旬",
+        "D": "4月上旬",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "关于甬优7850的肥水管理，以下哪个原则是正确的？",
+        "A": "断奶肥要晚，促蘖肥要巧，接力肥要轻，送嫁肥要准",
+        "B": "断奶肥要早，促蘖肥要重，接力肥要轻，送嫁肥要准",
+        "C": "断奶肥要早，促蘖肥要巧，接力肥要轻，送嫁肥要准",
+        "D": "断奶肥要早，促蘖肥要巧，接力肥要重，送嫁肥要准",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "云粳26号是哪个单位育种的？",
+        "A": "云南省农业科学院作物遗传育种研究所",
+        "B": "云南省农业科学院水稻研究所",
+        "C": "云南省农业科学院农业生物技术研究所",
+        "D": "云南省农业科学院粮食作物研究所",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "云粳26号的母本是什么？",
+        "A": "云粳优6号",
+        "B": "云粳12号",
+        "C": "云粳优5号",
+        "D": "云粳13号",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "云粳26号的最佳秧龄是多少天？",
+        "A": "30～40天",
+        "B": "50～60天",
+        "C": "60～70天",
+        "D": "40～50天",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "云粳26号的产量与哪项因素有直接关系？",
+        "A": "水分",
+        "B": "温度",
+        "C": "氮肥用量",
+        "D": "光照",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "云粳26号的父本是什么？",
+        "A": "云粳12号",
+        "B": "云粳13号",
+        "C": "云粳优5号",
+        "D": "云粳优6号",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "汕优10号是由哪两个品种杂交培育的？",
+        "A": "珍汕97A和密阳46",
+        "B": "密阳46和汕优6号",
+        "C": "密阳46和珍汕98A",
+        "D": "珍汕97A和汕优6号",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "汕优10号的秧田播种量应控制在多少kg以内？",
+        "A": "7.5kg",
+        "B": "5kg",
+        "C": "12.5kg",
+        "D": "10kg",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "汕优10号的秧田施肥中，每亩应施腐熟有机肥多少kg？",
+        "A": "1000-1250kg",
+        "B": "750-1000kg",
+        "C": "500-750kg",
+        "D": "1250-1500kg",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "淮稻7号是由哪个科研机构选育而成的？",
+        "A": "江苏徐淮地区淮阴农业科学研究所",
+        "B": "山东农业科学研究所",
+        "C": "广东农业科学研究所",
+        "D": "湖南农业科学研究所",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "淮稻7号的亩产量大约是多少？",
+        "A": "600-650kg",
+        "B": "700-750kg",
+        "C": "400-450kg",
+        "D": "500-550kg",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "淮稻7号的施肥方法中，分蘖肥应在栽插后多少天施入？",
+        "A": "3-4天",
+        "B": "9-10天",
+        "C": "7-8天",
+        "D": "5-6天",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "水稻灌溉管理的原则是什么？",
+        "A": "浅湿结合、间歇灌溉",
+        "B": "深湿结合、连续灌溉",
+        "C": "深湿结合、间歇灌溉",
+        "D": "浅湿结合、连续灌溉",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在水稻移栽过程中，为什么需要浅灌3cm左右的水？",
+        "A": "保证土壤干燥，防止水稻新根的过度发育",
+        "B": "保证土壤湿润，促进水稻新根的正常发育",
+        "C": "保证土壤干燥，促进水稻新根的正常发育",
+        "D": "保证土壤湿润，防止水稻新根的过度发育",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在水稻分蘖期的灌溉中，灌溉量过大会产生什么影响？",
+        "A": "会提高土壤的透气性",
+        "B": "会促进水稻的生长",
+        "C": "会降低土壤的透气性",
+        "D": "会产生无效分蘖",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在水稻孕穗阶段的灌溉中，应该灌水多少？",
+        "A": "7cm",
+        "B": "2cm",
+        "C": "5cm",
+        "D": "13cm",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "在水稻灌溉管理中，为什么需要排水防涝？",
+        "A": "保证土壤的湿润",
+        "B": "避免水稻长时间处于干燥状态",
+        "C": "避免水稻长时间处于淹水状态",
+        "D": "保证土壤的干燥",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄丰占是哪个机构育成的水稻新品种？",
+        "A": "湖南省农科院水稻研究所",
+        "B": "广西省农科院水稻研究所",
+        "C": "江苏省农科院水稻研究所",
+        "D": "广东省农科院水稻研究所",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄丰占对于哪种病害具有中抗性？",
+        "A": "白叶枯病",
+        "B": "纹枯病",
+        "C": "细菌性条斑病",
+        "D": "稻瘟病",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄丰占种植后期需要注意防治哪种病虫害？",
+        "A": "螟虫",
+        "B": "稻瘟病",
+        "C": "稻飞虱",
+        "D": "白叶枯病",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄丰占的病虫害防治措施中，不包括哪项？",
+        "A": "选用抗病品种",
+        "B": "长期不施用农药",
+        "C": "田间卫生管理",
+        "D": "合理轮作",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Y两优1号适宜在哪个市的不同土壤类型、不同稻作区栽培推广？",
+        "A": "永安市",
+        "B": "长沙市",
+        "C": "杭州市",
+        "D": "南京市",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Y两优1号在一季中稻栽培区的播种时间是？",
+        "A": "5月20-25日",
+        "B": "4月10-25日",
+        "C": "5月10-15日",
+        "D": "6月5-10日",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Y两优1号的秧田基肥使用的是什么肥料？",
+        "A": "尿素",
+        "B": "氯化钾",
+        "C": "水稻专用肥",
+        "D": "金稻龙药肥",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "Y两优1号的插秧规格是多少？",
+        "A": "30cm×25cm",
+        "B": "25cm×20cm",
+        "C": "20cm×15cm",
+        "D": "35cm×30cm",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "汕优63是由哪个农科所育成的水稻品种？",
+        "A": "江苏南京市农科所",
+        "B": "广东汕头市农科所",
+        "C": "福建三明市农科所",
+        "D": "浙江杭州市农科所",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "汕优63的最佳播期是什么时候？",
+        "A": "7月下旬",
+        "B": "6月下旬",
+        "C": "8月下旬",
+        "D": "9月下旬",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "栽培汕优63时，应控制的播种量是多少？",
+        "A": "5-7公斤/亩",
+        "B": "14-16公斤/亩",
+        "C": "11-13公斤/亩",
+        "D": "8-10公斤/亩",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "汕优63的施肥原则是什么？",
+        "A": "“前轻、中重、后补”",
+        "B": "“前重、中补、后轻”",
+        "C": "“前轻、中补、后重”",
+        "D": "“前补、中轻、后重”",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄华占是哪个省的农业科学院水稻研究所育成的感温型常规稻品种？",
+        "A": "福建省",
+        "B": "广东省",
+        "C": "江苏省",
+        "D": "湖南省",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄华占的栽培中，适合的播种时间是？",
+        "A": "7月23日",
+        "B": "4月23日",
+        "C": "5月23日",
+        "D": "6月23日",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄华占的栽培中，肥分管理的原则是？",
+        "A": "早施轻施前期肥、适施巧施中期肥、稳施追施后期肥",
+        "B": "早施重施前期肥、适施巧施中期肥、稳施追施后期肥",
+        "C": "早施重施前期肥、适施巧施中期肥、轻施追施后期肥",
+        "D": "早施轻施前期肥、适施重施中期肥、稳施追施后期肥",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "宜香优2115是由哪些单位组配而成的籼迟熟优质杂交水稻？",
+        "A": "四川省绿丹种业有限责任公司、四川农业大学农学院、宜宾市农业科学院",
+        "B": "四川农业大学、贵州农业科学院、湖南农业科学院",
+        "C": "云南农业大学、贵州农业科学院、重庆农业科学院",
+        "D": "陕西农业大学、湖南农业科学院、湖北农业科学院",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "宜香优2115适合在哪些地区种植？",
+        "A": "四川的平坝丘陵稻区",
+        "B": "云南、贵州、重庆的中低海拔籼稻区",
+        "C": "陕西南部地区、贵州省铜仁市的迟熟籼稻区",
+        "D": "所有以上地区",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "宜香优2115是什么类型的水稻品种？",
+        "A": "籼型三系杂交水稻",
+        "B": "早熟杂交水稻",
+        "C": "迟熟杂交水稻",
+        "D": "粳型三系杂交水稻",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "宜香优2115是在哪一年通过国家稻品种审定标准的？",
+        "A": "2012年",
+        "B": "2018年",
+        "C": "2019年",
+        "D": "2020年",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄华占是哪个单位育种的水稻品种？",
+        "A": "广东省农业科学院水稻研究所",
+        "B": "浙江省农业科学院水稻研究所",
+        "C": "陕西省农业科学院水稻研究所",
+        "D": "重庆市农业科学院水稻研究所",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄华占做晚稻栽培时，全生育期大约是多少天？",
+        "A": "126天",
+        "B": "136天",
+        "C": "106天",
+        "D": "116天",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "黄华占适宜在哪个省份的稻瘟病轻发地区作单季籼稻种植？",
+        "A": "浙江省",
+        "B": "陕西省",
+        "C": "新疆省",
+        "D": "重庆市",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "TAC4基因位于哪个染色体上？",
+        "A": "3号染色体",
+        "B": "1号染色体",
+        "C": "2号染色体",
+        "D": "4号染色体",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "TAC4基因的另一个名称是什么？",
+        "A": "SG3",
+        "B": "SG4",
+        "C": "SG2",
+        "D": "SG1",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "TAC4基因编码的是什么类型的蛋白？",
+        "A": "膜蛋白",
+        "B": "核蛋白",
+        "C": "信号蛋白",
+        "D": "酶蛋白",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "TAC4基因在水稻中的主要功能是什么？",
+        "A": "控制花期时间",
+        "B": "控制分蘖角度",
+        "C": "控制叶片大小",
+        "D": "控制根系发育",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：武育糯16号的选育过程开始于哪一年？\nA. 1980\nB. 1982\nC. 1994\nD. 1996\n正确答案：C\n问题："
+    },
+    {
+        "question": "The field test conducted in Beijing in 2018 on plant lines found that overexpression of OsDREB1C led to what effect on grain yield per plant?",
+        "A": "Decrease by 45.1 to 67.6%",
+        "B": "Increase by 45.1 to 67.6%",
+        "C": "No significant change",
+        "D": "Decrease by 16.1 to 29.1%",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "In the same field test, knockout (KO) of OsDREB1C resulted in what effect on yield per plot?",
+        "A": "Increase by 13.8 to 27.8%",
+        "B": "Increase by 41.3 to 68.3%",
+        "C": "No significant change",
+        "D": "Decrease by 13.8 to 27.8%",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "How did the overexpression of OsDREB1C affect the harvest index of the plants?",
+        "A": "Increased by 40.3 to 55.7%",
+        "B": "Decreased by 40.3 to 55.7%",
+        "C": "No significant change",
+        "D": "Decreased by 22.4 to 33.7%",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What effect did the overexpression of OsDREB1C have on the levels of photosynthetic pigments in the leaves of the plants?",
+        "A": "Increased pigment levels",
+        "B": "Decreased pigment levels",
+        "C": "Pigment levels fluctuated unpredictably",
+        "D": "No significant change in pigment levels",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Fertilization Independent Endosperm (FIE) plays a crucial role in which complex?",
+        "A": "Polycomb Repressive Complex 1 (PRC1)",
+        "B": "Polycomb Repressive Complex 3 (PRC3)",
+        "C": "Polycomb Repressive Complex 2 (PRC2)",
+        "D": "Polycomb Repressive Complex 4 (PRC4)",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "How many FIE homologs are there in the rice genome?",
+        "A": "Four",
+        "B": "One",
+        "C": "Three",
+        "D": "Two",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Which FIE homolog in the rice genome has a specific expression pattern and methylation landscape?",
+        "A": "OsFIE2",
+        "B": "OsFIE1",
+        "C": "Neither OsFIE1 nor OsFIE2",
+        "D": "Both OsFIE1 and OsFIE2",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Which FIE homolog in the rice genome underwent a less intensive purifying selection during evolution?",
+        "A": "Both OsFIE1 and OsFIE2",
+        "B": "Neither OsFIE1 nor OsFIE2",
+        "C": "OsFIE1",
+        "D": "OsFIE2",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsFIE1 probably duplicated from which FIE homolog in the rice genome?",
+        "A": "OsFIE2",
+        "B": "Both OsFIE1 and OsFIE2",
+        "C": "OsFIE1 itself",
+        "D": "Neither OsFIE1 nor OsFIE2",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What method was used to study the expression pattern of OsRELA?",
+        "A": "Real-time quantitative PCR (RT–qPCR) and GUS staining experiments",
+        "B": "Microscopy",
+        "C": "DNA sequencing",
+        "D": "Gel electrophoresis",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "In which tissues was OsRELA expressed?",
+        "A": "In various tissues of rice",
+        "B": "Only in the stem",
+        "C": "Only in the leaf sheath",
+        "D": "Only in the root",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Where was strong GUS staining observed?",
+        "A": "In the lamina joint, young florets, stem, vascular bundles, leaf sheath and root",
+        "B": "Only in the vascular bundles",
+        "C": "Only in the young florets",
+        "D": "Only in the lamina joint",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What growth stages are associated with OsRELA expression?",
+        "A": "The phenotypes of the rela mutant",
+        "B": "The photosynthesis process",
+        "C": "The growth of the rice plant",
+        "D": "The reproductive process of the rice plant",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, how many OsDT11-overexpressing lines were obtained for the study?",
+        "A": "3",
+        "B": "10",
+        "C": "7",
+        "D": "13",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, how did the OsDT11-overexpressing lines react to being deprived of water for 17 days compared to wild-type plants?",
+        "A": "They exhibited more wilting",
+        "B": "They died",
+        "C": "They exhibited the same amount of wilting",
+        "D": "They exhibited less wilting",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, what was the correlation between OsDT11 expression in the transgenic plants and water loss?",
+        "A": "r = 0.767",
+        "B": "r = -0.855",
+        "C": "r = 0.855",
+        "D": "r = -0.767",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, how did the knockdown transgenic lines react to drought stress compared to wild-type plants?",
+        "A": "They were more sensitive and did not recover after rewatering",
+        "B": "They were equally sensitive and did not recover after rewatering",
+        "C": "They were less sensitive and recovered after rewatering",
+        "D": "They were more sensitive but recovered after rewatering",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "In the research on overexpression of OsDT11 in rice for improved drought tolerance, what was found to be higher in the overexpressing lines compared to the wild-type lines under normal conditions?",
+        "A": "Endogenous ABA levels",
+        "B": "Water loss",
+        "C": "Stomatal density",
+        "D": "Water retention",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "The study focuses on the molecular mechanisms underlying which gene-mediated BPH resistance?",
+        "A": "Bph32",
+        "B": "Bph31",
+        "C": "Bph34",
+        "D": "Bph33",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Which method was used to examine the expression profile of the Bph32 gene?",
+        "A": "Western Blot analysis",
+        "B": "RT PCR analysis and transgenic plants carrying a Bph32 promoter-driven GUS reporter gene",
+        "C": "Mass spectrometry",
+        "D": "DNA sequencing",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "In which tissue was the expression level of Bph32 found to be highest?",
+        "A": "Culms",
+        "B": "Roots",
+        "C": "Leaf sheaths",
+        "D": "Leaf blades",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Where was GUS activity strongly detected?",
+        "A": "Epidermal cells",
+        "B": "Parenchyma cells and the vascular bundle",
+        "C": "Xylem cells",
+        "D": "Phloem cells",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What may be associated with the different expression levels of the Bph32 gene in some tissues of the susceptible line and the resistant line?",
+        "A": "Differences in gene duplication",
+        "B": "Differences in 5′ regulatory sequences",
+        "C": "Differences in gene mutation",
+        "D": "Differences in 3′ regulatory sequences",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻OsSIZ2基因在水稻的哪个染色体上？",
+        "A": "3号染色体",
+        "B": "2号染色体",
+        "C": "4号染色体",
+        "D": "1号染色体",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "敲除或介导敲低OsSIZ2基因对突变体会有什么影响？",
+        "A": "正向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的负调控",
+        "B": "正向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的正调控",
+        "C": "负向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的负调控",
+        "D": "负向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的正调控",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻OsSIZ2基因的序列长度是多少？",
+        "A": "7180bp",
+        "B": "10180bp",
+        "C": "8180bp",
+        "D": "9180bp",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻OsSIZ2基因编码的蛋白质是什么？",
+        "A": "SUMO E3连接酶",
+        "B": "SUMO E4连接酶",
+        "C": "SUMO E1连接酶",
+        "D": "SUMO E2连接酶",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻OsSIZ2基因在水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)的编号是什么？",
+        "A": "Os03g0719300",
+        "B": "Os03g0719100",
+        "C": "Os03g0719200",
+        "D": "Os03g0719400",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "截至2024年7月的研究发现，OsJRL45基因可能通过调节哪些相关基因的表达来提高水稻的盐耐受性？",
+        "A": "与氮素吸收、磷酸盐转运相关的基因",
+        "B": "与离子转运、盐胁迫响应和激素响应相关的基因",
+        "C": "与病虫害防治、生长发育相关的基因",
+        "D": "与糖分解、光合作用相关的基因",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在OsJRL45基因敲除突变体水稻中下调的基因包括哪些？",
+        "A": "Os10g0210500, Os06g0193200, Os08g0564300, OsHAK8, OsHAK9, CAX3, G6PGH1, WOX5, PIN3",
+        "B": "Os10g0210500, Os06g0193200, Os08g0564300, OsHAK8, OsHAK9, CAX3, G6PGH1, WOX4, PIN2",
+        "C": "Os10g0210500, Os06g0193200, Os08g0564300, OsHAK8, OsHAK9, CAX4, G6PGH1, WOX4, PIN2",
+        "D": "Os10g0210500, Os06g0193200, Os08g0564300, OsHAK7, OsHAK9, CAX3, G6PGH1, WOX4, PIN2",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsHCAR基因编码的7-羟甲基叶绿素a还原酶有什么功能？",
+        "A": "将7-羟基甲基叶绿素 a 转化为叶绿素 b",
+        "B": "将叶绿素 a 转化为7-羟基甲基叶绿素 a",
+        "C": "将叶绿素 b 转化为7-羟基甲基叶绿素 a",
+        "D": "将7-羟基甲基叶绿素 a 转化为叶绿素 a",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsHCAR基因位于水稻的哪个染色体上？",
+        "A": "2号染色体",
+        "B": "3号染色体",
+        "C": "4号染色体",
+        "D": "1号染色体",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsHCAR基因的序列长度是多少？",
+        "A": "5284bp",
+        "B": "5428bp",
+        "C": "4285bp",
+        "D": "4528bp",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsHCAR基因被预测的蛋白质域包括哪些？",
+        "A": "FrhB_FdhB_D 和 FrhB_FdhB_E",
+        "B": "FrhB_FdhB_A 和 FrhB_FdhB_B",
+        "C": "FrhB_FdhB_C 和 FrhB_FdhB_N",
+        "D": "FrhB_FdhB_F 和 FrhB_FdhB_G",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）中，OsHCAR基因的编号是什么？",
+        "A": "LOC_Os04g25403",
+        "B": "LOC_Os04g25401",
+        "C": "LOC_Os04g25402",
+        "D": "LOC_Os04g25400",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "CDPK13基因可能影响的植物性状包括哪些？",
+        "A": "耐寒性",
+        "B": "耐旱性",
+        "C": "所有以上",
+        "D": "耐盐性",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "CDPK13基因在RiceSuperPIRdb数据库中的预测功能是什么？",
+        "A": "包括蛋白丝氨酸/苏氨酸激酶活性",
+        "B": "包括催化活性",
+        "C": "包括钙/钙调蛋白依赖性蛋白激酶",
+        "D": "包括响应酸性化学物质",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsCHR709基因的功能包括哪些？",
+        "A": "催化活性",
+        "B": "所有以上",
+        "C": "响应酸性化学物质",
+        "D": "蛋白激酶活性",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在RAPDB数据库中，CDPK13基因的功能包括哪些？",
+        "A": "耐冷和耐盐/干旱",
+        "B": "类似于钙依赖性蛋白激酶",
+        "C": "所有以上",
+        "D": "激活稻根中NADPH氧化酶",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，CDPK13基因的功能包括哪些？",
+        "A": "细胞核",
+        "B": "细胞质",
+        "C": "所有以上",
+        "D": "转移酶活性",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在国家水稻数据中心（China Rice Data Center）的数据库中，AM1基因可能影响的植物性状包括哪项？",
+        "A": "生长速度",
+        "B": "叶色",
+        "C": "果实大小",
+        "D": "开花时间",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在RiceSuperPIRdb数据库中，AM1基因的预测功能是什么？",
+        "A": "氮固定酶活性",
+        "B": "脱氧核糖核酸复制",
+        "C": "磷酸二酯酶活性",
+        "D": "钾离子反向转运蛋白",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在RAPDB数据库中，AM1基因的功能包括哪项？",
+        "A": "光合作用",
+        "B": "细胞分裂",
+        "C": "钾离子反向转运",
+        "D": "氨基酸合成",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，AM1基因的功能包括哪项？",
+        "A": "脱氧核糖核酸修复",
+        "B": "细胞膜",
+        "C": "脂肪酸代谢",
+        "D": "蛋白质翻译",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在国家水稻数据中心（China Rice Data Center）的数据库中，AM1基因可能影响的植物性状不包括哪项？",
+        "A": "果实颜色",
+        "B": "耐旱性",
+        "C": "过氧化氢含量",
+        "D": "叶色",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "GWD1基因可能影响的植物性状中不包括哪项？",
+        "A": "单株穗数",
+        "B": "糊化温度",
+        "C": "株高",
+        "D": "花色",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "GWD1基因的预测功能是什么？",
+        "A": "cold acclimation",
+        "B": "polysaccharide catabolic process",
+        "C": "alpha-glucan water dikinase, chloroplast precursor",
+        "D": "mRNA binding",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在RAPDB数据库中，GWD1基因的功能不包括哪项？",
+        "A": "Tolerance to abiotic stress",
+        "B": "Positive regulation of seed germination",
+        "C": "Alpha-glucan; water dikinase",
+        "D": "Regulation of grain color",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，GWD1基因的功能不包括哪项？",
+        "A": "mRNA binding",
+        "B": "starch catabolic process",
+        "C": "regulation of seed size",
+        "D": "cold acclimation",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "GWD1基因可能影响下列哪项性状？",
+        "A": "株高",
+        "B": "籽粒长宽比",
+        "C": "发芽率",
+        "D": "单株穗数",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsGPT1基因可能影响的植物性状中不包括哪项？",
+        "A": "分蘖数",
+        "B": "株高",
+        "C": "叶色",
+        "D": "花粉败育",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsGPT1基因在RiceSuperPIRdb数据库中的功能预测是什么？",
+        "A": "转录因子",
+        "B": "抗氧化酶",
+        "C": "水通道蛋白",
+        "D": "磷酸/磷酸转运蛋白",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在RAPDB数据库中，OsGPT1基因的功能是什么？",
+        "A": "抗氧化酶",
+        "B": "转录因子",
+        "C": "磷酸/磷酸转运蛋白",
+        "D": "水通道蛋白",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在KEGG分析中，OsGPT1基因被归类为哪个家族的成员？",
+        "A": "转录因子家族",
+        "B": "抗氧化酶家族",
+        "C": "溶质载体家族35，成员E1",
+        "D": "水通道蛋白家族",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，OsGPT1基因的生物过程（biological process）是什么？",
+        "A": "抗氧化过程",
+        "B": "跨膜运输",
+        "C": "转录调控",
+        "D": "水分子通道",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在水稻中的主要功能是什么？",
+        "A": "调节水稻的生长速度",
+        "B": "调节水稻的光合作用",
+        "C": "调节水稻的抗病性",
+        "D": "调节水稻多个器官的发育",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在哪个植物激素的合成通路中起作用？",
+        "A": "赤霉素",
+        "B": "脱落酸",
+        "C": "吲哚乙酸",
+        "D": "赤霉酸",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在赤霉酸合成通路中的作用是什么？",
+        "A": "负反馈调控",
+        "B": "无反馈调控",
+        "C": "正反馈调控",
+        "D": "双向反馈调控",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在水稻中的哪个器官发育中起作用？",
+        "A": "茎",
+        "B": "种子",
+        "C": "花",
+        "D": "叶片",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsWOX3A基因在水稻的哪个生长过程中起作用？",
+        "A": "叶片脱落",
+        "B": "分蘖和侧根发育",
+        "C": "种子成熟",
+        "D": "花朵开放",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Pb2基因可能影响的植物性状包括哪些？",
+        "A": "叶瘟抗性和纹枯病抗性",
+        "B": "叶瘟抗性和叶斑病抗性",
+        "C": "穗颈瘟抗性和叶斑病抗性",
+        "D": "叶瘟抗性和穗颈瘟抗性",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在RiceSuperPIRdb数据库中，Pb2基因的预测功能是什么？",
+        "A": "GO:0016020_membrane",
+        "B": "rust-resistance protein Lr21",
+        "C": "NB-ARC domain containing disease resistance protein",
+        "D": "Panicle blast resistance",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在EnsemblPlants数据库中，Pb2基因的预测功能是什么？",
+        "A": "Panicle blast resistance",
+        "B": "GO:0016020_membrane",
+        "C": "rust-resistance protein Lr21",
+        "D": "NB-ARC domain containing disease resistance protein",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Pb2基因的数据来源包括哪些数据库？",
+        "A": "EnsemblPlants数据库和国家水稻数据中心",
+        "B": "RiceSuperPIRdb数据库、RAPDB数据库、EnsemblPlants数据库和国家水稻数据中心",
+        "C": "RAPDB数据库和EnsemblPlants数据库",
+        "D": "RiceSuperPIRdb数据库和RAPDB数据库",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What is the potential influence of OSCS1 on plant traits according to the China Rice Data Center?",
+        "A": "Aluminum sensitivity",
+        "B": "Iron sensitivity",
+        "C": "Zinc sensitivity",
+        "D": "Copper sensitivity",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What is one of the potential functions of OSCS1 according to the RiceSuperPIRdb database?",
+        "A": "DNA synthesis",
+        "B": "Protein synthesis",
+        "C": "Citrate synthesis",
+        "D": "Lipid synthesis",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Which of the following is not a potential function of OSCS1 according to GO and KEGG analyses?",
+        "A": "Molecular function",
+        "B": "Catalytic activity",
+        "C": "Protein folding",
+        "D": "Nucleotide binding",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What is one of the inferred functions of OSCS1 according to the RAPDB database?",
+        "A": "Confer iron tolerance",
+        "B": "Confer zinc tolerance",
+        "C": "Confer copper tolerance",
+        "D": "Confer aluminum tolerance",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Which of the following is not an inferred function of OSCS1 according to the EnsemblPlants database?",
+        "A": "Acyltransferase activity",
+        "B": "Carbohydrate metabolic process",
+        "C": "Tricarboxylic acid cycle",
+        "D": "Lipid metabolic process",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsCHR709是哪种类型的因子？",
+        "A": "翻译因子",
+        "B": "染色质重塑因子",
+        "C": "转录因子",
+        "D": "信号转导因子",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsCHR709基因位于哪个染色体上？",
+        "A": "第三染色体",
+        "B": "第四染色体",
+        "C": "第一染色体",
+        "D": "第二染色体",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsCHR709编码的蛋白属于哪个家族？",
+        "A": "G家族蛋白",
+        "B": "NF-κB家族蛋白",
+        "C": "SNF2家族蛋白",
+        "D": "MAPK家族蛋白",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsCHR709的同义基因是什么？",
+        "A": "OsCHR708",
+        "B": "OsPIE1",
+        "C": "OsCHR710",
+        "D": "OsPIE2",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在Rice Genome Annotation Project (RGAP)数据库中，OsCHR709的标识符是什么？",
+        "A": "AGIS_Os02g041810",
+        "B": "LOC_Os02g46450",
+        "C": "Os02g0689800",
+        "D": "Os02g0689900",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Os3BGlu6是什么类型的基因？",
+        "A": "酶基因",
+        "B": "转运蛋白基因",
+        "C": "转录因子基因",
+        "D": "结构蛋白基因",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Os3BGlu6基因位于哪个物种的染色体上？",
+        "A": "Homo sapiens",
+        "B": "Zea mays",
+        "C": "Oryza sativa ssp. japonica cv. Nipponbare",
+        "D": "Arabidopsis thaliana",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Os3BGlu6基因的总序列长度是多少？",
+        "A": "7061 bp",
+        "B": "5923642 bp",
+        "C": "5930702 bp",
+        "D": "10000 bp",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Os3BGlu6基因编码的是什么蛋白质？",
+        "A": "BGLU8蛋白",
+        "B": "BGLU7蛋白",
+        "C": "BGLU6蛋白",
+        "D": "BGLU5蛋白",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在Rice Genome Annotation Project (RGAP)数据库中，Os3BGlu6基因的标识符是什么？",
+        "A": "LOC_Os03g11420",
+        "B": "Os03g11420",
+        "C": "Os03g0212800",
+        "D": "AGIS_Os03g009600",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsHDA709基因可能涉及的功能包括哪些？",
+        "A": "DNA复制",
+        "B": "蛋白质翻译",
+        "C": "细胞分裂",
+        "D": "组蛋白去乙酰化酶19的表达",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "OsHDA709基因可能具有的分子功能是什么？",
+        "A": "转录因子活性",
+        "B": "水解酶活性",
+        "C": "信号转导活性",
+        "D": "运输蛋白活性",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "根据RAPDB数据库，OsHDA709基因可能参与哪种生物过程？",
+        "A": "DNA修复过程",
+        "B": "能量代谢过程",
+        "C": "盐胁迫响应",
+        "D": "免疫系统过程",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "根据EnsemblPlants数据库，OsHDA709基因可能具有哪种细胞组分？",
+        "A": "细胞核",
+        "B": "高尔基体",
+        "C": "线粒体",
+        "D": "细胞质",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What is the function of the gene LOC_Os02g25230 (TAC4)?",
+        "A": "It decreases the tiller angle in plants.",
+        "B": "It increases the tiller angle in plants.",
+        "C": "It regulates the height of the plant.",
+        "D": "It has no effect on the tiller angle in plants.",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What is the correlation between the expression level of TAC4 and tiller angle?",
+        "A": "Uncertain correlation",
+        "B": "No correlation",
+        "C": "Negative correlation",
+        "D": "Positive correlation",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What is the effect of the tac4 mutation on plant height?",
+        "A": "It causes variable effects on plant height.",
+        "B": "It has no effect on plant height.",
+        "C": "It increases plant height.",
+        "D": "It decreases plant height.",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What is the effect of the tac4 mutation on grain length?",
+        "A": "It increases grain length.",
+        "B": "It decreases grain length.",
+        "C": "It has no effect on grain length.",
+        "D": "It causes variable effects on grain length.",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What is the effect of the tac4 mutation on the number of primary and secondary branches per panicle?",
+        "A": "It decreases the number of branches.",
+        "B": "It causes variable effects on the number of branches.",
+        "C": "It increases the number of branches.",
+        "D": "It has no effect on the number of branches.",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What environmental factors affect DTH8？",
+        "A": "ight",
+        "B": "temperature",
+        "C": "ater",
+        "D": "rought",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What was the finding regarding the expression levels of DTH8 and Ghd7 in NIL (hd1) grown under LD conditions?",
+        "A": "The expression levels were not changed.",
+        "B": "The expression levels were decreased.",
+        "C": "The expression levels were increased.",
+        "D": "The expression levels were not examined.",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What effect does DTH8 have on rice flowering?",
+        "A": "The effect of DTH8 on rice flowering was not examined.",
+        "B": "DTH8 suppresses rice flowering by down-regulating the expression of Ehd1 and Hd3a.",
+        "C": "DTH8 has no effect on rice flowering.",
+        "D": "DTH8 promotes rice flowering by up-regulating the expression of Ehd1 and Hd3a.",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "How does DTH8 regulate height according to the findings?",
+        "A": "DTH8 does not regulate height.",
+        "B": "By altering cell elongation in the internodes and keeping culm thickness stable.",
+        "C": "By altering culm thickness and keeping cell elongation in the internodes stable.",
+        "D": "By altering both cell elongation in the internodes and culm thickness.",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Where did a significant peak appear according to the given context?",
+        "A": "Chromosome 4",
+        "B": "Chromosome 3",
+        "C": "Chromosome 2",
+        "D": "Chromosome 1",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "How many candidate genes were detected in the candidate region of 30.45–30.65 Mb?",
+        "A": "10",
+        "B": "33",
+        "C": "50",
+        "D": "20",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "How many of the 33 genes contain non-synonymous SNPs?",
+        "A": "15",
+        "B": "20",
+        "C": "5",
+        "D": "10",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "What is the full length of OsSYL2?",
+        "A": "200 bp",
+        "B": "400 bp",
+        "C": "800 bp",
+        "D": "602 bp",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在研究中，GL10位点最初被映射到哪两个标记之间的区间？",
+        "A": "标记NP-11和标记NC9",
+        "B": "标记M15和标记NP-11",
+        "C": "标记M15和标记NC14",
+        "D": "标记NC9和标记NC14",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在BC5F3世代中，GL10被映射到了哪两个标记之间的区域？",
+        "A": "标记NC9和标记NC14",
+        "B": "标记NP-11和标记NC9",
+        "C": "标记M15和标记NP-11",
+        "D": "标记M15和标记NC14",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在研究中，GL10被映射到标记NC9和标记NC14之间的区域的大小是多少？",
+        "A": "18.5 kb",
+        "B": "25 kb",
+        "C": "10 kb",
+        "D": "20 kb",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在研究中，被映射区域包含一个预测的开放阅读框（ORF），它的编号是什么？",
+        "A": "Os10g0536200",
+        "B": "Os10g0536400",
+        "C": "Os10g0536300",
+        "D": "Os10g0536100",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻土是适宜种植哪种作物的土壤？",
+        "A": "大豆",
+        "B": "小麦",
+        "C": "水稻",
+        "D": "玉米",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻土的形成条件是什么？",
+        "A": "长期干旱的环境",
+        "B": "长期沙漠化的环境",
+        "C": "长期冻土的环境",
+        "D": "长期淹水种稻的环境",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻土的哪种特性使得土壤中的氧化铁被还原成易溶于水的氧化亚铁？",
+        "A": "土壤中富含有机物质",
+        "B": "土壤中富含矿物质",
+        "C": "长期处于水淹的缺氧状态",
+        "D": "土壤下层较为粘重",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻土的哪一层较为粘重？",
+        "A": "土壤上层",
+        "B": "土壤下层",
+        "C": "土壤中层",
+        "D": "土壤表层",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻的原产地是哪里？",
+        "A": "美洲",
+        "B": "欧洲",
+        "C": "非洲",
+        "D": "中国",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "稻主要在哪些地区种植？",
+        "A": "中国西部地区",
+        "B": "中国北方地区",
+        "C": "中国南方地区",
+        "D": "中国东部地区",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "稻种下主要分为几个亚种？",
+        "A": "4个",
+        "B": "1个",
+        "C": "2个",
+        "D": "3个",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "稻的药用价值主要体现在哪些方面？",
+        "A": "治疗高血压",
+        "B": "和中消食，健脾开胃",
+        "C": "治疗糖尿病",
+        "D": "治疗感冒",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "豫农粳12是哪个单位选育的？",
+        "A": "河南农业大学",
+        "B": "上海农业大学",
+        "C": "广东农业大学",
+        "D": "北京农业大学",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "豫农粳12的母本是什么？",
+        "A": "镇稻88",
+        "B": "方欣4号",
+        "C": "镇稻89",
+        "D": "方欣5号",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "豫农粳12的平均株高是多少？",
+        "A": "22.8cm",
+        "B": "18.8cm",
+        "C": "20.8cm",
+        "D": "15.8cm",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "豫农粳12的千粒重是多少？",
+        "A": "5.9g",
+        "B": "6.9g",
+        "C": "7.9g",
+        "D": "8.9g",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "杂交水稻是如何产生的？",
+        "A": "通过遗传基因突变",
+        "B": "通过人工合成",
+        "C": "通过两个遗传背景不同的双亲相互杂交",
+        "D": "通过自然选择",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "两系杂交水稻中常用的不育系类型是什么？",
+        "A": "光温敏不育系",
+        "B": "水稻细胞质雄性不育系",
+        "C": "保持系",
+        "D": "恢复系",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "三系杂交水稻中常用的不育系类型是什么？",
+        "A": "保持系",
+        "B": "恢复系",
+        "C": "水稻细胞质雄性不育系",
+        "D": "光温敏不育系",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "杂交水稻具有什么优势？",
+        "A": "抗虫优势",
+        "B": "抗旱优势",
+        "C": "杂种优势",
+        "D": "抗病优势",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻的幼苗期是从什么时候开始的？",
+        "A": "从种子成熟开始",
+        "B": "从种子播种开始",
+        "C": "从种子萌发开始",
+        "D": "从种子收获开始",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在水稻的幼苗期，以下哪个环境条件不是必要的？",
+        "A": "充足的营养",
+        "B": "强烈的光照",
+        "C": "充足的水分",
+        "D": "适宜的温度",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻的幼苗期是水稻生长发育的哪个阶段？",
+        "A": "后期阶段",
+        "B": "中期阶段",
+        "C": "收获阶段",
+        "D": "初期阶段",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻的幼苗期结束于什么时候？",
+        "A": "四叶期",
+        "B": "三叶期",
+        "C": "二叶期",
+        "D": "一叶期",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "原丰早是哪个机构选育的？",
+        "A": "浙江省农业科学院作物与核技术利用研究所",
+        "B": "四川省农业科学院",
+        "C": "中国农业科学院",
+        "D": "广东省农业科学院",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "原丰早适合在哪个地区种植？",
+        "A": "松花江流域",
+        "B": "辽河流域",
+        "C": "海河流域",
+        "D": "长江流域",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "原丰早是哪种类型的水稻？",
+        "A": "籼型常规水稻",
+        "B": "粳型杂交水稻",
+        "C": "粳型常规水稻",
+        "D": "籼型杂交水稻",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "原丰早的特性是什么？",
+        "A": "晚熟、高产、抗性好",
+        "B": "早熟、高产、抗性好",
+        "C": "晚熟、低产、抗性差",
+        "D": "早熟、低产、抗性差",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄丰占是哪个机构育成的水稻新品种？",
+        "A": "广东省农业大学",
+        "B": "广东省农业研究所",
+        "C": "广东省农业科学院",
+        "D": "广东省农科院水稻研究所",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄丰占的母本黄华占的特性中，以下哪项是错误的？",
+        "A": "抗稻瘟病和白叶枯病",
+        "B": "具有较好的株型",
+        "C": "稻米外观品质鉴定为早造特二级",
+        "D": "苗期耐热性较强",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄丰占的父本丰秀占的特性中，以下哪项是错误的？",
+        "A": "早造米质未达优质国标",
+        "B": "株型适中",
+        "C": "叶色浓绿",
+        "D": "抗倒性、苗期耐寒性中等",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄丰占的父本丰秀占的稻米质量达到了什么标准？",
+        "A": "国标优质1级",
+        "B": "国标优质2级",
+        "C": "国标优质3级",
+        "D": "国标优质4级",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "C两优7号是由哪两个单位育种的？",
+        "A": "湖南农业大学与北京希望种业科技有限公司",
+        "B": "湖南农业大学与湖南希望种业科技有限公司",
+        "C": "北京农业大学与湖南希望种业科技有限公司",
+        "D": "北京农业大学与北京希望种业科技有限公司",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "C两优7号的育种方法是什么？",
+        "A": "以恢复系C815S为父本，R777为母本育成的小麦品种",
+        "B": "以恢复系R777为父本，C815S为母本育成的小麦品种",
+        "C": "以恢复系C815S为父本，R777为母本育成的水稻品种",
+        "D": "以恢复系R777为父本，C815S为母本育成的水稻品种",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "C两优7号是什么类型的水稻品种？",
+        "A": "两系杂交晚稻新组合",
+        "B": "两系杂交早稻新组合",
+        "C": "三系杂交早稻新组合",
+        "D": "三系杂交晚稻新组合",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "中嘉8号是由哪些单位育成的水稻品种？",
+        "A": "中国农业科学院、江苏省农业科学研究院(所)和中国科学院遗传与发育生物学研究所",
+        "B": "中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所",
+        "C": "中国农业科学院、浙江省农业科学研究院(所)和中国科学院遗传与发育生物学研究所",
+        "D": "中国水稻研究所、江苏省农业科学研究院(所)和中国科学院遗传与发育生物学研究所",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "中嘉8号的育种方法是以哪两种水稻品种为父母本育成的？",
+        "A": "ZH558和嘉禾218",
+        "B": "ZH558和嘉禾219",
+        "C": "ZH559和嘉禾218",
+        "D": "ZH559和嘉禾219",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "中嘉8号的全生育期平均多少天？",
+        "A": "162.1天",
+        "B": "160.1天",
+        "C": "166.1天",
+        "D": "164.1天",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "宁香粳9号是由哪个单位育种的？",
+        "A": "南京农业大学水稻研究所",
+        "B": "上海农业大学水稻研究所",
+        "C": "北京农业大学水稻研究所",
+        "D": "广州农业大学水稻研究所",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "宁香粳9号的母本是什么？",
+        "A": "宁粳2号/武软1",
+        "B": "宁粳3号",
+        "C": "宁粳1号/武软2",
+        "D": "宁粳4号",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "宁香粳9号的全生育期大约是多少天？",
+        "A": "180天",
+        "B": "200天",
+        "C": "159.6天",
+        "D": "120天",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "宁香粳9号的米质理化指标中，出糙率是多少？",
+        "A": "46%",
+        "B": "71.3%",
+        "C": "80.3%",
+        "D": "66.1%",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "宁香粳9号对以下哪种病害抗性最强？",
+        "A": "水稻白叶枯病",
+        "B": "稻纹枯病",
+        "C": "水稻条纹叶枯病",
+        "D": "稻瘟病",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "龙粳31是由哪个单位育种的？",
+        "A": "黑龙江省农业科学院佳木斯水稻研究所和黑龙江省龙粳高科有限责任公司",
+        "B": "中国农业大学",
+        "C": "中国农业科学院",
+        "D": "中国科学院",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "龙粳31的生育日数大约是多少天？",
+        "A": "150天",
+        "B": "130天",
+        "C": "180天",
+        "D": "100天",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "龙粳31的米率和品质如何？",
+        "A": "米率高、品质差",
+        "B": "米率低、品质佳",
+        "C": "米率高、品质佳",
+        "D": "米率低、品质差",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "龙粳31主要在哪个地区种植？",
+        "A": "山东省",
+        "B": "广东省",
+        "C": "江苏省",
+        "D": "黑龙江省",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "C两优7号是哪两个单位合作选育的两系杂交晚稻新组合？",
+        "A": "湖南希望种业科技有限公司与湖南农业科学院",
+        "B": "湖南农业大学与湖南希望种业科技有限公司",
+        "C": "湖南农业大学与湖南省农业科学院",
+        "D": "湖南农业大学与湖南农业科学院",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "C两优7号的母本和父本分别是什么？",
+        "A": "R815S和C777",
+        "B": "C815S和C777",
+        "C": "C815S和R777",
+        "D": "R777和C815S",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "C两优7号在产量方面的表现如何？",
+        "A": "产量一般",
+        "B": "产量极高",
+        "C": "产量较低",
+        "D": "产量较高",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "冈优22是哪个机构育成的中籼迟熟杂交稻？",
+        "A": "贵州省农科院水稻所",
+        "B": "湖南省农科院作物所",
+        "C": "江苏省农科院作物所",
+        "D": "四川省农科院作物所",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "冈优22的全生育期大约是多少天？",
+        "A": "160天",
+        "B": "170天",
+        "C": "145天",
+        "D": "152天",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "冈优22的每亩有效穗数量大约是多少？",
+        "A": "10-12万",
+        "B": "13-15万",
+        "C": "20-22万",
+        "D": "17-18万",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "冈优22适宜在哪个省份的海拔1000米以下地区种植？",
+        "A": "四川省",
+        "B": "江苏省",
+        "C": "贵州省",
+        "D": "湖南省",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "越光是哪个国家育种的水稻品种？",
+        "A": "中国",
+        "B": "日本",
+        "C": "泰国",
+        "D": "韩国",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "越光的育种母本和父本分别是什么？",
+        "A": "母本为农林22号，父本为农林1号",
+        "B": "母本为农林22号，父本为农林11号",
+        "C": "母本为农林11号，父本为农林22号",
+        "D": "母本为农林1号，父本为农林22号",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "越光的哪个特性使其易于倒伏？",
+        "A": "茎秆细软",
+        "B": "分蘖中等",
+        "C": "植株高度中等",
+        "D": "千粒重25g左右",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "空育131是由哪个机构育种的？",
+        "A": "中国科学院",
+        "B": "黑龙江省农垦科学院水稻研究所",
+        "C": "中国农业科学院",
+        "D": "中国农业大学",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "空育131的哪项特性使其具有较高的产量？",
+        "A": "米质优良",
+        "B": "抗逆性强，植株矮壮，茎秆强韧",
+        "C": "丰产稳产，属穗数型品种，株型紧凑，分蘖力强，成穗率和结实率高",
+        "D": "适应性广，对温度、光照反应不敏感，生态适应性强",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "甬优7850是由哪两个机构合作育成的籼粳杂交稻新品种？",
+        "A": "宁波市种子有限公司和浙江省农业局",
+        "B": "浙江省宁波市农科院和宁波市种子有限公司",
+        "C": "浙江省农科院和浙江省种子有限公司",
+        "D": "浙江省农科院和宁波市农业局",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "甬优7850的最佳播种期是什么时候？",
+        "A": "6月上旬",
+        "B": "3月上旬",
+        "C": "5月上旬",
+        "D": "4月上旬",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "关于甬优7850的肥水管理，以下哪个原则是正确的？",
+        "A": "断奶肥要晚，促蘖肥要巧，接力肥要轻，送嫁肥要准",
+        "B": "断奶肥要早，促蘖肥要重，接力肥要轻，送嫁肥要准",
+        "C": "断奶肥要早，促蘖肥要巧，接力肥要轻，送嫁肥要准",
+        "D": "断奶肥要早，促蘖肥要巧，接力肥要重，送嫁肥要准",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "云粳26号是哪个单位育种的？",
+        "A": "云南省农业科学院作物遗传育种研究所",
+        "B": "云南省农业科学院水稻研究所",
+        "C": "云南省农业科学院农业生物技术研究所",
+        "D": "云南省农业科学院粮食作物研究所",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "云粳26号的母本是什么？",
+        "A": "云粳优6号",
+        "B": "云粳12号",
+        "C": "云粳优5号",
+        "D": "云粳13号",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "云粳26号的最佳秧龄是多少天？",
+        "A": "30～40天",
+        "B": "50～60天",
+        "C": "60～70天",
+        "D": "40～50天",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "云粳26号的产量与哪项因素有直接关系？",
+        "A": "水分",
+        "B": "温度",
+        "C": "氮肥用量",
+        "D": "光照",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "云粳26号的父本是什么？",
+        "A": "云粳12号",
+        "B": "云粳13号",
+        "C": "云粳优5号",
+        "D": "云粳优6号",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "汕优10号是由哪两个品种杂交培育的？",
+        "A": "珍汕97A和密阳46",
+        "B": "密阳46和汕优6号",
+        "C": "密阳46和珍汕98A",
+        "D": "珍汕97A和汕优6号",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "汕优10号的秧田播种量应控制在多少kg以内？",
+        "A": "7.5kg",
+        "B": "5kg",
+        "C": "12.5kg",
+        "D": "10kg",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "汕优10号的秧田施肥中，每亩应施腐熟有机肥多少kg？",
+        "A": "1000-1250kg",
+        "B": "750-1000kg",
+        "C": "500-750kg",
+        "D": "1250-1500kg",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "淮稻7号是由哪个科研机构选育而成的？",
+        "A": "江苏徐淮地区淮阴农业科学研究所",
+        "B": "山东农业科学研究所",
+        "C": "广东农业科学研究所",
+        "D": "湖南农业科学研究所",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "淮稻7号的亩产量大约是多少？",
+        "A": "600-650kg",
+        "B": "700-750kg",
+        "C": "400-450kg",
+        "D": "500-550kg",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "淮稻7号的施肥方法中，分蘖肥应在栽插后多少天施入？",
+        "A": "3-4天",
+        "B": "9-10天",
+        "C": "7-8天",
+        "D": "5-6天",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "水稻灌溉管理的原则是什么？",
+        "A": "浅湿结合、间歇灌溉",
+        "B": "深湿结合、连续灌溉",
+        "C": "深湿结合、间歇灌溉",
+        "D": "浅湿结合、连续灌溉",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在水稻移栽过程中，为什么需要浅灌3cm左右的水？",
+        "A": "保证土壤干燥，防止水稻新根的过度发育",
+        "B": "保证土壤湿润，促进水稻新根的正常发育",
+        "C": "保证土壤干燥，促进水稻新根的正常发育",
+        "D": "保证土壤湿润，防止水稻新根的过度发育",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在水稻分蘖期的灌溉中，灌溉量过大会产生什么影响？",
+        "A": "会提高土壤的透气性",
+        "B": "会促进水稻的生长",
+        "C": "会降低土壤的透气性",
+        "D": "会产生无效分蘖",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在水稻孕穗阶段的灌溉中，应该灌水多少？",
+        "A": "7cm",
+        "B": "2cm",
+        "C": "5cm",
+        "D": "13cm",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "在水稻灌溉管理中，为什么需要排水防涝？",
+        "A": "保证土壤的湿润",
+        "B": "避免水稻长时间处于干燥状态",
+        "C": "避免水稻长时间处于淹水状态",
+        "D": "保证土壤的干燥",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄丰占是哪个机构育成的水稻新品种？",
+        "A": "湖南省农科院水稻研究所",
+        "B": "广西省农科院水稻研究所",
+        "C": "江苏省农科院水稻研究所",
+        "D": "广东省农科院水稻研究所",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄丰占对于哪种病害具有中抗性？",
+        "A": "白叶枯病",
+        "B": "纹枯病",
+        "C": "细菌性条斑病",
+        "D": "稻瘟病",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄丰占种植后期需要注意防治哪种病虫害？",
+        "A": "螟虫",
+        "B": "稻瘟病",
+        "C": "稻飞虱",
+        "D": "白叶枯病",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄丰占的病虫害防治措施中，不包括哪项？",
+        "A": "选用抗病品种",
+        "B": "长期不施用农药",
+        "C": "田间卫生管理",
+        "D": "合理轮作",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Y两优1号适宜在哪个市的不同土壤类型、不同稻作区栽培推广？",
+        "A": "永安市",
+        "B": "长沙市",
+        "C": "杭州市",
+        "D": "南京市",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Y两优1号在一季中稻栽培区的播种时间是？",
+        "A": "5月20-25日",
+        "B": "4月10-25日",
+        "C": "5月10-15日",
+        "D": "6月5-10日",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Y两优1号的秧田基肥使用的是什么肥料？",
+        "A": "尿素",
+        "B": "氯化钾",
+        "C": "水稻专用肥",
+        "D": "金稻龙药肥",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "Y两优1号的插秧规格是多少？",
+        "A": "30cm×25cm",
+        "B": "25cm×20cm",
+        "C": "20cm×15cm",
+        "D": "35cm×30cm",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "汕优63是由哪个农科所育成的水稻品种？",
+        "A": "江苏南京市农科所",
+        "B": "广东汕头市农科所",
+        "C": "福建三明市农科所",
+        "D": "浙江杭州市农科所",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "汕优63的最佳播期是什么时候？",
+        "A": "7月下旬",
+        "B": "6月下旬",
+        "C": "8月下旬",
+        "D": "9月下旬",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "栽培汕优63时，应控制的播种量是多少？",
+        "A": "5-7公斤/亩",
+        "B": "14-16公斤/亩",
+        "C": "11-13公斤/亩",
+        "D": "8-10公斤/亩",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "汕优63的施肥原则是什么？",
+        "A": "“前轻、中重、后补”",
+        "B": "“前重、中补、后轻”",
+        "C": "“前轻、中补、后重”",
+        "D": "“前补、中轻、后重”",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄华占是哪个省的农业科学院水稻研究所育成的感温型常规稻品种？",
+        "A": "福建省",
+        "B": "广东省",
+        "C": "江苏省",
+        "D": "湖南省",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄华占的栽培中，适合的播种时间是？",
+        "A": "7月23日",
+        "B": "4月23日",
+        "C": "5月23日",
+        "D": "6月23日",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄华占的栽培中，肥分管理的原则是？",
+        "A": "早施轻施前期肥、适施巧施中期肥、稳施追施后期肥",
+        "B": "早施重施前期肥、适施巧施中期肥、稳施追施后期肥",
+        "C": "早施重施前期肥、适施巧施中期肥、轻施追施后期肥",
+        "D": "早施轻施前期肥、适施重施中期肥、稳施追施后期肥",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "宜香优2115是由哪些单位组配而成的籼迟熟优质杂交水稻？",
+        "A": "四川省绿丹种业有限责任公司、四川农业大学农学院、宜宾市农业科学院",
+        "B": "四川农业大学、贵州农业科学院、湖南农业科学院",
+        "C": "云南农业大学、贵州农业科学院、重庆农业科学院",
+        "D": "陕西农业大学、湖南农业科学院、湖北农业科学院",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "宜香优2115适合在哪些地区种植？",
+        "A": "四川的平坝丘陵稻区",
+        "B": "云南、贵州、重庆的中低海拔籼稻区",
+        "C": "陕西南部地区、贵州省铜仁市的迟熟籼稻区",
+        "D": "所有以上地区",
+        "answer": "D",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "宜香优2115是什么类型的水稻品种？",
+        "A": "籼型三系杂交水稻",
+        "B": "早熟杂交水稻",
+        "C": "迟熟杂交水稻",
+        "D": "粳型三系杂交水稻",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "宜香优2115是在哪一年通过国家稻品种审定标准的？",
+        "A": "2012年",
+        "B": "2018年",
+        "C": "2019年",
+        "D": "2020年",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄华占是哪个单位育种的水稻品种？",
+        "A": "广东省农业科学院水稻研究所",
+        "B": "浙江省农业科学院水稻研究所",
+        "C": "陕西省农业科学院水稻研究所",
+        "D": "重庆市农业科学院水稻研究所",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄华占做晚稻栽培时，全生育期大约是多少天？",
+        "A": "126天",
+        "B": "136天",
+        "C": "106天",
+        "D": "116天",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "黄华占适宜在哪个省份的稻瘟病轻发地区作单季籼稻种植？",
+        "A": "浙江省",
+        "B": "陕西省",
+        "C": "新疆省",
+        "D": "重庆市",
+        "answer": "A",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "TAC4基因位于哪个染色体上？",
+        "A": "3号染色体",
+        "B": "1号染色体",
+        "C": "2号染色体",
+        "D": "4号染色体",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "TAC4基因的另一个名称是什么？",
+        "A": "SG3",
+        "B": "SG4",
+        "C": "SG2",
+        "D": "SG1",
+        "answer": "C",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "TAC4基因编码的是什么类型的蛋白？",
+        "A": "膜蛋白",
+        "B": "核蛋白",
+        "C": "信号蛋白",
+        "D": "酶蛋白",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    },
+    {
+        "question": "TAC4基因在水稻中的主要功能是什么？",
+        "A": "控制花期时间",
+        "B": "控制分蘖角度",
+        "C": "控制叶片大小",
+        "D": "控制根系发育",
+        "answer": "B",
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题："
+    }
+]
