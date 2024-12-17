@@ -1,0 +1,2018 @@
+[
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "AFD1 transcripts were found in all examined ________ and organs.",
+        "answer": "tissues",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "AFD1 exhibited more abundant expressions in ________, young panicles, lemmas, paleae, and lodicules than those in other tissues or organs examined.",
+        "answer": "internodes",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The expression pattern of AFD1 is consistent with the phenotype defects observed in the ________ mutant.",
+        "answer": "afd1",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "AFD1 transcripts were found in roots, internodes, leaves, panicles at different developmental stages, main rachillae of panicles, lemmas, paleae, lodicules, stamens and ________.",
+        "answer": "pistils",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "AFD1 exhibited more abundant expressions in internodes, young panicles, ________, paleae, and lodicules than those in other tissues or organs examined.",
+        "answer": "lemmas",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "KO-GL10 lines harbor a ________ mutation that causes premature termination of translation.",
+        "answer": "frameshift",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The mutation in KO-GL10 lines causes a significant decrease in ________, grain width, and 1000-grain weight compared to the HJX74 wild-type line.",
+        "answer": "grain length",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "GL10 overexpression lines were created using a genetic complementation construct for GL10 overexpression in the NIL-gl10 background via transformation with a ________ vector.",
+        "answer": "p35S-GL10",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "GL10 overexpression results in a significant increase in grain length and ________ compared to NIL-gl10.",
+        "answer": "grain weight",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The study found that GL10 is a positive regulator of grain length, grain weight, and ________.",
+        "answer": "heading date",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The lic-2 mutant showed an increased ________.",
+        "answer": "leaf and tiller angle",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The function of OsLIC is dependent on ________.",
+        "answer": "OsRELA",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The expression level of OsILI1, the direct downstream target of OsLIC, was reduced in both the ________.",
+        "answer": "rela and rela/lic-2 mutants",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The regulation of OsILI1 expression by OsLIC is dependent on ________.",
+        "answer": "OsRELA",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The study focused on the expression patterns of ________.",
+        "answer": "WSL4",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The methods used in the study were ________ and ________.",
+        "answer": "RT-PCR，quantitative PCR (qPCR)",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The WSL4 transcript was detected in all tissues, with a high level in the ________.",
+        "answer": "aerial part of the seedling",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "GUS expression was detected in root, leaf blade, sheath, stem, inflorescence, glumes, lemma, and anther, but not in ________.",
+        "answer": "stigma papillae",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The study concluded that the expression pattern of WSL4 suggested that WSL4 was involved in ________ and ________ organ development processes as well as epicuticular wax formation in rice.",
+        "answer": "reproductive，vegetative",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The significant reductions in C30, C32, and C34 waxes in wsl4-1 leaves were ________ in the complementation line.",
+        "answer": "rescued",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The elevated C22, C24, C26, and C28 wax monomer levels recovered to ________ levels in the complementation line.",
+        "answer": "wild-type",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The results confirmed that the single-nucleotide mutation in ________ was responsible for the wax crystal-sparse phenotype.",
+        "answer": "WSL4",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The phenotype of the transgenic plants resembled those of the ________.",
+        "answer": "wild type",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "OsDT11 is expressed in almost all rice tissues and organs including ________.",
+        "answer": "leaf, root, culm, pistil, anther, and endosperm tissues",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The expression of OsDT11 in leaf and root tissues is ________ than in other tissues.",
+        "answer": "lower",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "OsDT11 expression is highly induced by ________ treatment after 6 hours.",
+        "answer": "PEG 8000",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The expression level of OsDT11 is higher at ________ hours than at 6 and 24 hours in response to treatment with 100 mM NaCl.",
+        "answer": "3",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The expression profile of OsDT11 in different rice tissues was analyzed by ________.",
+        "answer": "realtime PCR",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsAL50基因在________中发挥重要作用。",
+        "answer": "光合色素代谢、光合作用和叶绿体生成的调节",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsAL50基因位于水稻的哪个染色体上？",
+        "answer": "1号染色体",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsAL50基因的序列全长是多少？",
+        "answer": "8917 bp",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsAL50基因编码的蛋白质是什么？",
+        "answer": "endoribonuclease E-like protein",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)中，OsAL50基因的编号是什么？",
+        "answer": "Os01g0306800",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "osal50突变体表现出独特的________表型，幼苗的叶片呈白色条纹，出穗阶段的花序为白色。",
+        "answer": "白化",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "osal50突变体水稻的关键产量相关性状，包括千粒重、坐粒率和________均低于野生型。",
+        "answer": "有效穗数",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "osal50突变体水稻叶片色素水平显著低于野生型叶片，包括叶绿素 a (chlorophyll a)、叶绿素 b (chlorophyll b) 和________。",
+        "answer": "类胡萝卜素 (carotenoid)",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "叶绿体在osal50突变体中严重退化，缺乏任何有组织的________结构，数量和体积的整体减少。",
+        "answer": "类囊体",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "osal50 突变体水稻叶绿体发育异常导致叶绿素和________水平降低。",
+        "answer": "类胡萝卜素",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsAL50基因的功能受________的影响。",
+        "answer": "生长阶段",
+        "split": {
+            "level1": "基因产物调控下游基因"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "该突变体的幼苗从________阶段开始产生白色条纹叶表型。",
+        "answer": "三叶",
+        "split": {
+            "level1": "基因产物调控下游基因"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在________阶段，OsAL50基因正向调节与叶绿素和类胡萝卜素合成相关的11个基因，叶绿体发育相关的六个基因，以及光合作用相关的八个基因。",
+        "answer": "四叶白化",
+        "split": {
+            "level1": "基因产物调控下游基因"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在________阶段，OsAL50基因负向调节基因OsHEMA1, OsCAB1R, OsPETA, OsPETB, 和OsRBCS。",
+        "answer": "七叶转绿",
+        "split": {
+            "level1": "基因产物调控下游基因"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "到达________阶段时，osal50突变体幼苗几乎表现出与野生型一致的正常绿色叶表型。",
+        "answer": "七叶",
+        "split": {
+            "level1": "基因产物调控下游基因"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsJRL45是在哪个数据库中的基因编号为T2T？",
+        "answer": "RiceSuperPIRdb",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsJRL45基因编码的蛋白质含有哪种蛋白质域？",
+        "answer": "jacalin-like lectin",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsJRL45基因属于哪个蛋白质家族？",
+        "answer": "Jacalin-related lectin (JRL) family",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsJRL45基因有助于正向调控什么？",
+        "answer": "盐耐受性",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsJRL45基因是哪种胁迫诱导的蛋白质样？",
+        "answer": "盐胁迫诱导的蛋白质样",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在RAPDB数据库中，OsBRXL1 基因的功能是________。",
+        "answer": "BREVIS RADIX-like protein; Drought; salt and cold stress response (Os02t0700700-01)",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在EnsemblPlants数据库中，OsBRXL1 基因的功能是________。",
+        "answer": "GO:0005634_nucleus(cellular component)",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsBRXL1 基因的名称是________。",
+        "answer": "OsBRXL1",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GWD1基因与________为同一个基因。",
+        "answer": "LSE1（line leaf starch excess 1）",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GWD1基因位于第几号染色体的正链上？",
+        "answer": "6号",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GWD1基因的起始位点至终止位点为________，序列全长多少bp？",
+        "answer": "18338162 - 18350514，12353 bp",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GWD1基因在水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)的编号是什么？",
+        "answer": "Os06g0498400",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GWD1基因编码的是什么酶？",
+        "answer": "α-葡聚糖水合二激酶",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "WUSCHEL-related homeobox 3A基因（OsWOX3A）的功能是编码________转录激活因子。",
+        "answer": "OsWOX3A",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsWOX3A基因位于水稻日本晴的第几号染色体上？",
+        "answer": "12号染色体",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "NAL2（narrow leaf2）和NAL3是旁系同源关系，它们编码的是什么转录激活因子？",
+        "answer": "OsWOX3A",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)中，OsWOX3A基因的编号是________。",
+        "answer": "Os12g0101600",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsWOX3A基因的序列全长是多少？",
+        "answer": "612 bp",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsCS1的正式名称是________。",
+        "answer": "citrate synthase 1",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsCS1位于Oryza sativa ssp. japonica cv. Nipponbare的第二染色体的负链上，位置从________到________，总序列长度为6622bp。",
+        "answer": "5253332，5259953",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsCS1的功能是编码________。",
+        "answer": "柠檬酸合酶",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsCS1在Rice Annotation Project Database (RAP-DB)的数据库标识符是________。",
+        "answer": "Os02g0194100",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsCS1在Rice Genome Annotation Project (RGAP)的数据库标识符是________。",
+        "answer": "LOC_Os02g10070",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "基因OsMTD2可能影响的植物性状包括________、________和________。",
+        "answer": "花粉不育，繁殖率，过氧化氢含量",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "基因OsMTD2可能涉及的功能包括________和________等。",
+        "answer": "TKL_IRAK_CrRLK1L-1.11 - CrRLK1L-1亚家族，ROS介导的花粉管延长",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "基因OsMTD2的信息可以在哪些数据库中找到？",
+        "answer": "中国水稻数据中心，RiceSuperPIRdb数据库，RAPDB数据库，EnsemblPlants数据库",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "基因OsMTD2可能涉及的GO功能有________、________和________等。",
+        "answer": "GO:0016740_转移酶活性，GO:0016301_激酶活性，GO:0005524_ATP结合",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "基因OsMTD2可能涉及的蛋白活性包括________和________。",
+        "answer": "GO:0004672_蛋白激酶活性，GO:0004674_蛋白丝氨酸/苏氨酸激酶活性",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "In the experiment, SR86 and Nipponbare (Nip) rice were treated with different concentrations of ________.",
+        "answer": "salt",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "In the 150 mM NaCl treatment, SR86 plants showed a survival rate of ________, while Nip showed no survival.",
+        "answer": "70.00%",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "BSA-seq analysis revealed salt tolerance related candidate region on chromosome _______, chromosome 8 and chromosome 12.",
+        "answer": "4",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "________ was selected as the candidate salt tolerance-related gene, named as OsJRL45.",
+        "answer": "LOC_Os04g03320",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The expression level of LOC_Os04g03320 was significantly higher in ________ than that in Nip in the 150 mM NaCl treatment.",
+        "answer": "SR86",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The ability of seeds to germinate under high salinity conditions is an important indicator of ________.",
+        "answer": "salt tolerance",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "Germination experiments were performed using the seeds of WT plants, Osjrl45 mutant lines (KO1 and KO2), and OsJRL45-OE lines (OE1 and OE2) under control (0 mM NaCl) and salt treatments (______ and ______ mM NaCl).",
+        "answer": "100, 200",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The OsJRL45 gene isolated from SR86 was transformed into the salt-sensitive indica cultivar L6-23. The promoter of OsJRL45 was cloned into the pCAMBIA1300 vector, and the resultant construct was transformed into L6-23 via Agrobacterium-mediated transformation to create ________.",
+        "answer": "transgenic rice (named Lh)",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "RT-qPCR results indicated that the expression level of OsJRL45 was significantly ________ in Lh transgenic rice than in L6-23 plants.",
+        "answer": "higher",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The Near Isogenic Line (NIL) of a rice QTL controls _______, _______, and the number of grains per panicle.",
+        "answer": "plant height, heading date",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The Near Isogenic Line (NIL) of a rice QTL is located on chromosome _______.",
+        "answer": "8",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The Near Isogenic Line (NIL) of a rice QTL is referred to as _______.",
+        "answer": "Ghd8",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The Near Isogenic Line (NIL) of a rice QTL was obtained within an F7 inbred line following a _______ strategy.",
+        "answer": "trait-performance-derived NIL",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The male parent HR5 allele contributed to _______, _______, and large panicles.",
+        "answer": "delayed heading, tall culms",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "Ghd8 is expressed at a ________ level in all organs at different developmental stages.",
+        "answer": "low",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "Three OsHAP3 genes were highly expressed in all tested organs at different developmental stages. One gene (Loc_OS02g49410) showed preferential expression in the ________ and endosperm.",
+        "answer": "panicle",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "Under LD conditions, Ghd8 was highly expressed in the phloem of leaves, the vascular system of the stem, and especially in cells of the ________.",
+        "answer": "inflorescence meristem",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "TAC4 gene is expressed in almost all organs, including ________, culm, leaf sheath, tiller base and young panicle.",
+        "answer": "root",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The most abundant expression of TAC4 occurs in the ________, lamina joint, leaf sheath pulvinus and internode.",
+        "answer": "young panicle",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "High TAC4 transcript abundance can be detected in the ________ and shoot apical meristem at the tillering stage.",
+        "answer": "axillary",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "TAC4 transcripts are present in both the lower and ________ sides of tiller bases, with similar expression levels.",
+        "answer": "upper",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "High expression of TAC4 is detected in the ________ during the whole growth period.",
+        "answer": "tiller base",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "AtHCAR is a key enzyme in the ________ pathway for Chl degradation.",
+        "answer": "PAO/phyllobilin",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "AtHCAR catalyzes the conversion of ________ to Chl a in vivo and in vitro.",
+        "answer": "7-HMC a",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The athcar mutant shows a ________ phenotype during DIS.",
+        "answer": "stay-green",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "________ is a functional homolog of AtHCAR.",
+        "answer": "OsHCAR",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The research objective was to test if ________ suppresses flowering through downregulation of Ehd1 expression.",
+        "answer": "ABF1V",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "Overexpression of ________ can efficiently suppress the later flowering phenotype of ABF1V.",
+        "answer": "Ehd1",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The slight flowering difference might be due to the dosage effect of ________ mRNA.",
+        "answer": "Ehd1",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "Knockdown of ________ can efficiently suppress the early flowering phenotype of ABF1E.",
+        "answer": "Ehd1",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "No difference in the LHD1 expression levels could be detected between YIL79 and Teqing under both long-day and short-day conditions, suggesting that late flowering did not result from the ________.",
+        "answer": "LHD1 transcript",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "Other heading date genes examined include ________, OsMADS50, OsMADS51, Hd1, Ehd1, Hd3a, RFT1.",
+        "answer": "OsGI",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "LHD1 may suppress the expressions of Ehd1, Hd3a and RFT1, which are ________ activators.",
+        "answer": "floral transition",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The plant variety early flowering 8 (ef8) was selected from an ________-treated population of indica cultivar 93-11.",
+        "answer": "ethyl methanesulfonate (EMS)",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The EF8 gene encodes a putative ________ subunit of the CCAAT-box-binding transcription factor, which is localized to the nucleus.",
+        "answer": "HAP3",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "In the ef8 mutant, the sixth ORF (Loc_Os08g07740) was changed, with a one base ________ at position 323 bp from the start codon. ",
+        "answer": "deletion",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The ef8 mutation also included a ________ bp deletion and ________ bp insertion.",
+        "answer": "9, 6",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "Compared to the wild type, the grain length of wbg1 is ________.",
+        "answer": "unchanged",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The grain width and thickness of wbg1 are significantly ________ compared to the wild type.",
+        "answer": "decreased",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The filling rate of wbg1 grains is ________ than that in the wild type.",
+        "answer": "lower",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The total starch and amylose contents were ________ in the wbg1 mutant.",
+        "answer": "reduced",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The mutation in wbg1 led to a ________ in mature grains.",
+        "answer": "white belly phenotype",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "In the experiment, the expression of ________ was higher than that of OsSYL2CC in young panicles at differentiation stage 8.",
+        "answer": "OsSYL2AA",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "No significant differences in expression were found at stages _______, _______, and _______.",
+        "answer": "5, 6, 7",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The expression of OsSYL2AA in each of the three accessions with longer SYL was significantly higher than that of ________ in each of the three accessions with shorter SYL.",
+        "answer": "OsSYL2CC",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "________ at stage 8 from six accessions were used for further qRT-PCR analysis.",
+        "answer": "Pistils",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "GH3 genes are differentially expressed in different tissues or in response to ________ and light stimuli.",
+        "answer": "exogenous auxin",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The organ-specific expression pattern of each OsGH3 gene was determined using ________ with total RNA isolated from etiolated shoots, green shoots, roots, flowers, and callus.",
+        "answer": "real-time PCR",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The transcription of ________ was found to be root-specific and was hardly detectable in other tissues examined.",
+        "answer": "OsGH3-12",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "________ was found to be expressed at very low levels in all the tissues.",
+        "answer": "OsGH3-10",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "Significant differences were found in the transcript abundance of OsGH3 genes in ________ and green shoots.",
+        "answer": "etiolated",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "春化作用是指植物必须经历一段时间的持续________才能由营养生长阶段转入生殖阶段生长的现象。",
+        "answer": "低温",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "春化作用对花卉促进开花的作用因花卉种类而异，对于冬性草本植物和________等，春化作用是它们必须等到翌年才能开花的基本原因。",
+        "answer": "二年生作物",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "________的生长过程中无需春化作用。",
+        "answer": "水稻",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "春化作用需要经历一定时间的低温，来自温带地区的耐寒花卉，较长的冬季和适度严寒，能更好的满足其春化阶段对________的要求。",
+        "answer": "低温",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "稻属于________科。",
+        "answer": "禾本科",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "稻的秆直立，高度范围是________米。",
+        "answer": "0.5-1.5",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "稻的叶片形状是________。",
+        "answer": "线状披针形",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "稻瘟病的病原菌是________。",
+        "answer": "稻瘟病原菌",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "稻瘟病的发病部位包括________、叶片、穗、节。",
+        "answer": "秧苗",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "稻瘟病在中国地区的分布情况是，山区重于________，粳、糯重于籼稻，除华南稻区早稻重于晚稻外，其他稻区晚稻重于早稻。",
+        "answer": "平原",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "稻瘟病的防治方法包括选用抗病品种、培育优质秧苗、肥水管理技术措施、加强田间管理、落实防治措施和________控制。",
+        "answer": "化学药剂",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在稻瘟病流行以后，要切实掌握稻瘟病的发病症状、发病规律和发病原因，结合种植情况，采取科学可行的稻瘟病防治技术措施，树立起良好的预防理念，降低稻瘟病发生的可能性，避免给稻谷产量和________造成损失。",
+        "answer": "质量",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "早稻的生长期为________天。",
+        "answer": "90～120天",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "中稻的生长期为________天。",
+        "answer": "120～150天",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "晚稻的生长期为________天。",
+        "answer": "150～170天",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "早稻米的品质________，晚稻米的品质________。",
+        "answer": "较差，较好",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "早稻的感光性________，晚稻的感光性________。",
+        "answer": "迟钝或无感，强",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳13号是由________选育的水稻品种。",
+        "answer": "黑龙江省农业科学院水稻研究所",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳13号的选育技术是通过常规技术与________有机结合的综合育种技术。",
+        "answer": "花培技术",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳13号的选育过程中，1995年以龙花91-340为母本，________为父本进行有性杂交。",
+        "answer": "空育139",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳13号在________年参加省第三积温带生产试验，2004年初审定推广。",
+        "answer": "2003",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武育糯16号是由________单位培育的？",
+        "answer": "江苏（武进）水稻研究所",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武育糯16号的母本为________，父本为________。",
+        "answer": "642-1-7，京58",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武育糯16号的选育过程开始于________年。",
+        "answer": "1994",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武育糯16号在________年通过江苏省农作物品种审定委员会审定，定名为“武育糯16号”。",
+        "answer": "2004",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武育糯16号的选育代数为________代。",
+        "answer": "8",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻新品种是人类在一定的生态和经济条件下，根据人类的需要所选育的水稻群体，该群体具有相对稳定的________特性，在生物学、形态学及经济性状上表现为相对一致性。",
+        "answer": "遗传",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "区域试验可以评估新品种的适宜性、产量潜力、抗性，验证新品种的稳定性，评估新品种可能对环境、生物多样性、________稳定性等造成的影响。",
+        "answer": "生态系统",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "通过区域试验，可以收集关于新品种生长周期、需水量、________需求等重要数据，为农业生产提供科学依据。",
+        "answer": "肥料",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳31的育种单位是________和________。",
+        "answer": "黑龙江省农业科学院佳木斯水稻研究所，黑龙江省龙粳高科有限责任公司",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳31的父本为________，母本为________。",
+        "answer": "垦稻8号，龙花96-1513",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳31在________年通过黑龙江省农作物品种审定委员会审定，审定编号：黑审稻2011004。",
+        "answer": "2011年",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "绥粳27的选育单位是________。",
+        "answer": "黑龙江省农业科学院绥化分院",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "绥粳27的开始选育时间是________。",
+        "answer": "2003年3月",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "绥粳27的父本为________，母本为________。",
+        "answer": "绥粳10，绥粳4号",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "越光是一种________品种。",
+        "answer": "水稻",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "越光的父本是________，母本是________。",
+        "answer": "农林1号，农林22号",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "天优华占是由________、中国科学院遗传与发育生物学研究所、广东省农业科学院水稻研究所育种的。",
+        "answer": "中国水稻研究所",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "天优华占的育种方法是以华占为父本，________为母本育成的籼型三系杂交水稻品种。",
+        "answer": "天丰A",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "天优华占的审定时间是________。",
+        "answer": "2011年10月8日",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "天优华占的全生育期平均是________天（长江上游）/131.0天（长江中下游）。",
+        "answer": "152.9",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "牡丹江19是一种________品种。",
+        "answer": "水稻",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "牡丹江19的育种单位是________。",
+        "answer": "黑龙江省农科院牡丹江农科所",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "牡丹江19的育成时间是________年。",
+        "answer": "1977",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "牡丹江19的父本是________，母本是________。",
+        "answer": "岩锦，石狩",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "牡丹江19的全生育期是________天，需活动积温________℃。",
+        "answer": "135-137，2600",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "北稻1号的育种单位是________。",
+        "answer": "黑龙江省绥化市北方稻作综合研究所",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "北稻1号的父本为________，母本为________。",
+        "answer": "藤系138，吉85良36",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "北稻1号的糙米率是________%，精米率是________%。",
+        "answer": "82，73.8",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "汕优63是在________年育成的。",
+        "answer": "1981年",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "汕优63的育种方法是用“珍汕97A”与“________”配组育成的籼型三系杂交水稻。",
+        "answer": "明恢63",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "汕优63的米质是米粒比其它汕优系统组合的籽粒略长，外观米质好、________。",
+        "answer": "米饭柔软可口",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武运粳7号是由________选育的？",
+        "answer": "江苏省武进市农业科学研究所",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武运粳7号的全生育期为________天左右，较耐肥抗倒，生长清秀，灌浆快，熟色佳，易脱粒。",
+        "answer": "159",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武运粳7号的千粒重为________g左右。",
+        "answer": "27.5",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武运粳7号适宜在________粳稻区种植。",
+        "answer": "长江中下游",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "黄华占是以________为母本，优质稻核心种质丰华占为父本配制杂交育成的感温型常规稻品种。",
+        "answer": "黄新占",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "玉香油占是由________和________杂交，经过多代定向选育而成的籼型感温常规稻品种。",
+        "answer": "TY36，IR100",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "为了保证玉香油占的种子纯度，需要进行________的工作。",
+        "answer": "品种提纯复壮",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "玉香油占的栽培技术要点包括适时播植，培育壮秧；合理密植；________；做好病虫防治；施用腐熟的农家肥做底肥, 多施有机肥，以提高结实率。",
+        "answer": "肥水管理",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "玉香油占的栽培技术要点中，为了提高结实率，需要施用腐熟的农家肥做底肥, 多施________。",
+        "answer": "有机肥",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "遵循玉香油占的栽培技术要点，可以有效地提高其________和品质。",
+        "answer": "产量",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "隆两优1212是袁隆平农业高科技股份有限公司、广东省农业科学院水稻研究所、湖南百分农业科技有限公司用隆科638S与________配组育成的籼型杂交水稻新组合。",
+        "answer": "R1212",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "隆两优1212的病虫害防治需要注意防治稻螟虫、稻纵卷叶螟、稻飞虱、纹枯病、________等病虫害。",
+        "answer": "稻曲病",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "C两优7号是湖南农业大学与________合作选育的两系杂交晚稻新组合。",
+        "answer": "湖南希望种业科技有限公司",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "C两优7号的种植技术要点之一是提早播种，一般________以前播种，7月15日以前移栽。",
+        "answer": "6月15日",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "C两优7号的种植技术要点之一是适时移栽，合理密植，秧龄不超过________天，一般在25天左右、5.0叶之前。",
+        "answer": "30",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "C两优7号的种植技术要点之一是科学管水，够苗晒田，移栽或抛栽前期以浅水为主，结合化学除草保持深水________天。",
+        "answer": "5 ~7",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "C两优7号的种植技术要点之一是及时防治病虫害，C两优7号对稻飞虱和________有一定的抗性。",
+        "answer": "潜叶蝇",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "冈优22号是四川农大水稻研究所用自选母本冈46A与四川省农科院作物所选育的父本________配组育成的杂交水稻新组合。",
+        "answer": "CDR22",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "冈优22号的播种期一般在________，8月中下旬始穗，9月下旬成熟。",
+        "answer": "4月中下旬",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "冈优22号的科学水肥管理，插后5-7天重施分蘖肥，中等肥力以亩施纯氮________kg，增施磷钾肥，结合中耕除草亩施过磷酸钙30kg,穗肥亩施氮磷钾复合肥10kg左右,氮:磷:钾为1:0.5:0.8，基肥:蘖肥:穗肥为5:4:1。",
+        "answer": "10-12",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "冈优22号的综合防治病虫害，坚持深耕整地，移栽后间歇灌溉，多露轻晒，减少无效分蘖等农业措施，降低病源基数，禾苗抗性增强。进行病虫预测预报，及时防治________。",
+        "answer": "病虫害",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "浙辐802是由________和浙江省余杭县农业研究所于1980年以四梅2号为亲本选育得到的水稻品种。",
+        "answer": "浙江农业大学原子核农学研究所",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "浙辐802的二熟制早稻种植，于________播种，秧龄30天左右，每亩播种量为120斤左右。",
+        "answer": "3月底4月初",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "浙辐802的三熟制早稻种植，掌握在________前后播种，播种量80斤左右，秧龄30~33天，不超过35天。",
+        "answer": "4月15日",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "越光是以农林22号为母本、________为父本育成的中粳品种。",
+        "answer": "农林一号",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻是喜水作物，科学用水是获取水稻高产、稳产的重要措施之一，这个过程被称为________。",
+        "answer": "灌溉",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "施肥是关键的栽培技术，需要根据生长阶段的需要施用________、磷、钾等养分。",
+        "answer": "氮",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在水稻的施肥技术中，施用充足的有机肥作为底肥，配合适量的________。",
+        "answer": "化肥",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致植株倒伏、病虫害加剧和________。",
+        "answer": "环境污染",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻种植的土壤要求耕层深厚，土壤肥沃，一般要求耕层深度________厘米、有机质2%以上。",
+        "answer": "20",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻种植的土壤要求有益微生物活动旺盛，如稻田________菌、硝化细菌、氨化细菌、好气性纤维分解菌和反硫化细菌等。",
+        "answer": "固氮",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻对土壤pH值的适应性较强，但以微酸至中性土壤(pH ________)最为适宜。",
+        "answer": "6.0-7.0",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳31的选育方法是以龙花96-1513为母本、垦稻8号为父本经________方法选育。",
+        "answer": "系谱",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳31适宜在中国________省第三积温带种植。",
+        "answer": "黑龙江",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "龙粳31的种植方式可以是________或直播栽培。",
+        "answer": "插秧",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "绥粳27是以________为母本，以绥粳10为父本进行有性杂交，经系谱法选育的。",
+        "answer": "绥粳4号",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武运粳7号的育种方法是以嘉40/香糯9121为母本，________为父本育成。",
+        "answer": "丙815",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武运粳7号适宜在________地区种植。",
+        "answer": "长江中下游粳稻区、江苏省沿江及苏南地区、上海、浙江、安徽的部分地区",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "武运粳7号在栽培上需要注意防治________和褐飞虱。",
+        "answer": "稻瘟病",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "浙辐802是由________和浙江省余杭县农业研究所于1980年以四梅2号为亲本选育得到的水稻品种。",
+        "answer": "浙江农业大学原子核农学研究所",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "浙辐802的亲本是________。",
+        "answer": "四梅2号",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "浙辐802的感温性________，秧龄弹性较大，适应性广。",
+        "answer": "弱",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "浙辐802适宜大面积高产的省份有________等。",
+        "answer": "浙江省、安徽省、湖北省、湖南省、江西省和广西省",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "浙辐802是一种________品种。",
+        "answer": "水稻",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "越光水稻的最适生长温度是________℃到________℃。",
+        "answer": "25，30",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "越光水稻的相对湿度要求在________%以上。",
+        "answer": "80",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "黄淮地区在特定季节可以满足越光水稻的种植需求，但同时也要避免________对农作物种植带来的伤害。",
+        "answer": "极端气候",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻是________科一年生水生草本。",
+        "answer": "禾本",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻的两个主要亚种是________和________。",
+        "answer": "籼稻，粳稻",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "不同海拔条件下，水稻的________也可能发生变化，这会导致水稻的口感、外观和营养价值不同。",
+        "answer": "米质",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "key_blank_fill"
+    }
+]
