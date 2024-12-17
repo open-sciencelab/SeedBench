@@ -1,0 +1,974 @@
+[
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Among them, Bg1-D has the most obviously increased grain size (Fig. 1A). Compared with WT (Nipponbare, Oryza sativa L. ssp. japonica), the 1,000-grain weight of Bg1-D has increased about 33.8%, with the grain length and grain width increased about 15.2% and 17.0%, respectively (Fig. 1B). Observation of spikelet hull by scanning electron microscopy showed that the epidermis cells of both palea and lemma in Bg1-D are much longer than that of the WT (Fig. S1). Careful examination of the hull cross-section before flowering revealed significant increases of both number and area of the parenchyma cells in the Bg1-D mutant (Fig. 1 C and D). Consistent with this, a number of genes associated with cell cycle and cell expansion were up-regulated in the panicles of the Bg1-D mutant (Fig. S2). Despite the greatly enlarged grain size, Bg1-D also exhibits enhanced growth of other tissues at both the vegetative and reproductive stages (Fig. 1E and Fig. S3). One-week-old seedlings of the Bg1-D mutant have obviously increased length of leaf and root compared with WT (Fig. S3 A–D). When plants enter reproductive stage, the leaves of Bg1-D are longer and wider than those of the WT plants, and the Bg1-D also has increased plant height (Fig. 1E, Fig. S3E, and Table S1). In addition, the Bg1-D panicles are much larger than those of the WT (Fig. S3 F and G).we overexpressed BG1 cDNA under the control of the rice ACTIN1 promoter in WT and found that the BG1overexpressing plants (BG1-OE) showed obviously increased grain size and other phenotypes, such as enhanced plant height, longer leaves, and larger panicles, which resemble the Bg1-D mutant phenotypes (Fig. 2C and Fig. S6 A and B). Importantly, severity of the phenotypes was apparently correlated with the BG1 expression level; that is, plants with higher BG1 expression have bigger grain size as well as increased 1,000-grain weight (Fig. 2 D–G), demonstrating that activation of BG1 is the cause for the Bg1-D mutant phenotypes.\nWhat alterations were noted in the Bg1-D mutant's cells?\nA. Increased area of parenchyma cells\nB. Decreased number of parenchyma cells\nC. Down-regulation of genes associated with cell cycle and cell expansion\nD. Longer epidermis cells of both palea and lemma",
+        "answer": "D, A",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Among them, Bg1-D has the most obviously increased grain size (Fig. 1A). Compared with WT (Nipponbare, Oryza sativa L. ssp. japonica), the 1,000-grain weight of Bg1-D has increased about 33.8%, with the grain length and grain width increased about 15.2% and 17.0%, respectively (Fig. 1B). Observation of spikelet hull by scanning electron microscopy showed that the epidermis cells of both palea and lemma in Bg1-D are much longer than that of the WT (Fig. S1). Careful examination of the hull cross-section before flowering revealed significant increases of both number and area of the parenchyma cells in the Bg1-D mutant (Fig. 1 C and D). Consistent with this, a number of genes associated with cell cycle and cell expansion were up-regulated in the panicles of the Bg1-D mutant (Fig. S2). Despite the greatly enlarged grain size, Bg1-D also exhibits enhanced growth of other tissues at both the vegetative and reproductive stages (Fig. 1E and Fig. S3). One-week-old seedlings of the Bg1-D mutant have obviously increased length of leaf and root compared with WT (Fig. S3 A–D). When plants enter reproductive stage, the leaves of Bg1-D are longer and wider than those of the WT plants, and the Bg1-D also has increased plant height (Fig. 1E, Fig. S3E, and Table S1). In addition, the Bg1-D panicles are much larger than those of the WT (Fig. S3 F and G).we overexpressed BG1 cDNA under the control of the rice ACTIN1 promoter in WT and found that the BG1overexpressing plants (BG1-OE) showed obviously increased grain size and other phenotypes, such as enhanced plant height, longer leaves, and larger panicles, which resemble the Bg1-D mutant phenotypes (Fig. 2C and Fig. S6 A and B). Importantly, severity of the phenotypes was apparently correlated with the BG1 expression level; that is, plants with higher BG1 expression have bigger grain size as well as increased 1,000-grain weight (Fig. 2 D–G), demonstrating that activation of BG1 is the cause for the Bg1-D mutant phenotypes.\nWhat were the observed outcomes when the BG1 cDNA was overexpressed, regulated by the rice ACTIN1 promoter in WT?\nA. Enhanced plant height\nB. Larger panicles\nC. Decreased grain size\nD. Longer leaves",
+        "answer": "A, D, B",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Among them, Bg1-D has the most obviously increased grain size (Fig. 1A). Compared with WT (Nipponbare, Oryza sativa L. ssp. japonica), the 1,000-grain weight of Bg1-D has increased about 33.8%, with the grain length and grain width increased about 15.2% and 17.0%, respectively (Fig. 1B). Observation of spikelet hull by scanning electron microscopy showed that the epidermis cells of both palea and lemma in Bg1-D are much longer than that of the WT (Fig. S1). Careful examination of the hull cross-section before flowering revealed significant increases of both number and area of the parenchyma cells in the Bg1-D mutant (Fig. 1 C and D). Consistent with this, a number of genes associated with cell cycle and cell expansion were up-regulated in the panicles of the Bg1-D mutant (Fig. S2). Despite the greatly enlarged grain size, Bg1-D also exhibits enhanced growth of other tissues at both the vegetative and reproductive stages (Fig. 1E and Fig. S3). One-week-old seedlings of the Bg1-D mutant have obviously increased length of leaf and root compared with WT (Fig. S3 A–D). When plants enter reproductive stage, the leaves of Bg1-D are longer and wider than those of the WT plants, and the Bg1-D also has increased plant height (Fig. 1E, Fig. S3E, and Table S1). In addition, the Bg1-D panicles are much larger than those of the WT (Fig. S3 F and G).we overexpressed BG1 cDNA under the control of the rice ACTIN1 promoter in WT and found that the BG1overexpressing plants (BG1-OE) showed obviously increased grain size and other phenotypes, such as enhanced plant height, longer leaves, and larger panicles, which resemble the Bg1-D mutant phenotypes (Fig. 2C and Fig. S6 A and B). Importantly, severity of the phenotypes was apparently correlated with the BG1 expression level; that is, plants with higher BG1 expression have bigger grain size as well as increased 1,000-grain weight (Fig. 2 D–G), demonstrating that activation of BG1 is the cause for the Bg1-D mutant phenotypes.\nHow did the growth of one-week-old Bg1-D mutant seedlings differ from WT?\nA. Decreased length of leaf and root\nB. No significant changes in leaf and root length\nC. Decreased plant height\nD. Increased length of leaf and root",
+        "answer": "D",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsSPL14 is localized to the nucleus (Fig. 1g), consistent with a role as a trans­cription factor. RNA in situ hybridization revealed that OsSPL14 was ­predominantly expressed in the shoot apex at both the vegetative (Fig. 2a) and re­productive (Fig. 2b) stages. It was also highly expressed in the promordia of primary and secondary branches (Fig. 2c)。Expression patterns of OsSPL14 and OsmiR156 in various rice organs revealed by real-time PCR and miRNA gel blot analyses showed that OsSPL14 was highly expressed in the culm and shoot apex, which is complementary with the expression pattern of OsmiR156 in vivo (Fig. 2e,f). Consistently, overexpression of OsmiR156 resulted in a substantial decrease in OsSPL14 transcripts (Supplementary Fig. 7a), whereas the interruption of OsmiR156 (overexpression of MIM156)20 led to a marked increase in OsSPL14 transcripts (Supplementary Fig. 7b). These results indicated that OsSPL14 was regulated by the OsmiR156-directed cleavage in vivo.\nWhat function does OsSPL14 serve?\nA. It acts as a termination factor.\nB. It acts as a translation factor.\nC. It acts as a replication factor.\nD. It acts as a transcription factor.",
+        "answer": "D",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsSPL14 is localized to the nucleus (Fig. 1g), consistent with a role as a trans­cription factor. RNA in situ hybridization revealed that OsSPL14 was ­predominantly expressed in the shoot apex at both the vegetative (Fig. 2a) and re­productive (Fig. 2b) stages. It was also highly expressed in the promordia of primary and secondary branches (Fig. 2c)。Expression patterns of OsSPL14 and OsmiR156 in various rice organs revealed by real-time PCR and miRNA gel blot analyses showed that OsSPL14 was highly expressed in the culm and shoot apex, which is complementary with the expression pattern of OsmiR156 in vivo (Fig. 2e,f). Consistently, overexpression of OsmiR156 resulted in a substantial decrease in OsSPL14 transcripts (Supplementary Fig. 7a), whereas the interruption of OsmiR156 (overexpression of MIM156)20 led to a marked increase in OsSPL14 transcripts (Supplementary Fig. 7b). These results indicated that OsSPL14 was regulated by the OsmiR156-directed cleavage in vivo.\nIn which part of the plant is OsSPL14 mainly expressed?\nA. In the flower apex\nB. In the leaf apex\nC. In the root apex\nD. In the shoot apex",
+        "answer": "D",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To determine whether OsSPL14 underlies the IPA1 QTL, we performed a confirmation test by generating transgenic plants expressing different levels of OsSPL14 in the Nipponbare and Ri22 lines, the japonica varieties suitable for gene transformation. We introduced the plasmid carrying OsSPL14 (designated gOsSPL14), which contained a 7.2-kb genomic DNA fragment, into Nipponbare (see Online Methods). The gOsSPL14 transgenic lines had reduced tillers, stronger culms and increased panicle branches and grain yield (Supplementary Fig. 4). In contrast, the OsSPL14 RNA interference (RNAi) transgenic plants in the Ri22 background generated more tillers and showed a marked reduction in plant height, diameter of culms, panicle branches and grain number (Supplementary Fig. 5). Therefore, we concluded that OsSPL14 is the gene responsible for ideal plant architectur and grain number (Supplementary Fig. 5). Therefore, we concluded that OsSPL14 is the gene responsible for ideal plant architecture.\nWhat were the observed effects in the gOsSPL14 transgenic lines?\nA. Reduced tillers\nB. Decreased grain yield\nC. Increased panicle branches\nD. Stronger culms",
+        "answer": "A, D, C",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The mutant osfie1 produced smaller seeds and displayed reduced dormancy, indicating that OsFIE1 predominantly functions in late seed development. Ectopic expression of OsFIE1, but not OsFIE2, was deleterious to vegetative growth in a dose-dependent manner. The newly evolved N-terminal tail of OsFIE1 was probably not the cause of the adverse effects on vegetative growth. The CRISPR/Cas9-derived mutant osfie2 exhibited impaired cellularization of the endosperm, which suggested that OsFIE2 is indispensable for early seed development as a positive regulator of cellularization. Autonomous endosperm was observed in both OsFIE2+ and osfie1/OsFIE2+ but at a very low frequency. Although OsFIE1-PRC2 exhibited H3K27me3 methyltransferase ability in plants, OsFIE1-PRC2 is likely to be less important for development in rice than is OsFIE2-PRC2.The expression of OsFIE1 in the endosperm in independent transgenic lines was significantly increased, whereas the expression of OsFIE2 was not altered in the transgenic plants (Figure 2b). Unlike the Ubi::OsFIE1 plants, the GT1::OsFIE1 lines showed vegetative development similar to that of the WT (Figure 2c). However, all three independent GT1:: OsFIE1 transgenic lines analyzed produced seeds significantly smaller than the WT seeds (Figure 2a and Figure S6). The 1000-grain weight of GT1::OsFIE1 was reduced to 86–88% of the WT value (Figure S6d). The results unambiguously indicated that overexpression of OsFIE1 could directly affect seed development.The osfie1 mutant produced smaller seeds and showed increased frequency of pre-harvest sprouting relative to the WT (Figure 3), suggesting that OsFIE1 plays roles in late seed development (Figure S13).\nWhat impacts does the osfie1 mutation have?\nA. Produced smaller seeds\nB. Showed increased frequency of pre-harvest sprouting\nC. Impaired cellularization of the endosperm\nD. Displayed reduced dormancy",
+        "answer": "A, D, B",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The mutant osfie1 produced smaller seeds and displayed reduced dormancy, indicating that OsFIE1 predominantly functions in late seed development. Ectopic expression of OsFIE1, but not OsFIE2, was deleterious to vegetative growth in a dose-dependent manner. The newly evolved N-terminal tail of OsFIE1 was probably not the cause of the adverse effects on vegetative growth. The CRISPR/Cas9-derived mutant osfie2 exhibited impaired cellularization of the endosperm, which suggested that OsFIE2 is indispensable for early seed development as a positive regulator of cellularization. Autonomous endosperm was observed in both OsFIE2+ and osfie1/OsFIE2+ but at a very low frequency. Although OsFIE1-PRC2 exhibited H3K27me3 methyltransferase ability in plants, OsFIE1-PRC2 is likely to be less important for development in rice than is OsFIE2-PRC2.The expression of OsFIE1 in the endosperm in independent transgenic lines was significantly increased, whereas the expression of OsFIE2 was not altered in the transgenic plants (Figure 2b). Unlike the Ubi::OsFIE1 plants, the GT1::OsFIE1 lines showed vegetative development similar to that of the WT (Figure 2c). However, all three independent GT1:: OsFIE1 transgenic lines analyzed produced seeds significantly smaller than the WT seeds (Figure 2a and Figure S6). The 1000-grain weight of GT1::OsFIE1 was reduced to 86–88% of the WT value (Figure S6d). The results unambiguously indicated that overexpression of OsFIE1 could directly affect seed development.The osfie1 mutant produced smaller seeds and showed increased frequency of pre-harvest sprouting relative to the WT (Figure 3), suggesting that OsFIE1 plays roles in late seed development (Figure S13).\nWhat have studies discovered about the role of OsFIE1 in seed development?\nA. Overexpression of OsFIE1 could directly affect seed development\nB. OsFIE1 predominantly functions in late seed development\nC. OsFIE1 is indispensable for early seed development\nD. OsFIE1 plays roles in late seed development",
+        "answer": "B, A, D",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The mutant osfie1 produced smaller seeds and displayed reduced dormancy, indicating that OsFIE1 predominantly functions in late seed development. Ectopic expression of OsFIE1, but not OsFIE2, was deleterious to vegetative growth in a dose-dependent manner. The newly evolved N-terminal tail of OsFIE1 was probably not the cause of the adverse effects on vegetative growth. The CRISPR/Cas9-derived mutant osfie2 exhibited impaired cellularization of the endosperm, which suggested that OsFIE2 is indispensable for early seed development as a positive regulator of cellularization. Autonomous endosperm was observed in both OsFIE2+ and osfie1/OsFIE2+ but at a very low frequency. Although OsFIE1-PRC2 exhibited H3K27me3 methyltransferase ability in plants, OsFIE1-PRC2 is likely to be less important for development in rice than is OsFIE2-PRC2.The expression of OsFIE1 in the endosperm in independent transgenic lines was significantly increased, whereas the expression of OsFIE2 was not altered in the transgenic plants (Figure 2b). Unlike the Ubi::OsFIE1 plants, the GT1::OsFIE1 lines showed vegetative development similar to that of the WT (Figure 2c). However, all three independent GT1:: OsFIE1 transgenic lines analyzed produced seeds significantly smaller than the WT seeds (Figure 2a and Figure S6). The 1000-grain weight of GT1::OsFIE1 was reduced to 86–88% of the WT value (Figure S6d). The results unambiguously indicated that overexpression of OsFIE1 could directly affect seed development.The osfie1 mutant produced smaller seeds and showed increased frequency of pre-harvest sprouting relative to the WT (Figure 3), suggesting that OsFIE1 plays roles in late seed development (Figure S13).\nWhich are the correct assertions regarding OsFIE1 and OsFIE2?\nA. Ectopic expression of OsFIE1 was deleterious to vegetative growth\nB. The expression of OsFIE2 was significantly increased in independent transgenic lines\nC. OsFIE2 is indispensable for early seed development\nD. The newly evolved N-terminal tail of OsFIE1 was the cause of the adverse effects on vegetative growth",
+        "answer": "A, C",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The mutant osfie1 produced smaller seeds and displayed reduced dormancy, indicating that OsFIE1 predominantly functions in late seed development. Ectopic expression of OsFIE1, but not OsFIE2, was deleterious to vegetative growth in a dose-dependent manner. The newly evolved N-terminal tail of OsFIE1 was probably not the cause of the adverse effects on vegetative growth. The CRISPR/Cas9-derived mutant osfie2 exhibited impaired cellularization of the endosperm, which suggested that OsFIE2 is indispensable for early seed development as a positive regulator of cellularization. Autonomous endosperm was observed in both OsFIE2+ and osfie1/OsFIE2+ but at a very low frequency. Although OsFIE1-PRC2 exhibited H3K27me3 methyltransferase ability in plants, OsFIE1-PRC2 is likely to be less important for development in rice than is OsFIE2-PRC2.The expression of OsFIE1 in the endosperm in independent transgenic lines was significantly increased, whereas the expression of OsFIE2 was not altered in the transgenic plants (Figure 2b). Unlike the Ubi::OsFIE1 plants, the GT1::OsFIE1 lines showed vegetative development similar to that of the WT (Figure 2c). However, all three independent GT1:: OsFIE1 transgenic lines analyzed produced seeds significantly smaller than the WT seeds (Figure 2a and Figure S6). The 1000-grain weight of GT1::OsFIE1 was reduced to 86–88% of the WT value (Figure S6d). The results unambiguously indicated that overexpression of OsFIE1 could directly affect seed development.The osfie1 mutant produced smaller seeds and showed increased frequency of pre-harvest sprouting relative to the WT (Figure 3), suggesting that OsFIE1 plays roles in late seed development (Figure S13).\nWhat impacts do the GT1::OsFIE1 lines have?\nA. Showed increased frequency of pre-harvest sprouting\nB. Produced seeds significantly smaller than the WT seeds\nC. Showed vegetative development similar to that of the WT\nD. The 1000-grain weight of GT1::OsFIE1 was reduced to 86–88% of the WT value",
+        "answer": "C, B, D",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Wax biosynthesis begins with de novo-synthesized C16 and C18 fatty acids within the leucoplasts. C16 and C18 fatty acids are then elongated to VLCFAs by the fatty acid elongase (FAE) complex, consisting of b-ketoacyl-CoA synthase (KCS), b-ketoacyl-CoA reductase, b-hydroxy acyl-CoA dehydratase, and enoylCoA reductase, on the endoplasmic reticulum (ER). VLCFA elongation involves a four-step reaction cycle: First, the condensation of C16 and C18 acyl-CoA with malonyl-CoA is catalyzed by KCS, yielding b-ketoacylCoA; second, the reduction of b-ketoacyl-CoA is catalyzed by b-ketoacyl-CoA reductase; third, the resulting b-hydroxy acyl-CoA is dehydrated by b-hydroxy acyl-CoA dehydratase; and fourth, the enoyl acylCoA is reduced by enoyl-CoA reductase. Each cycle results in an acyl-CoA with a two-carbon extension (Kunst and Samuels, 2009). The generated VLCFACoAs are then thiolysed to yield free fatty acids or are used further in an acyl reduction (alcoholforming) pathway, yielding primary alcohols, or a decarbonylation (alkane-forming) pathway, yielding aldehydes and alkanes (Kunst and Samuels, 2003; Samuels et al., 2008)\nWhich compounds serve as the starting materials in the biosynthesis of wax?\nA. VLCFAs\nB. Acyl-CoA\nC. Malonyl-CoA\nD. C16 and C18 fatty acids",
+        "answer": "D",
+        "split": {
+            "level1": "基因产物细胞位置"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Wax biosynthesis begins with de novo-synthesized C16 and C18 fatty acids within the leucoplasts. C16 and C18 fatty acids are then elongated to VLCFAs by the fatty acid elongase (FAE) complex, consisting of b-ketoacyl-CoA synthase (KCS), b-ketoacyl-CoA reductase, b-hydroxy acyl-CoA dehydratase, and enoylCoA reductase, on the endoplasmic reticulum (ER). VLCFA elongation involves a four-step reaction cycle: First, the condensation of C16 and C18 acyl-CoA with malonyl-CoA is catalyzed by KCS, yielding b-ketoacylCoA; second, the reduction of b-ketoacyl-CoA is catalyzed by b-ketoacyl-CoA reductase; third, the resulting b-hydroxy acyl-CoA is dehydrated by b-hydroxy acyl-CoA dehydratase; and fourth, the enoyl acylCoA is reduced by enoyl-CoA reductase. Each cycle results in an acyl-CoA with a two-carbon extension (Kunst and Samuels, 2009). The generated VLCFACoAs are then thiolysed to yield free fatty acids or are used further in an acyl reduction (alcoholforming) pathway, yielding primary alcohols, or a decarbonylation (alkane-forming) pathway, yielding aldehydes and alkanes (Kunst and Samuels, 2003; Samuels et al., 2008)\nWhich complex is in charge of extending C16 and C18 fatty acids into VLCFAs?\nA. Acyl-CoA synthetase complex\nB. Fatty acid elongase (FAE) complex\nC. Fatty acid synthase complex\nD. Acyl-CoA reductase complex",
+        "answer": "B",
+        "split": {
+            "level1": "基因产物细胞位置"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Wax biosynthesis begins with de novo-synthesized C16 and C18 fatty acids within the leucoplasts. C16 and C18 fatty acids are then elongated to VLCFAs by the fatty acid elongase (FAE) complex, consisting of b-ketoacyl-CoA synthase (KCS), b-ketoacyl-CoA reductase, b-hydroxy acyl-CoA dehydratase, and enoylCoA reductase, on the endoplasmic reticulum (ER). VLCFA elongation involves a four-step reaction cycle: First, the condensation of C16 and C18 acyl-CoA with malonyl-CoA is catalyzed by KCS, yielding b-ketoacylCoA; second, the reduction of b-ketoacyl-CoA is catalyzed by b-ketoacyl-CoA reductase; third, the resulting b-hydroxy acyl-CoA is dehydrated by b-hydroxy acyl-CoA dehydratase; and fourth, the enoyl acylCoA is reduced by enoyl-CoA reductase. Each cycle results in an acyl-CoA with a two-carbon extension (Kunst and Samuels, 2009). The generated VLCFACoAs are then thiolysed to yield free fatty acids or are used further in an acyl reduction (alcoholforming) pathway, yielding primary alcohols, or a decarbonylation (alkane-forming) pathway, yielding aldehydes and alkanes (Kunst and Samuels, 2003; Samuels et al., 2008)\nCan you list the processes involved in the VLCFA elongation cycle?\nA. Reduction of acyl-CoA by acyl-CoA reductase\nB. Reduction of enoyl acylCoA\nC. Condensation of C16 and C18 acyl-CoA with malonyl-CoA\nD. Dehydration of b-hydroxy acyl-CoA",
+        "answer": "C, D, B",
+        "split": {
+            "level1": "基因产物细胞位置"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Wax biosynthesis begins with de novo-synthesized C16 and C18 fatty acids within the leucoplasts. C16 and C18 fatty acids are then elongated to VLCFAs by the fatty acid elongase (FAE) complex, consisting of b-ketoacyl-CoA synthase (KCS), b-ketoacyl-CoA reductase, b-hydroxy acyl-CoA dehydratase, and enoylCoA reductase, on the endoplasmic reticulum (ER). VLCFA elongation involves a four-step reaction cycle: First, the condensation of C16 and C18 acyl-CoA with malonyl-CoA is catalyzed by KCS, yielding b-ketoacylCoA; second, the reduction of b-ketoacyl-CoA is catalyzed by b-ketoacyl-CoA reductase; third, the resulting b-hydroxy acyl-CoA is dehydrated by b-hydroxy acyl-CoA dehydratase; and fourth, the enoyl acylCoA is reduced by enoyl-CoA reductase. Each cycle results in an acyl-CoA with a two-carbon extension (Kunst and Samuels, 2009). The generated VLCFACoAs are then thiolysed to yield free fatty acids or are used further in an acyl reduction (alcoholforming) pathway, yielding primary alcohols, or a decarbonylation (alkane-forming) pathway, yielding aldehydes and alkanes (Kunst and Samuels, 2003; Samuels et al., 2008)\nWhat is produced in each cycle of the VLCFA elongation process?\nA. An acyl-CoA with a two-carbon extension\nB. A VLCFA with a two-carbon extension\nC. A malonyl-CoA with a two-carbon extension\nD. A fatty acid with a two-carbon extension",
+        "answer": "A",
+        "split": {
+            "level1": "基因产物细胞位置"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）龙粳10号是什么？龙粳10号（原代号龙花91－340），是黑龙江农业科学院水稻研究所选育的粳型常规水稻。\n2）龙粳10号选育过程是什么样的？1989年以穗大粒多丰产性好的龙花84－106为母本以日本优质材料藤系138为父本进行第一次人工杂交获得F0种子8粒编号为龙交89032。 1990年以龙交89032为母本、雪光为父本进行第二次人工杂交获杂种F060粒编号为龙交90098。 1991年接种其F1花药进行离体培养并于1991年冬天在温室加代获得绿苗191株其中有7株结实即获得7个株系。1992年田间F2代淘汰了其中的4个株系入选了3个株系即龙花91－103、龙花91－340、龙花91－341。1993年F3代继续鉴定选拔并因熟期晚而淘汰了其中的2个株系龙花91－103（8月7日抽穗）、龙花91－341（8月12 日抽穗）,龙花91－340由于综合性状优良而入选。 1994年参加所内预备试验,1995～1996年所内产量鉴定和异地选拔鉴定1997～1998年参加省区域试验,1999年参加省生产试验。 \n综上所述，龙粳10号是由黑龙江省农业科学院水稻研究所通过亲本龙花84-106/藤系138和雪光杂交，经过多年选育而成。该品种具有早熟、高产、优质、抗稻瘟病等优点，适宜在黑龙江省第二积温带种植。\n哪个机构负责选育龙粳10号？\nA. 中国农业科学院\nB. 中国农业大学\nC. 中国科学院\nD. 黑龙江农业科学院水稻研究所",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）龙粳10号是什么？龙粳10号（原代号龙花91－340），是黑龙江农业科学院水稻研究所选育的粳型常规水稻。\n2）龙粳10号选育过程是什么样的？1989年以穗大粒多丰产性好的龙花84－106为母本以日本优质材料藤系138为父本进行第一次人工杂交获得F0种子8粒编号为龙交89032。 1990年以龙交89032为母本、雪光为父本进行第二次人工杂交获杂种F060粒编号为龙交90098。 1991年接种其F1花药进行离体培养并于1991年冬天在温室加代获得绿苗191株其中有7株结实即获得7个株系。1992年田间F2代淘汰了其中的4个株系入选了3个株系即龙花91－103、龙花91－340、龙花91－341。1993年F3代继续鉴定选拔并因熟期晚而淘汰了其中的2个株系龙花91－103（8月7日抽穗）、龙花91－341（8月12 日抽穗）,龙花91－340由于综合性状优良而入选。 1994年参加所内预备试验,1995～1996年所内产量鉴定和异地选拔鉴定1997～1998年参加省区域试验,1999年参加省生产试验。 \n综上所述，龙粳10号是由黑龙江省农业科学院水稻研究所通过亲本龙花84-106/藤系138和雪光杂交，经过多年选育而成。该品种具有早熟、高产、优质、抗稻瘟病等优点，适宜在黑龙江省第二积温带种植。\n哪些地方的环境条件适宜于龙粳10号的种植？\nA. 广东省\nB. 江苏省\nC. 黑龙江省第二积温带\nD. 云南省",
+        "answer": "C",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）南粳9108是什么？南粳9108是江苏省农业科学院粮食作物研究所以日本优质粳稻关东194为父本，与江苏优质高产粳稻武香粳14为母本于2009年育成的水稻品种。\n2）南粳9108的选育过程是怎样的？南粳9108原名宁9108，来源于南粳46同一杂交组合。\n1999年冬季在海南以江苏高产粳稻品种武香粳14为母本、日本引进的优良食味粳稻品种关东194为父本杂交配组，2000年在南京种植F1，同年冬季到海南、2001年正季在南京分别种植F2和F3种子，成熟后混收种子，F4开始选择单株，经两代条纹叶枯病抗性基因Stv-bi和暗胚乳突变基因Wx-mq的分子标记辅助选择，2005年(F7)获得条纹叶枯病抗性基因Stv-bi和暗胚乳突变基因Wx-mq均纯合、农艺性状一致的优良食味新品系宁5047，从中选单穗提纯。2006年种成穗行，2007年种成株系，2008年选择10个株系进行比较试验，在JD8308株系中选择4个早熟株，2009年种成株系，表现稳定一致，其中JD9108产量9300 kg /hm2 ，食味品质优良，抗条纹叶枯病，暂定名为宁9108。2010年推荐参加江苏省迟熟中粳组预备试验，2011年参加江苏省迟熟中粳组区域试验，2012年在继续参加区域试验的同时参加生产试验，2013年审定定名为南粳9108。\n综上可知，南粳9108是通过亲本选择、分子标记辅助选择、外观与食味品质筛选等现代育种技术培育而成的优良食味粳稻新品种，具有高产、优质、抗倒性强、食味好等特点，适宜在江苏省苏中及宁镇扬丘陵地区种植。\n南粳9108是由哪个机构育种的？\nA. 上海农业科学院\nB. 中国农业科学院\nC. 江苏省农业科学院粮食作物研究所\nD. 北京农业大学",
+        "answer": "C",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）南粳9108是什么？南粳9108是江苏省农业科学院粮食作物研究所以日本优质粳稻关东194为父本，与江苏优质高产粳稻武香粳14为母本于2009年育成的水稻品种。\n2）南粳9108的选育过程是怎样的？南粳9108原名宁9108，来源于南粳46同一杂交组合。\n1999年冬季在海南以江苏高产粳稻品种武香粳14为母本、日本引进的优良食味粳稻品种关东194为父本杂交配组，2000年在南京种植F1，同年冬季到海南、2001年正季在南京分别种植F2和F3种子，成熟后混收种子，F4开始选择单株，经两代条纹叶枯病抗性基因Stv-bi和暗胚乳突变基因Wx-mq的分子标记辅助选择，2005年(F7)获得条纹叶枯病抗性基因Stv-bi和暗胚乳突变基因Wx-mq均纯合、农艺性状一致的优良食味新品系宁5047，从中选单穗提纯。2006年种成穗行，2007年种成株系，2008年选择10个株系进行比较试验，在JD8308株系中选择4个早熟株，2009年种成株系，表现稳定一致，其中JD9108产量9300 kg /hm2 ，食味品质优良，抗条纹叶枯病，暂定名为宁9108。2010年推荐参加江苏省迟熟中粳组预备试验，2011年参加江苏省迟熟中粳组区域试验，2012年在继续参加区域试验的同时参加生产试验，2013年审定定名为南粳9108。\n综上可知，南粳9108是通过亲本选择、分子标记辅助选择、外观与食味品质筛选等现代育种技术培育而成的优良食味粳稻新品种，具有高产、优质、抗倒性强、食味好等特点，适宜在江苏省苏中及宁镇扬丘陵地区种植。\n南粳9108是在何时被育成的？\nA. 2009年\nB. 1999年\nC. 2000年\nD. 2010年",
+        "answer": "A",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）黄丰占是什么？黄丰占是广东省农科院水稻研究所应用水稻核心种质育种理论，以优质稻黄华占为母本、丰秀占为父本杂交育成的早晚兼用型优质、丰产、抗病水稻新品种。\n2）黄丰占是如何培育的？黄丰占的父、母本均为广东省农科院水稻研究所育成的水稻品种。母本黄华占以黄新占与丰华占杂交育成， 父本丰秀占是以丰丝占和矮秀 占杂交育成的早晚兼用型优质稻品种。\n根据黄华占具有综合性状优良， 配合力较强且对环境适应性好的特点，2004 年中造，在广东省农科院水稻研究所以黄华占为母本、丰秀占为父本配制杂交组合，采用系谱法对后代进行选择；2005年中造F1代，种植12株（田间编号中395），全部收取种子；2006年晚造F2代，种植1000株的群体，田间编号357-11，入选16株；2007年早造F3 代，每个株系种植85株左右，田间编号E143区，白叶枯病鉴定为2-3级，长势旺盛，茎态中集，稻穗籽粒充实好，入选3株，全收同时鉴定米质；2007年晚造F4代，每个株系种植70株，田间编号E7区，穗型中等偏大，剑叶中直，籽粒充实好，后期熟色调顺，白叶枯病鉴定为2级，全收；2008年早造参加研究室品比，平均每667m2产量452.67kg， 比对照种粤香占增产38.19%， 达极显著水平；2009年早造参加水稻所品比， 平均每667 m2产量547.84kg， 比对照种粤香占增产12.84%， 达极显著水平；2010、2011早造参加广东省区试， 定名为黄丰占。\n综上所述，黄丰占是由广东省农业科学院水稻研究所通过黄华占和丰秀占杂交，经过多年选育而成。该品种具有感温型、丰产性好、米质优、中抗稻瘟病和白叶枯病、耐寒性强等特点，适宜在广东粤北以外稻作区种植，栽培上要注意防治稻瘟病。\n黄丰占是在哪个机构进行育种工作的？\nA. 广东省农业大学\nB. 广东省农业科学院\nC. 广东省农科院水稻研究所\nD. 广东省农业研究所",
+        "answer": "C",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）武运粳7号是什么？武运粳7号是由江苏省武进市农业科学研究所以嘉40/香糯9121为母本，丙815为父本，于1995年育成的早熟晚粳常规稻品种。该品种具有早熟、丰产、优质、抗白叶枯病等优点，适宜在长江中下游粳稻区作双季晚稻种植。\n2）武运粳7号的培育过程是怎样的？武运粳7号的亲本为嘉48/香糯9121//丙815(香糯 9121:太湖地方品种“太湖香粳糯”血缘的中间材料, 具有穗大粒重, 结实率高, 食味品质优良等优点; 嘉48: 浙江嘉兴农科所育成的籼粳血缘的半矮生型品种; 丙815: 浙江嘉兴市农科院育成的具有籼粳血缘的半直立穗品种)，通过复合杂交, 使三个具有不同亲缘、不 同形态品种的优良性状得到互补和聚合, 将合理的株叶形态、协调的穗粒结构、适宜的熟期、较优的品质、良好的生理特征及抗病、抗倒能力融于一体, 从而赋予了武运粳7号强大的生命力。\n以上即是武运粳7号的选育全过程。\n武运粳7号的亲本有哪些？\nA. 嘉40\nB. 丙816\nC. 香糯9121\nD. 丙815",
+        "answer": "A, C, D",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）C两优7号是什么？C两优7号是湖南农业大学与湖南希望种业科技有限公司合作以C815S为母本、R777为父本选育的两系杂交晚稻新组合。\n2）C两优7号的品种性状？①该品种抗性较强，稻瘟病抗性经区试鉴定点湘西自治州农科所、湖南省植保所、湖南亚华种业科学院等单位2年6点鉴定: 叶瘟平均4.32级，穗颈瘟平均5.67级，稻瘟病抗性综合指数4.62级。②经湖南省水稻所鉴定，白叶枯病抗性平均4 级，稻曲病抗性平均3级。两优7号对高温和低温钝感。③2012年湖南省晚稻区试统一安排在湖南省贺家山原种场采用分期播种对参试组合进行低温鉴定试验，结果表明，C两优7 号最低结实率为69.9%平均结实率为83.3% ，比天优华占平均结实率高4.3个百分点，最高结实率与最低结实率相差21.9个百分点，比天优华占小19.3个百分点，鉴定结论为C 两优7号耐低温能力中等。④在湖南、湖北、安徽、贵州、广西等省区进行的适应性多点栽培试验中，表现出苗期耐低温，穗期耐高温的特性。\nC两优7号是如何选育出来的？\nA. 以C815S和R777为母本选育的两系杂交晚稻新组合\nB. 以C815S为母本、R777为父本选育的两系杂交晚稻新组合\nC. 以C815S和R777为父本选育的两系杂交晚稻新组合\nD. 以R777为母本、C815S为父本选育的两系杂交晚稻新组合",
+        "answer": "B",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）进行光合作用的意义？光合作用是作物生长发育和产量形成的生理基础,也是作物生产力高低的决定性因素。水稻作为C3植物，其光合作用主要包括以下特点：\n2）水稻的光合作用特点是什么？①光合作用类型：水稻进行的是C3型光合作用，即通过一系列复杂的生化反应，将二氧化碳和水转化为葡萄糖，并释放氧气。②光合效率：水稻的光合效率受多种因素影响，包括光照强度、温度、水分和二氧化碳浓度等。③光合作用速率：在适宜的环境条件下，水稻的光合作用速率可以达到较高水平，尤其在生长旺盛期。④光合作用最适温度：水稻光合最适温为25～30℃,在最高叶温不超过32℃，土壤水分充足，相对湿度适宜(60%左右)的情况下，光合日变化为典型的单峰曲线，最高光合速率在11:30左右;在最高叶温超过35℃,相对湿度低于40%时, 田间栽培的水稻会出现典型的“午睡”现象。⑤光照强度：水稻对光照强度有一定的适应性，但充足的光照是保证光合作用正常进行的关键。\n水稻的光合作用是其生长发育和产量形成的基础，通过优化光合作用条件，可以提高水稻的生长效率和产量。\n水稻的光合作用属于哪一类型？\nA. C2型光合作用\nB. C3型光合作用\nC. C4型光合作用\nD. CAM型光合作用",
+        "answer": "B",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）进行光合作用的意义？光合作用是作物生长发育和产量形成的生理基础,也是作物生产力高低的决定性因素。水稻作为C3植物，其光合作用主要包括以下特点：\n2）水稻的光合作用特点是什么？①光合作用类型：水稻进行的是C3型光合作用，即通过一系列复杂的生化反应，将二氧化碳和水转化为葡萄糖，并释放氧气。②光合效率：水稻的光合效率受多种因素影响，包括光照强度、温度、水分和二氧化碳浓度等。③光合作用速率：在适宜的环境条件下，水稻的光合作用速率可以达到较高水平，尤其在生长旺盛期。④光合作用最适温度：水稻光合最适温为25～30℃,在最高叶温不超过32℃，土壤水分充足，相对湿度适宜(60%左右)的情况下，光合日变化为典型的单峰曲线，最高光合速率在11:30左右;在最高叶温超过35℃,相对湿度低于40%时, 田间栽培的水稻会出现典型的“午睡”现象。⑤光照强度：水稻对光照强度有一定的适应性，但充足的光照是保证光合作用正常进行的关键。\n水稻的光合作用是其生长发育和产量形成的基础，通过优化光合作用条件，可以提高水稻的生长效率和产量。\n哪些因素可能对水稻的光合效率产生影响？\nA. 水分\nB. 二氧化碳浓度\nC. 光照强度\nD. 温度",
+        "answer": "C, D, A, B",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）进行光合作用的意义？光合作用是作物生长发育和产量形成的生理基础,也是作物生产力高低的决定性因素。水稻作为C3植物，其光合作用主要包括以下特点：\n2）水稻的光合作用特点是什么？①光合作用类型：水稻进行的是C3型光合作用，即通过一系列复杂的生化反应，将二氧化碳和水转化为葡萄糖，并释放氧气。②光合效率：水稻的光合效率受多种因素影响，包括光照强度、温度、水分和二氧化碳浓度等。③光合作用速率：在适宜的环境条件下，水稻的光合作用速率可以达到较高水平，尤其在生长旺盛期。④光合作用最适温度：水稻光合最适温为25～30℃,在最高叶温不超过32℃，土壤水分充足，相对湿度适宜(60%左右)的情况下，光合日变化为典型的单峰曲线，最高光合速率在11:30左右;在最高叶温超过35℃,相对湿度低于40%时, 田间栽培的水稻会出现典型的“午睡”现象。⑤光照强度：水稻对光照强度有一定的适应性，但充足的光照是保证光合作用正常进行的关键。\n水稻的光合作用是其生长发育和产量形成的基础，通过优化光合作用条件，可以提高水稻的生长效率和产量。\n哪些因素可以提高水稻的光合作用效率？\nA. 土壤水分充足\nB. 充足的光照\nC. 适宜的相对湿度\nD. 适宜的环境温度",
+        "answer": "D, B, A, C",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）水稻的病虫害防治的方法有哪些？水稻的病虫害防治的方法主要包括物理、生物和化学防治。①物理防治技术主要是指借助设备、灯光、温度和气味等物理要素针对水稻虫害进行驱逐或诱杀，常用的水稻虫害物理防治技术主要分为机械防治与人工防治2种方式，具备较为理想的防治效果，同时不会造成严重的污染问题。②生物防治水稻虫害主要是指利用天敌、微生物等生物因素进行防治，生物防治技术对稻田环境的影响较小，在绿色性和环保性方面表现良好。③化学防治技术较为传统，主要借助喷施化学药剂杀灭和处理害虫，该技术在应用便捷性方面表现良好，同时具有见效快、投入成本低等特点，可以实现较为理想的防治效果。但劣势在于对水稻虫害的控制时效性相对不足，在虫害发生规模较大的情况下难以实现良好的防治效果，也会对昆虫天敌以及有益生物造成危害。同时，长期依赖喷施化学药剂防治害虫，一方面会导致害虫产生一定的抗药性，另一方面会对稻田环境带来不可逆的严重影响，需要谨慎应用。\n除此之外，还可以选择抗病品种，以及提前对种子进行浸种、消毒或者使用种衣剂等处理，合理施肥、灌溉，调整种植密度等也可增强水稻的抗病能力。\n以上方法可以单独使用，也可根据需要综合运用，以达到最佳病虫害防治效果。\n哪些是水稻病虫害的物理防治措施？\nA. 借助设备进行驱逐或诱杀\nB. 利用天敌、微生物等生物因素进行防治\nC. 喷施化学药剂杀灭和处理害虫\nD. 利用灯光、温度和气味等物理要素进行驱逐或诱杀",
+        "answer": "A, D",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）水稻的病虫害防治的方法有哪些？水稻的病虫害防治的方法主要包括物理、生物和化学防治。①物理防治技术主要是指借助设备、灯光、温度和气味等物理要素针对水稻虫害进行驱逐或诱杀，常用的水稻虫害物理防治技术主要分为机械防治与人工防治2种方式，具备较为理想的防治效果，同时不会造成严重的污染问题。②生物防治水稻虫害主要是指利用天敌、微生物等生物因素进行防治，生物防治技术对稻田环境的影响较小，在绿色性和环保性方面表现良好。③化学防治技术较为传统，主要借助喷施化学药剂杀灭和处理害虫，该技术在应用便捷性方面表现良好，同时具有见效快、投入成本低等特点，可以实现较为理想的防治效果。但劣势在于对水稻虫害的控制时效性相对不足，在虫害发生规模较大的情况下难以实现良好的防治效果，也会对昆虫天敌以及有益生物造成危害。同时，长期依赖喷施化学药剂防治害虫，一方面会导致害虫产生一定的抗药性，另一方面会对稻田环境带来不可逆的严重影响，需要谨慎应用。\n除此之外，还可以选择抗病品种，以及提前对种子进行浸种、消毒或者使用种衣剂等处理，合理施肥、灌溉，调整种植密度等也可增强水稻的抗病能力。\n以上方法可以单独使用，也可根据需要综合运用，以达到最佳病虫害防治效果。\n哪些方法属于水稻病虫害的生物防治方式？\nA. 借助设备进行驱逐或诱杀\nB. 利用天敌、微生物等生物因素进行防治\nC. 喷施化学药剂杀灭和处理害虫\nD. 选择抗病性强的水稻品种种植",
+        "answer": "B",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）绥粳27是什么？绥粳27是由黑龙江省农业科学院绥化分院于2003年3月年以绥粳4号为母本,以绥粳10为父本选育而成的早熟香稻品种。\n2）绥粳27栽培技术要点有哪些？黑龙江三积温带水稻区域试验结果如下：①播种前种子处理。晒种，盐水选种，晚上盖好,防止霜冻。进行风筛选种，浸种催芽。②确定播种量。播量准确,播种均匀,秧盘边缘无聚堆和压摞现象。③育壮秧。机插或人工手插中苗最适秧龄30天，叶龄3片以上,苗高12 cm,根数12条,百株苗风干重3.5 g以上。④适时插秧，合理密植。移栽最佳时期在5月15～20日,秧龄为4.1～5.5叶龄,35-45天。最佳插秧密度为30 cm×(10～137)cm,每穴7～8苗。⑤施肥方法。寒地种稻施肥效果最明显的是氮肥,其次是磷肥,第三是钾肥。一般公顷施纯氮95公斤，氮:磷:钾的比例为2:1:1.5。磷肥全部做基肥，钾肥分基肥、穗肥两次施入，每次分别施4公斤、20公斤。氮肥施用方法：基肥:蘖肥:穗肥=5:3:2，基肥量包括纯氮48公斤，纯磷5公斤，纯钾5公斤；蘖肥量为纯氮2公斤；穗肥量为纯氮19公斤，纯钾2公斤。⑥稻瘟病防治。注意防治稻瘟病，常用药剂为40%富士一号乳剂或粉剂,每公顷用药1kg,对水1000倍施药,喷施3次(裂口期、抽穗期、齐穗期)预防效果更佳。\n    以上即是绥粳27的栽培技术要点，遵循以上要点，可以提高绥粳27的产量和品质。\n绥粳27的选育是由哪两个品种完成的？\nA. 绥粳4号\nB. 绥粳27号\nC. 绥粳3号\nD. 绥粳10号",
+        "answer": "A, D",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）绥粳27是什么？绥粳27是由黑龙江省农业科学院绥化分院于2003年3月年以绥粳4号为母本,以绥粳10为父本选育而成的早熟香稻品种。\n2）绥粳27栽培技术要点有哪些？黑龙江三积温带水稻区域试验结果如下：①播种前种子处理。晒种，盐水选种，晚上盖好,防止霜冻。进行风筛选种，浸种催芽。②确定播种量。播量准确,播种均匀,秧盘边缘无聚堆和压摞现象。③育壮秧。机插或人工手插中苗最适秧龄30天，叶龄3片以上,苗高12 cm,根数12条,百株苗风干重3.5 g以上。④适时插秧，合理密植。移栽最佳时期在5月15～20日,秧龄为4.1～5.5叶龄,35-45天。最佳插秧密度为30 cm×(10～137)cm,每穴7～8苗。⑤施肥方法。寒地种稻施肥效果最明显的是氮肥,其次是磷肥,第三是钾肥。一般公顷施纯氮95公斤，氮:磷:钾的比例为2:1:1.5。磷肥全部做基肥，钾肥分基肥、穗肥两次施入，每次分别施4公斤、20公斤。氮肥施用方法：基肥:蘖肥:穗肥=5:3:2，基肥量包括纯氮48公斤，纯磷5公斤，纯钾5公斤；蘖肥量为纯氮2公斤；穗肥量为纯氮19公斤，纯钾2公斤。⑥稻瘟病防治。注意防治稻瘟病，常用药剂为40%富士一号乳剂或粉剂,每公顷用药1kg,对水1000倍施药,喷施3次(裂口期、抽穗期、齐穗期)预防效果更佳。\n    以上即是绥粳27的栽培技术要点，遵循以上要点，可以提高绥粳27的产量和品质。\n在绥粳27的施肥过程中，哪几种肥的效果最为显著？\nA. 磷肥\nB. 铁肥\nC. 氮肥\nD. 钾肥",
+        "answer": "C, A, D",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1)武运粳7号是什么？武运粳7号是武进市农科所以加48为母本，香糯9121为父本复合杂交而成的新品种。\n2)栽培武运粳7号有哪些要点需要注意？ 1997年多点实验表明：该品种在栽培中应注意以下事项：①适期播种，培育壮秧。晒种5-6小时并利用药剂浸种。5月中旬播种，6月中旬移栽。重施基肥，看苗追施断奶肥和送嫁肥，注意苗期螟虫、蓟马的防治。②合理密植。插秧株行距23-26厘米×13厘米，苗栽基本苗8-10万，每亩有效穗22-24万。③科学管理水肥。浅水栽插，载后浅水勤灌促早发，够苗及时排水烤田，保持田间干湿交替，控制无效分蘖，孕稳至灌浆期保持浅水层，以后保持土壤湿润，切忌断水过早，防止早衰。④防治病虫害。在分蘖高峰期，用纹霉星防治纹枯病；在破口期，用纹曲清防治稻曲病、纹枯病。在整个生育过程中，注意对螟虫、飞虱等害虫的防治。\n遵循以上栽培要点，可以在实际生产中提高武运粳7号的品质和产量。\n武运粳7号的父母本各是哪个品种？\nA. 武进市农科所\nB. 加48\nC. 武运粳6号\nD. 香糯9121",
+        "answer": "B, D",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1)武运粳7号是什么？武运粳7号是武进市农科所以加48为母本，香糯9121为父本复合杂交而成的新品种。\n2)栽培武运粳7号有哪些要点需要注意？ 1997年多点实验表明：该品种在栽培中应注意以下事项：①适期播种，培育壮秧。晒种5-6小时并利用药剂浸种。5月中旬播种，6月中旬移栽。重施基肥，看苗追施断奶肥和送嫁肥，注意苗期螟虫、蓟马的防治。②合理密植。插秧株行距23-26厘米×13厘米，苗栽基本苗8-10万，每亩有效穗22-24万。③科学管理水肥。浅水栽插，载后浅水勤灌促早发，够苗及时排水烤田，保持田间干湿交替，控制无效分蘖，孕稳至灌浆期保持浅水层，以后保持土壤湿润，切忌断水过早，防止早衰。④防治病虫害。在分蘖高峰期，用纹霉星防治纹枯病；在破口期，用纹曲清防治稻曲病、纹枯病。在整个生育过程中，注意对螟虫、飞虱等害虫的防治。\n遵循以上栽培要点，可以在实际生产中提高武运粳7号的品质和产量。\n如何提升武运粳7号的品质和产量？\nA. 科学管理水肥\nB. 适期播种，培育壮秧\nC. 防治病虫害\nD. 合理密植",
+        "answer": "B, D, A, C",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）空育131是什么？空育131是1990年由黑龙江省农垦科学院水稻研究所从吉林农科院引进并以空育110为父本，道北36为母本育种而成的水稻品种。\n2）空育131的栽培技术要点有哪些？针对2006年垦区东四局稻瘟病发生的情况和原因, 在分析和总结有关经验及做法的基础上, 提出如下几项措施和建议。①合理密植。每平方米穴数不超过25～27穴, 每穴插秧3～4株苗, 每平方米收获穗数在500～550穗为宜。②控制施肥量, 特别是氮肥用量。通常情况每公顷施尿素180～225kg、磷酸二铵105～120kg、硫酸钾45～75kg, 氮、磷、钾肥应搭配使用。也可根据当地土壤实际情况适当提高钾肥的施用量, 比例以N∶P∶K=2∶1∶ (1～1.5) 为宜。③加强病害防治措施。一是慎重选择药剂, 选择那些在当地做过药剂试验且其效果得到农业部门认可的药剂。二是喷药要及时, 用量要准确。三是喷药时的环境条件要符合要求, 要依据植保技术规程进行喷药。④品种合理搭配种植。遵循科学、自然和经济规律, 结合本地的栽培管理水平, 坚持因地制宜、适地选种原则, 搞好品种科学布局, 增强品种的水平抗性, 避免大面积单品种种植。\n以上栽培技术要点有助于提高空育131的产量和品质，同时保持其优良的食味特性。\n空育131的种植技术主要有哪些要求？\nA. 控制施肥量\nB. 合理密植\nC. 加强病害防治措施\nD. 品种合理搭配种植",
+        "answer": "B, A, C, D",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）华浙优26是什么？华浙优26是由浙江勿忘农种业股份有限公司和中国水稻研究所以亲本华浙A×恢26杂交育成的籼型三系杂交水稻品种。\n2）华浙优26适合在哪些地区种植？①桂南稻作区：适合作为早稻种植；②桂南稻作区和桂中稻作区：适宜种植感光型品种的地区，可作为晚稻种；③四川省平坝丘陵稻区、贵州省（武陵山区除外）、云南省的中低海拔籼稻区、重庆市（武陵山区除外）海拔800米以下地区、湖南省稻瘟病轻发区、陕西省南部稻区：适宜作为一季中稻种植；④江西省、湖南省、湖北省、安徽省、浙江省双季稻区的稻瘟病轻发区：适宜作为晚稻种植；⑤长江中下游地区：作中稻种植可参照中浙优1号的播种期；⑥广东省（粤北稻作区除外）、广西桂南、海南省、福建省南部的双季稻白叶枯病轻发区：适宜作为早稻种植；⑦浙江省中稻区、福建省北部稻区、河南省南部稻瘟病轻发区：适宜作为一季中稻种植。\n综上可知，华浙优26是一个适应性较广的水稻品种，适合在我国南方多个稻作区种植。\n华浙优26的适宜种植地区包括哪些？\nA. 江西省稻瘟病轻发区\nB. 桂南稻作区\nC. 四川省平坝丘陵稻区\nD. 广东省粤北稻作区",
+        "answer": "B, C, A",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1） 水稻种植的条件？水稻种植的基本要求包括温暖湿润的气候，充足的日照和充沛的水分。\n2）水稻的主要种植区有哪些？我国的水稻种植区域主要包括以下12个：①长江流域：包括江苏、安徽、江西、湖南、湖北、四川等省份。这些地区的气候温和，雨量充沛，土壤肥沃，非常适合水稻的生长。特别是湖南的洞庭湖地区，被誉为“中国稻米之乡；②珠江流域：主要包括广东、广西、福建等省份。这些地区的气候温暖湿润，雨水充足，适宜水稻的种植；③黄河流域：包括河南、山东、河北等省份。这些地区的气候较为干燥，但土壤肥沃，水源充足，适合水稻的生长。④东北地区：包括黑龙江、吉林、辽宁等省份。这些地区的气候寒冷，夏季短暂，但土壤肥沃，水源充足，适合水稻的生长。⑤西南地区：主要包括云南、贵州、四川等省份。这些地区的气候多样，但总体上温暖湿润，雨水充足，适宜水稻的种植。⑥西北地区：主要包括陕西、甘肃、宁夏等省份。这些地区的气候干旱，降水稀少，但土壤肥沃，水源充足，适合水稻的生长。⑦华南双季稻稻作区：位于南岭以南，包括广东、广西、福建、海南岛和台湾5省、自治区。这些地区水热资源丰富，适宜水稻种植。⑧华中单双季稻稻作区：位于南岭以北和秦岭以南，包括江苏、上海、浙江、安徽的中南部、江西、湖南、湖北、重庆和四川等地区。⑨西南单双季稻稻作区：位于云贵高原和青藏高原，包括湖南省西部、贵州省大部、云南省中北部、青海省、西藏自治区和四川省甘孜藏族自治州。⑩华北单季稻稻作区：位于秦岭、淮河以北，长城以南，包括北京、天津、河北、山东和山西等省、直辖市。⑪西北干燥区单季稻稻作区**：位于大兴安岭以西，长城、祁连山与青藏高原以北地区。⑫东北早熟单季稻稻作区**：位于黑龙江省以南和长城以北，包括辽宁省、吉林省、黑龙江省和内蒙古自治区东部。\n\t以上地区根据地理位置、气候条件和土壤类型等不同因素，形成了各具特色的水稻种植区域。\n种植水稻需要满足哪些基本条件？\nA. 寒冷干燥的气候\nB. 充沛的水分\nC. 充足的日照\nD. 温暖湿润的气候",
+        "answer": "D, C, B",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）南粳9108是什么？南粳9108是由江苏省农业科学院粮食作物研究所以武香粳14号/关东194杂交育成的迟熟中粳水稻新品种。\n2）南粳9108适宜哪些地区种植？ 南粳9108主要适宜在江苏省苏中及宁镇扬丘陵地区种植，同时也在江苏省海安县海安镇建设村和江苏省兴化市钓鱼镇进行了百亩示范方的种植\n南粳9108的育成是通过哪两种水稻的杂交实现的？\nA. 武香粳14号/南粳9108\nB. 武香粳14号/关东194\nC. 关东194/南粳9108\nD. 关东194/武香粳14号",
+        "answer": "B",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）冈优22是什么？冈优22系四川省农科院作物所和四川农大水稻所以CDR22为父本，冈46A为母本育成的水稻品种。\n2）冈优22适合哪些区域种植？①适于在海拔800米以下的河谷、平坝、丘陵籼稻区种植，②也可在海拔1000-1500米的中籼稻区栽培③在四川、贵州、福建、云南、陕西等适宜地区也可种植冈优22。\n冈优22的育成是由哪些机构完成的？\nA. 四川省农科院作物所\nB. 中国农业大学\nC. 中国农业科学院\nD. 四川农大水稻所",
+        "answer": "A, D",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）冈优22是什么？冈优22系四川省农科院作物所和四川农大水稻所以CDR22为父本，冈46A为母本育成的水稻品种。\n2）冈优22适合哪些区域种植？①适于在海拔800米以下的河谷、平坝、丘陵籼稻区种植，②也可在海拔1000-1500米的中籼稻区栽培③在四川、贵州、福建、云南、陕西等适宜地区也可种植冈优22。\n冈优22的理想种植地点是哪些？\nA. 海拔800米以下的河谷、平坝、丘陵籼稻区\nB. 海拔1000-1500米的中籼稻区\nC. 海拔500米以下的低洼地区\nD. 海拔1500米以上的高山区",
+        "answer": "A, B",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）冈优22是什么？冈优22系四川省农科院作物所和四川农大水稻所以CDR22为父本，冈46A为母本育成的水稻品种。\n2）冈优22适合哪些区域种植？①适于在海拔800米以下的河谷、平坝、丘陵籼稻区种植，②也可在海拔1000-1500米的中籼稻区栽培③在四川、贵州、福建、云南、陕西等适宜地区也可种植冈优22。\n冈优22的亲本是哪两种？\nA. CDR22\nB. 冈优23\nC. 冈46A\nD. 冈优21",
+        "answer": "A, C",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1）冈优22是什么？冈优22系四川省农科院作物所和四川农大水稻所以CDR22为父本，冈46A为母本育成的水稻品种。\n2）冈优22适合哪些区域种植？①适于在海拔800米以下的河谷、平坝、丘陵籼稻区种植，②也可在海拔1000-1500米的中籼稻区栽培③在四川、贵州、福建、云南、陕西等适宜地区也可种植冈优22。\n冈优22的适宜种植海拔范围是什么？\nA. 海拔800米以下\nB. 海拔1500-2000米\nC. 海拔2000米以上\nD. 海拔1000-1500米",
+        "answer": "A, D",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "基因表达量的高低反映了该基因在特定组织或细胞中的活跃程度，这对于理解基因功能、调控机制以及植物在不同发育阶段或环境条件下的反应非常重要。\n稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)对日本晴(Oryza sativa ssp. japonica cv. Nipponbare)的幼叶，叶，穗和根四种组织进行RNA测序，将来自不同组织的FPKM值进行标准化处理得到表达量数据。TAC4基因在4个水稻组织中均有表达，按照从高到低依次是穗 (15.08)、根(5.51)、幼叶(1.06)和叶(0.07)，括号中是表达量。\n截止2024年7月，文献搜索显示TAC4基因几乎在所有器官中都有表达,在幼穗，叶枕（lamina joint）, 叶鞘基部（leaf sheath pulvinus）和节间表达量较高。\n\nTAC4基因在哪些组织中的表达较为丰富？\nA. 花序\nB. 叶枕\nC. 叶鞘基部\nD. 幼穗",
+        "answer": "D, B, C",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "基因表达量的高低反映了该基因在特定组织或细胞中的活跃程度，这对于理解基因功能、调控机制以及植物在不同发育阶段或环境条件下的反应非常重要。\n稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)对日本晴(Oryza sativa ssp. japonica cv. Nipponbare)的幼叶，叶，穗和根四种组织进行RNA测序，将来自不同组织的FPKM值进行标准化处理得到表达量数据。TAC4基因在4个水稻组织中均有表达，按照从高到低依次是穗 (15.08)、根(5.51)、幼叶(1.06)和叶(0.07)，括号中是表达量。\n截止2024年7月，文献搜索显示TAC4基因几乎在所有器官中都有表达,在幼穗，叶枕（lamina joint）, 叶鞘基部（leaf sheath pulvinus）和节间表达量较高。\n\n哪些因素可以衡量基因的活跃度？\nA. 基因的长度\nB. 基因的表达量\nC. 基因的结构\nD. 基因的位置",
+        "answer": "B",
+        "split": {
+            "level1": "基因表达模式"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "截止2024年7月，文献搜索显示TAC4基因能控制以下基因的表达：\n1. YUC5–7 genes : The product of TAC4 can control the expression of downstream IAA synthesis genes, including YUCCA (YUC1–7) and TRYPTOPHAN AMINOTRANSFERASE (TAR1 and TAR2). In particular, TAC4 affects the expression levels of the YUC5–7 genes, thereby influencing the content of endogenous IAA.\n2. OsIAA20: TAC4 positively regulates the gene expression of OsIAA20.\n\nTAC4基因正向调控的是哪些基因？\nA. OsIAA20\nB. YUC5–7 genes\nC. TAR1 and TAR2\nD. YUC1–4 genes",
+        "answer": "A",
+        "split": {
+            "level1": "基因产物调控下游基因"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索发现，根据Trait Ontology分类推测OsSIZ2基因可能影响的植物性状包括：非生物胁迫抗性(TO:0000168), 株高(TO:0000207), 花粉败育(TO:0000053), 根长度(TO:0000227), 穗长(TO:0000040), 结实率(TO:0000448), 磷含量(TO:0001024), 地上部生物量(TO:0000327), 磷酸盐含量(TO:0020102), 千粒重(TO:0000592), 一次枝梗数(TO:0000547), 根重量(TO:0000279), 生长迟缓(TO:0001357)。\n  在RiceSuperPIRdb数据库中检索OsSIZ2基因的T2T基因编号，我们发现GO（Gene Ontology）预测OsSIZ2功能超过百条，篇幅受限这里只展示前面5条分别是GO:0000003_obsolete reproduction(biological process), GO:0000902_cell morphogenesis(biological process), GO:0001101_response to acid chemical(biological process), GO:0002682_regulation of immune system process(biological process), GO:0002683_negative regulation of immune system process(biological process)，KEGG分析发现OsSIZ2基因的功能涉及K16063_E3 SUMO-protein ligase PIAS2 [EC:2.3.2.-], K22403_zinc finger MIZ domain-containing protein。\n  在RAPDB数据库中搜索发现，OsSIZ2基因有以下功能：SUMO (small ubiquitin-related modifier) E3-ligase; Abiotic stress response; Stress adaptation (Os03t0719100-01)。\n  在EnsemblPlants数据库中，OsSIZ2基因有以下功能：GO:0005634_nucleus(cellular component), GO:0016740_transferase activity(molecular function), GO:0046872_metal ion binding(molecular function), GO:0008270_zinc ion binding(molecular function), GO:0016925_protein sumoylation(biological process), GO:0019789_SUMO transferase activity(molecular function), GO:0061665_SUMO ligase activity(molecular function)。\n\nOsSIZ2基因可能对哪些植物性状产生影响？\nA. 株高\nB. 花粉败育\nC. 磷含量\nD. 非生物胁迫抗性",
+        "answer": "D, A, B, C",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索发现，根据Trait Ontology分类推测OsSIZ2基因可能影响的植物性状包括：非生物胁迫抗性(TO:0000168), 株高(TO:0000207), 花粉败育(TO:0000053), 根长度(TO:0000227), 穗长(TO:0000040), 结实率(TO:0000448), 磷含量(TO:0001024), 地上部生物量(TO:0000327), 磷酸盐含量(TO:0020102), 千粒重(TO:0000592), 一次枝梗数(TO:0000547), 根重量(TO:0000279), 生长迟缓(TO:0001357)。\n  在RiceSuperPIRdb数据库中检索OsSIZ2基因的T2T基因编号，我们发现GO（Gene Ontology）预测OsSIZ2功能超过百条，篇幅受限这里只展示前面5条分别是GO:0000003_obsolete reproduction(biological process), GO:0000902_cell morphogenesis(biological process), GO:0001101_response to acid chemical(biological process), GO:0002682_regulation of immune system process(biological process), GO:0002683_negative regulation of immune system process(biological process)，KEGG分析发现OsSIZ2基因的功能涉及K16063_E3 SUMO-protein ligase PIAS2 [EC:2.3.2.-], K22403_zinc finger MIZ domain-containing protein。\n  在RAPDB数据库中搜索发现，OsSIZ2基因有以下功能：SUMO (small ubiquitin-related modifier) E3-ligase; Abiotic stress response; Stress adaptation (Os03t0719100-01)。\n  在EnsemblPlants数据库中，OsSIZ2基因有以下功能：GO:0005634_nucleus(cellular component), GO:0016740_transferase activity(molecular function), GO:0046872_metal ion binding(molecular function), GO:0008270_zinc ion binding(molecular function), GO:0016925_protein sumoylation(biological process), GO:0019789_SUMO transferase activity(molecular function), GO:0061665_SUMO ligase activity(molecular function)。\n\nOsSIZ2基因预期会有哪些功能？\nA. response to acid chemical\nB. regulation of immune system process\nC. obsolete reproduction\nD. cell morphogenesis",
+        "answer": "C, D, A, B",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1. 影响生长发育：OsSIZ2基因在营养生长和生殖生长阶段对不同形态特征的发育响应发挥了正向调节作用。\n2. 影响磷酸盐稳态：OsSIZ2基因突变体在营养生长过程中影响磷酸盐Pi（phosphate）的吸收和转运，在收获期引发了不同组织中总磷浓度的升高，对参与维持磷酸盐稳态相关基因的表达产生了不同的影响。\n3. 调控水稻氮稳态和生殖生长：缺氮条件下，OsSIZ2-Ri植株和ossiz2突变体根中的总氮量比野生型显著增加。\n4. 在氮的吸收和转运中发挥作用：qRT-PCR分析发现参与氮稳态的几个基因表达量在ossiz2突变体中发生改变。\n\nOsSIZ2基因在哪些生长阶段起到了积极的调控作用？\nA. 芽发阶段\nB. 生殖生长阶段\nC. 营养生长阶段\nD. 老化阶段",
+        "answer": "C, B",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1. 影响生长发育：OsSIZ2基因在营养生长和生殖生长阶段对不同形态特征的发育响应发挥了正向调节作用。\n2. 影响磷酸盐稳态：OsSIZ2基因突变体在营养生长过程中影响磷酸盐Pi（phosphate）的吸收和转运，在收获期引发了不同组织中总磷浓度的升高，对参与维持磷酸盐稳态相关基因的表达产生了不同的影响。\n3. 调控水稻氮稳态和生殖生长：缺氮条件下，OsSIZ2-Ri植株和ossiz2突变体根中的总氮量比野生型显著增加。\n4. 在氮的吸收和转运中发挥作用：qRT-PCR分析发现参与氮稳态的几个基因表达量在ossiz2突变体中发生改变。\n\n在氮素缺乏的环境中，哪些植物的总氮含量明显超过了野生型？\nA. ossiz2突变体\nB. OsSIZ2-Ri植株\nC. OsSIZ1-Ri植株\nD. ossiz1突变体",
+        "answer": "B, A",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1. 影响生长发育：OsSIZ2基因在营养生长和生殖生长阶段对不同形态特征的发育响应发挥了正向调节作用。\n2. 影响磷酸盐稳态：OsSIZ2基因突变体在营养生长过程中影响磷酸盐Pi（phosphate）的吸收和转运，在收获期引发了不同组织中总磷浓度的升高，对参与维持磷酸盐稳态相关基因的表达产生了不同的影响。\n3. 调控水稻氮稳态和生殖生长：缺氮条件下，OsSIZ2-Ri植株和ossiz2突变体根中的总氮量比野生型显著增加。\n4. 在氮的吸收和转运中发挥作用：qRT-PCR分析发现参与氮稳态的几个基因表达量在ossiz2突变体中发生改变。\n\nOsSIZ2基因在哪些元素的稳态调节中起到了关键作用？\nA. 钙\nB. 磷酸盐Pi（phosphate）\nC. 氮\nD. 钾",
+        "answer": "B, C",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1. 影响生长发育：OsSIZ2基因在营养生长和生殖生长阶段对不同形态特征的发育响应发挥了正向调节作用。\n2. 影响磷酸盐稳态：OsSIZ2基因突变体在营养生长过程中影响磷酸盐Pi（phosphate）的吸收和转运，在收获期引发了不同组织中总磷浓度的升高，对参与维持磷酸盐稳态相关基因的表达产生了不同的影响。\n3. 调控水稻氮稳态和生殖生长：缺氮条件下，OsSIZ2-Ri植株和ossiz2突变体根中的总氮量比野生型显著增加。\n4. 在氮的吸收和转运中发挥作用：qRT-PCR分析发现参与氮稳态的几个基因表达量在ossiz2突变体中发生改变。\n\nossiz2突变体中哪些基因的表达量发生了变化？\nA. 参与钾稳态的基因\nB. 参与氮稳态的基因\nC. 参与钙稳态的基因\nD. 参与磷酸盐稳态的基因",
+        "answer": "B",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻OsJRL45基因Jacalin-related lectin 45属于盐胁迫响应jacalin-related lectin (JRL)家族基因，在水稻植物的所有生长阶段正向调节盐耐受性，在盐胁迫条件下提高了水稻抗氧化酶的活性，并调节了 Na?/K? 的动态平衡（Gao et al. 2023）。OsJRL45基因位于4号染色体的正链上，水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）基因组第三代测序结果显示，基因起始位点至终止位点为1495399- 1496714，序列全长1316bp，编码的蛋白被预测的蛋白质域有Jacalin（RiceSuperPIRdb）。OsJRL45在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os04g0123125；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os04g03320；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os04g002230。\n哪些数据库中记录了水稻OsJRL45基因的编号？\nA. 人类基因组数据库（Human Genome Database）\nB. 水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)\nC. 水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）\nD. 稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)",
+        "answer": "B, C, D",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索发现，根据Trait Ontology分类推测OsSIZ2基因可能影响的植物性状包括：非生物胁迫抗性(TO:0000168), 株高(TO:0000207), 花粉败育(TO:0000053), 根长度(TO:0000227), 穗长(TO:0000040), 结实率(TO:0000448), 磷含量(TO:0001024), 地上部生物量(TO:0000327), 磷酸盐含量(TO:0020102), 千粒重(TO:0000592), 一次枝梗数(TO:0000547), 根重量(TO:0000279), 生长迟缓(TO:0001357)。\n  在RiceSuperPIRdb数据库中检索OsSIZ2基因的T2T基因编号，我们发现GO（Gene Ontology）预测OsSIZ2功能超过百条，篇幅受限这里只展示前面5条分别是GO:0000003_obsolete reproduction(biological process), GO:0000902_cell morphogenesis(biological process), GO:0001101_response to acid chemical(biological process), GO:0002682_regulation of immune system process(biological process), GO:0002683_negative regulation of immune system process(biological process)，KEGG分析发现OsSIZ2基因的功能涉及K16063_E3 SUMO-protein ligase PIAS2 [EC:2.3.2.-], K22403_zinc finger MIZ domain-containing protein。\n  在RAPDB数据库中搜索发现，OsSIZ2基因有以下功能：SUMO (small ubiquitin-related modifier) E3-ligase; Abiotic stress response; Stress adaptation (Os03t0719100-01)。\n  在EnsemblPlants数据库中，OsSIZ2基因有以下功能：GO:0005634_nucleus(cellular component), GO:0016740_transferase activity(molecular function), GO:0046872_metal ion binding(molecular function), GO:0008270_zinc ion binding(molecular function), GO:0016925_protein sumoylation(biological process), GO:0019789_SUMO transferase activity(molecular function), GO:0061665_SUMO ligase activity(molecular function)。\n\n在EnsemblPlants数据库中，OsSIZ2基因具备哪些功能？\nA. nucleus\nB. zinc ion binding\nC. transferase activity\nD. metal ion binding",
+        "answer": "A, C, D, B",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在RiceSuperPIRdb数据库中检索OsHCAR基因的T2T基因编号，我们发现GO（Gene Ontology）分析预测OsHCAR功能超过三十条，篇幅受限这里只展示前面5条分别是GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0005575_cellular_component(cellular component), GO:0005622_intracellular anatomical structure(cellular component), GO:0005623_obsolete cell(cellular component)。\n  在RAPDB数据库中搜索发现，OsHCAR基因有以下功能：Coenzyme F420 hydrogenase/dehydrogenase beta subunit; N-terminal domain containing protein. (Os04t0320100-01);7-hydroxymethyl chlorophyll a reductase; Promotion of chlorophyll degradation; Modulation of cell death signaling (Os04t0320100-02)\n  在EnsemblPlants数据库中，OsHCAR基因有以下功能：GO:0016491_oxidoreductase activity(molecular function), GO:0046872_metal ion binding(molecular function), GO:0009507_chloroplast(cellular component), GO:0009536_plastid(cellular component), GO:0003824_catalytic activity(molecular function), GO:0051536_iron-sulfur cluster binding(molecular function), GO:0015994_chlorophyll metabolic process(biological process), GO:0090415_7-hydroxymethyl chlorophyll a reductase activity(molecular function), GO:0033354_chlorophyll cycle(biological process), GO:0052592_oxidoreductase activity, acting on CH or CH2 groups, with an iron-sulfur protein as acceptor(molecular function)\n\nOsHCAR基因在哪些生物活动中发挥作用？\nA. chlorophyll cycle\nB. chlorophyll metabolic process\nC. cell death signaling\nD. intracellular anatomical structure",
+        "answer": "B, A",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1． Rice hcar mutants, with highly retaining of chlorophyll level, exhibit a stay-green phenotype during dark-induced leaf senescence\n2． Experiments report that rice HCAR (Chl b reductases, 7-hydroxymethyl Chl a reductase) is CCE (Chl catabolic enzymes) that converts 7-HMC a (7-hydroxymethyl Chl a) to Chl a\n3． The rice hcar mutant shows cell death symptoms in mature leaves, is susceptible to oxidative stress-induced cell death, suggesting rice HCAR proteins play a role in regulating the oxidative stress response and cell death.\n4． Genes that are upregulated during cell death, such as JAmyb, Os-NAC4, and OsAPX1, were significantly upregulated in hcar mutant leaves versus wild type, especially under high light\n\n稻米hcar突变体的叶片有哪些特征表现？\nA. 对氧化应激诱导的细胞死亡敏感\nB. 叶片颜色变黄\nC. 细胞死亡症状\nD. 叶绿素水平降低",
+        "answer": "C, A",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1． Rice hcar mutants, with highly retaining of chlorophyll level, exhibit a stay-green phenotype during dark-induced leaf senescence\n2． Experiments report that rice HCAR (Chl b reductases, 7-hydroxymethyl Chl a reductase) is CCE (Chl catabolic enzymes) that converts 7-HMC a (7-hydroxymethyl Chl a) to Chl a\n3． The rice hcar mutant shows cell death symptoms in mature leaves, is susceptible to oxidative stress-induced cell death, suggesting rice HCAR proteins play a role in regulating the oxidative stress response and cell death.\n4． Genes that are upregulated during cell death, such as JAmyb, Os-NAC4, and OsAPX1, were significantly upregulated in hcar mutant leaves versus wild type, especially under high light\n\n在细胞死亡的过程中，hcar突变体叶片中哪些基因的表达量明显超过野生型？\nA. HCAR\nB. Os-NAC4\nC. JAmyb\nD. OsAPX1",
+        "answer": "C, B, D",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1． Rice hcar mutants, with highly retaining of chlorophyll level, exhibit a stay-green phenotype during dark-induced leaf senescence\n2． Experiments report that rice HCAR (Chl b reductases, 7-hydroxymethyl Chl a reductase) is CCE (Chl catabolic enzymes) that converts 7-HMC a (7-hydroxymethyl Chl a) to Chl a\n3． The rice hcar mutant shows cell death symptoms in mature leaves, is susceptible to oxidative stress-induced cell death, suggesting rice HCAR proteins play a role in regulating the oxidative stress response and cell death.\n4． Genes that are upregulated during cell death, such as JAmyb, Os-NAC4, and OsAPX1, were significantly upregulated in hcar mutant leaves versus wild type, especially under high light\n\n在哪种环境下，稻米hcar突变体叶片的基因表达量会明显超过野生型？\nA. 在高光照下\nB. 在高温下\nC. 在低光照下\nD. 在低温下",
+        "answer": "A",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "1． Rice hcar mutants, with highly retaining of chlorophyll level, exhibit a stay-green phenotype during dark-induced leaf senescence\n2． Experiments report that rice HCAR (Chl b reductases, 7-hydroxymethyl Chl a reductase) is CCE (Chl catabolic enzymes) that converts 7-HMC a (7-hydroxymethyl Chl a) to Chl a\n3． The rice hcar mutant shows cell death symptoms in mature leaves, is susceptible to oxidative stress-induced cell death, suggesting rice HCAR proteins play a role in regulating the oxidative stress response and cell death.\n4． Genes that are upregulated during cell death, such as JAmyb, Os-NAC4, and OsAPX1, were significantly upregulated in hcar mutant leaves versus wild type, especially under high light\n\n稻米hcar突变体在暗诱导衰老过程中的叶片表现出何种特征？\nA. 叶绿素水平显著降低\nB. 呈现出黄色表型\nC. 呈现出持久绿色表型\nD. 保持了较高的叶绿素水平",
+        "answer": "D, C",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsBRXL1全名是BREVIS RADIX-like 1基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，OsBRXL1基因位于2号染色体的负链上，基因起始位点至终止位点为29316726- 29323651，序列全长6926 bp，编码BRX蛋白。\nOsBRXL1在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os02g0700700；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os02g47230；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os02g042580。\n\nOsBRXL1基因（BREVIS RADIX-like 1）是存在于哪个染色体上的？\nA. 3号染色体\nB. 1号染色体\nC. 2号染色体\nD. 4号染色体",
+        "answer": "C",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsBRXL1全名是BREVIS RADIX-like 1基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，OsBRXL1基因位于2号染色体的负链上，基因起始位点至终止位点为29316726- 29323651，序列全长6926 bp，编码BRX蛋白。\nOsBRXL1在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os02g0700700；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os02g47230；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os02g042580。\n\nBREVIS RADIX-like 1基因（OsBRXL1）在各类数据库中的编号有哪些？\nA. LOC_Os02g47230\nB. AGIS_Os02g042580\nC. Os02g0700701\nD. Os02g0700700",
+        "answer": "D, A, B",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "FLO10全名是floury endosperm10基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，FLO10基因与 WBG1（white belly grain 1）基因为等位基因，FLO10基因位于3号染色体的负链上，基因起始位点至终止位点为3700628 - 3705060，序列全长4433 bp，编码一个线粒体定位的P型PPR蛋白，带有26个PPR基序。\nFLO10在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os03g0168400；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os03g07220；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os03g005990。\n\nFLO10基因在日本晴水稻的哪一条染色体上？\nA. 2号染色体\nB. 4号染色体\nC. 3号染色体\nD. 1号染色体",
+        "answer": "C",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "FLO10全名是floury endosperm10基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，FLO10基因与 WBG1（white belly grain 1）基因为等位基因，FLO10基因位于3号染色体的负链上，基因起始位点至终止位点为3700628 - 3705060，序列全长4433 bp，编码一个线粒体定位的P型PPR蛋白，带有26个PPR基序。\nFLO10在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os03g0168400；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os03g07220；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os03g005990。\n\nFLO10基因是编码哪种蛋白质的？\nA. 线粒体定位的N型PPR蛋白\nB. 线粒体定位的P型PPR蛋白\nC. 核定位的P型PPR蛋白\nD. 核定位的N型PPR蛋白",
+        "answer": "B",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "FLO10全名是floury endosperm10基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，FLO10基因与 WBG1（white belly grain 1）基因为等位基因，FLO10基因位于3号染色体的负链上，基因起始位点至终止位点为3700628 - 3705060，序列全长4433 bp，编码一个线粒体定位的P型PPR蛋白，带有26个PPR基序。\nFLO10在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os03g0168400；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os03g07220；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os03g005990。\n\nFLO10基因的全长序列是多少个碱基对？\nA. 4434 bp\nB. 4432 bp\nC. 4435 bp\nD. 4433 bp",
+        "answer": "D",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测TAC4基因可能影响的植物性状包括：蛋白质含量(TO:0000598), 直链淀粉含量(TO:0000196), 粉质胚乳(TO:0000104), 总淀粉含量(TO:0000696), 脂质总含量(TO:0000602), 千粒重(TO:0000592), 淀粉粒大小(TO:0002655), 籽粒灌浆速率(TO:1002661)。\n在RiceSuperPIRdb数据库中检索FLO10基因的T2T基因编号，预测FLO10基因的功能是：含PPR重复结构域蛋白。其GO分析和KEGG分析发现OsCHR709基因的功能包括：GO:0003674_molecular_function(molecular function)，GO:0003676_nucleic acid binding(molecular function)，GO:0003723_RNA binding(molecular function)，GO:0003824_catalytic activity(molecular function)，GO:0004518_nuclease activity(molecular function)等。\n在RAPDB数据库中搜索发现，FLO10基因有以下功能：Hypothetical conserved gene. (Os03t0168400-01);P-type pentatricopeptide repeat (PPR) protein; Maintenance of mitochondrial function and endosperm development; Trans-splicing of the mitochondrial nad1 intron1 (Os03t0168400-02)。\n在EnsemblPlants数据库中，FLO10基因有以下功能：GO:0004526_ribonuclease P activity(molecular function), GO:0001682_tRNA 5'-leader removal(biological process)。\n\nFLO10基因被预测有何功能？\nA. 含PPR重复结构域蛋白\nB. 蛋白质合成\nC. DNA复制\nD. 细胞分裂",
+        "answer": "A",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测TAC4基因可能影响的植物性状包括：蛋白质含量(TO:0000598), 直链淀粉含量(TO:0000196), 粉质胚乳(TO:0000104), 总淀粉含量(TO:0000696), 脂质总含量(TO:0000602), 千粒重(TO:0000592), 淀粉粒大小(TO:0002655), 籽粒灌浆速率(TO:1002661)。\n在RiceSuperPIRdb数据库中检索FLO10基因的T2T基因编号，预测FLO10基因的功能是：含PPR重复结构域蛋白。其GO分析和KEGG分析发现OsCHR709基因的功能包括：GO:0003674_molecular_function(molecular function)，GO:0003676_nucleic acid binding(molecular function)，GO:0003723_RNA binding(molecular function)，GO:0003824_catalytic activity(molecular function)，GO:0004518_nuclease activity(molecular function)等。\n在RAPDB数据库中搜索发现，FLO10基因有以下功能：Hypothetical conserved gene. (Os03t0168400-01);P-type pentatricopeptide repeat (PPR) protein; Maintenance of mitochondrial function and endosperm development; Trans-splicing of the mitochondrial nad1 intron1 (Os03t0168400-02)。\n在EnsemblPlants数据库中，FLO10基因有以下功能：GO:0004526_ribonuclease P activity(molecular function), GO:0001682_tRNA 5'-leader removal(biological process)。\n\nOsCHR709基因有哪些功能？\nA. 核酸结合\nB. 分子功能\nC. RNA结合\nD. 酶活性",
+        "answer": "B, A, C, D",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测TAC4基因可能影响的植物性状包括：蛋白质含量(TO:0000598), 直链淀粉含量(TO:0000196), 粉质胚乳(TO:0000104), 总淀粉含量(TO:0000696), 脂质总含量(TO:0000602), 千粒重(TO:0000592), 淀粉粒大小(TO:0002655), 籽粒灌浆速率(TO:1002661)。\n在RiceSuperPIRdb数据库中检索FLO10基因的T2T基因编号，预测FLO10基因的功能是：含PPR重复结构域蛋白。其GO分析和KEGG分析发现OsCHR709基因的功能包括：GO:0003674_molecular_function(molecular function)，GO:0003676_nucleic acid binding(molecular function)，GO:0003723_RNA binding(molecular function)，GO:0003824_catalytic activity(molecular function)，GO:0004518_nuclease activity(molecular function)等。\n在RAPDB数据库中搜索发现，FLO10基因有以下功能：Hypothetical conserved gene. (Os03t0168400-01);P-type pentatricopeptide repeat (PPR) protein; Maintenance of mitochondrial function and endosperm development; Trans-splicing of the mitochondrial nad1 intron1 (Os03t0168400-02)。\n在EnsemblPlants数据库中，FLO10基因有以下功能：GO:0004526_ribonuclease P activity(molecular function), GO:0001682_tRNA 5'-leader removal(biological process)。\n\nTAC4基因在国家水稻数据中心数据库中，可能对哪些植物性状产生影响？\nA. 总淀粉含量\nB. 直链淀粉含量\nC. 蛋白质含量\nD. 粉质胚乳",
+        "answer": "C, B, D, A",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "CDPK13全名是calcium dependent protein kinase基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，OsCDPK13基因与OsCDPK7为同一个基因，是一种钙依赖性蛋白激酶。CDPK13基因位于4号染色体的正链上，基因起始位点至终止位点为30037475 - 30042744，序列全长5270 bp，编码蛋白激酶。\nCDPK13在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os04g0584600；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os04g49510；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os04g043580。\n\nCDPK13基因属于哪一类蛋白激酶？\nA. 钾依赖性蛋白激酶\nB. 镁依赖性蛋白激酶\nC. 钙依赖性蛋白激酶\nD. 钠依赖性蛋白激酶",
+        "answer": "C",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "CDPK13全名是calcium dependent protein kinase基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，OsCDPK13基因与OsCDPK7为同一个基因，是一种钙依赖性蛋白激酶。CDPK13基因位于4号染色体的正链上，基因起始位点至终止位点为30037475 - 30042744，序列全长5270 bp，编码蛋白激酶。\nCDPK13在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os04g0584600；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os04g49510；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os04g043580。\n\n在水稻日本晴中，CDPK13基因是存在于哪个染色体上的？\nA. 2号染色体\nB. 3号染色体\nC. 1号染色体\nD. 4号染色体",
+        "answer": "D",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "CDPK13全名是calcium dependent protein kinase基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，OsCDPK13基因与OsCDPK7为同一个基因，是一种钙依赖性蛋白激酶。CDPK13基因位于4号染色体的正链上，基因起始位点至终止位点为30037475 - 30042744，序列全长5270 bp，编码蛋白激酶。\nCDPK13在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os04g0584600；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os04g49510；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os04g043580。\n\n在水稻注释计划数据库（RAP-DB）中，CDPK13基因的编号是什么？\nA. LOC_Os04g49510\nB. Os04g0584700\nC. Os04g0584600\nD. AGIS_Os04g043580",
+        "answer": "C",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "CDPK13全名是calcium dependent protein kinase基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，OsCDPK13基因与OsCDPK7为同一个基因，是一种钙依赖性蛋白激酶。CDPK13基因位于4号染色体的正链上，基因起始位点至终止位点为30037475 - 30042744，序列全长5270 bp，编码蛋白激酶。\nCDPK13在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os04g0584600；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os04g49510；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os04g043580。\n\nCDPK13基因的全长序列是多长？\nA. 6000 bp\nB. 5000 bp\nC. 5270 bp\nD. 52700 bp",
+        "answer": "C",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsMTD2, formally known as male-gene transfer defective 2.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified OsMTD2 and OsCrRLK1L11 (Catharanthus roseus receptor-like kinase 1-like 11) are identified as the same gene. The OsMTD2 gene is located on the negative strand of chromosome 5, spanning from position 11831370 to 11834542, with a total sequence length of 3713 bp, encoding receptor-like kinase.\nOsMTD2 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os05g0280700; Rice Genome Annotation Project (RGAP): LOC_Os05g20150; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os05g017590.\n\n哪个基因被认为与OsMTD2是同一基因？\nA. OsCrRLK1L11\nB. OsCrRLK1L13\nC. OsCrRLK1L10\nD. OsCrRLK1L12",
+        "answer": "A",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsGPT1全名是glucose 6-phosphate/phosphate translocator 1基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，OsGPT1基因位于8号染色体的正链上，基因起始位点至终止位点为5189856 - 5193928，序列全长4073 bp，编码一个TPT蛋白。\nOsGPT1在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os08g0187800；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os08g08840；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os08g007580。\n\nOsGPT1基因的序列全长是什么？\nA. 序列全长5073 bp\nB. 序列全长3073 bp\nC. 序列全长4073 bp\nD. 序列全长6073 bp",
+        "answer": "C",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsGPT1全名是glucose 6-phosphate/phosphate translocator 1基因。\n我们基于水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）的第三代测序结果，并对语料进行深度检索发现，OsGPT1基因位于8号染色体的正链上，基因起始位点至终止位点为5189856 - 5193928，序列全长4073 bp，编码一个TPT蛋白。\nOsGPT1在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os08g0187800；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os08g08840；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os08g007580。\n\nOsGPT1基因是编码哪种蛋白的？\nA. 编码一个WPT蛋白\nB. 编码一个UPT蛋白\nC. 编码一个TPT蛋白\nD. 编码一个VPT蛋白",
+        "answer": "C",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测OsWOX3A基因可能影响的植物性状包括：侧根数(TO:0001013), 节间长度(TO:0000145), 叶宽(TO:0000370), 分蘖数(TO:0000346), 籽粒大小(TO:0000397), 花苞形态学特征(TO:0000079), 卷叶(TO:0000085), 每穗粒数(TO:0002759), 赤霉素含量(TO:0002675), 根毛密度(TO:0001051)。\n在RiceSuperPIRdb数据库中检索OsWOX3A基因的T2T基因编号，预测OsWOX3A基因的功能是：homeobox domain containing protein。其GO分析和KEGG分析发现OsWOX3A基因的功能包括：GO:0000003_obsolete reproduction(biological process), GO:0003002_regionalization(biological process), GO:0003006_developmental process involved in reproduction(biological process), GO:0003674_molecular_function(molecular function), GO:0003700_DNA-binding transcription factor activity(molecular function)等。\n在RAPDB数据库中搜索发现，OsWOX3A基因有以下功能：WUS-type homenodomain protein; Leaf development (Os12t0101600-01);WUS-type homenodomain protein; Leaf development (Os12t0101600-02)。\n在EnsemblPlants数据库中，OsWOX3A基因有以下功能：GO:0005515_protein binding(molecular function), GO:0005634_nucleus(cellular component), GO:0006355_regulation of DNA-templated transcription(biological process), GO:0003677_DNA binding(molecular function), GO:0003700_DNA-binding transcription factor activity(molecular function), GO:0099402_plant organ development(biological process)。\n\nOsWOX3A基因可能对哪些植物性状产生影响？\nA. 叶宽\nB. 侧根数\nC. 节间长度\nD. 花苞形态学特征",
+        "answer": "B, C, A, D",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测OsWOX3A基因可能影响的植物性状包括：侧根数(TO:0001013), 节间长度(TO:0000145), 叶宽(TO:0000370), 分蘖数(TO:0000346), 籽粒大小(TO:0000397), 花苞形态学特征(TO:0000079), 卷叶(TO:0000085), 每穗粒数(TO:0002759), 赤霉素含量(TO:0002675), 根毛密度(TO:0001051)。\n在RiceSuperPIRdb数据库中检索OsWOX3A基因的T2T基因编号，预测OsWOX3A基因的功能是：homeobox domain containing protein。其GO分析和KEGG分析发现OsWOX3A基因的功能包括：GO:0000003_obsolete reproduction(biological process), GO:0003002_regionalization(biological process), GO:0003006_developmental process involved in reproduction(biological process), GO:0003674_molecular_function(molecular function), GO:0003700_DNA-binding transcription factor activity(molecular function)等。\n在RAPDB数据库中搜索发现，OsWOX3A基因有以下功能：WUS-type homenodomain protein; Leaf development (Os12t0101600-01);WUS-type homenodomain protein; Leaf development (Os12t0101600-02)。\n在EnsemblPlants数据库中，OsWOX3A基因有以下功能：GO:0005515_protein binding(molecular function), GO:0005634_nucleus(cellular component), GO:0006355_regulation of DNA-templated transcription(biological process), GO:0003677_DNA binding(molecular function), GO:0003700_DNA-binding transcription factor activity(molecular function), GO:0099402_plant organ development(biological process)。\n\nOsWOX3A基因预计有何种功能？\nA. protein binding\nB. homeobox domain containing protein\nC. DNA-binding transcription factor activity\nD. WUS-type homenodomain protein",
+        "answer": "B",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测OsWOX3A基因可能影响的植物性状包括：侧根数(TO:0001013), 节间长度(TO:0000145), 叶宽(TO:0000370), 分蘖数(TO:0000346), 籽粒大小(TO:0000397), 花苞形态学特征(TO:0000079), 卷叶(TO:0000085), 每穗粒数(TO:0002759), 赤霉素含量(TO:0002675), 根毛密度(TO:0001051)。\n在RiceSuperPIRdb数据库中检索OsWOX3A基因的T2T基因编号，预测OsWOX3A基因的功能是：homeobox domain containing protein。其GO分析和KEGG分析发现OsWOX3A基因的功能包括：GO:0000003_obsolete reproduction(biological process), GO:0003002_regionalization(biological process), GO:0003006_developmental process involved in reproduction(biological process), GO:0003674_molecular_function(molecular function), GO:0003700_DNA-binding transcription factor activity(molecular function)等。\n在RAPDB数据库中搜索发现，OsWOX3A基因有以下功能：WUS-type homenodomain protein; Leaf development (Os12t0101600-01);WUS-type homenodomain protein; Leaf development (Os12t0101600-02)。\n在EnsemblPlants数据库中，OsWOX3A基因有以下功能：GO:0005515_protein binding(molecular function), GO:0005634_nucleus(cellular component), GO:0006355_regulation of DNA-templated transcription(biological process), GO:0003677_DNA binding(molecular function), GO:0003700_DNA-binding transcription factor activity(molecular function), GO:0099402_plant organ development(biological process)。\n\nOsWOX3A基因在GO分析和KEGG分析中具备哪些功能？\nA. developmental process involved in reproduction\nB. regionalization\nC. obsolete reproduction\nD. DNA-binding transcription factor activity",
+        "answer": "C, B, A, D",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测OsWOX3A基因可能影响的植物性状包括：侧根数(TO:0001013), 节间长度(TO:0000145), 叶宽(TO:0000370), 分蘖数(TO:0000346), 籽粒大小(TO:0000397), 花苞形态学特征(TO:0000079), 卷叶(TO:0000085), 每穗粒数(TO:0002759), 赤霉素含量(TO:0002675), 根毛密度(TO:0001051)。\n在RiceSuperPIRdb数据库中检索OsWOX3A基因的T2T基因编号，预测OsWOX3A基因的功能是：homeobox domain containing protein。其GO分析和KEGG分析发现OsWOX3A基因的功能包括：GO:0000003_obsolete reproduction(biological process), GO:0003002_regionalization(biological process), GO:0003006_developmental process involved in reproduction(biological process), GO:0003674_molecular_function(molecular function), GO:0003700_DNA-binding transcription factor activity(molecular function)等。\n在RAPDB数据库中搜索发现，OsWOX3A基因有以下功能：WUS-type homenodomain protein; Leaf development (Os12t0101600-01);WUS-type homenodomain protein; Leaf development (Os12t0101600-02)。\n在EnsemblPlants数据库中，OsWOX3A基因有以下功能：GO:0005515_protein binding(molecular function), GO:0005634_nucleus(cellular component), GO:0006355_regulation of DNA-templated transcription(biological process), GO:0003677_DNA binding(molecular function), GO:0003700_DNA-binding transcription factor activity(molecular function), GO:0099402_plant organ development(biological process)。\n\nOsWOX3A基因在EnsemblPlants数据库中的功能有哪些？\nA. plant organ development\nB. protein binding\nC. regulation of DNA-templated transcription\nD. nucleus",
+        "answer": "B, D, C, A",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsSYL2, formally known as style length 2.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified that the OsSYL2 gene is located on the negative strand of chromosome 2, spanning from position 31091528 to 31091770, with a total sequence length of 243 bp, consisting of 1 exon and no introns.\nOsSYL2 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os02g0733900; Rice Genome Annotation Project (RGAP): LOC_Os02g50110; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os02g045510.\n\n水稻的OsSYL2基因位于哪个染色体上？\nA. 第四号染色体\nB. 第一号染色体\nC. 第三号染色体\nD. 第二号染色体",
+        "answer": "D",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsSYL2, formally known as style length 2.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified that the OsSYL2 gene is located on the negative strand of chromosome 2, spanning from position 31091528 to 31091770, with a total sequence length of 243 bp, consisting of 1 exon and no introns.\nOsSYL2 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os02g0733900; Rice Genome Annotation Project (RGAP): LOC_Os02g50110; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os02g045510.\n\nOsSYL2基因在哪些数据库中被标记了？\nA. Rice Annotation Project Database (RAP-DB)\nB. Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb)\nC. Human Genome Database (HGD)\nD. Rice Genome Annotation Project (RGAP)",
+        "answer": "A, D, B",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsSYL2, formally known as style length 2.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified that the OsSYL2 gene is located on the negative strand of chromosome 2, spanning from position 31091528 to 31091770, with a total sequence length of 243 bp, consisting of 1 exon and no introns.\nOsSYL2 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os02g0733900; Rice Genome Annotation Project (RGAP): LOC_Os02g50110; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os02g045510.\n\nOsSYL2基因的序列总长度是什么？\nA. 123bp\nB. 443bp\nC. 243bp\nD. 343bp",
+        "answer": "C",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsSYL2, formally known as style length 2.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified that the OsSYL2 gene is located on the negative strand of chromosome 2, spanning from position 31091528 to 31091770, with a total sequence length of 243 bp, consisting of 1 exon and no introns.\nOsSYL2 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os02g0733900; Rice Genome Annotation Project (RGAP): LOC_Os02g50110; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os02g045510.\n\nOsSYL2基因的构造包含几个外显子和几个内含子？\nA. 1个外显子，2个内含子\nB. 1个外显子，0个内含子\nC. 2个外显子，1个内含子\nD. 0个外显子，1个内含子",
+        "answer": "B",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the RiceSuperPIRdb database, it was found that the gene may be involved in Os3bglu6 - beta-glucosidase/beta-fucosidase/beta-galactosidase. GO and KEGG analyses revealed that the potential functions of the Os3BGlu6 gene include: GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0004553_hydrolase activity, hydrolyzing O-glycosyl compounds(molecular function), GO:0004565_beta-galactosidase activity(molecular function), GO:0005575_cellular_component(cellular component) etc. ; beta-glucosidase (K01188; EC:3.2.1.21).\nIn the RAPDB database, it is inferred that the Os3BGlu6 gene may have the following functions: Beta-glucosidase; ABA recycling; Drought tolerance;Control of photosynthesis (Os03t0212800-01).\nIn the EnsemblPlants database, it is inferred that the Os3BGlu6 gene may have the following functions:GO:0016787_hydrolase activity(molecular function),GO:0008152_metabolic process(biological process),GO:0005576_extracellular region(cellular component), GO:0005975_carbohydrate metabolic process(biological process), GO:0004553_hydrolase activity, hydrolyzing O-glycosyl compounds(molecular function) etc.\nWhich databases does the context refer to?\nA. EnsemblPlants\nB. RAPDB\nC. GeneBank\nD. RiceSuperPIRdb",
+        "answer": "D, B, A",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the RiceSuperPIRdb database, it was found that the gene may be involved in Os3bglu6 - beta-glucosidase/beta-fucosidase/beta-galactosidase. GO and KEGG analyses revealed that the potential functions of the Os3BGlu6 gene include: GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0004553_hydrolase activity, hydrolyzing O-glycosyl compounds(molecular function), GO:0004565_beta-galactosidase activity(molecular function), GO:0005575_cellular_component(cellular component) etc. ; beta-glucosidase (K01188; EC:3.2.1.21).\nIn the RAPDB database, it is inferred that the Os3BGlu6 gene may have the following functions: Beta-glucosidase; ABA recycling; Drought tolerance;Control of photosynthesis (Os03t0212800-01).\nIn the EnsemblPlants database, it is inferred that the Os3BGlu6 gene may have the following functions:GO:0016787_hydrolase activity(molecular function),GO:0008152_metabolic process(biological process),GO:0005576_extracellular region(cellular component), GO:0005975_carbohydrate metabolic process(biological process), GO:0004553_hydrolase activity, hydrolyzing O-glycosyl compounds(molecular function) etc.\nWhat could be the potential functions of the gene Os3BGlu6?\nA. gamma-glucosidase/gamma-fucosidase/gamma-galactosidase\nB. alpha-glucosidase/alpha-fucosidase/alpha-galactosidase\nC. delta-glucosidase/delta-fucosidase/delta-galactosidase\nD. beta-glucosidase/beta-fucosidase/beta-galactosidase",
+        "answer": "D",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the RiceSuperPIRdb database, it was found that the gene may be involved in Os3bglu6 - beta-glucosidase/beta-fucosidase/beta-galactosidase. GO and KEGG analyses revealed that the potential functions of the Os3BGlu6 gene include: GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0004553_hydrolase activity, hydrolyzing O-glycosyl compounds(molecular function), GO:0004565_beta-galactosidase activity(molecular function), GO:0005575_cellular_component(cellular component) etc. ; beta-glucosidase (K01188; EC:3.2.1.21).\nIn the RAPDB database, it is inferred that the Os3BGlu6 gene may have the following functions: Beta-glucosidase; ABA recycling; Drought tolerance;Control of photosynthesis (Os03t0212800-01).\nIn the EnsemblPlants database, it is inferred that the Os3BGlu6 gene may have the following functions:GO:0016787_hydrolase activity(molecular function),GO:0008152_metabolic process(biological process),GO:0005576_extracellular region(cellular component), GO:0005975_carbohydrate metabolic process(biological process), GO:0004553_hydrolase activity, hydrolyzing O-glycosyl compounds(molecular function) etc.\nBased on GO and KEGG analysis, what could be the potential roles of Os3BGlu6?\nA. Catalytic activity\nB. Alpha-galactosidase activity\nC. Hydrolase activity, hydrolyzing O-glycosyl compounds\nD. Molecular function",
+        "answer": "D, A, C",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the RiceSuperPIRdb database, it was found that the gene may be involved in Os3bglu6 - beta-glucosidase/beta-fucosidase/beta-galactosidase. GO and KEGG analyses revealed that the potential functions of the Os3BGlu6 gene include: GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0004553_hydrolase activity, hydrolyzing O-glycosyl compounds(molecular function), GO:0004565_beta-galactosidase activity(molecular function), GO:0005575_cellular_component(cellular component) etc. ; beta-glucosidase (K01188; EC:3.2.1.21).\nIn the RAPDB database, it is inferred that the Os3BGlu6 gene may have the following functions: Beta-glucosidase; ABA recycling; Drought tolerance;Control of photosynthesis (Os03t0212800-01).\nIn the EnsemblPlants database, it is inferred that the Os3BGlu6 gene may have the following functions:GO:0016787_hydrolase activity(molecular function),GO:0008152_metabolic process(biological process),GO:0005576_extracellular region(cellular component), GO:0005975_carbohydrate metabolic process(biological process), GO:0004553_hydrolase activity, hydrolyzing O-glycosyl compounds(molecular function) etc.\nAccording to the EnsemblPlants database, what functions could Os3BGlu6 possibly serve?\nA. Carbohydrate metabolic process\nB. Metabolic process\nC. Extracellular region\nD. Hydrolase activity",
+        "answer": "D, B, C, A",
+        "split": {
+            "level1": "基因功能预测"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "OsMTD2, formally known as male-gene transfer defective 2.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified OsMTD2 and OsCrRLK1L11 (Catharanthus roseus receptor-like kinase 1-like 11) are identified as the same gene. The OsMTD2 gene is located on the negative strand of chromosome 5, spanning from position 11831370 to 11834542, with a total sequence length of 3713 bp, encoding receptor-like kinase.\nOsMTD2 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os05g0280700; Rice Genome Annotation Project (RGAP): LOC_Os05g20150; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os05g017590.\n\nOsMTD2基因的完整名称是什么？\nA. male-gene transfer defective 5\nB. male-gene transfer defective 1\nC. male-gene transfer defective 3\nD. male-gene transfer defective 2",
+        "answer": "D",
+        "split": {
+            "level1": "基因基本信息查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "湘早籼45号是益阳市农科所采用品种间杂交育种方法,历经10a(1997~2007年)时间,育成的中熟早籼常规品种,于2007年2月通过湖南省品种市定委员会审定并命名。其主要特点是熟期早,全生育期105.9 d;高产稳产,3 a区试 (预试)产量均达到7.5 t/hm2以上;米质优,抗性好,适宜在湖南省稻瘟病轻发区作早稻种植。\n湘早籼45号的平均产量和生育周期各是多少？\nA. 3年区试（预试）产量均达到8.5吨/公顷以上\nB. 全生育期95.9天\nC. 3年区试（预试）产量均达到7.5吨/公顷以上\nD. 全生育期105.9天",
+        "answer": "C, D",
+        "split": {
+            "level1": "中国品种选育过程查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "正宗的五常大米，产地一定是出自黑龙江省哈尔滨市五常市，同时包装袋上印有“中华人民共和国地理标志”和“产地证明商标”，这些大米是受国家质检总局授权并符合五常大米国家标准要求的，其大米质量相对更有保障。黑龙江气候比较冷，与海南一年可以种四季水稻相比，黑龙江五常这些地方，一年只能种一季水稻，而且生长期还很长，育苗更是需要借助大棚或是温室。而且水稻收获期五常地区的昼夜温差大，这些因素让五常的大米干物质含量高、直链淀粉适中、支链淀粉含量高。通俗地说，就是这里产的大米粒大饱满、口感弹牙、饭粒油量大、香味浓郁。广义上说，只要种子选用五优稻系列、松粳系列及其他符合五常种植条件种植的其他粳稻品种，符合大米执行标准GB/T 19266（也就是五常大米的执行标准），在五常地区种植，就可以称为“五常大米”了。\n五常大米的种植需要满足哪些条件？\nA. 收获期昼夜温差大\nB. 五常地区一年只能种一季水稻\nC. 育苗需要借助大棚或温室\nD. 生长期短",
+        "answer": "B, C, A",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "正宗的五常大米，产地一定是出自黑龙江省哈尔滨市五常市，同时包装袋上印有“中华人民共和国地理标志”和“产地证明商标”，这些大米是受国家质检总局授权并符合五常大米国家标准要求的，其大米质量相对更有保障。黑龙江气候比较冷，与海南一年可以种四季水稻相比，黑龙江五常这些地方，一年只能种一季水稻，而且生长期还很长，育苗更是需要借助大棚或是温室。而且水稻收获期五常地区的昼夜温差大，这些因素让五常的大米干物质含量高、直链淀粉适中、支链淀粉含量高。通俗地说，就是这里产的大米粒大饱满、口感弹牙、饭粒油量大、香味浓郁。广义上说，只要种子选用五优稻系列、松粳系列及其他符合五常种植条件种植的其他粳稻品种，符合大米执行标准GB/T 19266（也就是五常大米的执行标准），在五常地区种植，就可以称为“五常大米”了。\n哪些方式可以验证大米是否真的是五常大米？\nA. 包装袋上印有“产地证明商标”\nB. 包装袋上印有“中华人民共和国地理标志”\nC. 包装袋上印有“国家质检总局授权”\nD. 包装袋上印有“五常大米国家标准”",
+        "answer": "B, A",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "镇籼232，籼型常规水稻，江苏丘陵地区镇江农科所育成的中籼稻品种。该品种综合性状较好，株型集散适中，剑叶挺举，叶色稍深。株高110cm， 茎秆弹性较好，分蘖力较强。每穗总粒135粒左右，结实率90%左右，千粒重24.5g。米质较优。全生育期145天左右，后期转色较好。抗逆性较强，抗倒性好。抗白叶枯病，高抗稻瘟病和褐飞虱，纹桔病较轻。丰产性较好，省区域试验平均单产8012.55kg/hm2，比扬辐籼2号增产1.9%;省生产试验平均单产8598.6kg/hm2,比扬辐籼2号增5.98%。适宜在江苏淮南南部中籼稻地区中上等肥力条件下种植。\n镇籼232具备哪些特性？\nA. 株高110cm，茎秆弹性较好\nB. 每穗总粒135粒左右，结实率90%左右\nC. 抗逆性较强，抗倒性好\nD. 全生育期145天左右，后期转色较好",
+        "answer": "A, B, D, C",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "镇籼232，籼型常规水稻，江苏丘陵地区镇江农科所育成的中籼稻品种。该品种综合性状较好，株型集散适中，剑叶挺举，叶色稍深。株高110cm， 茎秆弹性较好，分蘖力较强。每穗总粒135粒左右，结实率90%左右，千粒重24.5g。米质较优。全生育期145天左右，后期转色较好。抗逆性较强，抗倒性好。抗白叶枯病，高抗稻瘟病和褐飞虱，纹桔病较轻。丰产性较好，省区域试验平均单产8012.55kg/hm2，比扬辐籼2号增产1.9%;省生产试验平均单产8598.6kg/hm2,比扬辐籼2号增5.98%。适宜在江苏淮南南部中籼稻地区中上等肥力条件下种植。\n镇籼232能抵抗哪些病害？\nA. 褐飞虱\nB. 纹桔病\nC. 白叶枯病\nD. 稻瘟病",
+        "answer": "C, D, A",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻喜高温、多湿、短日照，对土壤要求不严，水稻土最好。幼苗发芽最低温度10~12℃，最适28~32℃℃。分蘖期日均20℃以上,穗分化适温30℃左右;低温使枝梗和颖花分化延长。抽穗适温25~35℃。开花最适温30℃左右，低于20℃或高于40℃，受精受严重影响。相对湿度50~90%为宜。水稻为喜温作物。生物学零度粳稻为10℃、籼稻12℃，早稻三时期以前，日平均气温低于12℃三天以上易感染绵腐病，出现烂秧、死苗，后季稻秧苗温度高于40℃易受灼伤。日平均气温15~17℃以下时，分蘖停止，造成僵苗不发。花粉母细胞减数分裂期(幼小孢子阶段及减数分裂细线期)，最低温度低于15~17℃，会造成颖花退化，不实粒增加和抽穗延迟。抽穗开花期适宜温度为25~32℃℃(杂交稻25~30℃℃)当遇连续3天平均气温低于20℃(粳稻)或2~3天低于22℃(籼稻)，易形成空壳和谷，但气温在35~37℃以上(杂交稻32℃以上)造成结实率下降。灌浆结实期要求日平均气温在23~28℃之间，温度低时物质运转减慢，温度高时呼吸消耗增加。温度在13~15℃以下灌浆相当缓慢。粳稻比籼稻对低温更有适应性。由于高温条件下水稻光呼吸作用增强。其光合作用适宜温度范围较大，籼稻为25~35℃、粳稻为18~33℃，当籼稻低于20℃或高于40℃和粳稻低于15℃或高于38℃时，光合作用急剧减弱。稻根呼吸作用随温度升高至32℃时迅速加快，然后缓慢增加，至38℃时达最大值，接着减慢，而稻叶呼吸在20~44℃之间随温度升高呈直线增强。低温(尤其霜冻)情况下，光合效率受抑制，稻根吸水减少，导致气孔关闭和叶片枯萎。根呼吸对高温危害的反应比叶片更敏感。\n水稻生长过程中需要哪些温度条件？\nA. 灌浆结实期要求日平均气温在23~28℃之间\nB. 分蘖期日均20℃以上\nC. 开花最适温30℃左右\nD. 幼苗发芽最适28~32℃",
+        "answer": "D, B, C, A",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻喜高温、多湿、短日照，对土壤要求不严，水稻土最好。幼苗发芽最低温度10~12℃，最适28~32℃℃。分蘖期日均20℃以上,穗分化适温30℃左右;低温使枝梗和颖花分化延长。抽穗适温25~35℃。开花最适温30℃左右，低于20℃或高于40℃，受精受严重影响。相对湿度50~90%为宜。水稻为喜温作物。生物学零度粳稻为10℃、籼稻12℃，早稻三时期以前，日平均气温低于12℃三天以上易感染绵腐病，出现烂秧、死苗，后季稻秧苗温度高于40℃易受灼伤。日平均气温15~17℃以下时，分蘖停止，造成僵苗不发。花粉母细胞减数分裂期(幼小孢子阶段及减数分裂细线期)，最低温度低于15~17℃，会造成颖花退化，不实粒增加和抽穗延迟。抽穗开花期适宜温度为25~32℃℃(杂交稻25~30℃℃)当遇连续3天平均气温低于20℃(粳稻)或2~3天低于22℃(籼稻)，易形成空壳和谷，但气温在35~37℃以上(杂交稻32℃以上)造成结实率下降。灌浆结实期要求日平均气温在23~28℃之间，温度低时物质运转减慢，温度高时呼吸消耗增加。温度在13~15℃以下灌浆相当缓慢。粳稻比籼稻对低温更有适应性。由于高温条件下水稻光呼吸作用增强。其光合作用适宜温度范围较大，籼稻为25~35℃、粳稻为18~33℃，当籼稻低于20℃或高于40℃和粳稻低于15℃或高于38℃时，光合作用急剧减弱。稻根呼吸作用随温度升高至32℃时迅速加快，然后缓慢增加，至38℃时达最大值，接着减慢，而稻叶呼吸在20~44℃之间随温度升高呈直线增强。低温(尤其霜冻)情况下，光合效率受抑制，稻根吸水减少，导致气孔关闭和叶片枯萎。根呼吸对高温危害的反应比叶片更敏感。\n哪些环境因素可能对水稻的生长产生负面影响？\nA. 日平均气温低于12℃三天以上易感染绵腐病\nB. 花粉母细胞减数分裂期最低温度低于15~17℃，会造成颖花退化，不实粒增加和抽穗延迟\nC. 连续3天平均气温低于20℃(粳稻)或2~3天低于22℃(籼稻)，易形成空壳和谷\nD. 秧苗温度高于40℃易受灼伤",
+        "answer": "A, D, C, B",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻喜高温、多湿、短日照，对土壤要求不严，水稻土最好。幼苗发芽最低温度10~12℃，最适28~32℃℃。分蘖期日均20℃以上,穗分化适温30℃左右;低温使枝梗和颖花分化延长。抽穗适温25~35℃。开花最适温30℃左右，低于20℃或高于40℃，受精受严重影响。相对湿度50~90%为宜。水稻为喜温作物。生物学零度粳稻为10℃、籼稻12℃，早稻三时期以前，日平均气温低于12℃三天以上易感染绵腐病，出现烂秧、死苗，后季稻秧苗温度高于40℃易受灼伤。日平均气温15~17℃以下时，分蘖停止，造成僵苗不发。花粉母细胞减数分裂期(幼小孢子阶段及减数分裂细线期)，最低温度低于15~17℃，会造成颖花退化，不实粒增加和抽穗延迟。抽穗开花期适宜温度为25~32℃℃(杂交稻25~30℃℃)当遇连续3天平均气温低于20℃(粳稻)或2~3天低于22℃(籼稻)，易形成空壳和谷，但气温在35~37℃以上(杂交稻32℃以上)造成结实率下降。灌浆结实期要求日平均气温在23~28℃之间，温度低时物质运转减慢，温度高时呼吸消耗增加。温度在13~15℃以下灌浆相当缓慢。粳稻比籼稻对低温更有适应性。由于高温条件下水稻光呼吸作用增强。其光合作用适宜温度范围较大，籼稻为25~35℃、粳稻为18~33℃，当籼稻低于20℃或高于40℃和粳稻低于15℃或高于38℃时，光合作用急剧减弱。稻根呼吸作用随温度升高至32℃时迅速加快，然后缓慢增加，至38℃时达最大值，接着减慢，而稻叶呼吸在20~44℃之间随温度升高呈直线增强。低温(尤其霜冻)情况下，光合效率受抑制，稻根吸水减少，导致气孔关闭和叶片枯萎。根呼吸对高温危害的反应比叶片更敏感。\n水稻需要的湿度是多少？\nA. 相对湿度100%为宜\nB. 相对湿度50~90%为宜\nC. 水稻对湿度没有特殊要求\nD. 相对湿度20~40%为宜",
+        "answer": "B",
+        "split": {
+            "level1": "中国品种适宜种植区域推荐"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻种子包括种皮（有保护作用）、胚乳（储存营养物质）和胚（包括胚根、胚芽、胚轴、子叶）。水稻种子包括种皮（有保护作用）、胚乳（储存营养物质）和胚（包括胚根、胚芽、胚轴、子叶）。大米是稻谷经清理、碾米、成品整理等工序后制成的成品，这一过程中除去了种皮和胚（或部分胚），剩下胚乳。我们食用大米是为了获取营养物质，而水稻种子的营养成分就是储存在胚乳中。\n水稻种子的构造由哪些部分组成？\nA. 种皮\nB. 胚\nC. 花粉\nD. 胚乳",
+        "answer": "A, D, B",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "水稻种子包括种皮（有保护作用）、胚乳（储存营养物质）和胚（包括胚根、胚芽、胚轴、子叶）。水稻种子包括种皮（有保护作用）、胚乳（储存营养物质）和胚（包括胚根、胚芽、胚轴、子叶）。大米是稻谷经清理、碾米、成品整理等工序后制成的成品，这一过程中除去了种皮和胚（或部分胚），剩下胚乳。我们食用大米是为了获取营养物质，而水稻种子的营养成分就是储存在胚乳中。\n水稻种子胚由哪些部分构成？\nA. 胚轴\nB. 胚芽\nC. 子叶\nD. 胚根",
+        "answer": "D, B, A, C",
+        "split": {
+            "level1": "中国品种农艺性状查询"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To test this prediction, we introduced both Ghd8 alleles of 93–11 (Ghd8 (93–11)) and Nipponbare (Ghd8(Nip)) by Agrobacterium-mediated transformation into NILZS, which has a small panicle, short stature, and early heading compared to NILHR5. The T1 families of the T0 transformants containing a single-copy of the Ghd8 (93–11) and (Ghd8 (Nip)) alleles were analyzed for their phenotypic effects under natural LD conditions (13–14-h day length). The positive T1 plants showed significantly more grains, delayed heading and taller culms compared to the transgenic negative plants (Figure 1). The negative Ghd8 transgenic plants (NILZS–) showed a performance similar to their recipient line NILZS in heading date, grain yield, grains per panicle, and plant height (Table 1). On average, a positive T1 plant (NIL93–11+/NILNip+) resulted in increases above 60% in grain yield per plant and grains per panicle compared to the recipient NILZS and the negative T1 plant (NILZS–) (Figure 1). The NILNip+ plant showed a performance similar to that of the NIL carrying the HR5 homozygotes (NILHR5) in grain yield, grains per panicle, and plant height; however, the transformants with the Ghd8 (93–11) allele were delayed in flowering by 9 d, thus indicating the strong effect of the 93–11 allele on heading date (Table 1). In summary, the complementary test confirmed that the candidate gene was in fact Ghd8.When compared to ZS97, ZS97Nip flowered earlier and later under SD and LD conditions, respectively (Table 2). That is to say, the Ghd8 allele of Nipponbare promoted flowering under SD conditions and inhibited flowering under LD conditions in ZS97. We also compared the diurnal expression of OsMADS51 (Kim et al., 2008) under SD conditions, that of OsMADS50 under LD conditions and that of OsGI, Hd1, Ehd1, Hd3a, and RFT1 under both conditions between positive and negative transgenic plants (ZS97Nip+ and ZS97Nip–). There was no difference in diurnal expression for OsGI, OsMADS51, OsMADS50, and Hd1, but a distinct difference was observed for Ehd1, Hd3a and RFT1 between ZS97Nip+ and ZS97Nip– (Figure 3A and 3B). These results indicated that Ghd8 acts upstream of Ehd1, Hd3a, and RFT1. \nWhat approaches were employed in the research?\nA. Compared the performance of positive and negative T1 plants.\nB. Introduced Ghd8 alleles of 93–11 and Nipponbare into NILZS through Agrobacterium-mediated transformation.\nC. Analyzed the T1 families of the T0 transformants under natural LD conditions.\nD. Tested the prediction of Ghd8 alleles' effect on plant characteristics.",
+        "answer": "B, C",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To test this prediction, we introduced both Ghd8 alleles of 93–11 (Ghd8 (93–11)) and Nipponbare (Ghd8(Nip)) by Agrobacterium-mediated transformation into NILZS, which has a small panicle, short stature, and early heading compared to NILHR5. The T1 families of the T0 transformants containing a single-copy of the Ghd8 (93–11) and (Ghd8 (Nip)) alleles were analyzed for their phenotypic effects under natural LD conditions (13–14-h day length). The positive T1 plants showed significantly more grains, delayed heading and taller culms compared to the transgenic negative plants (Figure 1). The negative Ghd8 transgenic plants (NILZS–) showed a performance similar to their recipient line NILZS in heading date, grain yield, grains per panicle, and plant height (Table 1). On average, a positive T1 plant (NIL93–11+/NILNip+) resulted in increases above 60% in grain yield per plant and grains per panicle compared to the recipient NILZS and the negative T1 plant (NILZS–) (Figure 1). The NILNip+ plant showed a performance similar to that of the NIL carrying the HR5 homozygotes (NILHR5) in grain yield, grains per panicle, and plant height; however, the transformants with the Ghd8 (93–11) allele were delayed in flowering by 9 d, thus indicating the strong effect of the 93–11 allele on heading date (Table 1). In summary, the complementary test confirmed that the candidate gene was in fact Ghd8.When compared to ZS97, ZS97Nip flowered earlier and later under SD and LD conditions, respectively (Table 2). That is to say, the Ghd8 allele of Nipponbare promoted flowering under SD conditions and inhibited flowering under LD conditions in ZS97. We also compared the diurnal expression of OsMADS51 (Kim et al., 2008) under SD conditions, that of OsMADS50 under LD conditions and that of OsGI, Hd1, Ehd1, Hd3a, and RFT1 under both conditions between positive and negative transgenic plants (ZS97Nip+ and ZS97Nip–). There was no difference in diurnal expression for OsGI, OsMADS51, OsMADS50, and Hd1, but a distinct difference was observed for Ehd1, Hd3a and RFT1 between ZS97Nip+ and ZS97Nip– (Figure 3A and 3B). These results indicated that Ghd8 acts upstream of Ehd1, Hd3a, and RFT1. \nWhat conclusions were drawn from the study?\nA. Ghd8 allele of Nipponbare promoted flowering under SD conditions and inhibited flowering under LD conditions in ZS97.\nB. Positive T1 plants showed significantly more grains, delayed heading, and taller culms compared to the transgenic negative plants.\nC. Negative Ghd8 transgenic plants showed a performance similar to their recipient line NILZS.\nD. Positive T1 plant resulted in increases above 60% in grain yield per plant and grains per panicle compared to the recipient NILZS and the negative T1 plant.",
+        "answer": "B, C, D",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Two independent floral regulators, Hd1 and Ehd1,control flowering through regulating Hd3a and RFT1 in rice (Izawa 2007; Tsuji et al. 2011). To investigate whether the alteration of expression patterns of the two ‘florigen’ genes by EF8 is mediated by Hd1, Ehd1 or other regulators of Hd1 and Ehd1, such as OsMADS51, OsMADS50 and OsGI (Hayama et al. 2003; Kim et al. 2007; Lee et al. 2010), we examined their mRNA levels between wild type and the ef8 mutant under LDs and SDs. Under LDs, to our surprise, no significant differences in the expression of any of these genes were detected between ef8 mutant and wild type (Fig. 5a). Under SDs, the expression pattern of Ehd1 was slightly changed in ef8 mutant compared to wild type, but the expression patterns of other genes were not changed (Fig. 5b). Together, these results indicated that EF8 delayed flowering through altering the rhythmic expression patterns of the ‘florigen’ genes Hd3a and RFT1 independently of Hd1 and Ehd1 under LDs.\nThe ef8 mutant displayed a slightly darker green leaf phenotype and more chlorophyll content compared to wild type under LDs (Fig. 2; Supplemental Fig. S1), which suggested that EF8 may have effect on chlorophyll biogenesis. To test this, we extracted total RNAs from 30-dayold leaves of wild-type and ef8 mutant seedlings under both LDs and SDs, and performed QRT-PCR to examine the expression of genes encoding the enzymes in the chlorophyll biosynthetic pathway in rice. Most of these genes were up-regulated to different degrees except chlorophyll synthetase (CHLG)in ef8 mutant compared to wild type under LDs (Fig. 6a). For example, Mg-protoporphyrin IX methyltransferase (CHLM) and NADPH:protochlorophyllide oxidoreductase A (PORA) were up-regulated more than threefold, and Mg chelatase H subunit (CHLH) and divinyl reductase (DVR) about twofold. However, there were no significant differences in the transcription level of these genes under SDs (Fig. 6b). This result indicated that the higher chlorophyll content was due to higher expression levels of chlorophyll biosynthetic genes in the ef8 mutant compared to wild type and EF8 negatively regulated chlorophyll biogenesis under LDs.\nWhat did the study primarily investigate?\nA. Investigation of the alteration of expression patterns of the two 'florigen' genes by OsMADS51.\nB. Investigation of the alteration of expression patterns of the two 'florigen' genes by EF8.\nC. Investigation of the alteration of expression patterns of the two 'florigen' genes by Hd1.\nD. Investigation of the alteration of expression patterns of the two 'florigen' genes by Ehd1.",
+        "answer": "B",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Two independent floral regulators, Hd1 and Ehd1,control flowering through regulating Hd3a and RFT1 in rice (Izawa 2007; Tsuji et al. 2011). To investigate whether the alteration of expression patterns of the two ‘florigen’ genes by EF8 is mediated by Hd1, Ehd1 or other regulators of Hd1 and Ehd1, such as OsMADS51, OsMADS50 and OsGI (Hayama et al. 2003; Kim et al. 2007; Lee et al. 2010), we examined their mRNA levels between wild type and the ef8 mutant under LDs and SDs. Under LDs, to our surprise, no significant differences in the expression of any of these genes were detected between ef8 mutant and wild type (Fig. 5a). Under SDs, the expression pattern of Ehd1 was slightly changed in ef8 mutant compared to wild type, but the expression patterns of other genes were not changed (Fig. 5b). Together, these results indicated that EF8 delayed flowering through altering the rhythmic expression patterns of the ‘florigen’ genes Hd3a and RFT1 independently of Hd1 and Ehd1 under LDs.\nThe ef8 mutant displayed a slightly darker green leaf phenotype and more chlorophyll content compared to wild type under LDs (Fig. 2; Supplemental Fig. S1), which suggested that EF8 may have effect on chlorophyll biogenesis. To test this, we extracted total RNAs from 30-dayold leaves of wild-type and ef8 mutant seedlings under both LDs and SDs, and performed QRT-PCR to examine the expression of genes encoding the enzymes in the chlorophyll biosynthetic pathway in rice. Most of these genes were up-regulated to different degrees except chlorophyll synthetase (CHLG)in ef8 mutant compared to wild type under LDs (Fig. 6a). For example, Mg-protoporphyrin IX methyltransferase (CHLM) and NADPH:protochlorophyllide oxidoreductase A (PORA) were up-regulated more than threefold, and Mg chelatase H subunit (CHLH) and divinyl reductase (DVR) about twofold. However, there were no significant differences in the transcription level of these genes under SDs (Fig. 6b). This result indicated that the higher chlorophyll content was due to higher expression levels of chlorophyll biosynthetic genes in the ef8 mutant compared to wild type and EF8 negatively regulated chlorophyll biogenesis under LDs.\nHow did the phenotype of the ef8 mutant present itself?\nA. Slightly darker green leaf and less chlorophyll content compared to wild type under LDs.\nB. Slightly lighter green leaf and more chlorophyll content compared to wild type under LDs.\nC. Slightly darker green leaf and more chlorophyll content compared to wild type under LDs.\nD. Slightly lighter green leaf and less chlorophyll content compared to wild type under LDs.",
+        "answer": "C",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Two independent floral regulators, Hd1 and Ehd1,control flowering through regulating Hd3a and RFT1 in rice (Izawa 2007; Tsuji et al. 2011). To investigate whether the alteration of expression patterns of the two ‘florigen’ genes by EF8 is mediated by Hd1, Ehd1 or other regulators of Hd1 and Ehd1, such as OsMADS51, OsMADS50 and OsGI (Hayama et al. 2003; Kim et al. 2007; Lee et al. 2010), we examined their mRNA levels between wild type and the ef8 mutant under LDs and SDs. Under LDs, to our surprise, no significant differences in the expression of any of these genes were detected between ef8 mutant and wild type (Fig. 5a). Under SDs, the expression pattern of Ehd1 was slightly changed in ef8 mutant compared to wild type, but the expression patterns of other genes were not changed (Fig. 5b). Together, these results indicated that EF8 delayed flowering through altering the rhythmic expression patterns of the ‘florigen’ genes Hd3a and RFT1 independently of Hd1 and Ehd1 under LDs.\nThe ef8 mutant displayed a slightly darker green leaf phenotype and more chlorophyll content compared to wild type under LDs (Fig. 2; Supplemental Fig. S1), which suggested that EF8 may have effect on chlorophyll biogenesis. To test this, we extracted total RNAs from 30-dayold leaves of wild-type and ef8 mutant seedlings under both LDs and SDs, and performed QRT-PCR to examine the expression of genes encoding the enzymes in the chlorophyll biosynthetic pathway in rice. Most of these genes were up-regulated to different degrees except chlorophyll synthetase (CHLG)in ef8 mutant compared to wild type under LDs (Fig. 6a). For example, Mg-protoporphyrin IX methyltransferase (CHLM) and NADPH:protochlorophyllide oxidoreductase A (PORA) were up-regulated more than threefold, and Mg chelatase H subunit (CHLH) and divinyl reductase (DVR) about twofold. However, there were no significant differences in the transcription level of these genes under SDs (Fig. 6b). This result indicated that the higher chlorophyll content was due to higher expression levels of chlorophyll biosynthetic genes in the ef8 mutant compared to wild type and EF8 negatively regulated chlorophyll biogenesis under LDs.\nIn the ef8 mutant under LDs, which genes showed an increase in expression compared to the wild type?\nA. NADPH:protochlorophyllide oxidoreductase A (PORA)\nB. Chlorophyll synthetase (CHLG)\nC. Mg chelatase H subunit (CHLH)\nD. Mg-protoporphyrin IX methyltransferase (CHLM)",
+        "answer": "D, A, C",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Two independent floral regulators, Hd1 and Ehd1,control flowering through regulating Hd3a and RFT1 in rice (Izawa 2007; Tsuji et al. 2011). To investigate whether the alteration of expression patterns of the two ‘florigen’ genes by EF8 is mediated by Hd1, Ehd1 or other regulators of Hd1 and Ehd1, such as OsMADS51, OsMADS50 and OsGI (Hayama et al. 2003; Kim et al. 2007; Lee et al. 2010), we examined their mRNA levels between wild type and the ef8 mutant under LDs and SDs. Under LDs, to our surprise, no significant differences in the expression of any of these genes were detected between ef8 mutant and wild type (Fig. 5a). Under SDs, the expression pattern of Ehd1 was slightly changed in ef8 mutant compared to wild type, but the expression patterns of other genes were not changed (Fig. 5b). Together, these results indicated that EF8 delayed flowering through altering the rhythmic expression patterns of the ‘florigen’ genes Hd3a and RFT1 independently of Hd1 and Ehd1 under LDs.\nThe ef8 mutant displayed a slightly darker green leaf phenotype and more chlorophyll content compared to wild type under LDs (Fig. 2; Supplemental Fig. S1), which suggested that EF8 may have effect on chlorophyll biogenesis. To test this, we extracted total RNAs from 30-dayold leaves of wild-type and ef8 mutant seedlings under both LDs and SDs, and performed QRT-PCR to examine the expression of genes encoding the enzymes in the chlorophyll biosynthetic pathway in rice. Most of these genes were up-regulated to different degrees except chlorophyll synthetase (CHLG)in ef8 mutant compared to wild type under LDs (Fig. 6a). For example, Mg-protoporphyrin IX methyltransferase (CHLM) and NADPH:protochlorophyllide oxidoreductase A (PORA) were up-regulated more than threefold, and Mg chelatase H subunit (CHLH) and divinyl reductase (DVR) about twofold. However, there were no significant differences in the transcription level of these genes under SDs (Fig. 6b). This result indicated that the higher chlorophyll content was due to higher expression levels of chlorophyll biosynthetic genes in the ef8 mutant compared to wild type and EF8 negatively regulated chlorophyll biogenesis under LDs.\nWhat was the impact of EF8 on the biogenesis of chlorophyll under LDs?\nA. EF8 did not affect chlorophyll biogenesis.\nB. EF8 negatively regulated chlorophyll biogenesis.\nC. The effect of EF8 on chlorophyll biogenesis is unknown.\nD. EF8 positively regulated chlorophyll biogenesis.",
+        "answer": "B",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We examined agronomic traits in the selected pOsl2::GWD1 transgenic lines and the gwd1 mutants. In general, plant height was increased in the GWD1 overexpression line compared to the WT (Figure 4a, b). Moreover, both 1000-grain weight and grain yield per plant in the pOsl2::GWD1 transgenic rice plants showed about 10% increase while the seed setting rate, panicle number per plant and grain number per panicle were unchanged (Figure 4d; Figure S5a-c).\nSeed germination is not only a key event in plant reproduction and development, but it is also critical for crop production. Therefore, the effect of GWD1 overexpression or knock-down mutation on rice seed germination was also investigated. The analysis showed that GWD1 overexpression increased germination while the gwd1 mutation decreased rice seed germination (Figure 7a, b; Figure S6a-d). \nHow did the pOsl2::GWD1 transgenic rice plants differ from the wild type in observed changes?\nA. Increased plant height\nB. Decreased grain yield per plant\nC. Unchanged seed setting rate\nD. Decreased 1000-grain weight",
+        "answer": "A, C",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We examined agronomic traits in the selected pOsl2::GWD1 transgenic lines and the gwd1 mutants. In general, plant height was increased in the GWD1 overexpression line compared to the WT (Figure 4a, b). Moreover, both 1000-grain weight and grain yield per plant in the pOsl2::GWD1 transgenic rice plants showed about 10% increase while the seed setting rate, panicle number per plant and grain number per panicle were unchanged (Figure 4d; Figure S5a-c).\nSeed germination is not only a key event in plant reproduction and development, but it is also critical for crop production. Therefore, the effect of GWD1 overexpression or knock-down mutation on rice seed germination was also investigated. The analysis showed that GWD1 overexpression increased germination while the gwd1 mutation decreased rice seed germination (Figure 7a, b; Figure S6a-d). \nHow does overexpression of GWD1 affect seed germination?\nA. It decreases seed germination\nB. It has no effect on seed germination\nC. It delays seed germination\nD. It increases seed germination",
+        "answer": "D",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We examined agronomic traits in the selected pOsl2::GWD1 transgenic lines and the gwd1 mutants. In general, plant height was increased in the GWD1 overexpression line compared to the WT (Figure 4a, b). Moreover, both 1000-grain weight and grain yield per plant in the pOsl2::GWD1 transgenic rice plants showed about 10% increase while the seed setting rate, panicle number per plant and grain number per panicle were unchanged (Figure 4d; Figure S5a-c).\nSeed germination is not only a key event in plant reproduction and development, but it is also critical for crop production. Therefore, the effect of GWD1 overexpression or knock-down mutation on rice seed germination was also investigated. The analysis showed that GWD1 overexpression increased germination while the gwd1 mutation decreased rice seed germination (Figure 7a, b; Figure S6a-d). \nHow does the gwd1 mutation impact the germination of rice seeds?\nA. It has no effect on seed germination\nB. It increases seed germination\nC. It delays seed germination\nD. It decreases seed germination",
+        "answer": "D",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We examined agronomic traits in the selected pOsl2::GWD1 transgenic lines and the gwd1 mutants. In general, plant height was increased in the GWD1 overexpression line compared to the WT (Figure 4a, b). Moreover, both 1000-grain weight and grain yield per plant in the pOsl2::GWD1 transgenic rice plants showed about 10% increase while the seed setting rate, panicle number per plant and grain number per panicle were unchanged (Figure 4d; Figure S5a-c).\nSeed germination is not only a key event in plant reproduction and development, but it is also critical for crop production. Therefore, the effect of GWD1 overexpression or knock-down mutation on rice seed germination was also investigated. The analysis showed that GWD1 overexpression increased germination while the gwd1 mutation decreased rice seed germination (Figure 7a, b; Figure S6a-d). \nIn the pOsl2::GWD1 transgenic rice plants, which characteristics did not undergo any alterations?\nA. Seed setting rate\nB. Grain number per panicle\nC. Panicle number per plant\nD. Plant height",
+        "answer": "A, C, B",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We isolated a rice bglu6 mutant (04Z11IG62) with a T-DNA insertion in the sixth intron of the gene (Fig. 1a). Molecular analysis revealed that this T-DNA insertion resulted in no detectable expression ofBGLU6in leaves and roots (Fig. S1a,b). Phenotypic analysis showed that disruption of BGLU6 led to a 46.2% and 66.9% decrease in seedling plant height compared to the WT, at 7 and 14 d post-transplantation, respectively (Figs 1b, S1c,d). The dwarf phenotype was present throughout the entire growth and development stages (Figs 1b, S1c,d). By contrast, no difference was seen in root length of bglu6compared to the WT root length (data not shown). To confirm the role ofBGLU6on plant height, we generated bglu6 RE and OE transgenic rice lines by introducing an Ubiquitin-driven construct harboring BGLU6 (Fig. S2a). The plant height ofBGLU6RE lines were 93.2% that of the WT, indicating a nearly complete restoration of height through expression of BGLU6 in the mutant. BGLU6OE lines had a plant height of 120.5% of the WT (Fig. S2b,c). Likewise, no obvious difference was seen in root length and weight between these genotypes (data not shown). b-glucosidases have been reported to hydrolyze inactive ABAGE, and result in an increase in the endogenous ABA concentration. To investigate if the dwarfism is related to cellular ABA concentration, we examined the endogenous ABA content in leaves of the WT and the bglu6mutant at the seedling stage. ABA content in bglu6was 68.2% that of the WT (Fig. 1c). We also examined leafGA3 content and no difference was seen between the WT and the bglu6mutant (Fig. 1c), suggesting the enzyme is specific for hydrolysis of ABA-GE. Furthermore, spraying 10 lMABA onto bglu6leaves partly restored the plant height ofbglu6(Fig. 1d). Taken together, these results indicate that disruption of BGLU6 affects ABA concentration in leaves, resulting in a dwarfism in the mutant.\nUnder normal conditions, the hydrolysis activity ofABA-GE in the OE-5 line was 22.6% higher than that of the WT (Fig. 2c). After 2 d of drought stress, the hydrolysis activity in the WT and the OE-5 line was increased to 121% and 105% of activity before the treatment (Fig. 2c). Taken together, these results clearly demonstrate that BGLU6 hydrolyzes ABA-GE to ABA in vitro, and that this activity can be enhanced by drought stress.\nOf the downregulated DEGs, seven were related to stress. Of these, heat shock protein 81-2 (OS09G0482100), SPX domaincontaining protein (OS02G0202200) and embryonic abundant protein (OS05G0349800) were downregulated the most (Table S4). Four DEGs that participate in photosynthesis were identified, with ribulose bisphosphate carboxylase large chain (OS01G0791033), ATP synthase subunit beta, chloroplastic (OS10G0355800) downregulated the most (Table S3). Besides these, we also found that positive regulation of abscisic acid biosynthesis process (GO0010116) was significantly enriched in the DEGs. The expression patterns of these DEGs were confirmed by q-RT-PCR analysis (Fig. S5). Taken together, the above results suggest that disruption of BGLU6 affects chloroplastic oxidative stress and lowers the photosynthesis efficiency, even under normal condition.\nBecause disruption of BGLU6 resulted in a decrease in endogenous ABA concentrations in leaves, and BGLU6 was localized to the chloroplast, we examined the stomatal characteristics of WT, bglu6, RE and OE lines in leaves. Under normal conditions, bglu6had significantly increased stomatal density, at 157.5% that of the WT. The increased stomatal density could be restored by expressing BGLU6 in the mutant, whereas in the OE line the density was not significantly different from that of the WT (Fig. 6a,c). After drought stress, stomatal density was slightly higher in these genotypes compared to that before treatment, except in the OE line, which had equivalent stomatal densities to those before stress (Fig. 6a,c). Taken together, these results indicate that disruption ofBGLU6affects stomatal density in leaves.\nWhat were the effects of the T-DNA insertion on the rice bglu6 mutant?\nA. Increase in root length.\nB. Increase in stomatal density in leaves.\nC. Increase in seedling plant height.\nD. No detectable expression of BGLU6 in leaves and roots.",
+        "answer": "D, B",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We isolated a rice bglu6 mutant (04Z11IG62) with a T-DNA insertion in the sixth intron of the gene (Fig. 1a). Molecular analysis revealed that this T-DNA insertion resulted in no detectable expression ofBGLU6in leaves and roots (Fig. S1a,b). Phenotypic analysis showed that disruption of BGLU6 led to a 46.2% and 66.9% decrease in seedling plant height compared to the WT, at 7 and 14 d post-transplantation, respectively (Figs 1b, S1c,d). The dwarf phenotype was present throughout the entire growth and development stages (Figs 1b, S1c,d). By contrast, no difference was seen in root length of bglu6compared to the WT root length (data not shown). To confirm the role ofBGLU6on plant height, we generated bglu6 RE and OE transgenic rice lines by introducing an Ubiquitin-driven construct harboring BGLU6 (Fig. S2a). The plant height ofBGLU6RE lines were 93.2% that of the WT, indicating a nearly complete restoration of height through expression of BGLU6 in the mutant. BGLU6OE lines had a plant height of 120.5% of the WT (Fig. S2b,c). Likewise, no obvious difference was seen in root length and weight between these genotypes (data not shown). b-glucosidases have been reported to hydrolyze inactive ABAGE, and result in an increase in the endogenous ABA concentration. To investigate if the dwarfism is related to cellular ABA concentration, we examined the endogenous ABA content in leaves of the WT and the bglu6mutant at the seedling stage. ABA content in bglu6was 68.2% that of the WT (Fig. 1c). We also examined leafGA3 content and no difference was seen between the WT and the bglu6mutant (Fig. 1c), suggesting the enzyme is specific for hydrolysis of ABA-GE. Furthermore, spraying 10 lMABA onto bglu6leaves partly restored the plant height ofbglu6(Fig. 1d). Taken together, these results indicate that disruption of BGLU6 affects ABA concentration in leaves, resulting in a dwarfism in the mutant.\nUnder normal conditions, the hydrolysis activity ofABA-GE in the OE-5 line was 22.6% higher than that of the WT (Fig. 2c). After 2 d of drought stress, the hydrolysis activity in the WT and the OE-5 line was increased to 121% and 105% of activity before the treatment (Fig. 2c). Taken together, these results clearly demonstrate that BGLU6 hydrolyzes ABA-GE to ABA in vitro, and that this activity can be enhanced by drought stress.\nOf the downregulated DEGs, seven were related to stress. Of these, heat shock protein 81-2 (OS09G0482100), SPX domaincontaining protein (OS02G0202200) and embryonic abundant protein (OS05G0349800) were downregulated the most (Table S4). Four DEGs that participate in photosynthesis were identified, with ribulose bisphosphate carboxylase large chain (OS01G0791033), ATP synthase subunit beta, chloroplastic (OS10G0355800) downregulated the most (Table S3). Besides these, we also found that positive regulation of abscisic acid biosynthesis process (GO0010116) was significantly enriched in the DEGs. The expression patterns of these DEGs were confirmed by q-RT-PCR analysis (Fig. S5). Taken together, the above results suggest that disruption of BGLU6 affects chloroplastic oxidative stress and lowers the photosynthesis efficiency, even under normal condition.\nBecause disruption of BGLU6 resulted in a decrease in endogenous ABA concentrations in leaves, and BGLU6 was localized to the chloroplast, we examined the stomatal characteristics of WT, bglu6, RE and OE lines in leaves. Under normal conditions, bglu6had significantly increased stomatal density, at 157.5% that of the WT. The increased stomatal density could be restored by expressing BGLU6 in the mutant, whereas in the OE line the density was not significantly different from that of the WT (Fig. 6a,c). After drought stress, stomatal density was slightly higher in these genotypes compared to that before treatment, except in the OE line, which had equivalent stomatal densities to those before stress (Fig. 6a,c). Taken together, these results indicate that disruption ofBGLU6affects stomatal density in leaves.\nWhat alterations were noted in the BGLU6 RE and OE transgenic rice lines?\nA. BGLU6 OE lines had a plant height of 120.5% of the WT.\nB. The plant height of BGLU6 RE lines was 93.2% that of the WT.\nC. The hydrolysis activity of ABA-GE in the OE-5 line was 22.6% higher than that of the WT.\nD. The stomatal density in the OE line was lower than that of the WT.",
+        "answer": "B, A, C",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We isolated a rice bglu6 mutant (04Z11IG62) with a T-DNA insertion in the sixth intron of the gene (Fig. 1a). Molecular analysis revealed that this T-DNA insertion resulted in no detectable expression ofBGLU6in leaves and roots (Fig. S1a,b). Phenotypic analysis showed that disruption of BGLU6 led to a 46.2% and 66.9% decrease in seedling plant height compared to the WT, at 7 and 14 d post-transplantation, respectively (Figs 1b, S1c,d). The dwarf phenotype was present throughout the entire growth and development stages (Figs 1b, S1c,d). By contrast, no difference was seen in root length of bglu6compared to the WT root length (data not shown). To confirm the role ofBGLU6on plant height, we generated bglu6 RE and OE transgenic rice lines by introducing an Ubiquitin-driven construct harboring BGLU6 (Fig. S2a). The plant height ofBGLU6RE lines were 93.2% that of the WT, indicating a nearly complete restoration of height through expression of BGLU6 in the mutant. BGLU6OE lines had a plant height of 120.5% of the WT (Fig. S2b,c). Likewise, no obvious difference was seen in root length and weight between these genotypes (data not shown). b-glucosidases have been reported to hydrolyze inactive ABAGE, and result in an increase in the endogenous ABA concentration. To investigate if the dwarfism is related to cellular ABA concentration, we examined the endogenous ABA content in leaves of the WT and the bglu6mutant at the seedling stage. ABA content in bglu6was 68.2% that of the WT (Fig. 1c). We also examined leafGA3 content and no difference was seen between the WT and the bglu6mutant (Fig. 1c), suggesting the enzyme is specific for hydrolysis of ABA-GE. Furthermore, spraying 10 lMABA onto bglu6leaves partly restored the plant height ofbglu6(Fig. 1d). Taken together, these results indicate that disruption of BGLU6 affects ABA concentration in leaves, resulting in a dwarfism in the mutant.\nUnder normal conditions, the hydrolysis activity ofABA-GE in the OE-5 line was 22.6% higher than that of the WT (Fig. 2c). After 2 d of drought stress, the hydrolysis activity in the WT and the OE-5 line was increased to 121% and 105% of activity before the treatment (Fig. 2c). Taken together, these results clearly demonstrate that BGLU6 hydrolyzes ABA-GE to ABA in vitro, and that this activity can be enhanced by drought stress.\nOf the downregulated DEGs, seven were related to stress. Of these, heat shock protein 81-2 (OS09G0482100), SPX domaincontaining protein (OS02G0202200) and embryonic abundant protein (OS05G0349800) were downregulated the most (Table S4). Four DEGs that participate in photosynthesis were identified, with ribulose bisphosphate carboxylase large chain (OS01G0791033), ATP synthase subunit beta, chloroplastic (OS10G0355800) downregulated the most (Table S3). Besides these, we also found that positive regulation of abscisic acid biosynthesis process (GO0010116) was significantly enriched in the DEGs. The expression patterns of these DEGs were confirmed by q-RT-PCR analysis (Fig. S5). Taken together, the above results suggest that disruption of BGLU6 affects chloroplastic oxidative stress and lowers the photosynthesis efficiency, even under normal condition.\nBecause disruption of BGLU6 resulted in a decrease in endogenous ABA concentrations in leaves, and BGLU6 was localized to the chloroplast, we examined the stomatal characteristics of WT, bglu6, RE and OE lines in leaves. Under normal conditions, bglu6had significantly increased stomatal density, at 157.5% that of the WT. The increased stomatal density could be restored by expressing BGLU6 in the mutant, whereas in the OE line the density was not significantly different from that of the WT (Fig. 6a,c). After drought stress, stomatal density was slightly higher in these genotypes compared to that before treatment, except in the OE line, which had equivalent stomatal densities to those before stress (Fig. 6a,c). Taken together, these results indicate that disruption ofBGLU6affects stomatal density in leaves.\nHow did the disruption of BGLU6 impact photosynthesis efficiency and oxidative stress?\nA. It increased chloroplastic oxidative stress.\nB. It lowered the photosynthesis efficiency.\nC. It decreased chloroplastic oxidative stress.\nD. It increased the photosynthesis efficiency.",
+        "answer": "B, A",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We isolated a rice bglu6 mutant (04Z11IG62) with a T-DNA insertion in the sixth intron of the gene (Fig. 1a). Molecular analysis revealed that this T-DNA insertion resulted in no detectable expression ofBGLU6in leaves and roots (Fig. S1a,b). Phenotypic analysis showed that disruption of BGLU6 led to a 46.2% and 66.9% decrease in seedling plant height compared to the WT, at 7 and 14 d post-transplantation, respectively (Figs 1b, S1c,d). The dwarf phenotype was present throughout the entire growth and development stages (Figs 1b, S1c,d). By contrast, no difference was seen in root length of bglu6compared to the WT root length (data not shown). To confirm the role ofBGLU6on plant height, we generated bglu6 RE and OE transgenic rice lines by introducing an Ubiquitin-driven construct harboring BGLU6 (Fig. S2a). The plant height ofBGLU6RE lines were 93.2% that of the WT, indicating a nearly complete restoration of height through expression of BGLU6 in the mutant. BGLU6OE lines had a plant height of 120.5% of the WT (Fig. S2b,c). Likewise, no obvious difference was seen in root length and weight between these genotypes (data not shown). b-glucosidases have been reported to hydrolyze inactive ABAGE, and result in an increase in the endogenous ABA concentration. To investigate if the dwarfism is related to cellular ABA concentration, we examined the endogenous ABA content in leaves of the WT and the bglu6mutant at the seedling stage. ABA content in bglu6was 68.2% that of the WT (Fig. 1c). We also examined leafGA3 content and no difference was seen between the WT and the bglu6mutant (Fig. 1c), suggesting the enzyme is specific for hydrolysis of ABA-GE. Furthermore, spraying 10 lMABA onto bglu6leaves partly restored the plant height ofbglu6(Fig. 1d). Taken together, these results indicate that disruption of BGLU6 affects ABA concentration in leaves, resulting in a dwarfism in the mutant.\nUnder normal conditions, the hydrolysis activity ofABA-GE in the OE-5 line was 22.6% higher than that of the WT (Fig. 2c). After 2 d of drought stress, the hydrolysis activity in the WT and the OE-5 line was increased to 121% and 105% of activity before the treatment (Fig. 2c). Taken together, these results clearly demonstrate that BGLU6 hydrolyzes ABA-GE to ABA in vitro, and that this activity can be enhanced by drought stress.\nOf the downregulated DEGs, seven were related to stress. Of these, heat shock protein 81-2 (OS09G0482100), SPX domaincontaining protein (OS02G0202200) and embryonic abundant protein (OS05G0349800) were downregulated the most (Table S4). Four DEGs that participate in photosynthesis were identified, with ribulose bisphosphate carboxylase large chain (OS01G0791033), ATP synthase subunit beta, chloroplastic (OS10G0355800) downregulated the most (Table S3). Besides these, we also found that positive regulation of abscisic acid biosynthesis process (GO0010116) was significantly enriched in the DEGs. The expression patterns of these DEGs were confirmed by q-RT-PCR analysis (Fig. S5). Taken together, the above results suggest that disruption of BGLU6 affects chloroplastic oxidative stress and lowers the photosynthesis efficiency, even under normal condition.\nBecause disruption of BGLU6 resulted in a decrease in endogenous ABA concentrations in leaves, and BGLU6 was localized to the chloroplast, we examined the stomatal characteristics of WT, bglu6, RE and OE lines in leaves. Under normal conditions, bglu6had significantly increased stomatal density, at 157.5% that of the WT. The increased stomatal density could be restored by expressing BGLU6 in the mutant, whereas in the OE line the density was not significantly different from that of the WT (Fig. 6a,c). After drought stress, stomatal density was slightly higher in these genotypes compared to that before treatment, except in the OE line, which had equivalent stomatal densities to those before stress (Fig. 6a,c). Taken together, these results indicate that disruption ofBGLU6affects stomatal density in leaves.\nWhat alterations were noted in terms of hydrolysis activity and stomatal density when subjected to drought stress?\nA. The hydrolysis activity in the WT and the OE-5 line increased.\nB. The stomatal density was slightly higher in these genotypes compared to that before treatment.\nC. The stomatal density in the OE line was lower than before stress.\nD. The hydrolysis activity in the WT and the OE-5 line decreased.",
+        "answer": "A, B",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "knockout lines (KO-GL10) harbored a frameshift mutation that caused premature termination of translation (Fig. S4A and S4B). These KO-GL10 lines exhibited significantly decreased grain length, grain width, and 1000-grain weight compared to those of the HJX74 wild-type line (Fig. 2A, 2C, 2D, 2E). In addition, heading date differed significantly between KO-GL10 and HJX74 (Fig. S4C), although we found no detectable differences in plant height, effective tiller numbers, or grain number (Fig. S4DeS4F). We also generated a genetic complementation construct for GL10 overexpression in the NIL-gl10 background via transformation with a p35S-GL10 vector (Fig. S5A and S5B). The GL10 overexpression lines exhibited significantly increased grain length and grain weight compared to that of NIL-gl10 (Fig. 2B, 2F, 2G, 2H). Moreover, OE-GL10 grain phenotypes were distinct from that of KO-GL10 plants, with grain length and heading date positively correlating with GL10 expression level. Notably, the heading stage of OE-GL10 was earlier than that of NIL-gl10 (Fig. S5C). In addition, we found no significant differences between OE-GL10 and NIL-gl10 in grain width, plant height, effective tiller numbers, and grain number per plant (Fig. S5DeS5F). These results indicate that GL10 was a positive regulator of grain length, grain weight and heading date.\noverexpression of GL10 results in increased grain length and weight and earlier heading date. GL10 regulates grain length by promoting greater longitudinal cell growth in the grain glume. Additionally, GL10 participates in the regulation of gibberellic acid (GA) signaling pathway genes in young panicle tissues. Analysis of GL10 haplotypes shows obvious divergence between the japonica and indica lineages.\nWhat type of mutation is present in the GL10 gene in knockout lines (KO-GL10)?\nA. A nonsense mutation causing a stop codon.\nB. A missense mutation causing a change in one amino acid.\nC. A deletion mutation causing a loss of a whole gene.\nD. A frameshift mutation causing premature termination of translation.",
+        "answer": "D",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "knockout lines (KO-GL10) harbored a frameshift mutation that caused premature termination of translation (Fig. S4A and S4B). These KO-GL10 lines exhibited significantly decreased grain length, grain width, and 1000-grain weight compared to those of the HJX74 wild-type line (Fig. 2A, 2C, 2D, 2E). In addition, heading date differed significantly between KO-GL10 and HJX74 (Fig. S4C), although we found no detectable differences in plant height, effective tiller numbers, or grain number (Fig. S4DeS4F). We also generated a genetic complementation construct for GL10 overexpression in the NIL-gl10 background via transformation with a p35S-GL10 vector (Fig. S5A and S5B). The GL10 overexpression lines exhibited significantly increased grain length and grain weight compared to that of NIL-gl10 (Fig. 2B, 2F, 2G, 2H). Moreover, OE-GL10 grain phenotypes were distinct from that of KO-GL10 plants, with grain length and heading date positively correlating with GL10 expression level. Notably, the heading stage of OE-GL10 was earlier than that of NIL-gl10 (Fig. S5C). In addition, we found no significant differences between OE-GL10 and NIL-gl10 in grain width, plant height, effective tiller numbers, and grain number per plant (Fig. S5DeS5F). These results indicate that GL10 was a positive regulator of grain length, grain weight and heading date.\noverexpression of GL10 results in increased grain length and weight and earlier heading date. GL10 regulates grain length by promoting greater longitudinal cell growth in the grain glume. Additionally, GL10 participates in the regulation of gibberellic acid (GA) signaling pathway genes in young panicle tissues. Analysis of GL10 haplotypes shows obvious divergence between the japonica and indica lineages.\nWhat are the observed consequences when GL10 is overexpressed in the NIL-gl10 background?\nA. Earlier heading stage.\nB. Increased grain length and grain weight.\nC. Decreased grain width, plant height, effective tiller numbers, and grain number per plant.\nD. No significant differences in grain width, plant height, effective tiller numbers, and grain number per plant.",
+        "answer": "B, A, D",
+        "split": {
+            "level1": "基因功能实验观察"
+        },
+        "task_type": "context_multiple_choice"
+    }
+]
