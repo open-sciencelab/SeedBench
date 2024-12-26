@@ -109,8 +109,8 @@
     },
     {
         "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
-        "question": "What were the tissues where OsRELA was expressed associated with?\nA. The phenotypes of the rela mutant\nB. The photosynthesis process\nC. The growth of the rice plant\nD. The reproductive process of the rice plant",
-        "answer": "A",
+        "question": "What growth stages are associated with OsRELA expression?\nA. The phenotypes of the rela mutant\nB. The photosynthesis process\nC. The growth of the rice plant\nD. The reproductive process of the rice plant",
+        "answer": "C",
         "split": {
             "level1": "基因表达模式"
         },
@@ -217,7 +217,7 @@
     },
     {
         "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
-        "question": "水稻OsSIZ2基因的主要功能是什么？\nA. 正向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的负调控\nB. 正向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的正调控\nC. 负向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的负调控\nD. 负向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的正调控",
+        "question": "敲除或介导敲低OsSIZ2基因对突变体会有什么影响？\nA. 正向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的负调控\nB. 正向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的正调控\nC. 负向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的负调控\nD. 负向调控水稻的发育响应，对磷酸盐Pi和总磷浓度的正调控",
         "answer": "A",
         "split": {
             "level1": "基因基本信息查询"
@@ -442,8 +442,8 @@
     },
     {
         "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
-        "question": "GWD1基因可能影响的植物性状中，以下哪项与籽粒有关？\nA. 株高\nB. 籽粒长宽比\nC. 发芽率\nD. 单株穗数",
-        "answer": "B",
+        "question": "GWD1基因可能影响下列哪项性状？\nA. 株高\nB. 籽粒长宽比\nC. 发芽率\nD. 单株穗数",
+        "answer": "C",
         "split": {
             "level1": "基因功能预测"
         },
@@ -793,8 +793,8 @@
     },
     {
         "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
-        "question": "What was the condition under which DTH8 expression was examined?\nA. Short day conditions\nB. No specific conditions\nC. Long day conditions\nD. Normal day conditions",
-        "answer": "C",
+        "question": "What environmental factors affect DTH8？\nA.light \nB. temperature \nC.water \nD.drought",
+        "answer": "A",
         "split": {
             "level1": "基因功能实验观察"
         },
@@ -1243,8 +1243,8 @@
     },
     {
         "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
-        "question": "宁香粳9号对哪种病害具有抗性？\nA. 水稻白叶枯病\nB. 稻纹枯病\nC. 水稻条纹叶枯病\nD. 稻瘟病",
-        "answer": "C",
+        "question": "宁香粳9号对以下哪种病害抗性最强？\nA. 水稻白叶枯病\nB. 稻纹枯病\nC. 水稻条纹叶枯病\nD. 稻瘟病",
+        "answer": "D",
         "split": {
             "level1": "中国品种农艺性状查询"
         },
