@@ -1681,5 +1681,315 @@
             "level1": "基因产物调控下游基因"
         },
         "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "与其保持系相比，哪些ORF在SXCMS5A、SXCMS6A和SXCMS7A中上调？\nA. ORF178\nB. ORF103c\nC. ORF200\nD. ORF151",
+        "answer": "D, B, A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "SXCMS6A和SXCMS7A的细胞质来源与哪个样本相同？\nA. SXCMS6B\nB. SXCMS7B\nC. SXCMS5B\nD. SXCMS5A",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "*Gmdw1*基因第6内含子中发现了哪些突变？\nA. A2416G突变\nB. T1224A突变\nC. A-to-T变化\nD. 3-bp删除",
+        "answer": "A, D",
+        "split": {
+            "level1": "基因基本信息查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在实验中，GmCRP过表达的毛状根接种了哪些菌株？  \nA. 野生菌株  \nB. NopL突变体  \nC. 野生型和NopC突变体  \nD. NopC突变体  ",
+        "answer": "A, D",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "研究中提到的GmCOP1a和GmCOP1b在大豆中起什么作用？\nA. 调节大豆的植株高度\nB. 提高大豆的光合作用效率\nC. 控制大豆的开花时间\nD. 增强大豆的抗病性",
+        "answer": "A",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "PH13的昼夜转录模式与以下哪个基因的模式一致？\nA. GmCOP1d\nB. GmCOP1b\nC. GmCOP1a\nD. GmCOP1c",
+        "answer": "C, B",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "PH13在大豆中的作用是什么？\nA. 作为进化上保守的因子\nB. 形成复合物降解目标蛋白\nC. 促进光合作用\nD. 提高种子产量",
+        "answer": "A, B",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "PH13的转录水平在一天中的哪个时间段达到峰值？\nA. 黄昏\nB. 黎明\nC. 中午\nD. 午夜",
+        "answer": "B",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪些是GmCOP1a和GmCOP1b的特征？\nA. 它们在黄昏时转录水平最高\nB. 它们是大豆中的COP1同源物\nC. 它们与PH13形成复合物\nD. 它们在大豆中调节植株高度",
+        "answer": "B, C, D",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Gmzf_CCCHs主要参与哪些激素介导的信号通路？\nA. GA介导的信号通路\nB. JA介导的信号通路\nC. ABA介导的信号通路\nD. SA介导的信号通路",
+        "answer": "B, C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪种性状在单一环境中具有最高的广义遗传力？\nA. 种子产量每株（SYP）\nB. 100粒种子重量（HSW）\nC. 根系长度\nD. 植株高度",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪些性状在Chr.04的单倍型等位基因中表现出显著差异？\nA. 叶面积\nB. SPP（每荚种子数）\nC. PPP（每株荚数）\nD. 株高",
+        "answer": "B, C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪些基因在大豆根组织中表现出最高的表达水平？\nA. Glyma.09g051100\nB. Glyma.01g220600\nC. Glyma.05g225700\nD. Glyma.11g209100",
+        "answer": "D, A, B, C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "哪些有机渗透溶质在大豆中显著积累以应对干旱胁迫？\nA. 甘氨酸\nB. 脯氨酸\nC. 谷氨酸\nD. 丙氨酸",
+        "answer": "A, B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Glyphosate对大豆的影响包括哪些？\nA. 增加根长\nB. 减少shikimate积累\nC. 增加shikimate积累\nD. 减少根长",
+        "answer": "D, C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在glyphosate处理的大豆中，shikimate积累的趋势在哪些部位被报告？\nA. 叶子\nB. 种子\nC. 顶端分生组织\nD. 根部",
+        "answer": "A, C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GmMFT基因在Huachun 2和Wayao品种中的表达模式是什么？\nA. 表达量在种子发育过程中逐渐减少\nB. 在40天后花期后变得不可检测\nC. 在30天后花期达到峰值\nD. 表达量在种子发育过程中逐渐增加",
+        "answer": "D, C, B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GmMFT基因表达量较高可能对Huachun 2的种子油含量有什么影响？\nA. 没有影响\nB. 可能导致较高的种子油含量\nC. 影响不确定\nD. 可能导致较低的种子油含量",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "研究发现的显著基因区域位于哪个染色体上？  \nA. 染色体1  \nB. 染色体21  \nC. 染色体7  \nD. 染色体13  ",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪项是支持GmMs1基因导致不育的证据？\nA. TETRASPORE在可育植物中表达显著降低\nB. NACK2基因在不育植物中上调\nC. tes突变体的细胞学特征与大豆ms1不育植物相似\nD. GmMs1在不育植物中的表达几乎检测不到",
+        "answer": "D, C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "根据实验结果，SymRKs在体外条件下对Gα蛋白的作用是什么？\nA. 不影响GTPase活性\nB. 增强GTPase活性\nC. 增加GTP结合能力\nD. 完全丧失GTP结合和GTPase活性",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Shen Nong L-78-387 的不育性与哪个等位基因相关联？  \nA. ms2  \nB. ms3  \nC. ms4  \nD. ms1  ",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Shen Nong L-78-387 的研究具有哪些特点？  \nA. 首个被国内学者广泛研究的核不育系  \nB. 地理上来源于远缘杂交后代  \nC. 属于细胞质不育系  \nD. 与 ms1 等位基因相关联  ",
+        "answer": "A, D, B",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "高品质（高油）大豆的种植时间通常是什么时候？\nA. 任何时间均可\nB. 与高产大豆相同或稍早\nC. 比高产大豆稍晚\nD. 与晚熟大豆相同",
+        "answer": "B",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "为什么建议早期种植大豆？\nA. 增加大豆种子的脂肪含量\nB. 增加大豆种子的糖分含量\nC. 增加大豆种子的纤维含量\nD. 增加大豆种子的蛋白质含量",
+        "answer": "A",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "晚熟大豆品种的种植建议是什么？\nA. 应该在春季种植\nB. 应该晚些种植\nC. 应该在秋季种植\nD. 应该早些种植",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在黄淮地区，夏季大豆的最佳种植时间是什么时候？\nA. 六月初\nB. 六月中旬\nC. 七月初\nD. 六月底",
+        "answer": "B",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "黄淮地区高品质（高油、高蛋白）大豆的最佳种植期是什么时候？\nA. 六月1日至10日\nB. 六月20日至30日\nC. 七月1日至10日\nD. 六月10日至20日",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在R1和R3生长阶段，以下哪些品种之间观察到了叶绿素含量的显著差异？\nA. Changnong 35 和 Jiyu 441\nB. Jiyu 441 和 Changnong 35\nC. Changnong 39 和 Jiyu 441\nD. Changnong 39 和 Changnong 35",
+        "answer": "C, A",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在R6阶段，哪一个品种的叶绿素含量显著高于其他品种？\nA. Changnong 35\nB. Jiyu 441 和 Changnong 35\nC. Changnong 39\nD. Jiyu 441",
+        "answer": "C",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "随着生长的进展，Jiyu 441和Changnong 35之间的叶绿素含量差异如何变化？\nA. 差异保持不变\nB. 差异消失\nC. 差异增加\nD. 差异减少",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_multiple_choice"
     }
 ]
