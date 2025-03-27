@@ -2167,5 +2167,365 @@
             "level1": "基因功能实验观察"
         },
         "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "R-line ‘Kefeng 1’与S-line ‘NN1138-2’相比，对大豆花叶病毒（SMV）的抵抗性如何？",
+        "answer": "R-line ‘Kefeng 1’对大豆花叶病毒（SMV）表现出抵抗性，症状出现较晚且较轻，而S-line ‘NN1138-2’则从7 dpi开始显示明显的渐进性症状。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "MADS-box转录因子家族蛋白的基因标识符有哪些？",
+        "answer": "MADS-box转录因子家族蛋白的基因标识符是Glyma.05G140000和Glyma.18G053400。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在DN50和QH34中，盐胁迫对IAA家族基因的表达有何不同？  ",
+        "answer": "在盐胁迫下，DN50中IAA家族基因（如Glyma.19G161000、Glyma.02G000500、Glyma.07G015200）被上调，而QH34中的IAA家族基因（如Glyma.08G203100）被下调。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "大豆的MCM2和MCM7基因与B. oleracea和B. rapa的MCM基因的氨基酸同一性大约是多少？",
+        "answer": "大豆的MCM2和MCM7基因与B. oleracea和B. rapa的MCM基因的氨基酸同一性大约是76–84%。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "大豆的MCM4、MCM5和MCM6基因与B. rapa的MCM基因的氨基酸序列相似性如何？",
+        "answer": "大豆的MCM4、MCM5和MCM6基因与B. rapa的MCM基因的氨基酸序列相似性范围为73–78%。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "大豆的MCM3基因（Glyma05g25980和Glyma08g08920）与BoMCM3和BrMCM3_2的同一性是多少？",
+        "answer": "大豆的MCM3基因（Glyma05g25980和Glyma08g08920）与BoMCM3和BrMCM3_2的同一性是76–77%。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在Group I类群中，哪些GmPME基因在NJCMS1A和NJCMS1B中表现出较高的表达水平？  ",
+        "answer": "在Group I类群中，GmPME46和GmPME121在NJCMS1A和NJCMS1B中表现出较高的表达水平。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在Group II类群中，哪些GmPME基因在NJCMS1A和NJCMS1B中表现出较高的表达水平？  ",
+        "answer": "在Group II类群中，GmPME12和GmPME122在NJCMS1A和NJCMS1B中表现出较高的表达水平。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "NopC突变体对结瘤数量（NN）和结瘤干重（NDW）有何影响？  ",
+        "answer": "NopC突变体减少了结瘤数量（NN）和结瘤干重（NDW）。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "PR1基因在HH103接种后何时达到表达峰值？  ",
+        "answer": "PR1基因在HH103接种后36小时达到表达峰值，这与NopC突变体不同。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Glyma.19G176300在Suinong 14中的表达模式是如何变化的？",
+        "answer": "在Suinong 14中，Glyma.19G176300的表达水平显示出一种几乎与NopC突变体相反的野生菌株诱导模式。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在Zyd 00006中，Glyma.19G176300的表达模式有什么特点？",
+        "answer": "在Zyd 00006中，野生菌株和NopC突变体之间的表达模式没有观察到差异。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Glyma.19G176300（GmCRP）在感染野生菌株HH103后被提议为与哪个基因相关的候选基因？",
+        "answer": "Glyma.19G176300（GmCRP）被提议为与NopC相关的候选基因。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "哪些种系被分析以确认种子耐涝性？",
+        "answer": "种子耐涝性分析了种系L422、L488和L018，其中在L422和L488中确认了突变。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "哪个基因被认为与种子耐涝性最相关？",
+        "answer": "Glyma.13g248000被认为是与种子耐涝性最相关的候选基因，并被命名为GmSFT。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "植物中的基因复制有哪些类型？",
+        "answer": "植物中的基因复制包括串联复制和片段复制。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "基因复制在植物基因组进化中有何重要性？",
+        "answer": "基因复制被认为是基因组进化的主要驱动力，导致植物中大型基因家族的扩展。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "基因型与环境交互作用（G×E）对哪些植物性状没有显著影响？",
+        "answer": "基因型与环境交互作用（G×E）对分枝数（BN）和百粒重（100-SW）没有显著影响。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "基因型（G）、环境（E）和基因型与环境交互作用（G×E）对植物高度（PH）的影响是否显著？",
+        "answer": "基因型（G）、环境（E）和基因型与环境交互作用（G×E）对植物高度（PH）的影响显著（P < 0.01）。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "How do moderately alkaline-tolerant soybean accessions respond to alkaline treatment?",
+        "answer": "Moderately alkaline-tolerant soybean accessions display yellowing and wilting of leaves, with reductions in shoot and root biomass under AT, but less reduction compared to sensitive cultivars.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What is the impact of alkaline treatment on the root and shoot biomass of alkaline-tolerant soybean accessions?",
+        "answer": "Alkaline-tolerant soybean accessions show the least impact on root and shoot biomass under alkaline treatment relative to control (CK).",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "How does the biomass reduction in moderately tolerant soybean accessions compare to that in sensitive cultivars under alkaline treatment?",
+        "answer": "The biomass reduction in moderately tolerant soybean accessions is less compared to that in sensitive cultivars under alkaline treatment.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What challenge was faced in partitioning the soybean landraces?  ",
+        "answer": "Direct and precise genotype partitioning was difficult despite genetic studies revealing distinct genotypes.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Which clustering algorithm was used to group the soybean landraces?  ",
+        "answer": "The K-means clustering algorithm was used to group the soybean landraces based on similarities.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "How was the optimal number of clusters determined in the study?  ",
+        "answer": "The optimal number of clusters was determined using the elbow method by identifying the curve's elbow.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在蛋白质组学研究中，什么酶在干旱条件下显著减少？",
+        "answer": "在蛋白质组学研究中，细胞质谷氨酰胺合成酶在干旱条件下显著减少。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "谷氨酰胺合成酶的减少如何影响大豆的干旱耐受机制？",
+        "answer": "谷氨酰胺合成酶的减少有助于缓解一氧化氮水平，从而激活大豆的干旱耐受机制。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "How does the overexpression of the GmADC gene affect the Na+/K+ ratio in soybean plants?",
+        "answer": "The overexpression of the GmADC gene decreases Na+/K+ ratios due to stable K+ levels.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What is the overall impact of GmADC gene overexpression on the Cl?/NO3? ratio in salt-stressed soybean plants?",
+        "answer": "The overall impact of GmADC gene overexpression is a decreased Cl?/NO3? ratio in salt-stressed OEGmADC soybean plants.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在knockout lines中，蛋白质含量如何变化？",
+        "answer": "在knockout lines中，蛋白质含量增加。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在OEGmMFT-1和OEGmMFT-2过表达线中，蛋白质含量如何变化？",
+        "answer": "在OEGmMFT-1和OEGmMFT-2过表达线中，蛋白质含量减少。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "与Rj1大豆相比，rj1大豆在β-伴大豆球蛋白的β-亚基积累上有什么特点？",
+        "answer": "rj1大豆积累的β-伴大豆球蛋白的β-亚基非常少。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What is the name of the high-yield variety mentioned in the context?  ",
+        "answer": "The name of the high-yield variety is Changnong 39.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "How does Changnong 39 perform compared to Jiyu 441 during the R1 and R7 growth stages?  ",
+        "answer": "During the R1 and R7 stages, Changnong 39 shows significantly higher performance compared to Jiyu 441.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "During which growth stages does Changnong 39 show consistent significant differences compared to conventional varieties?  ",
+        "answer": "During the R3, R5, and R6 stages, Changnong 39 consistently shows significant differences compared to conventional varieties.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What favorable condition is created by Changnong 39's leaf area index pattern?  ",
+        "answer": "The pattern of Changnong 39's leaf area index creates favorable conditions for photosynthesis.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
     }
 ]

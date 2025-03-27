@@ -970,5 +970,315 @@
             "level1": "基因功能实验观察"
         },
         "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Interestingly, 3 ORFs (ORF151, ORF103c and ORF178) were expressed at very low levels or not expressed in SXCMS5B. Especially, qRT-PCR analysis confirmed that these 3 ORFs genes were upregulated in SXCMS5A, SXCMS6A and SXCMS7A (the latter two CMS lines having a same cytoplasm source as SXCMS5A) compared to their respective maintainer SXCMS5B, SXCMS6B and SXCMS7B .\n在SXCMS5A、SXCMS6A和SXCMS7A中，相较于其保持系，哪些ORF表现出上调？\nA. ORF178\nB. ORF103c\nC. ORF200\nD. ORF151",
+        "answer": "D, B, A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Interestingly, 3 ORFs (ORF151, ORF103c and ORF178) were expressed at very low levels or not expressed in SXCMS5B. Especially, qRT-PCR analysis confirmed that these 3 ORFs genes were upregulated in SXCMS5A, SXCMS6A and SXCMS7A (the latter two CMS lines having a same cytoplasm source as SXCMS5A) compared to their respective maintainer SXCMS5B, SXCMS6B and SXCMS7B .\nSXCMS6A和SXCMS7A的细胞质与哪个样本的来源一致？\nA. SXCMS6B\nB. SXCMS7B\nC. SXCMS5B\nD. SXCMS5A",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Besides a T-to-A change in the third exon from BSA (bulked segregant analysis) sequencing, a second SNP mutation (A2416G) and a 3-bp deletion (AAA) were also identified in the 6th intron of Gmdw1 in the dw mutant, but only the single missense point mutation (T1224A) in exon 3 caused an amino acid substitution at residue 125, from Trp to Arg in the Gmdw1 gene .\n问题：在*Gmdw1*基因的第6内含子中，检测到了哪些突变？\n\n问题：iPad Air 2 的发布和上市日期分别是什么时候？\nA. 2014年10月16日发布，2014年10月22日上市\nB. 2014年10月22日发布，2014年10月16日上市\nC. 2015年10月16日发布，2015年10月22日上市\nD. 2014年9月16日发布，2014年9月22日上市\n正确答案：A\n\n改写问题：iPad Air 2 于何时发布和上市？\n\n问题：液晶相的形成条件是什么？\nA. 物质的压力和温度\nB. 物质的分子组合和流动性\nC. 物质的电磁场和光学性质\nD. 物质的结晶特性和光电特性\n正确答案：B\n\n改写问题：液晶相是如何形成的？\n\n问题：iPad Air 2 的处理器型号是________。\n正确答案：A8X\n\n改写问题：iPad Air 2 配备了______处理器？\n\n问题：*Gmdw1*基因第6内含子中发现了哪些突变？\nA. A2416G突变\nB. T1224A突变\nC. A-to-T变化\nD. 3-bp删除\n正确答案：A, D\n\n改写问题：*Gmdw1*基因的第6内含子中有哪些突变被发现？\nA. A2416G突变\nB. T1224A突变\nC. A-to-T变化\nD. 3-bp删除",
+        "answer": "A, D",
+        "split": {
+            "level1": "基因基本信息查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "When hairy roots were inoculated with the wild strain and the NopC mutant, GmCRP overexpression significantly increased the nodule number and dry weight after inoculation with both the wild strain and the NopC mutant compared with the control. When OE hairy-roots were inoculated with the NopC mutant, no significant differences in either nodule numbers and dry-weights were observed compared with control hairy roots inoculated with the wild strain, suggesting that GmCRP overexpression partially compensated for the absence of NopC during infection .\n实验中，GmCRP过表达的毛状根接种了哪些类型的菌株？\nA. 野生菌株  \nB. NopL突变体  \nC. 野生型和NopC突变体  \nD. NopC突变体  ",
+        "answer": "A, D",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "A previous study showed that two soybean COP1 orthologs, GmCOP1a and GmCOP1b, play a pivotal role in controlling plant height in soybean. Here we found that the diurnal transcription pattern of PH13 is in line with that of GmCOP1a and GmCOP1b in soybean, peaking at dawn and declining at dusk , suggesting that PH13 may act as an evolutionarily conserved factor to form a complex with these GmCOP1s to degrade target proteins in soybean.\n研究中提到的GmCOP1a和GmCOP1b在大豆中发挥什么功能？\nA. 调节大豆的植株高度\nB. 提高大豆的光合作用效率\nC. 控制大豆的开花时间\nD. 增强大豆的抗病性",
+        "answer": "A",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "A previous study showed that two soybean COP1 orthologs, GmCOP1a and GmCOP1b, play a pivotal role in controlling plant height in soybean. Here we found that the diurnal transcription pattern of PH13 is in line with that of GmCOP1a and GmCOP1b in soybean, peaking at dawn and declining at dusk , suggesting that PH13 may act as an evolutionarily conserved factor to form a complex with these GmCOP1s to degrade target proteins in soybean.\n问题：PH13的昼夜转录模式与哪个基因的转录模式相符？\nA. GmCOP1d\nB. GmCOP1b\nC. GmCOP1a\nD. GmCOP1c\n正确答案：C, B\nA. GmCOP1d\nB. GmCOP1b\nC. GmCOP1a\nD. GmCOP1c",
+        "answer": "C, B",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "A previous study showed that two soybean COP1 orthologs, GmCOP1a and GmCOP1b, play a pivotal role in controlling plant height in soybean. Here we found that the diurnal transcription pattern of PH13 is in line with that of GmCOP1a and GmCOP1b in soybean, peaking at dawn and declining at dusk , suggesting that PH13 may act as an evolutionarily conserved factor to form a complex with these GmCOP1s to degrade target proteins in soybean.\n问题：PH13 在大豆中发挥什么作用？\nA. 作为进化上保守的因子\nB. 形成复合物降解目标蛋白\nC. 促进光合作用\nD. 提高种子产量\n正确答案：A, B\nA. 作为进化上保守的因子\nB. 形成复合物降解目标蛋白\nC. 促进光合作用\nD. 提高种子产量",
+        "answer": "A, B",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "A previous study showed that two soybean COP1 orthologs, GmCOP1a and GmCOP1b, play a pivotal role in controlling plant height in soybean. Here we found that the diurnal transcription pattern of PH13 is in line with that of GmCOP1a and GmCOP1b in soybean, peaking at dawn and declining at dusk , suggesting that PH13 may act as an evolutionarily conserved factor to form a complex with these GmCOP1s to degrade target proteins in soybean.\nPH13的转录水平在一天中的何时达到最高点？\nA. 黄昏\nB. 黎明\nC. 中午\nD. 午夜",
+        "answer": "B",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "A previous study showed that two soybean COP1 orthologs, GmCOP1a and GmCOP1b, play a pivotal role in controlling plant height in soybean. Here we found that the diurnal transcription pattern of PH13 is in line with that of GmCOP1a and GmCOP1b in soybean, peaking at dawn and declining at dusk , suggesting that PH13 may act as an evolutionarily conserved factor to form a complex with these GmCOP1s to degrade target proteins in soybean.\n问题：GmCOP1a和GmCOP1b有哪些特征？\nA. 它们在黄昏时转录水平最高\nB. 它们是大豆中的COP1同源物\nC. 它们与PH13形成复合物\nD. 它们在大豆中调节植株高度",
+        "answer": "B, C, D",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Many cis-acting elements related to hormone signaling pathways were found, such as methyl jasmonate (MeJA), salicylic acid (SA), abscisic acid (ABA), gibberellins (GA) and auxin (IAA). A total of 65 Gmzf_CCCHs were detected with MeJA-responsive elements, containing CGTCA-motif and TGACG-motif, and 77 for ABA-responsive element (ABRE), indicating that most of the Gmzf_CCCHs might participate in JA- and ABA-mediated signaling pathways.\nGmzf_CCCHs 主要参与哪些由激素调控的信号通路？\nA. GA介导的信号通路\nB. JA介导的信号通路\nC. ABA介导的信号通路\nD. SA介导的信号通路",
+        "answer": "B, C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "For all the studied traits, the genotype component accounted for the highest proportion of the observed variations. Moreover, medium to high broad-sense heritability (h2) was observed, ranging from 0.61 (seed yield per plant, SYP) to 0.99 (100-seed weight, HSW) in individual environments (Supplementary Table S1) and from 0.80 (SYP) to 0.99 (HSW) in the combined environment (Table 1).\n在单一环境中，哪种性状的广义遗传力最高？\nA. 种子产量每株（SYP）\nB. 100粒种子重量（HSW）\nC. 根系长度\nD. 植株高度",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "The six stable markers mentioned above were used as a reference for the identification of haplotypes for yield-related traits. These stable markers were located on Chr.04 (AX-93703,924), Chr.05 (AX-93922099), Chr.11 (AX-93793,210), Chr.13 (AX-93807,406), Chr.18 (AX-94176727), and Chr.20 (AX-94199992). All the markers that were in strong LD (within ±670 kbp) with these six SNP markers, represented a haplotype block/locus . For example, 17 SNP markers were in strong LD with the reference marker AX-93703,924 (3,957,601–4291,705) and formed a haplotype block. Three haplotype alleles were identified within this haplotype block, in the soybean population . These three haplotype alleles identified on Chr.04 showed significant differences in the phenotypes of SPP and PPP.\n问题：在Chr.04的单倍型等位基因中，哪些性状显示出明显的差异？\nA. 叶面积\nB. SPP（每荚种子数）\nC. PPP（每株荚数）\nD. 株高",
+        "answer": "B, C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Based on obtained annotation information, possible role in root development, and expression profiles related to root organs/tissues (e.g., roots, root stripped, root nodules, and root tips), we drew up a shortlist of 55 candidate genes (Table S4). We first used the ePlant (https://bar.utoronto.ca/eplant_soybean/, accessed on 16 April 2022) database to analyze the expression patterns of 55 candidate genes in different tissues. The result showed that all candidate genes were expressed in soybean root tissues . Furthermore, we selected the six highest expressed genes (Glyma.11g209100, Glyma.09g051100, Glyma.01g220600, Glyma.05g225700 Glyma.11g209200, and Glyma.13g261700) in the root, and data analysis was completed for these six genes using RNA-Seq soybean libraries (4085) and compared with other tissues (leaf, seedling, shoot, stem, meristem, flower, pod, nodule, seed, embryo, and endosperm). The result showed differential expression levels of six selected candidate genes in the othertissues .\n问题：在大豆根部组织中，哪些基因的表达水平最高？\nA. Glyma.09g051100\nB. Glyma.01g220600\nC. Glyma.05g225700\nD. Glyma.11g209100",
+        "answer": "D, A, B, C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Increases in valine and leucine upon drought stress can also result from the consistent increase in the substrate pyruvate, which also featured in our GC-MS-based results [44]. The relative increase of isoleucine and leucine  in drought-stressed soybean leaves were in agreement with previous findings in Arabidopsis [45]. Glycine and proline are two major organic osmolytes that were highly accumulated  in response to drought stress [46,47]. Very high accumulation of cellular proline and glycine under drought stress was also observed in our study, which clearly shows the potential for an advanced tolerance response during adverse environmental conditions, such as drought, in soybeans.\n大豆在面对干旱压力时，哪些有机渗透溶质会显著积累？\nA. 甘氨酸\nB. 脯氨酸\nC. 谷氨酸\nD. 丙氨酸",
+        "answer": "A, B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Glyphosate not only reduced the root length of susceptible (BRS-133) soybeans, but also significantly increased the shikimate accumulation . Shikimate increased 27.8- to 48.7-fold after 0.1–5 mM glyphosate treatment. Several examples in the literature have reported shikimate accumulation in different tissues of agricultural crops such as cotton [7], corn [8], sunflower [9], canola [10], barley [11], tomato [25], wheat [26], and rice [27]. In glyphosate-treated soybeans, similar trends have been reported for leaves [12], [28] and apical meristems [29].\nGlyphosate对大豆的作用有哪些？\nA. 增加根长\nB. 减少shikimate积累\nC. 增加shikimate积累\nD. 减少根长",
+        "answer": "D, C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Glyphosate not only reduced the root length of susceptible (BRS-133) soybeans, but also significantly increased the shikimate accumulation . Shikimate increased 27.8- to 48.7-fold after 0.1–5 mM glyphosate treatment. Several examples in the literature have reported shikimate accumulation in different tissues of agricultural crops such as cotton [7], corn [8], sunflower [9], canola [10], barley [11], tomato [25], wheat [26], and rice [27]. In glyphosate-treated soybeans, similar trends have been reported for leaves [12], [28] and apical meristems [29].\n在使用草甘膦处理的大豆中，哪些部位被报告出现了shikimate的积累趋势？\nA. 叶子\nB. 种子\nC. 顶端分生组织\nD. 根部",
+        "answer": "A, C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Next we examined the expression of GmMFT in the developing seeds from 15 to 40?d post-anthesis (DPA) for Huachun 2 and Wayao. GmMFT displayed a pattern of increasing expression level along with seed development in both Huachun 2 and Wayao . After peaking at 30 DPA, the expression of GmMFT decreased and went undetectable after 40 DPA . Compared with Wayao, which has a lower oil content in seeds , the expression of GmMFT was significantly higher in Huachun 2 in all the stages . Taken together, these results suggested that the higher expression of GmMFT in Huachun 2 may account for the higher seed oil content.\nHuachun 2和Wayao品种中GmMFT基因的表达模式是怎样的？\nA. 表达量在种子发育过程中逐渐减少\nB. 在40天后花期后变得不可检测\nC. 在30天后花期达到峰值\nD. 表达量在种子发育过程中逐渐增加",
+        "answer": "D, C, B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Next we examined the expression of GmMFT in the developing seeds from 15 to 40?d post-anthesis (DPA) for Huachun 2 and Wayao. GmMFT displayed a pattern of increasing expression level along with seed development in both Huachun 2 and Wayao . After peaking at 30 DPA, the expression of GmMFT decreased and went undetectable after 40 DPA . Compared with Wayao, which has a lower oil content in seeds , the expression of GmMFT was significantly higher in Huachun 2 in all the stages . Taken together, these results suggested that the higher expression of GmMFT in Huachun 2 may account for the higher seed oil content.\nGmMFT基因高表达可能对Huachun 2的种子油含量产生什么影响？\nA. 没有影响\nB. 可能导致较高的种子油含量\nC. 影响不确定\nD. 可能导致较低的种子油含量",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "To perform genetic analysis of sterile plants, we constructed a sterile population using male-sterile soybean plants found in the field, generated a mixed male-fertile and male-sterile pool in the F2 population, and performed specific length amplified fragment-bulk segregant analysis (SLAF-BSA) sequencing. We calculated the Δ(SNP index) based on the single-nucleotide polymorphism (SNP) index of the male-fertile and male-sterile pool. The Δ(SNP index) graph  contains a straight line indicating confidence value of 99%. The Δ(SNP index) value should be significantly different from 0 if the genomic region harbors the candidate gene. At the 99% significance level, the only region with a value significantly different from 0, was a region of chromosome 13 spanning 16.15?kb (21,132,960-21,149,112). This finding indicated that the genes controlling fertility are located in this 16.15?kb region ; this mapping interval is consistent with the Ms1 gene (20,933,886-23,1150,16)\n研究表明，显著的基因区域位于哪个染色体上？  \nA. 染色体1  \nB. 染色体21  \nC. 染色体7  \nD. 染色体13  \n正确答案：D\nA. 染色体1  \nB. 染色体21  \nC. 染色体7  \nD. 染色体13  ",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Combined with the above analysis of the localization interval, transcriptome analysis of genes within and near the candidate region showed that five genes were significantly down-regulated in the sterile group (Table S2). Among these is a gene encoding the kinesin-like protein NACK2. TES, Arabidopsis homolog of NACK2 (amino acid identity 64%), encodes TETRASPORE, which is required for meiotic cytokinesis; the Arabidopsis mutant tes has the same cytological characteristics as soybean ms1 sterile plants. The expression of GmMs1 was almost undetectable in sterile plants, the transcript level was significantly different from that in fertile individuals . The results of transcriptome sequencing were further verified by real-time polymerase chain reaction (RT-PCR) , further supporting the idea that GmMs1 is the gene affected by the ms1 mutation.\n哪项证据支持GmMs1基因导致不育的观点？\nA. TETRASPORE在可育植物中表达显著降低\nB. NACK2基因在不育植物中上调\nC. tes突变体的细胞学特征与大豆ms1不育植物相似\nD. GmMs1在不育植物中的表达几乎检测不到",
+        "answer": "D, C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "To examine the GTPase activity of the native and variant Gα proteins, we performed a phosphate (Pi) release assay in the absence or presence of an RGS protein (Roy Choudhury et al.,?2012). Native Gα1 protein as well as the variants Gα1S110D and Gα1S315D exhibited slow phosphate release, which significantly increased in the presence of RGS2 protein . The variant Gα1Q223L showed no Pi release, either by itself or in the presence of RGS protein . Similarly, negligible Pi release was observed in the protein variants Gα1S50D, Gα1S53D, Gα1quadA and Gα1quadD . Overall, these data establish that under in?vitro conditions, SymRKs phosphorylate Gα proteins in their active site, which causes a complete loss of their GTP binding and GTPase activity\n在体外实验中，SymRKs对Gα蛋白的影响是什么？\nA. 不影响GTPase活性\nB. 增强GTPase活性\nC. 增加GTP结合能力\nD. 完全丧失GTP结合和GTPase活性",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Yu Jianzhang and others discovered a recessive nuclear male sterility line, Shen Nong L-78-387, in geographically distant hybrid progenies. Studies confirmed that it is linked to the ms1 allele, which is the first recessive nuclear male sterility line discovered and extensively studied by domestic scholars. Zhao Tuanjie and others screened 17 new sterile germplasms, all identified as nuclear sterile materials, with six different types of sterility: male completely sterile and female fertile (MS-FF), male completely sterile and female partially sterile (MS-FPS), male partially sterile and female fertile (MPS-FF), both male and female completely sterile (MS-FS), both male and female partially sterile (MPS-FPS), and male partially sterile and female completely sterile (MPS-FS).\nShen Nong L-78-387 的不育性与哪个基因等位变体有关？\nA. ms2  \nB. ms3  \nC. ms4  \nD. ms1  ",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "Yu Jianzhang and others discovered a recessive nuclear male sterility line, Shen Nong L-78-387, in geographically distant hybrid progenies. Studies confirmed that it is linked to the ms1 allele, which is the first recessive nuclear male sterility line discovered and extensively studied by domestic scholars. Zhao Tuanjie and others screened 17 new sterile germplasms, all identified as nuclear sterile materials, with six different types of sterility: male completely sterile and female fertile (MS-FF), male completely sterile and female partially sterile (MS-FPS), male partially sterile and female fertile (MPS-FF), both male and female completely sterile (MS-FS), both male and female partially sterile (MPS-FPS), and male partially sterile and female completely sterile (MPS-FS).\nShen Nong L-78-387 的研究有哪些特征？\nA. 首个被国内学者广泛研究的核不育系  \nB. 地理上来源于远缘杂交后代  \nC. 属于细胞质不育系  \nD. 与 ms1 等位基因相关联  ",
+        "answer": "A, D, B",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "The planting time for high-quality (high oil) soybeans is generally the same as or slightly earlier than that for high-yield soybeans. Timely early planting helps increase the fat content in soybean seeds, and late-maturing varieties should also be planted early. In the Huang-Huai region, summer soybeans should be planted early to catch the right timing, with the optimal planting period for high-quality (high oil, high protein) soybeans being from June 10th to 20th.\n高油大豆的最佳种植时间通常是什么时候？\nA. 任何时间均可\nB. 与高产大豆相同或稍早\nC. 比高产大豆稍晚\nD. 与晚熟大豆相同",
+        "answer": "B",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "The planting time for high-quality (high oil) soybeans is generally the same as or slightly earlier than that for high-yield soybeans. Timely early planting helps increase the fat content in soybean seeds, and late-maturing varieties should also be planted early. In the Huang-Huai region, summer soybeans should be planted early to catch the right timing, with the optimal planting period for high-quality (high oil, high protein) soybeans being from June 10th to 20th.\n问题：为何推荐尽早种植大豆？\nA. 增加大豆种子的脂肪含量\nB. 增加大豆种子的糖分含量\nC. 增加大豆种子的纤维含量\nD. 增加大豆种子的蛋白质含量",
+        "answer": "A",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "The planting time for high-quality (high oil) soybeans is generally the same as or slightly earlier than that for high-yield soybeans. Timely early planting helps increase the fat content in soybean seeds, and late-maturing varieties should also be planted early. In the Huang-Huai region, summer soybeans should be planted early to catch the right timing, with the optimal planting period for high-quality (high oil, high protein) soybeans being from June 10th to 20th.\n问题：对于晚熟大豆品种，种植的建议是什么？\n\nA. 应在春季进行种植  \nB. 应推迟种植  \nC. 应在秋季进行种植  \nD. 应提早种植  \n\n正确答案：D\nA. 应该在春季种植\nB. 应该晚些种植\nC. 应该在秋季种植\nD. 应该早些种植",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "The planting time for high-quality (high oil) soybeans is generally the same as or slightly earlier than that for high-yield soybeans. Timely early planting helps increase the fat content in soybean seeds, and late-maturing varieties should also be planted early. In the Huang-Huai region, summer soybeans should be planted early to catch the right timing, with the optimal planting period for high-quality (high oil, high protein) soybeans being from June 10th to 20th.\n黄淮地区夏季种植大豆的最佳时间是何时？\nA. 六月初\nB. 六月中旬\nC. 七月初\nD. 六月底",
+        "answer": "B",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "The planting time for high-quality (high oil) soybeans is generally the same as or slightly earlier than that for high-yield soybeans. Timely early planting helps increase the fat content in soybean seeds, and late-maturing varieties should also be planted early. In the Huang-Huai region, summer soybeans should be planted early to catch the right timing, with the optimal planting period for high-quality (high oil, high protein) soybeans being from June 10th to 20th.\n黄淮地区种植高品质（高油、高蛋白）大豆的最佳时间段是哪个时期？\nA. 六月1日至10日\nB. 六月20日至30日\nC. 七月1日至10日\nD. 六月10日至20日",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "In the early growth stages, during the R1 and R3 stages, significant differences were observed between Changnong 39 and Jiyu 441, as well as between Changnong 35 and Jiyu 441. As the growth process progressed, the difference in chlorophyll content between Jiyu 441 and Changnong 35 gradually decreased, but it remained significantly lower than that of Changnong 39. In the R6 stage, the high-yield variety Changnong 39 had significantly higher chlorophyll content than the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 19.62% higher than Jiyu 441 and 16.21% higher than Changnong 35.\n在R1和R3生长阶段，哪几种品种之间的叶绿素含量存在明显差异？\nA. Changnong 35 和 Jiyu 441\nB. Jiyu 441 和 Changnong 35\nC. Changnong 39 和 Jiyu 441\nD. Changnong 39 和 Changnong 35",
+        "answer": "C, A",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "In the early growth stages, during the R1 and R3 stages, significant differences were observed between Changnong 39 and Jiyu 441, as well as between Changnong 35 and Jiyu 441. As the growth process progressed, the difference in chlorophyll content between Jiyu 441 and Changnong 35 gradually decreased, but it remained significantly lower than that of Changnong 39. In the R6 stage, the high-yield variety Changnong 39 had significantly higher chlorophyll content than the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 19.62% higher than Jiyu 441 and 16.21% higher than Changnong 35.\n在R6阶段，哪个品种的叶绿素含量明显高于其他品种？\nA. Changnong 35\nB. Jiyu 441 和 Changnong 35\nC. Changnong 39\nD. Jiyu 441",
+        "answer": "C",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的多选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个或者多个正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。当有多个正确选项时，请用逗号分隔。\n例如：\n正确答案：A, B\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：在水稻的施肥技术中，严格限制化肥的使用量，过量施肥可能导致\nA. 植株倒伏\nB. 病虫害加剧\nC. 环境污染\nD. 产量提高\n正确答案：A, B, C\n问题：",
+        "question": "In the early growth stages, during the R1 and R3 stages, significant differences were observed between Changnong 39 and Jiyu 441, as well as between Changnong 35 and Jiyu 441. As the growth process progressed, the difference in chlorophyll content between Jiyu 441 and Changnong 35 gradually decreased, but it remained significantly lower than that of Changnong 39. In the R6 stage, the high-yield variety Changnong 39 had significantly higher chlorophyll content than the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 19.62% higher than Jiyu 441 and 16.21% higher than Changnong 35.\n在生长过程中，Jiyu 441和Changnong 35的叶绿素含量差异是如何变化的？\nA. 差异保持不变\nB. 差异消失\nC. 差异增加\nD. 差异减少",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_multiple_choice"
     }
 ]

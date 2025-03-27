@@ -1987,5 +1987,455 @@
             "level1": "基因表达模式"
         },
         "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "There are multiple tryptophan-dependent IAA biosynthesis pathways in plants. The tryptophan aminotransferases?TAR1?and?TAR2?convert trp to indole-3-pyruvate (IPA), which is converted to indole acetic acid (IAA) by the YUCCA flavin monooxygenase. Further,?superroot2?(SUR2) encodes the cytochrome P450 monooxygenase CYP83B1, involved in glucosinolate biosynthesis and auxin homeostasis. We found two PBZ-up?SUR2?at 12 HAI and one PBZ-down?TAR2?at 24 HAI, indicating that GA promotes IAA production at these time points.\n在植物中，IAA的合成途径依赖于________。",
+        "answer": "色氨酸（tryptophan）",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "There are multiple tryptophan-dependent IAA biosynthesis pathways in plants. The tryptophan aminotransferases?TAR1?and?TAR2?convert trp to indole-3-pyruvate (IPA), which is converted to indole acetic acid (IAA) by the YUCCA flavin monooxygenase. Further,?superroot2?(SUR2) encodes the cytochrome P450 monooxygenase CYP83B1, involved in glucosinolate biosynthesis and auxin homeostasis. We found two PBZ-up?SUR2?at 12 HAI and one PBZ-down?TAR2?at 24 HAI, indicating that GA promotes IAA production at these time points.\nYUCCA黄素单加氧酶将IPA转化为何种物质？",
+        "answer": "吲哚乙酸（indole acetic acid，IAA）",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Under stress, the ROS in plants increases, and the activity of antioxidant enzymes also changes (Liu et al., 2022a). After 14 days of PS-NPs treatment, H2O2 accumulation in leaves and roots significantly increased (p < 0.05) by 19.98% and 35.40%, respectively . However, the content of O2? in the roots was significantly increased (p < 0.05) by 31.05%, whereas there was no significant (p > 0.05) change in the leaves .\n植物在遭受胁迫时，________在其体内会有所增加。  \n正确答案：活性氧物种（ROS）",
+        "answer": "活性氧物种（ROS）",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Under stress, the ROS in plants increases, and the activity of antioxidant enzymes also changes (Liu et al., 2022a). After 14 days of PS-NPs treatment, H2O2 accumulation in leaves and roots significantly increased (p < 0.05) by 19.98% and 35.40%, respectively . However, the content of O2? in the roots was significantly increased (p < 0.05) by 31.05%, whereas there was no significant (p > 0.05) change in the leaves .\n在压力环境中，植物的________酶活性会有所改变。",
+        "answer": "抗氧化",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "For instance, most GmGRAS genes in the LISCL, SHR and SCL3 subfamilies exhibited low gene expressions in all tissues, however, some genes (GmGRAS67, GmGRAS82 and GmGRAS83 in the LISCL subfamily; GmGRAS97 in the SHR subfamily; GmGRAS15 and GmGRAS65 in the SCL3 subfamily) showed relatively high expression levels in root and nodule.\n在LISCL亚家族中，________、GmGRAS82和GmGRAS83的表达水平相对较高。",
+        "answer": "GmGRAS67",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For instance, most GmGRAS genes in the LISCL, SHR and SCL3 subfamilies exhibited low gene expressions in all tissues, however, some genes (GmGRAS67, GmGRAS82 and GmGRAS83 in the LISCL subfamily; GmGRAS97 in the SHR subfamily; GmGRAS15 and GmGRAS65 in the SCL3 subfamily) showed relatively high expression levels in root and nodule.\n在SHR亚家族中，________具有较高的表达水平。",
+        "answer": "GmGRAS97",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For instance, most GmGRAS genes in the LISCL, SHR and SCL3 subfamilies exhibited low gene expressions in all tissues, however, some genes (GmGRAS67, GmGRAS82 and GmGRAS83 in the LISCL subfamily; GmGRAS97 in the SHR subfamily; GmGRAS15 and GmGRAS65 in the SCL3 subfamily) showed relatively high expression levels in root and nodule.\n在SCL3亚家族中，GmGRAS15和________表现出较高的表达水平。",
+        "answer": "GmGRAS65",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For instance, most GmGRAS genes in the LISCL, SHR and SCL3 subfamilies exhibited low gene expressions in all tissues, however, some genes (GmGRAS67, GmGRAS82 and GmGRAS83 in the LISCL subfamily; GmGRAS97 in the SHR subfamily; GmGRAS15 and GmGRAS65 in the SCL3 subfamily) showed relatively high expression levels in root and nodule.\nGmGRAS基因在________和根中显示出较高的表达水平。",
+        "answer": "根瘤",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The seed-flooding tolerance of 347 soybean lines of YHSBG population was evaluated using three germination-related traits GR, NSR and EC. The values of descriptive statistics, ANOVA (F-value) and estimates of heritability (h2) for all three studied traits of the YHSBG population in two different environments JP14 and HY15 were presented in Table 1. In JP14, the mean of GR and NSR were 0.55 and 0.40, respectively, and their ranges were 0–1.00 and 0–0.94. Furthermore, the mean of EC was 1248 us/mL, and ranges from 153 to 2840 us/mL. However, compared with the mean in JP14, the means of GR and NSR in HY15 were lower, whereas the mean of EC was relatively higher (Table 1), suggesting that seed-flooding tolerance in soybean is an environmentally sensitive trait.\n在HY15环境下，大豆种子的正常幼苗率（NSR）平均值与JP14相比如何变化？",
+        "answer": "较低",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The seed-flooding tolerance of 347 soybean lines of YHSBG population was evaluated using three germination-related traits GR, NSR and EC. The values of descriptive statistics, ANOVA (F-value) and estimates of heritability (h2) for all three studied traits of the YHSBG population in two different environments JP14 and HY15 were presented in Table 1. In JP14, the mean of GR and NSR were 0.55 and 0.40, respectively, and their ranges were 0–1.00 and 0–0.94. Furthermore, the mean of EC was 1248 us/mL, and ranges from 153 to 2840 us/mL. However, compared with the mean in JP14, the means of GR and NSR in HY15 were lower, whereas the mean of EC was relatively higher (Table 1), suggesting that seed-flooding tolerance in soybean is an environmentally sensitive trait.\n在HY15环境中，大豆种子的电导率（EC）平均值与JP14相比如何变化？",
+        "answer": "较高",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Further, some of these SNPs were consistently detected in multiple environments, using different GWAS models, and were found to be associated with more than one studied trait. Such SNPs were considered stable MTAs. For example, the significant SNP (AX-93793,210) on Chr.11 was identified consistently in five individual environments (E1, E2, E3, E4, and E5) and the combined environment. In addition, this SNP was also identified through four different GWAS models (BLINK, FarmCPU, GLM, and MLMM), and was found to be associated with two yield-related traits (HSW and SPP).\n在多种环境和不同的GWAS模型中持续识别出的SNP被称为________。",
+        "answer": "稳定的多性状关联（MTAs）",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Further, some of these SNPs were consistently detected in multiple environments, using different GWAS models, and were found to be associated with more than one studied trait. Such SNPs were considered stable MTAs. For example, the significant SNP (AX-93793,210) on Chr.11 was identified consistently in five individual environments (E1, E2, E3, E4, and E5) and the combined environment. In addition, this SNP was also identified through four different GWAS models (BLINK, FarmCPU, GLM, and MLMM), and was found to be associated with two yield-related traits (HSW and SPP).\nSNP AX-93793,210 是通过哪四种不同的GWAS模型识别的？",
+        "answer": "BLINK, FarmCPU, GLM, 和 MLMM",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In conclusion, we investigated the changes in 72 metabolites across 12 growth stages for five cultivars (KA, AR, MS, DW, and IP) in soybean leaves. We performed multivariate analysis to identify the compounds that separated the samples based on growth stage and cultivar. PCA results revealed that the growth stage strongly influenced the clustering of samples and the PC1 loading plot indicated active carbon-related energy metabolism during the V stages. PLS-DA results unveiled significant alterations in the metabolic networks up to R5, indicating tight coordination between carbon and nitrogen metabolism. Additionally, we observed dramatic changes in the contents of policosilanes, which are major components of the waxy leaf surface. In R6–R8, certain amino acids accumulated, indicating energy redistribution to the seed.\n在大豆的V阶段，活跃的________相关能量代谢被观察到。",
+        "answer": "碳",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In conclusion, we investigated the changes in 72 metabolites across 12 growth stages for five cultivars (KA, AR, MS, DW, and IP) in soybean leaves. We performed multivariate analysis to identify the compounds that separated the samples based on growth stage and cultivar. PCA results revealed that the growth stage strongly influenced the clustering of samples and the PC1 loading plot indicated active carbon-related energy metabolism during the V stages. PLS-DA results unveiled significant alterations in the metabolic networks up to R5, indicating tight coordination between carbon and nitrogen metabolism. Additionally, we observed dramatic changes in the contents of policosilanes, which are major components of the waxy leaf surface. In R6–R8, certain amino acids accumulated, indicating energy redistribution to the seed.\n在R5阶段之前，观察到碳与________代谢之间存在显著的协调。",
+        "answer": "氮",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In conclusion, we investigated the changes in 72 metabolites across 12 growth stages for five cultivars (KA, AR, MS, DW, and IP) in soybean leaves. We performed multivariate analysis to identify the compounds that separated the samples based on growth stage and cultivar. PCA results revealed that the growth stage strongly influenced the clustering of samples and the PC1 loading plot indicated active carbon-related energy metabolism during the V stages. PLS-DA results unveiled significant alterations in the metabolic networks up to R5, indicating tight coordination between carbon and nitrogen metabolism. Additionally, we observed dramatic changes in the contents of policosilanes, which are major components of the waxy leaf surface. In R6–R8, certain amino acids accumulated, indicating energy redistribution to the seed.\n在R6-R8阶段，某些________的积累，显示出能量向种子的再分配。",
+        "answer": "氨基酸",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The genes in M4 were up-regulated, and then down-regulated, to a greater extent in Jiaoda133 than Williams 82 ; they were assigned to cellulose microfibril organization, cell growth, metabolic process, anchored component of membrane, cell wall, catalytic activity, enzyme inhibitor activity, and hydrolase activity (acting on ester bonds) . The genes in M5 were up-regulated, and then down-regulated, but expressed more strongly in Williams 82 than Jiaoda133 ; they were enriched in photosynthesis, chlorophyll biosynthetic process, lipid metabolic process, extrinsic component of membrane, calcium ion binding, fructose 1,6-bisphosphate 1-phosphatase activity, and phosphoric ester hydrolase activity .\nM5中的基因功能富集涉及______的生物合成过程。",
+        "answer": "叶绿素",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The genes in M4 were up-regulated, and then down-regulated, to a greater extent in Jiaoda133 than Williams 82 ; they were assigned to cellulose microfibril organization, cell growth, metabolic process, anchored component of membrane, cell wall, catalytic activity, enzyme inhibitor activity, and hydrolase activity (acting on ester bonds) . The genes in M5 were up-regulated, and then down-regulated, but expressed more strongly in Williams 82 than Jiaoda133 ; they were enriched in photosynthesis, chlorophyll biosynthetic process, lipid metabolic process, extrinsic component of membrane, calcium ion binding, fructose 1,6-bisphosphate 1-phosphatase activity, and phosphoric ester hydrolase activity .\n问题：M5中的基因表现出________1,6-二磷酸酯酶活性。\n正确答案：果糖",
+        "answer": "果糖",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the co-downregulated genes, we also found a few SWEET genes . SWEETs play a critical role in allocating photosynthates into the sink organs and resultantly determining seed weight and quality. In soybean, GmSWEET10a/GmSWEET39 (Miao et al., 2020; Wang et al., 2020; Zhang et al., 2020) and GmSWEET10b (Wang et al., 2020) have been identified as important players that transport sugar from seed coat to embryo and determine multiple seed traits (Wang et al., 2020).\n在大豆中，________和________被确认是从种皮向胚胎输送糖分的重要转运蛋白，对多种种子性状产生影响。",
+        "answer": "GmSWEET10a，GmSWEET39",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A comprehensive phylogenetic analysis was conducted to establish groups of homology within the GmMIP gene family. The 66 GmMIPs were classified into various subfamilies including 22 GmPIPs, 23 GmTIPs, 13 GmNIPs, six GmSIPs and two new GmXIPs i.e., uncharacterized isoforms . The GmXIPs might be similar to the novel plant AQP subfamily XIP recently reported in moss [15] and tomato [16]. All the members of the GmPIPs subfamily localized to plasma membranes (Table 1). The predicted localization of members of the GmTIPs subfamily was diverse, and predicted localization included cytosol, plasma membrane, endoplasmic reticulum, vacuole, mitochondria and chloroplast. From the GmNIPs subfamily, GmNIP1;1 and GmNIP4;1 localized to vacuoles, GmNIP2;2 to extra-cellular structures and the rest to plasma membranes. Two members of the GmSIP subfamily localized to vacuoles and the remainder to plasma membranes. GmXIP1;1 localized to extra-cellular structures and GmXIP1;2 to cytosol. The ka/ks ratio was >1 and 1 for PseudoPIP#3 and PseudoSIP#1, and PseudoPIP#2, respectively. The remaining GmMIPs showed ka/ks ratio <1 .\n问题：GmMIP基因家族中有多少个GmPIPs？",
+        "answer": "22",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A comprehensive phylogenetic analysis was conducted to establish groups of homology within the GmMIP gene family. The 66 GmMIPs were classified into various subfamilies including 22 GmPIPs, 23 GmTIPs, 13 GmNIPs, six GmSIPs and two new GmXIPs i.e., uncharacterized isoforms . The GmXIPs might be similar to the novel plant AQP subfamily XIP recently reported in moss [15] and tomato [16]. All the members of the GmPIPs subfamily localized to plasma membranes (Table 1). The predicted localization of members of the GmTIPs subfamily was diverse, and predicted localization included cytosol, plasma membrane, endoplasmic reticulum, vacuole, mitochondria and chloroplast. From the GmNIPs subfamily, GmNIP1;1 and GmNIP4;1 localized to vacuoles, GmNIP2;2 to extra-cellular structures and the rest to plasma membranes. Two members of the GmSIP subfamily localized to vacuoles and the remainder to plasma membranes. GmXIP1;1 localized to extra-cellular structures and GmXIP1;2 to cytosol. The ka/ks ratio was >1 and 1 for PseudoPIP#3 and PseudoSIP#1, and PseudoPIP#2, respectively. The remaining GmMIPs showed ka/ks ratio <1 .\nGmTIPs的定位涉及细胞质、质膜、内质网、液泡、线粒体以及________。",
+        "answer": "叶绿体",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A comprehensive phylogenetic analysis was conducted to establish groups of homology within the GmMIP gene family. The 66 GmMIPs were classified into various subfamilies including 22 GmPIPs, 23 GmTIPs, 13 GmNIPs, six GmSIPs and two new GmXIPs i.e., uncharacterized isoforms . The GmXIPs might be similar to the novel plant AQP subfamily XIP recently reported in moss [15] and tomato [16]. All the members of the GmPIPs subfamily localized to plasma membranes (Table 1). The predicted localization of members of the GmTIPs subfamily was diverse, and predicted localization included cytosol, plasma membrane, endoplasmic reticulum, vacuole, mitochondria and chloroplast. From the GmNIPs subfamily, GmNIP1;1 and GmNIP4;1 localized to vacuoles, GmNIP2;2 to extra-cellular structures and the rest to plasma membranes. Two members of the GmSIP subfamily localized to vacuoles and the remainder to plasma membranes. GmXIP1;1 localized to extra-cellular structures and GmXIP1;2 to cytosol. The ka/ks ratio was >1 and 1 for PseudoPIP#3 and PseudoSIP#1, and PseudoPIP#2, respectively. The remaining GmMIPs showed ka/ks ratio <1 .\nGmNIP2;2 位于________结构中。",
+        "answer": "细胞外",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "A comprehensive phylogenetic analysis was conducted to establish groups of homology within the GmMIP gene family. The 66 GmMIPs were classified into various subfamilies including 22 GmPIPs, 23 GmTIPs, 13 GmNIPs, six GmSIPs and two new GmXIPs i.e., uncharacterized isoforms . The GmXIPs might be similar to the novel plant AQP subfamily XIP recently reported in moss [15] and tomato [16]. All the members of the GmPIPs subfamily localized to plasma membranes (Table 1). The predicted localization of members of the GmTIPs subfamily was diverse, and predicted localization included cytosol, plasma membrane, endoplasmic reticulum, vacuole, mitochondria and chloroplast. From the GmNIPs subfamily, GmNIP1;1 and GmNIP4;1 localized to vacuoles, GmNIP2;2 to extra-cellular structures and the rest to plasma membranes. Two members of the GmSIP subfamily localized to vacuoles and the remainder to plasma membranes. GmXIP1;1 localized to extra-cellular structures and GmXIP1;2 to cytosol. The ka/ks ratio was >1 and 1 for PseudoPIP#3 and PseudoSIP#1, and PseudoPIP#2, respectively. The remaining GmMIPs showed ka/ks ratio <1 .\nKa/Ks比率超过1的伪基因包括PseudoPIP#3和________。",
+        "answer": "PseudoSIP#1",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The in silico expression of 23 GmMIPs in roots was >50 (Table 1). Based on in silico root specific expression and phylogenetic relationship , 24 GmMIPs were selected for tissue specific expression analysis by semi-qPCR . The expression patterns of GmMIPs in various organs of soybean were identified. GmPIP1;3 strongly expressed in roots, stems, leaves and pods. Other strongly expressed genes included GmPIP1;4 in stems and pods, GmPIP2;3 in roots, flowers and pods, GmTIP1;4 in flowers, GmTIP1;7 in stems, leaves, flowers and pods, GmTIP1;9 in roots, GmTIP2;1 in stems and pods, GmTIP2;2 in roots and pods, GmTIP2;6 in stems, leaves, flowers and pods and GmXIP1;2 in leaves. GmPIP2;6 and GmTIP4;1expressed marginally while GmPIP2;11 was marginally lower in all plant parts. The rest of the GmMIPs gave weak, marginal, marginal low or null expression.\nGmPIP1;3在根、茎、叶和豆荚中表现出强烈的表达。",
+        "answer": "根",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The in silico expression of 23 GmMIPs in roots was >50 (Table 1). Based on in silico root specific expression and phylogenetic relationship , 24 GmMIPs were selected for tissue specific expression analysis by semi-qPCR . The expression patterns of GmMIPs in various organs of soybean were identified. GmPIP1;3 strongly expressed in roots, stems, leaves and pods. Other strongly expressed genes included GmPIP1;4 in stems and pods, GmPIP2;3 in roots, flowers and pods, GmTIP1;4 in flowers, GmTIP1;7 in stems, leaves, flowers and pods, GmTIP1;9 in roots, GmTIP2;1 in stems and pods, GmTIP2;2 in roots and pods, GmTIP2;6 in stems, leaves, flowers and pods and GmXIP1;2 in leaves. GmPIP2;6 and GmTIP4;1expressed marginally while GmPIP2;11 was marginally lower in all plant parts. The rest of the GmMIPs gave weak, marginal, marginal low or null expression.\n问题：GmTIP2;6在茎、叶、花以及________中表现出强烈表达。  \n正确答案：豆荚  \n\n改写问题：GmTIP2;6在茎、叶、花和______中显著表达。",
+        "answer": "豆荚",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The in silico expression of 23 GmMIPs in roots was >50 (Table 1). Based on in silico root specific expression and phylogenetic relationship , 24 GmMIPs were selected for tissue specific expression analysis by semi-qPCR . The expression patterns of GmMIPs in various organs of soybean were identified. GmPIP1;3 strongly expressed in roots, stems, leaves and pods. Other strongly expressed genes included GmPIP1;4 in stems and pods, GmPIP2;3 in roots, flowers and pods, GmTIP1;4 in flowers, GmTIP1;7 in stems, leaves, flowers and pods, GmTIP1;9 in roots, GmTIP2;1 in stems and pods, GmTIP2;2 in roots and pods, GmTIP2;6 in stems, leaves, flowers and pods and GmXIP1;2 in leaves. GmPIP2;6 and GmTIP4;1expressed marginally while GmPIP2;11 was marginally lower in all plant parts. The rest of the GmMIPs gave weak, marginal, marginal low or null expression.\nGmPIP2;11 在植物各个部位的表达水平是________。",
+        "answer": "边缘较低的表达量",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We compared the expression levels of 14 GmMIP genes with GmPEPC (internal control) in roots of soybean by qPCR at 0, 2, 4 and 12 h of 20% PEG treatment . The relative expression (RE) of GmPIP1;4, GmPIP1;7, GmPIP2;3, GmPIP2;4, GmPIP2;5, GmTIP1;9 and GmTIP2;2 significantly increased (>2-fold) at 12 h compared to 0 h PEG stress. However, GmPIP2;3 first showed a significant decrease in RE before peaking at 12 h PEG stress. GmPIP1;4, GmPIP1;7 and GmTIP1;9 showed a gradual increase from 0 to 4 h followed by a rapid increase at 12 h. GmPIP1;8 showed significant decrease in RE at 2 and 4 h PEG stress. The expression pattern of GmPIP1;3 decreased 2 h after application of PEG, and began to increase at 4 h and peaked at 12 h after application. The expression of GmPIP2;10 and GmPIP2;11 decreased gradually to 4 h and expression was maximized 12 h post application of PEG. The expression pattern of GmTIP4;1 increased at 2 h and decreased gradually with minimum expression at 12 h. GmTIP2;6 expressed 2 and 4 h after application of PEG stress. The RE of the remaining GmMIPs fluctuated non-significantly at various time points after application of PEG stress.\n在PEG胁迫条件下研究大豆根中GmMIP基因表达时，采用了________作为内参基因。",
+        "answer": "GmPEPC",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We compared the expression levels of 14 GmMIP genes with GmPEPC (internal control) in roots of soybean by qPCR at 0, 2, 4 and 12 h of 20% PEG treatment . The relative expression (RE) of GmPIP1;4, GmPIP1;7, GmPIP2;3, GmPIP2;4, GmPIP2;5, GmTIP1;9 and GmTIP2;2 significantly increased (>2-fold) at 12 h compared to 0 h PEG stress. However, GmPIP2;3 first showed a significant decrease in RE before peaking at 12 h PEG stress. GmPIP1;4, GmPIP1;7 and GmTIP1;9 showed a gradual increase from 0 to 4 h followed by a rapid increase at 12 h. GmPIP1;8 showed significant decrease in RE at 2 and 4 h PEG stress. The expression pattern of GmPIP1;3 decreased 2 h after application of PEG, and began to increase at 4 h and peaked at 12 h after application. The expression of GmPIP2;10 and GmPIP2;11 decreased gradually to 4 h and expression was maximized 12 h post application of PEG. The expression pattern of GmTIP4;1 increased at 2 h and decreased gradually with minimum expression at 12 h. GmTIP2;6 expressed 2 and 4 h after application of PEG stress. The RE of the remaining GmMIPs fluctuated non-significantly at various time points after application of PEG stress.\n在20% PEG处理条件下，GmPIP1;4和GmPIP1;7的相对表达量在0至4小时逐步上升，并在______小时时显著提升。",
+        "answer": "12",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We compared the expression levels of 14 GmMIP genes with GmPEPC (internal control) in roots of soybean by qPCR at 0, 2, 4 and 12 h of 20% PEG treatment . The relative expression (RE) of GmPIP1;4, GmPIP1;7, GmPIP2;3, GmPIP2;4, GmPIP2;5, GmTIP1;9 and GmTIP2;2 significantly increased (>2-fold) at 12 h compared to 0 h PEG stress. However, GmPIP2;3 first showed a significant decrease in RE before peaking at 12 h PEG stress. GmPIP1;4, GmPIP1;7 and GmTIP1;9 showed a gradual increase from 0 to 4 h followed by a rapid increase at 12 h. GmPIP1;8 showed significant decrease in RE at 2 and 4 h PEG stress. The expression pattern of GmPIP1;3 decreased 2 h after application of PEG, and began to increase at 4 h and peaked at 12 h after application. The expression of GmPIP2;10 and GmPIP2;11 decreased gradually to 4 h and expression was maximized 12 h post application of PEG. The expression pattern of GmTIP4;1 increased at 2 h and decreased gradually with minimum expression at 12 h. GmTIP2;6 expressed 2 and 4 h after application of PEG stress. The RE of the remaining GmMIPs fluctuated non-significantly at various time points after application of PEG stress.\n问题：GmPIP2;3的相对表达量在12小时达到最高点，但在此之前最初是________的。\n正确答案：下降\n\n改写问题：在12小时内，GmPIP2;3的相对表达量达到峰值，但在此之前最初是________的。",
+        "answer": "下降",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We compared the expression levels of 14 GmMIP genes with GmPEPC (internal control) in roots of soybean by qPCR at 0, 2, 4 and 12 h of 20% PEG treatment . The relative expression (RE) of GmPIP1;4, GmPIP1;7, GmPIP2;3, GmPIP2;4, GmPIP2;5, GmTIP1;9 and GmTIP2;2 significantly increased (>2-fold) at 12 h compared to 0 h PEG stress. However, GmPIP2;3 first showed a significant decrease in RE before peaking at 12 h PEG stress. GmPIP1;4, GmPIP1;7 and GmTIP1;9 showed a gradual increase from 0 to 4 h followed by a rapid increase at 12 h. GmPIP1;8 showed significant decrease in RE at 2 and 4 h PEG stress. The expression pattern of GmPIP1;3 decreased 2 h after application of PEG, and began to increase at 4 h and peaked at 12 h after application. The expression of GmPIP2;10 and GmPIP2;11 decreased gradually to 4 h and expression was maximized 12 h post application of PEG. The expression pattern of GmTIP4;1 increased at 2 h and decreased gradually with minimum expression at 12 h. GmTIP2;6 expressed 2 and 4 h after application of PEG stress. The RE of the remaining GmMIPs fluctuated non-significantly at various time points after application of PEG stress.\n在PEG胁迫条件下，GmPIP1;8在2小时和4小时的相对表达量明显________。",
+        "answer": "下降",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To further verify the role of Glyma.13G114200 in controlling male sterility, we generated six Glyma.13G114200 knockout lines by CRISPR/Cas9-mediated gene editing. One of these was a biallelic mutant displaying a male-sterile phenotype, while the others showed a male-fertile phonotype. Compared with WT, the Cas9-Glyma.13G114200 mutant line exhibited complete male sterility with shriveled anthers bearing abnormal pollen grains, which is similar to the ms1 mutant . These results indicate that Glyma.13G114200 is GmMs1, which is required for male fertility in soybean.\n一个具有双等位基因突变的系表现出________的表型。  \n正确答案：雄性不育",
+        "answer": "雄性不育",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To further verify the role of Glyma.13G114200 in controlling male sterility, we generated six Glyma.13G114200 knockout lines by CRISPR/Cas9-mediated gene editing. One of these was a biallelic mutant displaying a male-sterile phenotype, while the others showed a male-fertile phonotype. Compared with WT, the Cas9-Glyma.13G114200 mutant line exhibited complete male sterility with shriveled anthers bearing abnormal pollen grains, which is similar to the ms1 mutant . These results indicate that Glyma.13G114200 is GmMs1, which is required for male fertility in soybean.\n问题：Cas9-Glyma.13G114200突变系的雄性不育表型与哪个突变体相似？",
+        "answer": "ms1",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To further verify the role of Glyma.13G114200 in controlling male sterility, we generated six Glyma.13G114200 knockout lines by CRISPR/Cas9-mediated gene editing. One of these was a biallelic mutant displaying a male-sterile phenotype, while the others showed a male-fertile phonotype. Compared with WT, the Cas9-Glyma.13G114200 mutant line exhibited complete male sterility with shriveled anthers bearing abnormal pollen grains, which is similar to the ms1 mutant . These results indicate that Glyma.13G114200 is GmMs1, which is required for male fertility in soybean.\n研究结果显示，Glyma.13G114200被确定为________，它在大豆雄性生育过程中不可或缺。  \n正确答案：GmMs1",
+        "answer": "GmMs1",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To investigate the localization of GmMs1 at the subcellular level, we fused the green fluorescent protein (GFP) gene in-frame to the C-terminus of GmMs1 under the control of the 35S promoter (35S::GmMs1-GFP) and transiently expressed this construct in Nicotiana benthamiana leaves. Fluorescence microscopy to detect green fluorescence from the fusion construct indicated that GmMs1 localized to the cytoplasm or/and in plasma membrane .\n问题：GmMs1-GFP 构建体的表达受______启动子调控。",
+        "answer": "35S",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To investigate the localization of GmMs1 at the subcellular level, we fused the green fluorescent protein (GFP) gene in-frame to the C-terminus of GmMs1 under the control of the 35S promoter (35S::GmMs1-GFP) and transiently expressed this construct in Nicotiana benthamiana leaves. Fluorescence microscopy to detect green fluorescence from the fusion construct indicated that GmMs1 localized to the cytoplasm or/and in plasma membrane .\nGmMs1-GFP 构建体被短暂表达在________的叶片中。",
+        "answer": "*Nicotiana benthamiana*",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To investigate the localization of GmMs1 at the subcellular level, we fused the green fluorescent protein (GFP) gene in-frame to the C-terminus of GmMs1 under the control of the 35S promoter (35S::GmMs1-GFP) and transiently expressed this construct in Nicotiana benthamiana leaves. Fluorescence microscopy to detect green fluorescence from the fusion construct indicated that GmMs1 localized to the cytoplasm or/and in plasma membrane .\n研究表明，GmMs1 位于________和/或________。",
+        "answer": "细胞质，质膜",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "An appropriate sowing period can improve yield and quality. Timely sowing ensures a high seedling survival rate, uniform and healthy emergence, good growth, and strong stems. The optimal sowing period for Shengdou 118 is from June 10th to 25th. It is recommended to use no-tillage precision seeding technology with straw mulching. The soil moisture should be suitable at the time of sowing, with a seeding depth of 3-5 cm. After sowing, sprinkler irrigation should be applied.\nShengdou 118 的播种需要采用________技术，同时进行秸秆覆盖。  \n正确答案：免耕精量播种",
+        "answer": "免耕精量播种",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "An appropriate sowing period can improve yield and quality. Timely sowing ensures a high seedling survival rate, uniform and healthy emergence, good growth, and strong stems. The optimal sowing period for Shengdou 118 is from June 10th to 25th. It is recommended to use no-tillage precision seeding technology with straw mulching. The soil moisture should be suitable at the time of sowing, with a seeding depth of 3-5 cm. After sowing, sprinkler irrigation should be applied.\nShengdou 118 的适宜播种深度是多少厘米？",
+        "answer": "5-Mar",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Seed treatment with chemicals: Use 35% Doconazole seed dressing agent at a ratio of 1:80~100 for coating. For every kilogram of seeds, mix 200 mL of 62.5 g/L Metalaxyl·Mancozeb suspension seed dressing agent and 5 g of 30% Thiamethoxam suspension seed dressing agent. This can effectively kill surface pathogens on soybean seeds and prevent diseases and pests during the seedling stage of soybeans.\n用于大豆种子的化学包衣剂中，35% Doconazole 的配比是多少？",
+        "answer": "1:80~100",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Seed treatment with chemicals: Use 35% Doconazole seed dressing agent at a ratio of 1:80~100 for coating. For every kilogram of seeds, mix 200 mL of 62.5 g/L Metalaxyl·Mancozeb suspension seed dressing agent and 5 g of 30% Thiamethoxam suspension seed dressing agent. This can effectively kill surface pathogens on soybean seeds and prevent diseases and pests during the seedling stage of soybeans.\n问题：种子处理方法的目的是为了有效地消灭大豆种子表面的________。  \n正确答案：病原体",
+        "answer": "病原体",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Seed treatment with chemicals: Use 35% Doconazole seed dressing agent at a ratio of 1:80~100 for coating. For every kilogram of seeds, mix 200 mL of 62.5 g/L Metalaxyl·Mancozeb suspension seed dressing agent and 5 g of 30% Thiamethoxam suspension seed dressing agent. This can effectively kill surface pathogens on soybean seeds and prevent diseases and pests during the seedling stage of soybeans.\n化学种衣剂的应用能够防止大豆在______阶段遭受病虫害。",
+        "answer": "幼苗",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The net photosynthetic rate of the high-yield variety Changnong 39 and the conventional varieties Jiyu 441 and Changnong 35 showed smaller differences during the R1, R3, R5, and R7 stages compared to the R6 stage. In the R6 stage, the net photosynthetic rate of Changnong 39 was significantly higher than that of the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 11.28% higher than Jiyu 441 and 20.78% higher than Changnong 35. In the later growth stage, during the R7 period, the net photosynthetic rate of both the high-yield and conventional varieties began to decline, with the decline rates being 55.74%, 58.15%, and 61.82%, respectively.\n问题：在 R6 阶段，Changnong 39 的净光合速率比 Jiyu 441 高了多少百分比？",
+        "answer": "11.28",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nQuestion:",
+        "question": "The net photosynthetic rate of the high-yield variety Changnong 39 and the conventional varieties Jiyu 441 and Changnong 35 showed smaller differences during the R1, R3, R5, and R7 stages compared to the R6 stage. In the R6 stage, the net photosynthetic rate of Changnong 39 was significantly higher than that of the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 11.28% higher than Jiyu 441 and 20.78% higher than Changnong 35. In the later growth stage, during the R7 period, the net photosynthetic rate of both the high-yield and conventional varieties began to decline, with the decline rates being 55.74%, 58.15%, and 61.82%, respectively.\nChangnong 39 在 R6 阶段的净光合速率比 Changnong 35 高出多少百分比？",
+        "answer": "20.78",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The net photosynthetic rate of the high-yield variety Changnong 39 and the conventional varieties Jiyu 441 and Changnong 35 showed smaller differences during the R1, R3, R5, and R7 stages compared to the R6 stage. In the R6 stage, the net photosynthetic rate of Changnong 39 was significantly higher than that of the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 11.28% higher than Jiyu 441 and 20.78% higher than Changnong 35. In the later growth stage, during the R7 period, the net photosynthetic rate of both the high-yield and conventional varieties began to decline, with the decline rates being 55.74%, 58.15%, and 61.82%, respectively.\n在 R7 阶段，Changnong 39 的净光合速率减少了________%。",
+        "answer": "55.74",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The net photosynthetic rate of the high-yield variety Changnong 39 and the conventional varieties Jiyu 441 and Changnong 35 showed smaller differences during the R1, R3, R5, and R7 stages compared to the R6 stage. In the R6 stage, the net photosynthetic rate of Changnong 39 was significantly higher than that of the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 11.28% higher than Jiyu 441 and 20.78% higher than Changnong 35. In the later growth stage, during the R7 period, the net photosynthetic rate of both the high-yield and conventional varieties began to decline, with the decline rates being 55.74%, 58.15%, and 61.82%, respectively.\n在 R7 阶段，Jiyu 441 的净光合速率减少了________%。",
+        "answer": "58.15",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The net photosynthetic rate of the high-yield variety Changnong 39 and the conventional varieties Jiyu 441 and Changnong 35 showed smaller differences during the R1, R3, R5, and R7 stages compared to the R6 stage. In the R6 stage, the net photosynthetic rate of Changnong 39 was significantly higher than that of the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 11.28% higher than Jiyu 441 and 20.78% higher than Changnong 35. In the later growth stage, during the R7 period, the net photosynthetic rate of both the high-yield and conventional varieties began to decline, with the decline rates being 55.74%, 58.15%, and 61.82%, respectively.\n在 R7 阶段，Changnong 35 的净光合速率减少了________%。",
+        "answer": "61.82",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
     }
 ]
