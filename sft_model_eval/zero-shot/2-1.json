@@ -2023,5 +2023,945 @@
             "level1": "基因功能预测"
         },
         "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "After soybean mosaic virus (SMV) inoculation, no obvious symptoms were observed in either resistant R-line ‘Kefeng 1’ or susceptible S-line ‘NN1138-2’ until 5 days post inoculation (dpi). S-line shoots showed clear symptoms: wrinkling on infected trifoliate leaves at 7 dpi, chlorosis at 9 dpi, and leaf curling at 11 dpi, whereas all R-line shoots were asymptomatic until 9 dpi and some of them had small yellow spots on leaves at 11 dpi .",
+        "answer": "After inoculation with soybean mosaic virus (SMV), both resistant R-line ‘Kefeng 1’ and susceptible S-line ‘NN1138-2’ showed no symptoms until 5 days post-inoculation. By 7 days, S-line shoots exhibited leaf wrinkling, followed by chlorosis at 9 days and leaf curling at 11 days. In contrast, R-line shoots remained asymptomatic until 9 days, with only some showing small yellow spots by 11 days.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In this study, 58 DEGs were associated with IAA signaling, which was the highest among all hormones. The transcriptome sequencing data clearly showed that 5 dpi was the most important time point for IAA signaling compared to other inoculation time points, as the majority of up-regulated IAA-related genes were in the 5 dpi vs. 1 dpi group (23 genes, e.g., IAA4-like, GH3.6, SAUR32, and LAX12), and most of the down-regulated IAA-related genes were also in this group (8 genes, e.g., GH3.2, SAUR71, and IAA13-like).",
+        "answer": "In the study, 58 differentially expressed genes (DEGs) were linked to IAA signaling, the most among all hormones. Transcriptome sequencing highlighted 5 days post-inoculation (dpi) as crucial for IAA signaling, with the majority of up-regulated IAA-related genes (23 genes, such as IAA4-like and GH3.6) and down-regulated genes (8 genes, such as GH3.2 and IAA13-like) identified in the 5 dpi vs. 1 dpi comparison.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Combining the expression patterns of DEGs enriched in the MAPK signaling pathway in two cultivars, 39 genes were susceptibility-response DEGs, of which 35 genes were downregulated in ‘Kefeng 1’ and not differentially expressed in ‘NN1138-2’, and the remaining four genes (another gene encoding MKS1, MKS1-2: Glyma.05G190000, WRKY5: Glyma.01G128100, MAPKK2: Glyma.15G172600, and MYC1: Glyma.09G204500) were not differentially expressed in ‘Kefeng 1’ but upregulated in ‘NN1138-2’.",
+        "answer": "In the study of DEGs within the MAPK signaling pathway across two cultivars, 39 genes were identified as susceptibility-response DEGs. In 'Kefeng 1', 35 of these genes were downregulated, while in 'NN1138-2', they were not differentially expressed. Four specific genes (MKS1-2, WRKY5, MAPKK2, and MYC1) were not differentially expressed in 'Kefeng 1' but were upregulated in 'NN1138-2'.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In the interaction with the non-pathogenic isolate, metabolic process and defense-related functions accounted for 28.1 and 37 % of the modulated genes at 72 hpi, falling to 24.6 and 19.4 % at 96 hpi, respectively . An opposite trend was observed in response to the pathogenic isolate and the two functional classes accounted for about 19–21 % at 72 hpi, increasing to 31–32 % in the later stage of inoculation .",
+        "answer": "In the interaction with a non-pathogenic isolate, metabolic and defense-related genes accounted for 28.1% and 37% at 72 hours post-inoculation (hpi), decreasing to 24.6% and 19.4% at 96 hpi. Conversely, with a pathogenic isolate, these gene functions increased from 19-21% at 72 hpi to 31-32% at a later stage.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Notably, we found 63 genes that are significantly up-regulated at 24 HAI and down-regulated at 36 HAI by PBZ . About 41% (26 out of 63) of these genes are related with photosynthesis and their up-regulation by PBZ at 24 HAI followed by a down-regulation at 36 HAI might be a strategy to anticipate the transition to autotrophic growth in the absence of energetic resources resulting from proper GA signaling. This gene set encodes chloroplast ATP synthase subunits, RuBisCO, chloroplast ribosomal proteins, DNA-directed RNA polymerase subunit beta (rpoC1), YCF3, and several photosystem I and II subunits.",
+        "answer": "Notably, 63 genes are significantly up-regulated at 24 hours after inoculation (HAI) and down-regulated at 36 HAI by PBZ. Approximately 41% of these genes are associated with photosynthesis. Their regulation pattern may help transition to autotrophic growth when energetic resources are limited due to proper GA signaling. This gene set includes chloroplast ATP synthase subunits, RuBisCO, chloroplast ribosomal proteins, DNA-directed RNA polymerase subunit beta (rpoC1), YCF3, and various photosystem I and II subunits.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "‘Glutathione metabolism’, ‘RNA polymerase’, ‘purine metabolism’, ‘nucleotide excision repair’, ‘pyrimidine metabolism’, and spliceosome pathways were only enriched in up-regulated genes at 24 HAI (Supplementary Tables S8). All ‘glutathione metabolism’ DEGs encode glutathione-S-transferases (GSTs) and their up-regulation is related to an increased antioxidant capacity. Increased antioxidant capacity and DNA repair mechanisms at 24 HAI in response to PBZ might be part of a tolerance mechanism to cope with the germination delay, which is in line with a recent study that proposed a link between DNA repair and antioxidant activity in Medicago truncatula seed germination and seedling establishment.",
+        "answer": "At 24 hours after inoculation (HAI), genes related to pathways such as glutathione metabolism, RNA polymerase, purine metabolism, nucleotide excision repair, pyrimidine metabolism, and spliceosome were enriched and up-regulated. The up-regulation of glutathione metabolism genes, encoding glutathione-S-transferases (GSTs), is associated with increased antioxidant capacity. This enhanced antioxidant capacity and DNA repair mechanisms may contribute to tolerance against germination delay, supporting the proposed link between DNA repair and antioxidant activity in Medicago truncatula seed germination and seedling establishment.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "There are multiple tryptophan-dependent IAA biosynthesis pathways in plants. The tryptophan aminotransferases TAR1 and TAR2 convert trp to indole-3-pyruvate (IPA), which is converted to indole acetic acid (IAA) by the YUCCA flavin monooxygenase. Further, superroot2 (SUR2) encodes the cytochrome P450 monooxygenase CYP83B1, involved in glucosinolate biosynthesis and auxin homeostasis. We found two PBZ-up SUR2 at 12 HAI and one PBZ-down TAR2 at 24 HAI, indicating that GA promotes IAA production at these time points.",
+        "answer": "There are several tryptophan-dependent pathways for IAA biosynthesis in plants. Tryptophan aminotransferases TAR1 and TAR2 convert tryptophan to indole-3-pyruvate (IPA), which is then converted to indole acetic acid (IAA) by YUCCA flavin monooxygenase. The superroot2 (SUR2) gene encodes the cytochrome P450 monooxygenase CYP83B1, which is involved in glucosinolate biosynthesis and auxin homeostasis. Research indicates that gibberellin (GA) promotes IAA production, as evidenced by the upregulation of SUR2 at 12 hours after induction (HAI) and downregulation of TAR2 at 24 HAI.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Interestingly, there were six TFs belonging to four different families specifically expressed in the black, endosperm-specific module, including ETHYLENE RESPONSE FACTOR 1 (ERF1, Glyma.13G122700), CYTOKININ RESPONSE FACTOR 4 (Glyma.14G123900), MADS-box transcription factor family protein (Glyma.05G140000 and Glyma.18G053400) and TELOMERASE ACTIVATOR 1 (TAC1, Glyma.10G184500 and Glyma.20G206000).",
+        "answer": "Six transcription factors (TFs) from four different families are specifically expressed in the black, endosperm-specific module. These include ETHYLENE RESPONSE FACTOR 1 (ERF1), CYTOKININ RESPONSE FACTOR 4, two MADS-box transcription factor family proteins, and two TELOMERASE ACTIVATOR 1 (TAC1) proteins.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Several motifs significantly associated with promoters of DEGs were identified de novo in each tissue (E-value < 1e-10). The BASIC PENTACYSTEINE (BPC) family (BPC1, BPC5 and BPC6) had the most enriched motifs in the promoters of DEGs in embryo proper, endosperm, endothelium, epidermis and hilum. The BPC TF family is integral in a wide range of processes that support plant normal growth and development.",
+        "answer": "Several motifs linked to promoters of differentially expressed genes (DEGs) were identified in various tissues, with an E-value of less than 1e-10. The BASIC PENTACYSTEINE (BPC) family, including BPC1, BPC5, and BPC6, showed the most enriched motifs in the promoters of DEGs across the embryo proper, endosperm, endothelium, epidermis, and hilum. The BPC transcription factor family plays a crucial role in numerous processes essential for normal plant growth and development.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Interestingly, 3 ORFs (ORF151, ORF103c and ORF178) were expressed at very low levels or not expressed in SXCMS5B. Especially, qRT-PCR analysis confirmed that these 3 ORFs genes were upregulated in SXCMS5A, SXCMS6A and SXCMS7A (the latter two CMS lines having a same cytoplasm source as SXCMS5A) compared to their respective maintainer SXCMS5B, SXCMS6B and SXCMS7B .",
+        "answer": "Three ORFs (ORF151, ORF103c, and ORF178) showed low or no expression in SXCMS5B. qRT-PCR analysis revealed that these ORFs were upregulated in SXCMS5A, SXCMS6A, and SXCMS7A, which share the same cytoplasm source, compared to their respective maintainers SXCMS5B, SXCMS6B, and SXCMS7B.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Of the genes involved in plant hormone signaling, we detected 20 (43.5%) responsive to auxin stimulus that appear to encode four auxin/indole-3-acetic acid (IAA) family proteins based on sequence similarity . Genes similar to Arabidopsis IAA4 (Glyma.19G161000, Glyma.02G000500) and IAA26 (Glyma.07G015200) were upregulated upon salt stress in DN50, while IAA27 (Glyma.08G203100) was downregulated in QH34 under the same conditions.",
+        "answer": "Of the genes involved in plant hormone signaling, 20 (43.5%) were responsive to auxin stimulus, encoding four auxin/indole-3-acetic acid (IAA) family proteins. Genes similar to Arabidopsis IAA4 and IAA26 were upregulated in DN50 under salt stress, while IAA27 was downregulated in QH34 under the same conditions.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Multiple sequence alignment of all twelve differentially expressed MCM genes in the soybean seed coat was completed with the sequences of known MCM genes in Arabidopsis (AtMCM2–7), maize (ZmMCM2–7), pea (PsMCM2–7), and two Brassica species (B. oleracea BoMCM2–7, B. rapa BrMCM2–7) . Soybean MCM2 and MCM7 genes had between ~76–84% amino acid identity with both B. oleracea and B. rapa MCM genes, while soybean MCM4, 5 and 6 genes showed higher amino acid sequence similarity with B. rapa MCM genes (Additional file 6: Table S4), ranging from ~73–78% identity. Soybean MCM3 (GmMCM3) genes Glyma05g25980 and Glyma08g08920 had 76–77% identity with BoMCM3 and BrMCM3_2, but 32% identity with BrMCM3_1.",
+        "answer": "A multiple sequence alignment was conducted for twelve differentially expressed MCM genes in the soybean seed coat, comparing them with known MCM genes in Arabidopsis, maize, pea, and two Brassica species. Soybean MCM2 and MCM7 genes showed 76–84% amino acid identity with both B. oleracea and B. rapa MCM genes. Soybean MCM4, 5, and 6 genes had higher similarity with B. rapa MCM genes, with 73–78% identity. Soybean MCM3 genes Glyma05g25980 and Glyma08g08920 had 76–77% identity with BoMCM3 and BrMCM3_2, but only 32% identity with BrMCM3_1.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Under stress, the ROS in plants increases, and the activity of antioxidant enzymes also changes (Liu et al., 2022a). After 14 days of PS-NPs treatment, H2O2 accumulation in leaves and roots significantly increased (p < 0.05) by 19.98% and 35.40%, respectively . However, the content of O2− in the roots was significantly increased (p < 0.05) by 31.05%, whereas there was no significant (p > 0.05) change in the leaves .",
+        "answer": "Under stress, plants experience increased reactive oxygen species (ROS) and changes in antioxidant enzyme activity. After 14 days of treatment with PS-NPs, H2O2 levels in leaves and roots rose significantly, while O2− content increased in roots but not in leaves.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "As is shown in Fig. 1 and Table S1 (Additional file 1), the PAT1 subfamily herein contained 23 members and was the largest GmGRAS gene subfamily in this study. The LISCL subfamily was one gene member less than the PAT1 subfamily. Coincidentally, both the HAM and SCL3 subfamilies included 15 members. Besides, there were 14, 13, 6, 6 and 2 GmGRAS gene members in the DELLA, SHR, SCR, SCL4/7 and LAS subfamilies, respectively.",
+        "answer": "The study identified the PAT1 subfamily as the largest GmGRAS gene subfamily with 23 members. The LISCL subfamily had one less member. Both the HAM and SCL3 subfamilies contained 15 members each. Additionally, the DELLA, SHR, SCR, SCL4/7, and LAS subfamilies had 14, 13, 6, 6, and 2 members, respectively.",
+        "split": {
+            "level1": "基因基本信息查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "For instance, most GmGRAS genes in the LISCL, SHR and SCL3 subfamilies exhibited low gene expressions in all tissues, however, some genes (GmGRAS67, GmGRAS82 and GmGRAS83 in the LISCL subfamily; GmGRAS97 in the SHR subfamily; GmGRAS15 and GmGRAS65 in the SCL3 subfamily) showed relatively high expression levels in root and nodule.",
+        "answer": "Most GmGRAS genes in the LISCL, SHR, and SCL3 subfamilies generally show low expression across tissues. However, specific genes such as GmGRAS67, GmGRAS82, and GmGRAS83 in the LISCL subfamily, GmGRAS97 in the SHR subfamily, and GmGRAS15 and GmGRAS65 in the SCL3 subfamily exhibit higher expression levels in roots and nodules.",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "As is shown in the figure, the expressions of the GmPME genes in the maintainer NJCMS1B are universally higher than those in cytoplasmic male sterile line NJCMS1A. In the Group I and Group II clades, some GmPME genes, for examples, GmPME46 and GmPME121 in the Group I clade as well as GmPME12 and GmPME122 in the Group II clade, were at relatively high expression levels both in NJCMS1A and NJCMS1B.",
+        "answer": "The expression levels of GmPME genes are generally higher in the maintainer line NJCMS1B compared to the cytoplasmic male sterile line NJCMS1A. However, certain genes like GmPME46 and GmPME121 in Group I, and GmPME12 and GmPME122 in Group II, show relatively high expression in both lines.",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "GmPME7 mainly expressed in flowers, root and nodules; GmPME94 showed relatively high expressions in leaves, stem and pods; GmPME105 highly expressed in stem, root, root hairs, nodules and seeds; GmPME121 displayed superior expressions in SAM, stem, root, root hairs and pods. Besides, GmPME111 and GmPME122 were from the Group II clade and uniformly exhibited high expressions in flowers . GmPME38 and GmPME60 from the Group III clade were depicted in Fig. 11c. GmPME38 presented relatively high expression levels in stem, root hairs, nodules, pods and seeds. Whereas, GmPME60 displayed considerable expressions in SAM, stem, nodules, pods and seeds. The two extracted genes (GmPME71 and GmPME113) from the Group IV clade exhibited superior expressions in pods and seeds, and GmPME71 simultaneously owned relatively high expression in SAM .",
+        "answer": "The GmPME genes exhibit varying expression levels across different plant parts. GmPME7 is mainly expressed in flowers, roots, and nodules; GmPME94 in leaves, stems, and pods; GmPME105 in stems, roots, root hairs, nodules, and seeds; GmPME121 in SAM, stems, roots, root hairs, and pods. GmPME111 and GmPME122, from Group II, are highly expressed in flowers. GmPME38 and GmPME60, from Group III, show high expression in stems, root hairs, nodules, pods, and seeds. GmPME71 and GmPME113, from Group IV, are highly expressed in pods and seeds, with GmPME71 also showing high expression in SAM.",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "GmDW1 contains 14 exons and 13 introns with a 2768-bp transcript encoding 834 amino acids. Analysis of the predicted protein sequence revealed several conserved domains. There is a terpene_cyclase_plant_C1 domain of 522 aa from aa 285–806. A terpene synthase family metal-binding domain is located at aa 501-756. The region of aa 34–815 contains an ent-kaurene-16 synthase domain.",
+        "answer": "GmDW1 is a gene with 14 exons and 13 introns, producing a 2768-bp transcript that encodes 834 amino acids. The predicted protein sequence includes several conserved domains: a terpene_cyclase_plant_C1 domain from amino acids 285 to 806, a terpene synthase family metal-binding domain from amino acids 501 to 756, and an ent-kaurene-16 synthase domain spanning amino acids 34 to 815.",
+        "split": {
+            "level1": "基因基本信息查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Besides a T-to-A change in the third exon from BSA (bulked segregant analysis) sequencing, a second SNP mutation (A2416G) and a 3-bp deletion (AAA) were also identified in the 6th intron of Gmdw1 in the dw mutant, but only the single missense point mutation (T1224A) in exon 3 caused an amino acid substitution at residue 125, from Trp to Arg in the Gmdw1 gene .",
+        "answer": "In the dw mutant, a missense point mutation (T1224A) in exon 3 of the Gmdw1 gene causes an amino acid substitution from tryptophan to arginine at residue 125. Additionally, a second SNP mutation (A2416G) and a 3-bp deletion (AAA) were identified in the 6th intron, but only the exon 3 mutation affects the protein.",
+        "split": {
+            "level1": "基因基本信息查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "We acquired the expression patterns of two nodulation marker genes (NIN and ENOD40) and three defense marker genes (PR1, PR2, and PR5) in Suinong 14 roots (where the NopC mutant decreased NN and NDW) inoculated with HH103 and the NopC mutant. NopC absence did not induce difference in expression patterns of NIN or ENOD40 compared with the wild strain , but caused changes in the expression patterns of PR1 and PR5. HH103 induced expression of PR1 reached a peak at 36 h post-inoculation, whereas the NopC mutant did not. The same was true for the PR5 gene, where there were opposite expression patterns after inoculation with HH103 and the NopC mutant .",
+        "answer": "In Suinong 14 roots inoculated with HH103 and the NopC mutant, the absence of NopC did not affect the expression patterns of nodulation marker genes NIN and ENOD40. However, it altered the expression of defense marker genes PR1 and PR5. HH103 induced peak expression of PR1 at 36 hours post-inoculation, which was not observed with the NopC mutant. Similarly, PR5 showed opposite expression patterns between HH103 and the NopC mutant.",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Indeed, the expression level of Glyma.19G176300 in Suinong 14 showed a pattern of induction by the wild strain almost opposite to that of the NopC mutant, whereas in Zyd 00006, the wild strain and NopC mutant did not show different expression patterns. SNP analysis of the Glyma.19G176300 in Suinong 14 and Zyd 00,006 revealed 5 SNPs in the promoter region and 2 SNPs in exons. Because these two base mutations did not alter the amino acid composition of the protein, the SNPs in the promoter may account for the differing expression patterns of Glyma.19G176300 in response to NopC. Thus, we named Glyma.19G176300 NopC Related Protein (GmCRP), which may be a candidate gene related to NopC after infection with the wild strain HH103.",
+        "answer": "The expression of Glyma.19G176300, named NopC Related Protein (GmCRP), in Suinong 14 is induced differently by the wild strain compared to the NopC mutant, unlike in Zyd 00006 where no difference is observed. SNP analysis revealed 5 SNPs in the promoter and 2 in exons, with the promoter SNPs potentially causing the expression differences in response to NopC. GmCRP may be a candidate gene related to NopC after infection with the wild strain HH103.",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "When hairy roots were inoculated with the wild strain and the NopC mutant, GmCRP overexpression significantly increased the nodule number and dry weight after inoculation with both the wild strain and the NopC mutant compared with the control. When OE hairy-roots were inoculated with the NopC mutant, no significant differences in either nodule numbers and dry-weights were observed compared with control hairy roots inoculated with the wild strain, suggesting that GmCRP overexpression partially compensated for the absence of NopC during infection .",
+        "answer": "GmCRP overexpression in hairy roots increased nodule number and dry weight when inoculated with both the wild strain and the NopC mutant compared to controls. However, when OE hairy roots were inoculated with the NopC mutant, nodule numbers and dry weights showed no significant differences from controls inoculated with the wild strain, indicating that GmCRP overexpression partially compensates for the absence of NopC during infection.",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "This geographical bias was further analyzed in China where the proportion of PH13H3 among all cultivars increased from near zero in the lower latitude regions (below 40°N) to 48.7% in the higher latitude regions (above 40°N) . Out of 78 cultivars carrying PH13H3, 76 were located in higher latitude regions , demonstrating that the PH13H3 allele has been used successfully in breeding programs to improve soybean adaptation in high latitudes.",
+        "answer": "在中国，PH13H3在所有品种中的比例从低纬度地区（低于40°N）的接近零增加到高纬度地区（高于40°N）的48.7%。在78个携带PH13H3的品种中，有76个位于高纬度地区，表明PH13H3等位基因已成功用于育种计划，以改善大豆在高纬度地区的适应性。",
+        "split": {
+            "level1": "基因基本信息查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "A previous study showed that two soybean COP1 orthologs, GmCOP1a and GmCOP1b, play a pivotal role in controlling plant height in soybean. Here we found that the diurnal transcription pattern of PH13 is in line with that of GmCOP1a and GmCOP1b in soybean, peaking at dawn and declining at dusk , suggesting that PH13 may act as an evolutionarily conserved factor to form a complex with these GmCOP1s to degrade target proteins in soybean.",
+        "answer": "A previous study identified two soybean COP1 orthologs, GmCOP1a and GmCOP1b, as key regulators of plant height. The current study reveals that the transcription pattern of PH13 aligns with GmCOP1a and GmCOP1b, peaking at dawn and declining at dusk. This suggests PH13 may be an evolutionarily conserved factor that forms a complex with GmCOP1s to degrade target proteins in soybean.",
+        "split": {
+            "level1": "基因功能实验观察",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The seed-flooding tolerance of 347 soybean lines of YHSBG population was evaluated using three germination-related traits GR, NSR and EC. The values of descriptive statistics, ANOVA (F-value) and estimates of heritability (h2) for all three studied traits of the YHSBG population in two different environments JP14 and HY15 were presented in Table 1. In JP14, the mean of GR and NSR were 0.55 and 0.40, respectively, and their ranges were 0–1.00 and 0–0.94. Furthermore, the mean of EC was 1248 us/mL, and ranges from 153 to 2840 us/mL. However, compared with the mean in JP14, the means of GR and NSR in HY15 were lower, whereas the mean of EC was relatively higher (Table 1), suggesting that seed-flooding tolerance in soybean is an environmentally sensitive trait.",
+        "answer": "The seed-flooding tolerance of 347 soybean lines from the YHSBG population was assessed using germination-related traits GR, NSR, and EC across two environments, JP14 and HY15. In JP14, the mean values for GR and NSR were 0.55 and 0.40, respectively, with ranges of 0–1.00 and 0–0.94, while EC had a mean of 1248 us/mL, ranging from 153 to 2840 us/mL. In HY15, GR and NSR means were lower, and EC mean was higher, indicating that seed-flooding tolerance is sensitive to environmental conditions.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In the present study, the MLM model was performed to identify significant QTNs associated with GR, NSR and EC. A total of 8, 6 and 11 QTNs were identified to be associated with GR, NSR and EC, respectively, at the significance level of −log10P = 4 in JP14, HY15 and Combined-environments . The eight QTNs of GR were distributed on four different chromosomes Chr.01, Chr.08, Chr.13 and Chr.14. Among these QTNs, only qGR-13-2 located on Chr.13 was detected consistently in all three environments, explaining 4.51%–6.62% of the phenotypic variation (PV).",
+        "answer": "The study utilized the MLM model to identify QTNs linked to GR, NSR, and EC, finding 8, 6, and 11 QTNs respectively, with significance at −log10P = 4 across JP14, HY15, and combined environments. GR-related QTNs were found on chromosomes Chr.01, Chr.08, Chr.13, and Chr.14, with qGR-13-2 on Chr.13 consistently detected in all environments, accounting for 4.51%–6.62% of phenotypic variation.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "By comparing the nucleotide differences of these genes between seed-flooding tolerant and sensitive lines, Glyma.13g248000 revealed one base mutation (T–A) at 145bp position in two seed-flooding tolerant lines L422 and L488, and this nonsynonymous mutation resulted in the single amino acid change (Cys-Ser) in protein . However, no base mutations/polymorphisms were observed in the other three candidate genes between tolerant and sensitive lines. Furthermore, sequence analysis of the 2 kb promoter region upstream of these four genes was performed. However, no nucleotide mutation was observed among these six tolerant and sensitive genotypes. Although no base mutation of Glyma.13g248000 was identified at 145 bp position in the seed-flooding tolerant line (L018), but the confirmation of this mutation in the remaining two seed-flooding tolerant line L422 and L488 suggested that Glyma.13g248000 was the most possible candidate gene associated with seed-flooding tolerance identified in this study, and this gene was designated as GmSFT.",
+        "answer": "By comparing nucleotide differences, a single base mutation (T–A) at position 145bp in the Glyma.13g248000 gene was found in two seed-flooding tolerant lines, L422 and L488, causing an amino acid change (Cys-Ser). No mutations were found in three other candidate genes or in the promoter regions of all four genes across tolerant and sensitive lines. Despite the absence of this mutation in line L018, its presence in L422 and L488 suggests Glyma.13g248000, designated as GmSFT, is a likely candidate gene for seed-flooding tolerance.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The predicted subcellular locations of the Gmzf_CCCHs showed that most of the Gmzf_CCCHs (104 of 116) were localized in nucleus. Seven Gmzf_CCCH genes were predicted to be localized in chloroplast and 3 localized in cytoplasm. The other 2 Gmzf_CCCH genes (Glyma03g02000.3 and Glyma08g39400.1) were localized in vacuole and mitochondrial, respectively.",
+        "answer": "Most of the Gmzf_CCCH genes (104 out of 116) are predicted to be localized in the nucleus. Seven are predicted to be in the chloroplast, three in the cytoplasm, and two in the vacuole and mitochondria, respectively.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Gene duplication, including tandem and segmental duplications, is widespread in plant genomes, which is considered one of the major driving forces of genome evolution resulting in large gene family expansion in plants [30]. Duplicated genes are the source for creating novel genetic variation. MCScanX was used to analyze the gene duplications of Gmzf_CCCHs [31]. In total, 88 genes were involved in duplication. Five gene pairs Glyma02g17250/Glyma02g17260, Glyma03g30020/Glyma03g30030, Glyma09g35980Glyma09g35990, Glyma10g02550/Glyma10g02540, and Glyma12g01340/Glyma12g01350, were identified as tandem duplicated genes and located on chromosomes Gm02, Gm03, Gm09, Gm10 and Gm12 . 75% (87 of 116) of Gmzf_CCCHs were involved in segmental duplication forming 68 segmentally duplicated gene pairs (Table S3 and S4).",
+        "answer": "Gene duplication, including tandem and segmental duplications, is prevalent in plant genomes and drives genome evolution, leading to large gene family expansions. In a study using MCScanX, 88 Gmzf_CCCH genes were found to be duplicated. Five gene pairs were identified as tandem duplications on specific chromosomes, while 75% of Gmzf_CCCHs were involved in segmental duplication, forming 68 segmentally duplicated gene pairs.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Many cis-acting elements related to hormone signaling pathways were found, such as methyl jasmonate (MeJA), salicylic acid (SA), abscisic acid (ABA), gibberellins (GA) and auxin (IAA). A total of 65 Gmzf_CCCHs were detected with MeJA-responsive elements, containing CGTCA-motif and TGACG-motif, and 77 for ABA-responsive element (ABRE), indicating that most of the Gmzf_CCCHs might participate in JA- and ABA-mediated signaling pathways.",
+        "answer": "Many cis-acting elements associated with hormone signaling pathways were identified, including those responsive to methyl jasmonate (MeJA), salicylic acid (SA), abscisic acid (ABA), gibberellins (GA), and auxin (IAA). Specifically, 65 Gmzf_CCCHs were found with MeJA-responsive elements and 77 with ABA-responsive elements, suggesting their involvement in JA- and ABA-mediated signaling pathways.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Additionally, the haplotype analysis showed that Glyma12g33320 contained four main haplotypes in 164 soybean accessions, Hap1 and Hap4 were with high oil content, low protein content and low linolenic content , and the percentage of Hap1 and Hap4 were increased from wild (3.0 and 0%) to landrace (83.1 and 16.9%) , which further proved that the gene Glyma12g33320 was involved in the regulation of oil synthesis in soybean and undergone selection in the process of soybean domestication.",
+        "answer": "Haplotype analysis of Glyma12g33320 in 164 soybean accessions identified four main haplotypes. Hap1 and Hap4 are associated with high oil, low protein, and low linolenic content. The prevalence of Hap1 and Hap4 increased from wild soybeans (3.0% and 0%) to landraces (83.1% and 16.9%), indicating Glyma12g33320's role in oil synthesis regulation and its selection during domestication.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Analysis of variance indicated that the genotype (G), environment (E) and genotype by environment interaction (G × E) had significant effects on plant height (PH), number of nodes on main stem (NN) and stem diameter (DI) (P < 0.01; Table 1). The genotype (G) and genotype by environment interaction (G × E) had significant effects on branch number (BN) and 100-seed weight (100-SW), but the genotype by environment interaction (G × E) had no significant effects.",
+        "answer": "Analysis of variance showed that genotype (G), environment (E), and genotype by environment interaction (G×E) significantly affect plant height, number of nodes on the main stem, and stem diameter. Genotype and G×E interaction significantly affect branch number and 100-seed weight, but G×E interaction does not significantly affect branch number.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The correlation coefficients for the five traits were calculated based on the BLUP values and are summarized in Table 2. There was a significant positive correlation between plant height (PH) and number of nodes on main stem (NN), with a correlation coefficient of 0.894. There was also a significant positive correlation between PH, NN, branch number (BN) and stem diameter (DI). Additionally, 100-seed weight (100-SW) was only significantly positively correlated with DI, with a correlation coefficient of 0.244. Correlation analysis showed that there was a positive correlation between PH, NN, BN, DI and 100-SW in soybean.",
+        "answer": "The correlation analysis of five traits in soybean showed significant positive correlations. Plant height (PH) and number of nodes on the main stem (NN) had a strong correlation coefficient of 0.894. PH, NN, branch number (BN), and stem diameter (DI) were also positively correlated. 100-seed weight (100-SW) was significantly positively correlated only with DI, with a coefficient of 0.244. Overall, PH, NN, BN, DI, and 100-SW exhibited positive correlations.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Among the four potential candidate genes associated with 100-SW, Glyma.05 g127900, Glyma.05 g128000 and Glyma.05 g129000 showed significant differences in expression between ZDD06067 and ZDD20532 at four stages during soybean seed development (P ≤ 0.01) . During all four tested growth stages, there was a pronounced differential expression of the 100-SW material genotype by ZDD06067 (higher) and 100-SW genotype ZDD20532 (lower). Therefore, Glyma.05 g127900, Glyma.05 g128000 and Glyma.05 g129000 may be used as candidate genes for soybean 100-SW, as they negatively regulate 100-SW in soybean.",
+        "answer": "Among the candidate genes for soybean 100-seed weight (100-SW), Glyma.05 g127900, Glyma.05 g128000, and Glyma.05 g129000 showed significant differential expression between genotypes ZDD06067 and ZDD20532 across four seed development stages. These genes are potential candidates for 100-SW as they negatively regulate it, with ZDD06067 exhibiting higher expression and ZDD20532 lower.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "For all the studied traits, the genotype component accounted for the highest proportion of the observed variations. Moreover, medium to high broad-sense heritability (h2) was observed, ranging from 0.61 (seed yield per plant, SYP) to 0.99 (100-seed weight, HSW) in individual environments (Supplementary Table S1) and from 0.80 (SYP) to 0.99 (HSW) in the combined environment (Table 1).",
+        "answer": "The genotype component significantly contributed to the observed variations in all studied traits. Broad-sense heritability was medium to high, ranging from 0.61 to 0.99 in individual environments and from 0.80 to 0.99 in the combined environment.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Further, some of these SNPs were consistently detected in multiple environments, using different GWAS models, and were found to be associated with more than one studied trait. Such SNPs were considered stable MTAs. For example, the significant SNP (AX-93793,210) on Chr.11 was identified consistently in five individual environments (E1, E2, E3, E4, and E5) and the combined environment. In addition, this SNP was also identified through four different GWAS models (BLINK, FarmCPU, GLM, and MLMM), and was found to be associated with two yield-related traits (HSW and SPP).",
+        "answer": "Some SNPs were consistently detected across multiple environments and GWAS models, indicating stable MTAs. Notably, SNP AX-93793,210 on Chr.11 was identified in five environments and through four GWAS models, associated with two yield-related traits, HSW and SPP.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The six stable markers mentioned above were used as a reference for the identification of haplotypes for yield-related traits. These stable markers were located on Chr.04 (AX-93703,924), Chr.05 (AX-93922099), Chr.11 (AX-93793,210), Chr.13 (AX-93807,406), Chr.18 (AX-94176727), and Chr.20 (AX-94199992). All the markers that were in strong LD (within ±670 kbp) with these six SNP markers, represented a haplotype block/locus . For example, 17 SNP markers were in strong LD with the reference marker AX-93703,924 (3,957,601–4291,705) and formed a haplotype block. Three haplotype alleles were identified within this haplotype block, in the soybean population . These three haplotype alleles identified on Chr.04 showed significant differences in the phenotypes of SPP and PPP.",
+        "answer": "Six stable markers on chromosomes 04, 05, 11, 13, 18, and 20 were used to identify haplotypes related to yield traits. These markers, in strong linkage disequilibrium (LD) with others within ±670 kbp, formed haplotype blocks. For instance, 17 SNP markers in strong LD with the marker AX-93703,924 on Chr.04 formed a haplotype block, revealing three haplotype alleles in a soybean population, which significantly affected SPP and PPP phenotypes.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "After seven days of treatment, the soybean germplasm accessions exhibited a range of responses to alkaline treatment (AT), from sensitive to moderately tolerant and highly tolerant. Extremely sensitive accessions experienced the wilting of aboveground leaves, plant death, and significant reductions in both shoot and root biomass compared to CK . Accessions with moderate alkaline tolerance displayed yellowing and the wilting of leaves, as well as reductions in shoot and root biomass under AT . However, compared to sensitive cultivars, those with moderate alkaline tolerance exhibited a lesser reduction in both shoot and root biomass when exposed to AT, while alkaline-tolerant soybean accessions showed the least impact on root and shoot biomass under AT relative to CK .",
+        "answer": "After seven days of alkaline treatment, soybean germplasm accessions showed varying levels of tolerance, from sensitive to highly tolerant. Extremely sensitive accessions experienced leaf wilting, plant death, and significant biomass reduction. Moderately tolerant accessions showed yellowing and wilting of leaves with reduced biomass, but less so than sensitive ones. Highly tolerant accessions had the least impact on biomass compared to control conditions.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Our results indicated that four significant SNPs are located on qAT4, associated with SFW in the AT/CK group. These SNPs formed a haplotype block designated as Hap4, which comprised three haplotype alleles: Hap4_1, Hap4_2, and Hap4_3 . Hap4_2 was associated with higher SFW values in the AT/CK group, thus contributing to greater alkaline tolerance, while Hap4_1 was linked to the lowest SFW values and lower alkaline tolerance. Additionally, Hap4_3 was associated with intermediate SFW values, indicating moderate alkaline tolerance in soybean.",
+        "answer": "Four significant SNPs associated with seed fresh weight (SFW) in the AT/CK group were identified on qAT4, forming a haplotype block called Hap4. This block includes three haplotype alleles: Hap4_1, Hap4_2, and Hap4_3. Hap4_2 is linked to higher SFW and greater alkaline tolerance, Hap4_1 to lower SFW and tolerance, and Hap4_3 to intermediate SFW and moderate tolerance in soybeans.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Based on the determinations of skewness and kurtosis, we established all seven traits (DIAM, LAL, LAD, LENGTH, NT, NF, and SA) to be normally distributed . Among these traits, the highest coefficient of variation (CV) was obtained for NF (32.23%), followed by NT (29.53%), LENGTH (23.92%), SA (22.50%), LAL (15.12%), LAD (9.25%), and DIAM (8.68%). These findings indicate a notable variation in the levels of significant difference among the measured traits.",
+        "answer": "All seven traits (DIAM, LAL, LAD, LENGTH, NT, NF, and SA) were found to be normally distributed. The trait NF showed the highest coefficient of variation at 32.23%, followed by NT, LENGTH, SA, LAL, LAD, and DIAM, indicating varying levels of significant difference among the traits.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow . Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.",
+        "answer": "The study grouped 357 soybean landraces into clusters to understand their population structure. Using K-means clustering and the elbow method, three clusters were identified: Group I with 92 landraces, Group II with 105, and Group III with 160. Each group exhibited varying levels of admixture.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Based on obtained annotation information, possible role in root development, and expression profiles related to root organs/tissues (e.g., roots, root stripped, root nodules, and root tips), we drew up a shortlist of 55 candidate genes (Table S4). We first used the ePlant (https://bar.utoronto.ca/eplant_soybean/, accessed on 16 April 2022) database to analyze the expression patterns of 55 candidate genes in different tissues. The result showed that all candidate genes were expressed in soybean root tissues . Furthermore, we selected the six highest expressed genes (Glyma.11g209100, Glyma.09g051100, Glyma.01g220600, Glyma.05g225700 Glyma.11g209200, and Glyma.13g261700) in the root, and data analysis was completed for these six genes using RNA-Seq soybean libraries (4085) and compared with other tissues (leaf, seedling, shoot, stem, meristem, flower, pod, nodule, seed, embryo, and endosperm). The result showed differential expression levels of six selected candidate genes in the othertissues .",
+        "answer": "Based on annotation information and expression profiles related to root development, 55 candidate genes were shortlisted for analysis. Using the ePlant database, all candidates were found to be expressed in soybean root tissues. The six highest expressed genes in the root (Glyma.11g209100, Glyma.09g051100, Glyma.01g220600, Glyma.05g225700, Glyma.11g209200, and Glyma.13g261700) were further analyzed using RNA-Seq libraries, revealing differential expression levels compared to other tissues such as leaf, seedling, and flower.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The rate of glucose utilization by cells is known to be influenced by various environmental factors [25]. One of the outcomes of the current study was to observe the effects of heat stress on carbohydrate metabolism, specifically in glycolysis and the pentose phosphate pathway (PPP). Oxidative PPP is a major source of reducing power and metabolic intermediates for several biosynthetic processes in the cell, and apparent change in the cellular abundance of certain PPP metabolites often severely affects several other metabolism pathways [26]. Analysis of this study revealed that during heat stress, the amount of major glycolysis and PPP metabolites, such as glucose, dihydroxy acetone phosphate and pyruvate, decreased drastically compared to the control treatment .",
+        "answer": "The study examined the impact of heat stress on carbohydrate metabolism, focusing on glycolysis and the pentose phosphate pathway (PPP). It found that heat stress significantly reduced the levels of key metabolites like glucose, dihydroxyacetone phosphate, and pyruvate, which are crucial for glycolysis and the oxidative PPP, affecting other metabolic pathways.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Increases in valine and leucine upon drought stress can also result from the consistent increase in the substrate pyruvate, which also featured in our GC-MS-based results [44]. The relative increase of isoleucine and leucine  in drought-stressed soybean leaves were in agreement with previous findings in Arabidopsis [45]. Glycine and proline are two major organic osmolytes that were highly accumulated  in response to drought stress [46,47]. Very high accumulation of cellular proline and glycine under drought stress was also observed in our study, which clearly shows the potential for an advanced tolerance response during adverse environmental conditions, such as drought, in soybeans.",
+        "answer": "In drought-stressed soybean leaves, there is an increase in valine and leucine due to elevated pyruvate levels. This aligns with findings in Arabidopsis. Additionally, glycine and proline, major organic osmolytes, accumulate significantly under drought stress, indicating an advanced tolerance response in soybeans during adverse conditions.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In agreement with proteomic findings (Das et al. [49]), a direct correlation for key amino acids such as glutamine and glutamate was reflected in this metabolomic investigation. The proteomics study [49] indicated that cytosolic glutamine synthetase, which assimilates ammonium to glutamine using glutamate as a substrate, is reduced significantly during drought, and alleviates nitric oxide (active radicals) levels to activate drought tolerance mechanisms in soybeans. Our metabolic data supports proteomic findings, as glutamate was found to be reduced during drought stress.",
+        "answer": "The metabolomic investigation aligns with proteomic findings, showing a direct correlation for key amino acids like glutamine and glutamate. During drought, cytosolic glutamine synthetase, which converts ammonium to glutamine using glutamate, is significantly reduced, helping activate drought tolerance mechanisms in soybeans by alleviating nitric oxide levels. Metabolic data confirms glutamate reduction under drought stress.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Specifically, purine and pyrimidine nucleotides directly participate in nucleic acid synthesis, which provides the ultimate energy source for the synthesis of carbohydrates, lipids, peptides and secondary metabolites [55]. The de novo pyrimidine biosynthetic pathway (orotate pathway) is defined as the formation of uridine monophosphate (UMP)from carbamoyl phosphate (CP), orotate, 5-phosphoribosyl-1-pyrophosphate (PRPP), and a few other phosphate metabolites [56]. Our metabolomics profiling result indicates that the major building blocks, which are pyrimidine bases such as thymine, cytosine and uracil, are reduced significantly upon heat stress, which affects overall pyrimidine biosynthesis and nucleic acid biosynthesis .",
+        "answer": "Purine and pyrimidine nucleotides are crucial for nucleic acid synthesis, providing energy for synthesizing carbohydrates, lipids, peptides, and secondary metabolites. The de novo pyrimidine biosynthetic pathway involves forming uridine monophosphate (UMP) from carbamoyl phosphate, orotate, and other metabolites. Heat stress significantly reduces pyrimidine bases like thymine, cytosine, and uracil, impacting pyrimidine and nucleic acid biosynthesis.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Energy metabolism is substantially higher in young leaves than that in mature leaves. Indeed, young leaves are actively growing and require a substantial and sustained amount of energy to support their metabolism. As a result, they tend to have higher rates of photosynthesis and respiration than mature leaves. (26,27) A previous study showed that monosaccharides are biosynthesized through photosynthesis in bean (Phaseolus vulgaris) leaves at an early stage while sucrose biosynthesis takes place in mature leaves. (20) In agreement, we detected many monosaccharides (xylose, galactose, mannose, glucose, and fructose) that are biosynthesized through photosynthesis and respiration during the V stages of soybean leaf development. Also during the V stages, energy metabolism was active, leading to an accumulation of tricarboxylic acid (TCA) cycle intermediates (fumaric and malic acid).",
+        "answer": "Energy metabolism is higher in young leaves compared to mature leaves due to their active growth, requiring more energy for photosynthesis and respiration. Young leaves primarily biosynthesize monosaccharides, while mature leaves focus on sucrose biosynthesis. In soybean leaf development, during the V stages, active energy metabolism results in the accumulation of TCA cycle intermediates like fumaric and malic acid.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "During the R6–8 stages, we observed the accumulation of amino acids (proline, isoleucine, valine, alanine, threonine, glutamic acid, aspartic acid, leucine, asparagine, and glutamine) . During stages R6 and R8, seed filling is completed and senescence is initiated. At these stages, several amino acids accumulate in seeds, among which the major ones are glutamic acid, aspartic acid, arginine, leucine, and lysine.",
+        "answer": "During the R6–8 stages of seed development, amino acids such as proline, isoleucine, valine, alanine, threonine, glutamic acid, aspartic acid, leucine, asparagine, and glutamine accumulate. Seed filling is completed and senescence begins, with significant accumulation of glutamic acid, aspartic acid, arginine, leucine, and lysine in seeds.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In conclusion, we investigated the changes in 72 metabolites across 12 growth stages for five cultivars (KA, AR, MS, DW, and IP) in soybean leaves. We performed multivariate analysis to identify the compounds that separated the samples based on growth stage and cultivar. PCA results revealed that the growth stage strongly influenced the clustering of samples and the PC1 loading plot indicated active carbon-related energy metabolism during the V stages. PLS-DA results unveiled significant alterations in the metabolic networks up to R5, indicating tight coordination between carbon and nitrogen metabolism. Additionally, we observed dramatic changes in the contents of policosilanes, which are major components of the waxy leaf surface. In R6–R8, certain amino acids accumulated, indicating energy redistribution to the seed.",
+        "answer": "The study examined 72 metabolites across 12 growth stages in five soybean cultivars. Multivariate analysis showed that growth stages significantly influenced sample clustering. PCA indicated active carbon-related energy metabolism during V stages, while PLS-DA revealed significant metabolic network changes up to R5, highlighting carbon and nitrogen metabolism coordination. Notable changes were observed in policosilanes, key components of the waxy leaf surface. During R6–R8, certain amino acids accumulated, suggesting energy redistribution to seeds.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In similar conditions in other studies, glyphosate reduced root growth (length and weight) of susceptible soybean [21]. Consistent with the cited reports, glyphosate also reduced the root length of susceptible soybean seedlings . In contrast, glyphosate did not affect the root growth of GR soybeans—an expected result because this cultivar tolerates the herbicide. However, since glyphosate residues and its metabolite aminomethylphosphonic acid (AMPA) were found in GR soybean seeds in field’s conditions [22], growth and yield cannot be assumed to be unchanged. Glyphosate reduced the root growth of GR soybeans in greenhouse studies [23], but did not affect soybean growth in field experiments [24]. At least for the short-term experimental conditions reported in this work, the root length of GR soybeans was unaffected by glyphosate treatment.",
+        "answer": "Glyphosate reduces root growth in susceptible soybean varieties but does not affect glyphosate-resistant (GR) soybeans in field conditions. However, glyphosate residues and its metabolite AMPA were found in GR soybean seeds, suggesting potential impacts on growth and yield. In greenhouse studies, glyphosate reduced root growth in GR soybeans, but field experiments showed no effect on growth. In the short-term, GR soybean root length was unaffected by glyphosate.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Glyphosate not only reduced the root length of susceptible (BRS-133) soybeans, but also significantly increased the shikimate accumulation . Shikimate increased 27.8- to 48.7-fold after 0.1–5 mM glyphosate treatment. Several examples in the literature have reported shikimate accumulation in different tissues of agricultural crops such as cotton [7], corn [8], sunflower [9], canola [10], barley [11], tomato [25], wheat [26], and rice [27]. In glyphosate-treated soybeans, similar trends have been reported for leaves [12], [28] and apical meristems [29].",
+        "answer": "Glyphosate treatment in susceptible soybeans (BRS-133) reduces root length and significantly increases shikimate accumulation, with levels rising 27.8- to 48.7-fold at concentrations of 0.1–5 mM. Similar shikimate accumulation has been observed in various crops, including cotton, corn, sunflower, canola, barley, tomato, wheat, and rice, as well as in the leaves and apical meristems of glyphosate-treated soybeans.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The cultivar Jiaoda 133 is a vegetable soybean, and Williams 82 is a grain soybean; there are several seed phenotypic differences between them. The Jiaoda 133 pods harvested at the R6 stage (stage 6)  and boiled in water for 7 min, tasted sweet, soft and fragrant, whereas those of Williams 82 were hard and neither sweet nor fragrant. For vegetable soybean, the sweet taste is a key trait. To check out which sugar contributed to the sweet taste, we measured the content of four sugars (sucrose, fructose, glucose, and maltose) in fresh seeds at the stage R6. The sucrose content was significantly higher in Jiaoda 133 (2.39 g/100 g) than Williams 82 (1.52 g/100 g). The contents of fructose and glucose were low, with no significant differences between Jiaoda 133 and Williams 82. No maltose was detected . These results suggested that the sweet taste was determined mainly by sucrose content. The pods and fresh grains of Jiaoda 133 were much larger than those of Williams 82 at various developmental stages . At maturity, the 100-grain weight of Jiaoda 133 was 31.38 g and that of Williams 82 was 17.87 g (that 1.75-fold difference was significant) .",
+        "answer": "The cultivar Jiaoda 133 is a vegetable soybean, while Williams 82 is a grain soybean, with notable seed phenotypic differences. Jiaoda 133 pods, harvested at the R6 stage and boiled, are sweet, soft, and fragrant, unlike the hard and less flavorful Williams 82 pods. The sweet taste of Jiaoda 133 is primarily due to its higher sucrose content (2.39 g/100 g) compared to Williams 82 (1.52 g/100 g), with no significant differences in fructose and glucose levels and no maltose detected. Jiaoda 133 also has larger pods and grains, with a 100-grain weight of 31.38 g, significantly heavier than Williams 82's 17.87 g.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Of the 1007 known metabolites, more than half (708) did not differ between Jiaoda 133 and Williams 82, whereas 299 metabolites showed significant differences (144 down-regulated and 155 up-regulated) . The largest number of metabolic changes per sub-pathway was recorded in aspartate family (OAA derived) (38), followed by fatty acids (26), flavonoids (20), sucrose, glucose and fructose metabolism (19), prenol lipids (18), benzenoids (18), sterols (17), pyrimidine metabolism (15), polypeptides (13), glycerolipids (12), and dipeptides (10).",
+        "answer": "Out of 1007 known metabolites, 708 showed no difference between Jiaoda 133 and Williams 82, while 299 metabolites exhibited significant changes, with 144 down-regulated and 155 up-regulated. The most metabolic changes occurred in the aspartate family (38 changes), followed by fatty acids (26), flavonoids (20), and other pathways such as sucrose, glucose, and fructose metabolism (19), prenol lipids (18), and benzenoids (18).",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The genes in M4 were up-regulated, and then down-regulated, to a greater extent in Jiaoda133 than Williams 82 ; they were assigned to cellulose microfibril organization, cell growth, metabolic process, anchored component of membrane, cell wall, catalytic activity, enzyme inhibitor activity, and hydrolase activity (acting on ester bonds) . The genes in M5 were up-regulated, and then down-regulated, but expressed more strongly in Williams 82 than Jiaoda133 ; they were enriched in photosynthesis, chlorophyll biosynthetic process, lipid metabolic process, extrinsic component of membrane, calcium ion binding, fructose 1,6-bisphosphate 1-phosphatase activity, and phosphoric ester hydrolase activity .",
+        "answer": "The genes in M4 showed greater up-regulation and down-regulation in Jiaoda133 compared to Williams 82, associated with cellulose microfibril organization, cell growth, and various metabolic and enzymatic activities. In contrast, genes in M5 were more strongly expressed in Williams 82, linked to photosynthesis, chlorophyll biosynthesis, lipid metabolism, and specific enzymatic activities.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Considering the phenotype changes occur later than the expression of genes, the metabolome analyses of seeds were performed at T6 time point, whereas DEGs between Williams 82 and Jiaoda 133 at T4 and T5 time points were used for GO and KEGG enrichment analyses. GO enrichment analysis revealed these DEGs were enriched in the biological process (BP) category, comprising photosynthesis, light harvesting in photosystem I, photosynthesis, chlorophyll biosynthetic process, response to light stimulus, protein-chromophore linkage, xyloglucan metabolic process, recognition of pollen, auxin-activated signaling pathway, response to auxin, microtubule-based movement, oxidation-reduction process, DNA integration, glutamine biosynthetic process, and iron ion transmembrane transport. DEGs were also enriched in the cellular component (CC) category, with the dominant terms being photosystem I, photosystem I reaction center, chloroplast, chloroplast thylakoid membrane, chloroplast envelope, lysosome, extracellular space, kinesin complex, plastoglobule, apoplast, cell wall, and plasma membrane. In the molecular function (MF) category, the main terms were chlorophyll binding, cysteine-type peptidase activity, pigment binding, cysteine-type endopeptidase activity, ADP binding, xyloglucan:xyloglucosyl transferase activity, microtubule motor activity, 2-alkenal reductase [NAD(P)] activity, 2 iron, 2 sulfur cluster binding, drug binding, thiamine pyrophosphate binding, and lysophospholipase activity .",
+        "answer": "Metabolome analyses of seeds were conducted at the T6 time point, while differentially expressed genes (DEGs) between Williams 82 and Jiaoda 133 at T4 and T5 were analyzed for GO and KEGG enrichment. GO enrichment revealed DEGs in the biological process category, including photosynthesis, chlorophyll biosynthesis, and auxin signaling. In the cellular component category, DEGs were enriched in terms like photosystem I and chloroplast structures. The molecular function category highlighted terms such as chlorophyll binding and microtubule motor activity.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The sweeter taste is one of the major differences between grain and vegetable soybeans, which is determined by the higher sucrose content in vegetable soybean. Therefore, we focused on the expressions of genes related to sucrose metabolism and transport. Genes for sweet and waxy corn had been studied, and eight genes of maize endosperm mutant have been used for commercial breeding, including shrunken2 (sh2), brittle1 (bt1), brittle2 (bt2), sugary1 (su1), sugary enhancer1 (se1), amylose extender1 (ae1), dull endosperm1 (du1), and waxy1 (wx1) (Yang and Wang, 2005). The expression of most genes homologous to sh2, bt1 and su1 was higher in Williams 82 than Jiaoda 133 , which would contribute to accumulation of sucrose in Jiaoda 133. In contrast, the expression of genes homologous to bt2, se1, ae1, and du1 was lower in Williams 82 than Jiaoda 133 , which could increase the amylopectin content and contribute to waxy taste in Jiaoda 133. The expression patterns of two genes homologous to wx1 were opposite in the two genotypes , potentially leading to no difference in amylose",
+        "answer": "The sweeter taste of vegetable soybeans compared to grain soybeans is due to higher sucrose content. Research focused on genes related to sucrose metabolism and transport, similar to studies on sweet and waxy corn. Eight maize endosperm mutant genes are used in breeding, including sh2, bt1, bt2, su1, se1, ae1, du1, and wx1. In soybean genotypes, Williams 82 showed higher expression of genes homologous to sh2, bt1, and su1, contributing to sucrose accumulation in Jiaoda 133. Conversely, Jiaoda 133 had higher expression of genes homologous to bt2, se1, ae1, and du1, increasing amylopectin content and waxy taste. The wx1 gene expression was opposite in the two genotypes, resulting in no difference in amylose content.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Soluble methionine levels in the WT seeds varied between habitats in about twofold along the north-to-south latitudinal gradient, whereby the highest levels were detected in Nanning (381 nmol g−1 DW, respectively), mid-ranges in Lanzhou and Nanchong (330 and 273 nmol g−1 DW, respectively) and the lowest levels in Changchun (198 nmol g−1 DW) .",
+        "answer": "Soluble methionine levels in wild-type seeds vary significantly across different habitats along a north-to-south latitudinal gradient. The highest levels are found in Nanning (381 nmol g−1 DW), followed by mid-range levels in Lanzhou and Nanchong (330 and 273 nmol g−1 DW, respectively), and the lowest levels in Changchun (198 nmol g−1 DW).",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Under salt stress and when compared to that of EV plants, overexpression of the GmADC gene significantly reduced the contents of Na+ in the roots, stems and leaves of soybean hairy-root composite plants and consequently decreased their Na+/K+ ratios caused by the relatively stable K+ levels . Moreover, in contrast to the EV plants, the contents of Cl− decreased significantly in the roots, stems and leaves of the salt-stressed OEGmADC soybean hairy-root composite plants, while the NO3− contents raised in the roots, and kept at a relatively stable level in the stems and leaves of OEGmADC plants, all these thus lead to the decreases of Cl−/NO3− ratio in the salt-stressed OEGmADC soybean plants .",
+        "answer": "Under salt stress, overexpression of the GmADC gene in soybean hairy-root composite plants significantly reduced Na+ content and Na+/K+ ratios in roots, stems, and leaves compared to EV plants. Additionally, Cl− content decreased while NO3− content increased in roots and remained stable in stems and leaves, resulting in a lower Cl−/NO3− ratio in the salt-stressed OEGmADC plants.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Among the 12 genes, only GmMFT and Glyma.05G243800/SoyZH13_05G228900 showed high expression in seeds . GmMFT exhibited very specific expression in seed and pod, and was almost undetectable in other tissues. By contrast, SoyZH13_05G228900/Glyma.05G243800 showed high expression in other tissues including root hairs and leaves . This finding was also confirmed by the expression data of Williams 82 deposited in Phytozome (https://phytozome-next.jgi.doe.gov) . Taken together, this result suggested that GmMFT might be the candidate gene of qOil-5-1.",
+        "answer": "Among the 12 genes studied, GmMFT and Glyma.05G243800/SoyZH13_05G228900 showed high expression in seeds. GmMFT was specifically expressed in seeds and pods, while SoyZH13_05G228900/Glyma.05G243800 was highly expressed in various tissues, including root hairs and leaves. This suggests GmMFT could be the candidate gene for qOil-5-1.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In addition to the changed oil content, the protein content was also altered in the knockout and overexpression lines . In the two knockout lines, the protein content was significantly increased, whereas it was decreased in the overexpression lines OEGmMFT-1 and OEGmMFT-2 . Moreover, the seed width and thickness were all significantly decreased, whereas they were significantly increased in the overexpression lines . The seed length was not altered in the knockout lines, and slightly increased in the overexpression lines . As a result, the seed weight and shape were also changed in the knockout and overexpression lines. In contrast to the average 13.8 g per 100 seeds in WT, the average 100 seed weights were 16.9 and 16.1 g in the overexpression lines, whereas they were 11.3 and 10.6 g in the knockout lines .",
+        "answer": "In the study, altering the protein content in knockout and overexpression lines led to significant changes. Knockout lines showed increased protein content, while overexpression lines showed decreased protein content. Seed width and thickness decreased in knockout lines but increased in overexpression lines. Seed length remained unchanged in knockout lines and slightly increased in overexpression lines. Consequently, seed weight and shape were affected, with overexpression lines having heavier seeds (16.9 and 16.1 g per 100 seeds) compared to the wild type (13.8 g), and knockout lines having lighter seeds (11.3 and 10.6 g).",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Next we examined the expression of GmMFT in the developing seeds from 15 to 40 d post-anthesis (DPA) for Huachun 2 and Wayao. GmMFT displayed a pattern of increasing expression level along with seed development in both Huachun 2 and Wayao . After peaking at 30 DPA, the expression of GmMFT decreased and went undetectable after 40 DPA . Compared with Wayao, which has a lower oil content in seeds , the expression of GmMFT was significantly higher in Huachun 2 in all the stages . Taken together, these results suggested that the higher expression of GmMFT in Huachun 2 may account for the higher seed oil content.",
+        "answer": "The expression of GmMFT in developing seeds from 15 to 40 days post-anthesis was studied in Huachun 2 and Wayao. GmMFT expression increased during seed development, peaking at 30 days, and became undetectable after 40 days. Huachun 2 exhibited significantly higher GmMFT expression than Wayao at all stages, correlating with its higher seed oil content.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In the co-downregulated genes, we also found a few SWEET genes . SWEETs play a critical role in allocating photosynthates into the sink organs and resultantly determining seed weight and quality. In soybean, GmSWEET10a/GmSWEET39 (Miao et al., 2020; Wang et al., 2020; Zhang et al., 2020) and GmSWEET10b (Wang et al., 2020) have been identified as important players that transport sugar from seed coat to embryo and determine multiple seed traits (Wang et al., 2020).",
+        "answer": "In the co-downregulated genes, several SWEET genes were identified. SWEET genes are crucial for transporting photosynthates to sink organs, affecting seed weight and quality. In soybeans, GmSWEET10a/GmSWEET39 and GmSWEET10b are key in sugar transport from seed coat to embryo, influencing various seed traits.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "To evaluate the influence of haplotypes on soybean seed traits, we examined the association between haplotypes and seed oil content in soybean collections. Hap_S has a very low seed oil content but very high seed protein content . This result was consistent with well-documented characteristics of wild soybean seeds, which are very small, black, have low oil content, but are rich in protein. In cultivated soybeans, Hap_H displayed a high seed oil content and low protein content, whereas Hap_W showed a relatively low seed oil content but high protein content . With respect to the contrasting seed oil and protein content of Hap_H and Hap_W described above, it is possible that Hap_H and Hap_W may reflect the two classic breeding goals of achieving high oil or high protein varieties, respectively.",
+        "answer": "The study evaluated the influence of haplotypes on soybean seed traits, focusing on seed oil and protein content. Hap_S is characterized by low seed oil and high protein content, consistent with wild soybean traits. In cultivated soybeans, Hap_H has high seed oil and low protein content, while Hap_W has low seed oil and high protein content. These differences may represent breeding goals for high oil or high protein soybean varieties.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "For centuries, soybean breeders from the northern regions of China have had more enthusiasm to develop varieties with high seed oil contents. Next, we wondered about the reflection of the haplotypes of GmMFT on the soybean breeding traditions in China. An examination of the geographic distribution of the haplotypes in China indicated that Hap_H displayed a decreasing trend from the high-latitude to low-latitude regions. In Northeast China, the frequency of Hap_H is > 88%. However, it decreased to 66% and 34.5% in Central and South China, respectively. By contrast, an opposite trend was observed for Hap_W, whose frequency is < 5% in Northeast China, 32% in Central China, and > 63% in South China . Taken together, these results indicated that the frequencies and distribution of the haplotypes of GmMFT coincided with the soybean breeding traditions in China, suggesting that GmMFT was a hot locus that has been popularly selected for soybean breeding.",
+        "answer": "中国北方地区的大豆育种者长期以来热衷于开发高含油量的品种。研究显示，GmMFT单倍型在中国的地理分布反映了这种育种传统。Hap_H单倍型在高纬度地区（如东北地区）的频率超过88%，而在中部和南部地区则分别下降到66%和34.5%。相反，Hap_W单倍型在东北地区的频率小于5%，在中部地区为32%，在南部地区超过63%。这些结果表明，GmMFT单倍型的频率和分布与中国的大豆育种传统一致，表明GmMFT是大豆育种中被广泛选择的热点位点。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "A comprehensive phylogenetic analysis was conducted to establish groups of homology within the GmMIP gene family. The 66 GmMIPs were classified into various subfamilies including 22 GmPIPs, 23 GmTIPs, 13 GmNIPs, six GmSIPs and two new GmXIPs i.e., uncharacterized isoforms . The GmXIPs might be similar to the novel plant AQP subfamily XIP recently reported in moss [15] and tomato [16]. All the members of the GmPIPs subfamily localized to plasma membranes (Table 1). The predicted localization of members of the GmTIPs subfamily was diverse, and predicted localization included cytosol, plasma membrane, endoplasmic reticulum, vacuole, mitochondria and chloroplast. From the GmNIPs subfamily, GmNIP1;1 and GmNIP4;1 localized to vacuoles, GmNIP2;2 to extra-cellular structures and the rest to plasma membranes. Two members of the GmSIP subfamily localized to vacuoles and the remainder to plasma membranes. GmXIP1;1 localized to extra-cellular structures and GmXIP1;2 to cytosol. The ka/ks ratio was >1 and 1 for PseudoPIP#3 and PseudoSIP#1, and PseudoPIP#2, respectively. The remaining GmMIPs showed ka/ks ratio <1 .",
+        "answer": "A phylogenetic analysis of the GmMIP gene family identified 66 members divided into subfamilies: 22 GmPIPs, 23 GmTIPs, 13 GmNIPs, six GmSIPs, and two new GmXIPs. GmPIPs are localized to plasma membranes, while GmTIPs have diverse localizations including cytosol and organelles. GmNIPs and GmSIPs mainly localize to plasma membranes and vacuoles, with some exceptions. GmXIPs are similar to a novel plant AQP subfamily and localize to extracellular structures and cytosol. The ka/ks ratio varied among the genes, indicating different evolutionary pressures.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The 66 GmMIP sequences were also analyzed for distribution of introns and exons; the results are shown in Fig. 2 . The number of introns ranged from zero (in GmSIP1;5 and GmSIP1;6) to 5 (in GmNIP1;4 and GmNIP4;1). The division into five subfamilies based on comparison of the deduced protein sequences (see above) was mirrored in the intron-exon structures. All GmPIPs included three introns except GmPIP2;13 which contained four introns (intron # 1 is additional intron). For the GmTIPs, two introns were usual, but three genes: GmTIP1;7, GmTIP1;8 and GmTIP1;9 contained only one intron while one gene GmTIP5;1 contained three introns. GmNIPs contained variable introns with the majority characterized by 4 introns. GmNIP5;1 lacked one intron (intron # 2), GmNIP6;2 lacked two introns (intron # 2 and 3) while GmNIP1;4 and GmNIP4;1 each had five introns. GmSIPs contained two introns except GmSIP1;5 and GmSIP1;6 which included no intron. GmXIPs have a single intron. All the AtPIPs, PtPIPs and some of OsPIPs have three introns, however, some OsPIPs contained fewer and one member OsPIP2;8 contained no intron [29], [30]. In AtTIPs, PtTIPs and OsTIPs, the pattern was more varied; the majority of the genes contained two introns and the others either one or none. Most of AtNIPs, PtNIPs and OsNIPs were observed to have four introns while the AtSIPs, PtSIPs and OsSIPs have two [29], [30].",
+        "answer": "The analysis of 66 GmMIP sequences revealed variations in intron and exon distribution across different subfamilies. GmPIPs generally have three introns, except GmPIP2;13 with four. GmTIPs typically contain two introns, though some have one or three. GmNIPs show variability, mostly with four introns, while GmSIPs usually have two, except for GmSIP1;5 and GmSIP1;6, which have none. GmXIPs have a single intron. Comparatively, AtPIPs, PtPIPs, and some OsPIPs mostly have three introns, with exceptions. AtTIPs, PtTIPs, and OsTIPs vary, mostly having two introns. Most AtNIPs, PtNIPs, and OsNIPs have four introns, while AtSIPs, PtSIPs, and OsSIPs typically have two.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "All GmMIPs were analyzed for putative specificity determining positions (SDPs) for non-aqua substrate [25]. SDPs of five substrates (ammonia, boric acid, CO2, H2O2, and urea) were observed while SDPs for silicic acid were not observed in GmMIPs (Table 4). Most of GmPIPs, GmTIPs and GmNIPs contained these SDPs while none were present in GmSIPs and GmXIPs .",
+        "answer": "All GmMIPs were analyzed for specificity determining positions (SDPs) for non-aqua substrates, including ammonia, boric acid, CO2, H2O2, and urea, but not silicic acid. Most GmPIPs, GmTIPs, and GmNIPs contained these SDPs, whereas GmSIPs and GmXIPs did not.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The in silico expression of 23 GmMIPs in roots was >50 (Table 1). Based on in silico root specific expression and phylogenetic relationship , 24 GmMIPs were selected for tissue specific expression analysis by semi-qPCR . The expression patterns of GmMIPs in various organs of soybean were identified. GmPIP1;3 strongly expressed in roots, stems, leaves and pods. Other strongly expressed genes included GmPIP1;4 in stems and pods, GmPIP2;3 in roots, flowers and pods, GmTIP1;4 in flowers, GmTIP1;7 in stems, leaves, flowers and pods, GmTIP1;9 in roots, GmTIP2;1 in stems and pods, GmTIP2;2 in roots and pods, GmTIP2;6 in stems, leaves, flowers and pods and GmXIP1;2 in leaves. GmPIP2;6 and GmTIP4;1expressed marginally while GmPIP2;11 was marginally lower in all plant parts. The rest of the GmMIPs gave weak, marginal, marginal low or null expression.",
+        "answer": "In silico analysis showed that 23 GmMIPs had expression levels above 50 in soybean roots. Based on root-specific expression and phylogenetic relationships, 24 GmMIPs were selected for tissue-specific expression analysis using semi-qPCR. The study identified strong expression of GmPIP1;3 in roots, stems, leaves, and pods; GmPIP1;4 in stems and pods; GmPIP2;3 in roots, flowers, and pods; GmTIP1;4 in flowers; GmTIP1;7 in stems, leaves, flowers, and pods; GmTIP1;9 in roots; GmTIP2;1 in stems and pods; GmTIP2;2 in roots and pods; GmTIP2;6 in stems, leaves, flowers, and pods; and GmXIP1;2 in leaves. GmPIP2;6 and GmTIP4;1 showed marginal expression, while GmPIP2;11 had marginally lower expression across all plant parts. Other GmMIPs exhibited weak or negligible expression.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "We compared the expression levels of 14 GmMIP genes with GmPEPC (internal control) in roots of soybean by qPCR at 0, 2, 4 and 12 h of 20% PEG treatment . The relative expression (RE) of GmPIP1;4, GmPIP1;7, GmPIP2;3, GmPIP2;4, GmPIP2;5, GmTIP1;9 and GmTIP2;2 significantly increased (>2-fold) at 12 h compared to 0 h PEG stress. However, GmPIP2;3 first showed a significant decrease in RE before peaking at 12 h PEG stress. GmPIP1;4, GmPIP1;7 and GmTIP1;9 showed a gradual increase from 0 to 4 h followed by a rapid increase at 12 h. GmPIP1;8 showed significant decrease in RE at 2 and 4 h PEG stress. The expression pattern of GmPIP1;3 decreased 2 h after application of PEG, and began to increase at 4 h and peaked at 12 h after application. The expression of GmPIP2;10 and GmPIP2;11 decreased gradually to 4 h and expression was maximized 12 h post application of PEG. The expression pattern of GmTIP4;1 increased at 2 h and decreased gradually with minimum expression at 12 h. GmTIP2;6 expressed 2 and 4 h after application of PEG stress. The RE of the remaining GmMIPs fluctuated non-significantly at various time points after application of PEG stress.",
+        "answer": "The study analyzed the expression levels of 14 GmMIP genes in soybean roots under 20% PEG treatment using qPCR at intervals of 0, 2, 4, and 12 hours. Significant increases in relative expression (>2-fold) at 12 hours were observed for GmPIP1;4, GmPIP1;7, GmPIP2;3, GmPIP2;4, GmPIP2;5, GmTIP1;9, and GmTIP2;2. GmPIP2;3 initially decreased before peaking at 12 hours, while GmPIP1;4, GmPIP1;7, and GmTIP1;9 showed gradual increases followed by rapid rises at 12 hours. GmPIP1;8 decreased at 2 and 4 hours, and GmPIP1;3 decreased at 2 hours, increased at 4 hours, and peaked at 12 hours. GmPIP2;10 and GmPIP2;11 decreased until 4 hours and peaked at 12 hours. GmTIP4;1 increased at 2 hours and decreased thereafter, while GmTIP2;6 was expressed at 2 and 4 hours. Other GmMIPs showed non-significant fluctuations in expression.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "To perform genetic analysis of sterile plants, we constructed a sterile population using male-sterile soybean plants found in the field, generated a mixed male-fertile and male-sterile pool in the F2 population, and performed specific length amplified fragment-bulk segregant analysis (SLAF-BSA) sequencing. We calculated the Δ(SNP index) based on the single-nucleotide polymorphism (SNP) index of the male-fertile and male-sterile pool. The Δ(SNP index) graph  contains a straight line indicating confidence value of 99%. The Δ(SNP index) value should be significantly different from 0 if the genomic region harbors the candidate gene. At the 99% significance level, the only region with a value significantly different from 0, was a region of chromosome 13 spanning 16.15 kb (21,132,960-21,149,112). This finding indicated that the genes controlling fertility are located in this 16.15 kb region ; this mapping interval is consistent with the Ms1 gene (20,933,886-23,1150,16)",
+        "answer": "To analyze sterile plants genetically, researchers constructed a sterile population using male-sterile soybean plants and performed SLAF-BSA sequencing on a mixed male-fertile and male-sterile F2 population. They calculated the Δ(SNP index) to identify genomic regions with candidate genes. A significant Δ(SNP index) value indicated a candidate gene region on chromosome 13, spanning 16.15 kb (21,132,960-21,149,112), consistent with the Ms1 gene location (20,933,886-23,115,016), suggesting genes controlling fertility are within this interval.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Combined with the above analysis of the localization interval, transcriptome analysis of genes within and near the candidate region showed that five genes were significantly down-regulated in the sterile group (Table S2). Among these is a gene encoding the kinesin-like protein NACK2. TES, Arabidopsis homolog of NACK2 (amino acid identity 64%), encodes TETRASPORE, which is required for meiotic cytokinesis; the Arabidopsis mutant tes has the same cytological characteristics as soybean ms1 sterile plants. The expression of GmMs1 was almost undetectable in sterile plants, the transcript level was significantly different from that in fertile individuals . The results of transcriptome sequencing were further verified by real-time polymerase chain reaction (RT-PCR) , further supporting the idea that GmMs1 is the gene affected by the ms1 mutation.",
+        "answer": "Transcriptome analysis identified five significantly down-regulated genes in the sterile group, including a gene encoding the kinesin-like protein NACK2. The Arabidopsis homolog of NACK2, TES, is essential for meiotic cytokinesis, and its mutant shares cytological traits with sterile soybean ms1 plants. The expression of GmMs1 was nearly absent in sterile plants, differing significantly from fertile ones. These findings were confirmed by RT-PCR, supporting that GmMs1 is impacted by the ms1 mutation.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "To further verify the role of Glyma.13G114200 in controlling male sterility, we generated six Glyma.13G114200 knockout lines by CRISPR/Cas9-mediated gene editing. One of these was a biallelic mutant displaying a male-sterile phenotype, while the others showed a male-fertile phonotype. Compared with WT, the Cas9-Glyma.13G114200 mutant line exhibited complete male sterility with shriveled anthers bearing abnormal pollen grains, which is similar to the ms1 mutant . These results indicate that Glyma.13G114200 is GmMs1, which is required for male fertility in soybean.",
+        "answer": "To verify the role of Glyma.13G114200 in male sterility, six knockout lines were created using CRISPR/Cas9. One line showed a male-sterile phenotype with shriveled anthers and abnormal pollen, similar to the ms1 mutant, while the others were male-fertile. This confirms that Glyma.13G114200, identified as GmMs1, is essential for male fertility in soybeans.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "To investigate the localization of GmMs1 at the subcellular level, we fused the green fluorescent protein (GFP) gene in-frame to the C-terminus of GmMs1 under the control of the 35S promoter (35S::GmMs1-GFP) and transiently expressed this construct in Nicotiana benthamiana leaves. Fluorescence microscopy to detect green fluorescence from the fusion construct indicated that GmMs1 localized to the cytoplasm or/and in plasma membrane .",
+        "answer": "To study the subcellular localization of GmMs1, researchers fused the GFP gene to the C-terminus of GmMs1 under the 35S promoter and transiently expressed it in Nicotiana benthamiana leaves. Fluorescence microscopy showed that GmMs1 localized to the cytoplasm and/or plasma membrane.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In this study, GmMTP8.1, a member of group 8 within the Mn-CDF cluster , displayed highest similarity with ShMTP8 in S. hamata that has been well-characterized for its involvement in Mn detoxification by the sequestration of Mn into vacuoles, was further selected to dissect its function in Mn detoxification. The GmMTP8.1 protein includes 294 amino acid residues (33.1 kDa) and possesses common features of Mn-CDF transporters, such as four putative TMDs, cation efflux, and ZT dimer domains . The consensus sequence DxxxD (x = any amino acid) localizes to the first TMD and the cytosolic loop of GmMTP8.1 . In addition, based on amino acid sequence comparisons, GmMTP8.1 shares a high degree of homology identity (90.8%) with ShMTP8 in S. hamata, and shares 83.3% identity with HvMTP8.1 in barley, 83% identity with OsMTP8.1 in rice, 83% identity with CsMTP8 in cucumber, and 81% identity with AtMTP8 in Arabidopsis, which were the representative MTP8-like proteins included in group 8 . This suggests that the role of GmMTP8.1 is similar to that of the MTP homologs.",
+        "answer": "The study focuses on GmMTP8.1, a protein in the Mn-CDF cluster, similar to ShMTP8 in S. hamata, known for Mn detoxification by sequestering Mn into vacuoles. GmMTP8.1 consists of 294 amino acids and features typical of Mn-CDF transporters, such as four transmembrane domains and cation efflux. It shares high sequence homology with MTP8-like proteins in various species, suggesting a similar role in Mn detoxification.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "We further analyzed the subcellular localization of GmMTP8.1 in tobacco epidermis cells. The results showed that the GFP signal of GmMTP8.1 was found to be co-localized with that of the ER marker but not localized in the tonoplast of tobacco leaf epidermal cells, whereas the fluorescence of cells transformed with GFP alone was observed in whole cells, such as plasma membrane, cytoplasm, and nucleus . Thus, these results suggest that GmMTP8.1 is localized to the ER.",
+        "answer": "GmMTP8.1 was analyzed for subcellular localization in tobacco epidermis cells, showing co-localization with the ER marker but not in the tonoplast. In contrast, GFP alone was found throughout the cells. This indicates that GmMTP8.1 is localized to the ER.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "A complementation assay of yeast mutants was further conducted to investigate the metal transport activity of GmMTP8.1, which was heterologously expressed in five yeast mutants that are defective in transport activity of various metals, namely, Mn (Δpmr1), Zn (Δzrc1), Cu (Δcup2), Cd (Δycf1), and Co (Δcot1). The results showed that the yeast mutants carrying either the pYES2 empty vector or the pYES2-GmMTP8.1 construct grew similarly in the control medium . However, the growth of the five yeast mutants transformed with the pYES2 empty vector was inhibited in the medium containing high or toxic metal levels . Furthermore, although the growth of the yeast mutants Δzrc1, Δcup2, Δycf1, and Δcot1, transformed with the pYES2-GmMTP8.1 construct, was suppressed in the corresponding metal treatments, GmMTP8.1 expression rescued the sensitivities to excess Mn in the Δpmr1 mutant , suggesting that GmMTP8.1 is a specific Mn transporter.",
+        "answer": "A complementation assay was conducted to assess the metal transport activity of GmMTP8.1 in yeast mutants with deficiencies in transporting various metals. The study found that while the growth of yeast mutants with the pYES2 empty vector was inhibited in high metal conditions, the expression of GmMTP8.1 specifically rescued the sensitivity to excess Mn in the Δpmr1 mutant, indicating that GmMTP8.1 functions as a specific Mn transporter.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Western-blot analysis indicated further that the GmMTP8.1 protein was expressed in transgenic Arabidopsis . WT and transgenic Arabidopsis were exposed to different levels of Mn, from 0.1 to 4 mM, in an MS solid medium for 7 days. As shown in Figure 8A, no difference in Arabidopsis growth was observed between the GmMTP8.1 overexpression lines (OE1 and OE2) and WT under control conditions containing 0.1 mM Mn",
+        "answer": "Western blot analysis confirmed the expression of the GmMTP8.1 protein in transgenic Arabidopsis. When exposed to varying Mn levels (0.1 to 4 mM) for 7 days, no growth differences were observed between GmMTP8.1 overexpression lines (OE1 and OE2) and wild-type (WT) plants under control conditions with 0.1 mM Mn.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Total RNA was isolated from developing soybean seeds and analyzed by Northern blots . A probe specific to the β-subunit of β-conglycinin hybridized to two RNA transcripts of 2.1 and 1.6 kb . The 1.6 kb transcript, which codes for the β-subunit [5], was barely detectable in rj1 soybean and its accumulation was clearly enhanced in presence of nitrogen (lane 3). However, both the 2.1 and 1.6 kb RNA transcripts were much more abundant in Rj1 soybean than rjirji soybean grown either in the absence or presence of nitrogen.",
+        "answer": "Total RNA from developing soybean seeds was analyzed using Northern blots. A probe for the β-subunit of β-conglycinin detected two RNA transcripts, 2.1 and 1.6 kb. The 1.6 kb transcript, coding for the β-subunit, was scarcely present in rj1 soybean but increased with nitrogen. Both transcripts were more abundant in Rj1 soybean compared to rjirji soybean, regardless of nitrogen presence.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Total RNA was isolated from developing soybean seeds and analyzed by Northern blots . A probe specific to the β-subunit of β-conglycinin hybridized to two RNA transcripts of 2.1 and 1.6 kb . The 1.6 kb transcript, which codes for the β-subunit [5], was barely detectable in rj1 soybean and its accumulation was clearly enhanced in presence of nitrogen (lane 3). However, both the 2.1 and 1.6 kb RNA transcripts were much more abundant in Rj1 soybean than rjirji soybean grown either in the absence or presence of nitrogen. Nitrogen application, however, did not influence the levels of the β-conglycinin α-subunit  or glycinin G4  RNA levels in rj1 soybeans. The RNA levels of the α-subunit of β-conglycinin and glycinin G4 were several-fold higher in Rj1 soybeans than in rj1 soybeans .",
+        "answer": "Total RNA from developing soybean seeds was analyzed, revealing two RNA transcripts (2.1 and 1.6 kb) specific to the β-subunit of β-conglycinin. The 1.6 kb transcript was barely detectable in rj1 soybeans but increased with nitrogen presence. Both transcripts were more abundant in Rj1 soybeans compared to rj1 soybeans, regardless of nitrogen. Nitrogen did not affect the RNA levels of the β-conglycinin α-subunit or glycinin G4 in rj1 soybeans, but these levels were significantly higher in Rj1 soybeans than in rj1 soybeans.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Soybean seed protein quality is largely determined by its protein composition. This is especially true in the case of β-subunit of β-conglycinin, a protein that is totally devoid of methionine, an essential amino acid [25]. Since rj1 accumulated very little β-subunit of β-conglycinin, the relative levels of essential amino acids were examined in the total seed protein of Rj1 and rj1 soybeans. Table 1 shows the amino acid composition of Rj1 and rj1 soybean. It is evident that rj1 soybeans, in spite of accumulating lower amounts of β-subunit of β-conglycinin, contained relatively lower amounts of methionine (Table 1). Interestingly, the relative amount of cysteine is higher in rj1 soybeans and its abundance was reduced in the presence of nitrogen, indicating nitrogen may influence the accumulation of proteins that are rich in cysteine",
+        "answer": "Soybean seed protein quality is influenced by its protein composition, particularly the β-subunit of β-conglycinin, which lacks methionine. rj1 soybeans accumulate less of this subunit and have lower methionine levels compared to Rj1 soybeans. However, rj1 soybeans have higher cysteine levels, which decrease in the presence of nitrogen, suggesting nitrogen affects the accumulation of cysteine-rich proteins.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "To examine the GTPase activity of the native and variant Gα proteins, we performed a phosphate (Pi) release assay in the absence or presence of an RGS protein (Roy Choudhury et al., 2012). Native Gα1 protein as well as the variants Gα1S110D and Gα1S315D exhibited slow phosphate release, which significantly increased in the presence of RGS2 protein . The variant Gα1Q223L showed no Pi release, either by itself or in the presence of RGS protein . Similarly, negligible Pi release was observed in the protein variants Gα1S50D, Gα1S53D, Gα1quadA and Gα1quadD . Overall, these data establish that under in vitro conditions, SymRKs phosphorylate Gα proteins in their active site, which causes a complete loss of their GTP binding and GTPase activity",
+        "answer": "The study examined the GTPase activity of native and variant Gα proteins using a phosphate release assay. Native Gα1 and variants Gα1S110D and Gα1S315D showed slow phosphate release, which increased with RGS2 protein. Variant Gα1Q223L and other variants like Gα1S50D, Gα1S53D, Gα1quadA, and Gα1quadD showed negligible phosphate release. The results indicate that SymRKs phosphorylate Gα proteins at their active site, leading to a loss of GTP binding and GTPase activity.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "To test the interaction between native and variant Gα1 proteins and Gβ, the full-length proteins were expressed as prey (NUb fusions) and bait (CUb fusions), respectively, in the split-ubiquitin interaction system. In this assay, all native Gβ proteins (Gβ1–Gβ4) interacted with the native Gα1 and with the phospho-deficient Gα1 (Gα1quadA), but intriguingly no interaction was observed with Gα1quadD . To corroborate these interactions in planta, native Gα1, Gα1quadA or Gα1quadD proteins were transiently co-expressed with Gβ and Gγ proteins in tobacco leaves. We used two soybean Gβ proteins (Gβ2 and Gβ3), which belong to two different subgroups, and three different Gγ proteins (Gγ1, Gγ5 and Gγ9), representing each of the Gγ subgroups (Roy Choudhury et al., 2011), to test the tripartite interaction of Gβγ with Gα1, Gα1quadA or Gα1quadD. In these assays, Gα1quadD also did not show any interaction, whereas the native Gα1 as well as Gα1quadA exhibited strong interactions with all tested combinations of Gβγ proteins . These data imply that the inability of the phosphorylated Gα proteins to interact with Gβγ, thereby making them constitutively available, is most likely to be the critical regulatory aspect of G-protein signaling during nodulation.",
+        "answer": "The study tested interactions between native and variant Gα1 proteins and Gβ using a split-ubiquitin system. Native Gβ proteins interacted with native Gα1 and phospho-deficient Gα1 (Gα1quadA), but not with phosphorylated Gα1 (Gα1quadD). In tobacco leaves, native Gα1 and Gα1quadA showed strong interactions with various Gβγ combinations, while Gα1quadD did not. This suggests that phosphorylated Gα proteins' inability to interact with Gβγ is crucial for regulating G-protein signaling during nodulation.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "China is the original country of soybeans, and the soybeans planted in various countries have been directly or indirectly introduced from China. Before the 1950s, China's soybean production and export volume ranked first in the world, but it has now dropped to fourth place. The soybean planting area in China reached 12.75 million hectares in 1957, decreased to over 8 million hectares between 1995 and 1998, and further dropped to 7.96 million hectares in 1999. In recent years, China's soybean industry has remained stagnant.",
+        "answer": "China is the origin of soybeans, and global soybean cultivation traces back to China. Before the 1950s, China led in soybean production and export, but now ranks fourth. The planting area peaked at 12.75 million hectares in 1957, decreased to over 8 million hectares between 1995 and 1998, and further declined to 7.96 million hectares in 1999. Recently, China's soybean industry has stagnated.",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "For self-pollinating crops, conventional hybrid breeding methods can effectively achieve short-term goals. However, for increasingly diverse and high-standard breeding objectives, conventional hybrid breeding falls short. This is due to limitations such as survival rates, high workload, and time consumption, as well as a limited number of parent plants that can be included, leading to a narrow genetic base. Even when using the relatively high-success-rate technique of whole male sterility hybridization, it may not reach a 70% success rate if the technique is not well-executed.",
+        "answer": "Conventional hybrid breeding methods are effective for short-term goals in self-pollinating crops but are inadequate for diverse and high-standard objectives due to limitations like low survival rates, high workload, time consumption, and a narrow genetic base. Even with whole male sterility hybridization, success rates may not exceed 70% if not executed properly.",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Yu Jianzhang and others discovered a recessive nuclear male sterility line, Shen Nong L-78-387, in geographically distant hybrid progenies. Studies confirmed that it is linked to the ms1 allele, which is the first recessive nuclear male sterility line discovered and extensively studied by domestic scholars. Zhao Tuanjie and others screened 17 new sterile germplasms, all identified as nuclear sterile materials, with six different types of sterility: male completely sterile and female fertile (MS-FF), male completely sterile and female partially sterile (MS-FPS), male partially sterile and female fertile (MPS-FF), both male and female completely sterile (MS-FS), both male and female partially sterile (MPS-FPS), and male partially sterile and female completely sterile (MPS-FS).",
+        "answer": "Yu Jianzhang and colleagues discovered a recessive nuclear male sterility line, Shen Nong L-78-387, linked to the ms1 allele, marking the first extensively studied line by domestic scholars. Zhao Tuanjie and others identified 17 new nuclear sterile germplasms, categorized into six sterility types: MS-FF, MS-FPS, MPS-FF, MS-FS, MPS-FPS, and MPS-FS, based on male and female sterility levels.",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The objectives of soybean breeding include the following three aspects:1.Fat content: The minimum indicator is ≥22%, the improved indicator is 22.5% to 24.4%, and the innovative indicator is ≥25%. Higher fat content leads to greater processing efficiency. 2.Protein content: ≥38%, mainly considering that after fat extraction, the protein content in soybean meal should not be lower than 44% to avoid affecting the quality of the meal. If the protein content is too low, the protein content in the meal will fail to meet standards, which could impact the price of soybean meal.3.Appearance indicators: 100-grain weight of 18–20 g, with the grains being round or nearly round.",
+        "answer": "The objectives of soybean breeding focus on three key aspects: fat content, protein content, and appearance. The fat content should be at least 22%, with improved and innovative targets of 22.5% to 24.4% and ≥25%, respectively, for better processing efficiency. Protein content should be ≥38% to ensure that soybean meal maintains a protein level of at least 44% after fat extraction, preserving meal quality and price. Appearance indicators include a 100-grain weight of 18–20 g, with grains being round or nearly round.",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "An appropriate sowing period can improve yield and quality. Timely sowing ensures a high seedling survival rate, uniform and healthy emergence, good growth, and strong stems. The optimal sowing period for Shengdou 118 is from June 10th to 25th. It is recommended to use no-tillage precision seeding technology with straw mulching. The soil moisture should be suitable at the time of sowing, with a seeding depth of 3-5 cm. After sowing, sprinkler irrigation should be applied.",
+        "answer": "An appropriate sowing period enhances yield and quality by ensuring high seedling survival, uniform emergence, and robust growth. For Shengdou 118, the optimal sowing period is June 10th to 25th. It is advised to use no-tillage precision seeding with straw mulching, ensuring suitable soil moisture and a seeding depth of 3-5 cm, followed by sprinkler irrigation.",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "Seed treatment with chemicals: Use 35% Doconazole seed dressing agent at a ratio of 1:80~100 for coating. For every kilogram of seeds, mix 200 mL of 62.5 g/L Metalaxyl·Mancozeb suspension seed dressing agent and 5 g of 30% Thiamethoxam suspension seed dressing agent. This can effectively kill surface pathogens on soybean seeds and prevent diseases and pests during the seedling stage of soybeans.",
+        "answer": "Seed treatment involves using a 35% Doconazole seed dressing agent at a 1:80~100 ratio for coating. For each kilogram of seeds, mix 200 mL of 62.5 g/L Metalaxyl·Mancozeb suspension and 5 g of 30% Thiamethoxam suspension. This treatment effectively eliminates surface pathogens on soybean seeds and prevents diseases and pests during the seedling stage.",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The planting time for high-quality (high oil) soybeans is generally the same as or slightly earlier than that for high-yield soybeans. Timely early planting helps increase the fat content in soybean seeds, and late-maturing varieties should also be planted early. In the Huang-Huai region, summer soybeans should be planted early to catch the right timing, with the optimal planting period for high-quality (high oil, high protein) soybeans being from June 10th to 20th.",
+        "answer": "The optimal planting time for high-quality soybeans, which are high in oil and protein, is generally the same as or slightly earlier than for high-yield soybeans. Early planting increases fat content, and late-maturing varieties should also be planted early. In the Huang-Huai region, the best period for planting summer soybeans is from June 10th to 20th.",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "In the early growth stages, during the R1 and R3 stages, significant differences were observed between Changnong 39 and Jiyu 441, as well as between Changnong 35 and Jiyu 441. As the growth process progressed, the difference in chlorophyll content between Jiyu 441 and Changnong 35 gradually decreased, but it remained significantly lower than that of Changnong 39. In the R6 stage, the high-yield variety Changnong 39 had significantly higher chlorophyll content than the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 19.62% higher than Jiyu 441 and 16.21% higher than Changnong 35.",
+        "answer": "In the early growth stages (R1 and R3), significant differences in chlorophyll content were observed between Changnong 39 and Jiyu 441, as well as between Changnong 35 and Jiyu 441. As growth progressed, the difference between Jiyu 441 and Changnong 35 decreased but remained lower than Changnong 39. In the R6 stage, Changnong 39, a high-yield variety, had significantly higher chlorophyll content than Jiyu 441 and Changnong 35, being 19.62% and 16.21% higher, respectively.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "The net photosynthetic rate of the high-yield variety Changnong 39 and the conventional varieties Jiyu 441 and Changnong 35 showed smaller differences during the R1, R3, R5, and R7 stages compared to the R6 stage. In the R6 stage, the net photosynthetic rate of Changnong 39 was significantly higher than that of the conventional varieties Jiyu 441 and Changnong 35, with a highly significant difference. Specifically, Changnong 39 was 11.28% higher than Jiyu 441 and 20.78% higher than Changnong 35. In the later growth stage, during the R7 period, the net photosynthetic rate of both the high-yield and conventional varieties began to decline, with the decline rates being 55.74%, 58.15%, and 61.82%, respectively.",
+        "answer": "The net photosynthetic rate of the high-yield variety Changnong 39 was significantly higher than the conventional varieties Jiyu 441 and Changnong 35 during the R6 stage, with increases of 11.28% and 20.78%, respectively. During the R1, R3, R5, and R7 stages, differences were smaller. In the R7 stage, the net photosynthetic rates of all varieties declined, with decline rates of 55.74% for Changnong 39, 58.15% for Jiyu 441, and 61.82% for Changnong 35.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "From the diurnal variation of the photosynthetic rate of different soybean varieties under cloudy conditions , it can be seen that, influenced by the cloudy weather, the high-yield variety Changnong 39 exhibits a brief midday photosynthetic rest phenomenon. The maximum photosynthetic rate of the population occurs between 10:00 and 11:00. For the conventional varieties Jiyu 441 and Changnong 35, the midday photosynthetic rest phenomenon is not obvious, showing a single peak curve. Among them, the maximum photosynthetic rate of the Jiyu 441 population occurs earlier than that of Changnong 39.",
+        "answer": "Under cloudy conditions, the high-yield soybean variety Changnong 39 shows a brief midday photosynthetic rest, with its maximum photosynthetic rate occurring between 10:00 and 11:00. In contrast, conventional varieties Jiyu 441 and Changnong 35 do not exhibit a clear midday rest, displaying a single peak curve. The peak photosynthetic rate for Jiyu 441 occurs earlier than for Changnong 39.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "During the R1 and R7 stages, the high-yield variety Changnong 39 is significantly higher than the conventional variety Jiyu 441, while at the R3, R5, and R6 stages, the high-yield variety consistently shows significant differences compared to the conventional varieties, but there are no significant differences between the two conventional varieties. The leaf area index of the high-yield variety Changnong 39 increases rapidly in the early growth stages and decreases slowly in the later stages, creating favorable conditions for the plant's photosynthesis.",
+        "answer": "During the R1 and R7 stages, the high-yield variety Changnong 39 outperforms the conventional variety Jiyu 441. At the R3, R5, and R6 stages, Changnong 39 consistently shows significant differences compared to conventional varieties, which do not significantly differ from each other. The leaf area index of Changnong 39 increases rapidly in early growth stages and decreases slowly later, enhancing photosynthesis.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
+    },
+    {
+        "instruction": "You are a text reading assistant, and your task is to summarize the text concisely while including all key points.\n    \nPlease note:\n1. You are a very rigorous text reading assistant, never fabricate content.\n2. Please summarize the text concisely while including all key points.\n3. If the source material is in English, the generated content should also be in English. If the source material is in Chinese, the generated content should also be in Chinese.\n\nSource Material:\n{}\n\nSummary:",
+        "question": "From the yield composition at maturity of different soybean varieties (Table 4), it can be seen that the conventional variety Jiyu 441 has a higher number of pods per plant, pod weight per plant, seed weight per plant, and 100-seed weight compared to the conventional variety Changnong 35. However, the number of seeds per plant in Jiyu 441 is significantly lower than that in Changnong 35, resulting in a final yield lower than that of Changnong 35. The high-yield variety Changnong 39 significantly outperforms the other two conventional varieties in terms of the number of pods per plant, pod weight per plant, number of seeds per plant, seed weight per plant, and 100-seed weight, with differences reaching a highly significant level. Considering all factors, its final yield is significantly higher than that of the other two conventional varieties",
+        "answer": "The yield composition analysis of different soybean varieties shows that Jiyu 441 has higher pod and seed weights per plant compared to Changnong 35, but fewer seeds per plant, resulting in a lower overall yield. In contrast, the high-yield variety Changnong 39 surpasses both Jiyu 441 and Changnong 35 in all measured yield components, including the number of pods, pod weight, seed count, seed weight, and 100-seed weight, leading to a significantly higher final yield.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "prime_summary"
     }
 ]

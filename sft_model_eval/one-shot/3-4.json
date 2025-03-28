@@ -2158,5 +2158,365 @@
             "level1": "基因功能实验观察"
         },
         "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "After soybean mosaic virus (SMV) inoculation, no obvious symptoms were observed in either resistant R-line ‘Kefeng 1’ or susceptible S-line ‘NN1138-2’ until 5 days post inoculation (dpi). S-line shoots showed clear symptoms: wrinkling on infected trifoliate leaves at 7 dpi, chlorosis at 9 dpi, and leaf curling at 11 dpi, whereas all R-line shoots were asymptomatic until 9 dpi and some of them had small yellow spots on leaves at 11 dpi .\n与S-line ‘NN1138-2’相比，R-line ‘Kefeng 1’对大豆花叶病毒（SMV）的抗性表现如何？",
+        "answer": "R-line ‘Kefeng 1’对大豆花叶病毒（SMV）表现出抵抗性，症状出现较晚且较轻，而S-line ‘NN1138-2’则从7 dpi开始显示明显的渐进性症状。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Interestingly, there were six TFs belonging to four different families specifically expressed in the black, endosperm-specific module, including ETHYLENE RESPONSE FACTOR 1 (ERF1, Glyma.13G122700), CYTOKININ RESPONSE FACTOR 4 (Glyma.14G123900), MADS-box transcription factor family protein (Glyma.05G140000 and Glyma.18G053400) and TELOMERASE ACTIVATOR 1 (TAC1, Glyma.10G184500 and Glyma.20G206000).\nMADS-box转录因子家族蛋白的基因标识符是什么？",
+        "answer": "MADS-box转录因子家族蛋白的基因标识符是Glyma.05G140000和Glyma.18G053400。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Of the genes involved in plant hormone signaling, we detected 20 (43.5%) responsive to auxin stimulus that appear to encode four auxin/indole-3-acetic acid (IAA) family proteins based on sequence similarity . Genes similar to Arabidopsis IAA4 (Glyma.19G161000, Glyma.02G000500) and IAA26 (Glyma.07G015200) were upregulated upon salt stress in DN50, while IAA27 (Glyma.08G203100) was downregulated in QH34 under the same conditions.\n在DN50和QH34中，盐胁迫对IAA家族基因表达的影响有哪些差异？",
+        "answer": "在盐胁迫下，DN50中IAA家族基因（如Glyma.19G161000、Glyma.02G000500、Glyma.07G015200）被上调，而QH34中的IAA家族基因（如Glyma.08G203100）被下调。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Multiple sequence alignment of all twelve differentially expressed MCM genes in the soybean seed coat was completed with the sequences of known MCM genes in Arabidopsis (AtMCM2–7), maize (ZmMCM2–7), pea (PsMCM2–7), and two Brassica species (B. oleracea BoMCM2–7, B. rapa BrMCM2–7) . Soybean MCM2 and MCM7 genes had between ~76–84% amino acid identity with both B. oleracea and B. rapa MCM genes, while soybean MCM4, 5 and 6 genes showed higher amino acid sequence similarity with B. rapa MCM genes (Additional file 6: Table S4), ranging from ~73–78% identity. Soybean MCM3 (GmMCM3) genes Glyma05g25980 and Glyma08g08920 had 76–77% identity with BoMCM3 and BrMCM3_2, but 32% identity with BrMCM3_1.\n大豆的MCM2和MCM7基因与B. oleracea和B. rapa的MCM基因在氨基酸序列上的相似性大概是多少？",
+        "answer": "大豆的MCM2和MCM7基因与B. oleracea和B. rapa的MCM基因的氨基酸同一性大约是76–84%。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Multiple sequence alignment of all twelve differentially expressed MCM genes in the soybean seed coat was completed with the sequences of known MCM genes in Arabidopsis (AtMCM2–7), maize (ZmMCM2–7), pea (PsMCM2–7), and two Brassica species (B. oleracea BoMCM2–7, B. rapa BrMCM2–7) . Soybean MCM2 and MCM7 genes had between ~76–84% amino acid identity with both B. oleracea and B. rapa MCM genes, while soybean MCM4, 5 and 6 genes showed higher amino acid sequence similarity with B. rapa MCM genes (Additional file 6: Table S4), ranging from ~73–78% identity. Soybean MCM3 (GmMCM3) genes Glyma05g25980 and Glyma08g08920 had 76–77% identity with BoMCM3 and BrMCM3_2, but 32% identity with BrMCM3_1.\n问题：大豆的MCM4、MCM5和MCM6基因在氨基酸序列上与B. rapa的MCM基因的相似性是多少？",
+        "answer": "大豆的MCM4、MCM5和MCM6基因与B. rapa的MCM基因的氨基酸序列相似性范围为73–78%。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Multiple sequence alignment of all twelve differentially expressed MCM genes in the soybean seed coat was completed with the sequences of known MCM genes in Arabidopsis (AtMCM2–7), maize (ZmMCM2–7), pea (PsMCM2–7), and two Brassica species (B. oleracea BoMCM2–7, B. rapa BrMCM2–7) . Soybean MCM2 and MCM7 genes had between ~76–84% amino acid identity with both B. oleracea and B. rapa MCM genes, while soybean MCM4, 5 and 6 genes showed higher amino acid sequence similarity with B. rapa MCM genes (Additional file 6: Table S4), ranging from ~73–78% identity. Soybean MCM3 (GmMCM3) genes Glyma05g25980 and Glyma08g08920 had 76–77% identity with BoMCM3 and BrMCM3_2, but 32% identity with BrMCM3_1.\n问题：大豆的MCM3基因（Glyma05g25980和Glyma08g08920）与BoMCM3和BrMCM3_2的相似性有多高？",
+        "answer": "大豆的MCM3基因（Glyma05g25980和Glyma08g08920）与BoMCM3和BrMCM3_2的同一性是76–77%。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "As is shown in the figure, the expressions of the GmPME genes in the maintainer NJCMS1B are universally higher than those in cytoplasmic male sterile line NJCMS1A. In the Group I and Group II clades, some GmPME genes, for examples, GmPME46 and GmPME121 in the Group I clade as well as GmPME12 and GmPME122 in the Group II clade, were at relatively high expression levels both in NJCMS1A and NJCMS1B.\n在Group I类群中，哪些GmPME基因在NJCMS1A和NJCMS1B中显示出较高的表达量？",
+        "answer": "在Group I类群中，GmPME46和GmPME121在NJCMS1A和NJCMS1B中表现出较高的表达水平。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "As is shown in the figure, the expressions of the GmPME genes in the maintainer NJCMS1B are universally higher than those in cytoplasmic male sterile line NJCMS1A. In the Group I and Group II clades, some GmPME genes, for examples, GmPME46 and GmPME121 in the Group I clade as well as GmPME12 and GmPME122 in the Group II clade, were at relatively high expression levels both in NJCMS1A and NJCMS1B.\n在Group II类群中，哪些GmPME基因在NJCMS1A和NJCMS1B中显示出较高的表达量？",
+        "answer": "在Group II类群中，GmPME12和GmPME122在NJCMS1A和NJCMS1B中表现出较高的表达水平。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "We acquired the expression patterns of two nodulation marker genes (NIN and ENOD40) and three defense marker genes (PR1, PR2, and PR5) in Suinong 14 roots (where the NopC mutant decreased NN and NDW) inoculated with HH103 and the NopC mutant. NopC absence did not induce difference in expression patterns of NIN or ENOD40 compared with the wild strain , but caused changes in the expression patterns of PR1 and PR5. HH103 induced expression of PR1 reached a peak at 36 h post-inoculation, whereas the NopC mutant did not. The same was true for the PR5 gene, where there were opposite expression patterns after inoculation with HH103 and the NopC mutant .\nNopC突变体对结瘤数量（NN）和结瘤干重（NDW）的影响是什么？",
+        "answer": "NopC突变体减少了结瘤数量（NN）和结瘤干重（NDW）。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "We acquired the expression patterns of two nodulation marker genes (NIN and ENOD40) and three defense marker genes (PR1, PR2, and PR5) in Suinong 14 roots (where the NopC mutant decreased NN and NDW) inoculated with HH103 and the NopC mutant. NopC absence did not induce difference in expression patterns of NIN or ENOD40 compared with the wild strain , but caused changes in the expression patterns of PR1 and PR5. HH103 induced expression of PR1 reached a peak at 36 h post-inoculation, whereas the NopC mutant did not. The same was true for the PR5 gene, where there were opposite expression patterns after inoculation with HH103 and the NopC mutant .\n在HH103接种后，PR1基因的表达峰值出现在什么时候？",
+        "answer": "PR1基因在HH103接种后36小时达到表达峰值，这与NopC突变体不同。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Indeed, the expression level of Glyma.19G176300 in Suinong 14 showed a pattern of induction by the wild strain almost opposite to that of the NopC mutant, whereas in Zyd 00006, the wild strain and NopC mutant did not show different expression patterns. SNP analysis of the Glyma.19G176300 in Suinong 14 and Zyd 00,006 revealed 5 SNPs in the promoter region and 2 SNPs in exons. Because these two base mutations did not alter the amino acid composition of the protein, the SNPs in the promoter may account for the differing expression patterns of Glyma.19G176300 in response to NopC. Thus, we named Glyma.19G176300 NopC Related Protein (GmCRP), which may be a candidate gene related to NopC after infection with the wild strain HH103.\nSuinong 14中，Glyma.19G176300的表达模式发生了怎样的变化？",
+        "answer": "在Suinong 14中，Glyma.19G176300的表达水平显示出一种几乎与NopC突变体相反的野生菌株诱导模式。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Indeed, the expression level of Glyma.19G176300 in Suinong 14 showed a pattern of induction by the wild strain almost opposite to that of the NopC mutant, whereas in Zyd 00006, the wild strain and NopC mutant did not show different expression patterns. SNP analysis of the Glyma.19G176300 in Suinong 14 and Zyd 00,006 revealed 5 SNPs in the promoter region and 2 SNPs in exons. Because these two base mutations did not alter the amino acid composition of the protein, the SNPs in the promoter may account for the differing expression patterns of Glyma.19G176300 in response to NopC. Thus, we named Glyma.19G176300 NopC Related Protein (GmCRP), which may be a candidate gene related to NopC after infection with the wild strain HH103.\n问题：在Zyd 00006中，Glyma.19G176300的表达模式具有什么特征？",
+        "answer": "在Zyd 00006中，野生菌株和NopC突变体之间的表达模式没有观察到差异。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Indeed, the expression level of Glyma.19G176300 in Suinong 14 showed a pattern of induction by the wild strain almost opposite to that of the NopC mutant, whereas in Zyd 00006, the wild strain and NopC mutant did not show different expression patterns. SNP analysis of the Glyma.19G176300 in Suinong 14 and Zyd 00,006 revealed 5 SNPs in the promoter region and 2 SNPs in exons. Because these two base mutations did not alter the amino acid composition of the protein, the SNPs in the promoter may account for the differing expression patterns of Glyma.19G176300 in response to NopC. Thus, we named Glyma.19G176300 NopC Related Protein (GmCRP), which may be a candidate gene related to NopC after infection with the wild strain HH103.\nGlyma.19G176300（GmCRP）在感染野生菌株HH103后被认为可能与哪个基因有关？",
+        "answer": "Glyma.19G176300（GmCRP）被提议为与NopC相关的候选基因。",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "By comparing the nucleotide differences of these genes between seed-flooding tolerant and sensitive lines, Glyma.13g248000 revealed one base mutation (T–A) at 145bp position in two seed-flooding tolerant lines L422 and L488, and this nonsynonymous mutation resulted in the single amino acid change (Cys-Ser) in protein . However, no base mutations/polymorphisms were observed in the other three candidate genes between tolerant and sensitive lines. Furthermore, sequence analysis of the 2 kb promoter region upstream of these four genes was performed. However, no nucleotide mutation was observed among these six tolerant and sensitive genotypes. Although no base mutation of Glyma.13g248000 was identified at 145 bp position in the seed-flooding tolerant line (L018), but the confirmation of this mutation in the remaining two seed-flooding tolerant line L422 and L488 suggested that Glyma.13g248000 was the most possible candidate gene associated with seed-flooding tolerance identified in this study, and this gene was designated as GmSFT.\n问题：为了确认种子的耐涝性，分析了哪些种系？",
+        "answer": "种子耐涝性分析了种系L422、L488和L018，其中在L422和L488中确认了突变。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "By comparing the nucleotide differences of these genes between seed-flooding tolerant and sensitive lines, Glyma.13g248000 revealed one base mutation (T–A) at 145bp position in two seed-flooding tolerant lines L422 and L488, and this nonsynonymous mutation resulted in the single amino acid change (Cys-Ser) in protein . However, no base mutations/polymorphisms were observed in the other three candidate genes between tolerant and sensitive lines. Furthermore, sequence analysis of the 2 kb promoter region upstream of these four genes was performed. However, no nucleotide mutation was observed among these six tolerant and sensitive genotypes. Although no base mutation of Glyma.13g248000 was identified at 145 bp position in the seed-flooding tolerant line (L018), but the confirmation of this mutation in the remaining two seed-flooding tolerant line L422 and L488 suggested that Glyma.13g248000 was the most possible candidate gene associated with seed-flooding tolerance identified in this study, and this gene was designated as GmSFT.\n问题：哪个基因被认为与种子的耐涝性最密切相关？",
+        "answer": "Glyma.13g248000被认为是与种子耐涝性最相关的候选基因，并被命名为GmSFT。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Gene duplication, including tandem and segmental duplications, is widespread in plant genomes, which is considered one of the major driving forces of genome evolution resulting in large gene family expansion in plants [30]. Duplicated genes are the source for creating novel genetic variation. MCScanX was used to analyze the gene duplications of Gmzf_CCCHs [31]. In total, 88 genes were involved in duplication. Five gene pairs Glyma02g17250/Glyma02g17260, Glyma03g30020/Glyma03g30030, Glyma09g35980Glyma09g35990, Glyma10g02550/Glyma10g02540, and Glyma12g01340/Glyma12g01350, were identified as tandem duplicated genes and located on chromosomes Gm02, Gm03, Gm09, Gm10 and Gm12 . 75% (87 of 116) of Gmzf_CCCHs were involved in segmental duplication forming 68 segmentally duplicated gene pairs (Table S3 and S4).\n植物的基因复制可以分为哪几种类型？",
+        "answer": "植物中的基因复制包括串联复制和片段复制。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Gene duplication, including tandem and segmental duplications, is widespread in plant genomes, which is considered one of the major driving forces of genome evolution resulting in large gene family expansion in plants [30]. Duplicated genes are the source for creating novel genetic variation. MCScanX was used to analyze the gene duplications of Gmzf_CCCHs [31]. In total, 88 genes were involved in duplication. Five gene pairs Glyma02g17250/Glyma02g17260, Glyma03g30020/Glyma03g30030, Glyma09g35980Glyma09g35990, Glyma10g02550/Glyma10g02540, and Glyma12g01340/Glyma12g01350, were identified as tandem duplicated genes and located on chromosomes Gm02, Gm03, Gm09, Gm10 and Gm12 . 75% (87 of 116) of Gmzf_CCCHs were involved in segmental duplication forming 68 segmentally duplicated gene pairs (Table S3 and S4).\n植物基因组进化过程中，基因复制的重要性是什么？",
+        "answer": "基因复制被认为是基因组进化的主要驱动力，导致植物中大型基因家族的扩展。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Analysis of variance indicated that the genotype (G), environment (E) and genotype by environment interaction (G?×?E) had significant effects on plant height (PH), number of nodes on main stem (NN) and stem diameter (DI) (P?<?0.01; Table 1). The genotype (G) and genotype by environment interaction (G?×?E) had significant effects on branch number (BN) and 100-seed weight (100-SW), but the genotype by environment interaction (G?×?E) had no significant effects.\n基因型与环境交互作用（G×E）对哪些植物性状的影响不明显？",
+        "answer": "基因型与环境交互作用（G×E）对分枝数（BN）和百粒重（100-SW）没有显著影响。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Analysis of variance indicated that the genotype (G), environment (E) and genotype by environment interaction (G?×?E) had significant effects on plant height (PH), number of nodes on main stem (NN) and stem diameter (DI) (P?<?0.01; Table 1). The genotype (G) and genotype by environment interaction (G?×?E) had significant effects on branch number (BN) and 100-seed weight (100-SW), but the genotype by environment interaction (G?×?E) had no significant effects.\n基因型（G）、环境（E）以及基因型与环境的交互作用（G×E）对植物高度（PH）的影响是否具有统计学意义？",
+        "answer": "基因型（G）、环境（E）和基因型与环境交互作用（G×E）对植物高度（PH）的影响显著（P < 0.01）。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "After seven days of treatment, the soybean germplasm accessions exhibited a range of responses to alkaline treatment (AT), from sensitive to moderately tolerant and highly tolerant. Extremely sensitive accessions experienced the wilting of aboveground leaves, plant death, and significant reductions in both shoot and root biomass compared to CK . Accessions with moderate alkaline tolerance displayed yellowing and the wilting of leaves, as well as reductions in shoot and root biomass under AT . However, compared to sensitive cultivars, those with moderate alkaline tolerance exhibited a lesser reduction in both shoot and root biomass when exposed to AT, while alkaline-tolerant soybean accessions showed the least impact on root and shoot biomass under AT relative to CK .\nWhat is the response of moderately alkaline-tolerant soybean accessions to alkaline treatment?",
+        "answer": "Moderately alkaline-tolerant soybean accessions display yellowing and wilting of leaves, with reductions in shoot and root biomass under AT, but less reduction compared to sensitive cultivars.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "After seven days of treatment, the soybean germplasm accessions exhibited a range of responses to alkaline treatment (AT), from sensitive to moderately tolerant and highly tolerant. Extremely sensitive accessions experienced the wilting of aboveground leaves, plant death, and significant reductions in both shoot and root biomass compared to CK . Accessions with moderate alkaline tolerance displayed yellowing and the wilting of leaves, as well as reductions in shoot and root biomass under AT . However, compared to sensitive cultivars, those with moderate alkaline tolerance exhibited a lesser reduction in both shoot and root biomass when exposed to AT, while alkaline-tolerant soybean accessions showed the least impact on root and shoot biomass under AT relative to CK .\nHow does alkaline treatment affect the root and shoot biomass of soybean accessions that tolerate alkaline conditions?",
+        "answer": "Alkaline-tolerant soybean accessions show the least impact on root and shoot biomass under alkaline treatment relative to control (CK).",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "After seven days of treatment, the soybean germplasm accessions exhibited a range of responses to alkaline treatment (AT), from sensitive to moderately tolerant and highly tolerant. Extremely sensitive accessions experienced the wilting of aboveground leaves, plant death, and significant reductions in both shoot and root biomass compared to CK . Accessions with moderate alkaline tolerance displayed yellowing and the wilting of leaves, as well as reductions in shoot and root biomass under AT . However, compared to sensitive cultivars, those with moderate alkaline tolerance exhibited a lesser reduction in both shoot and root biomass when exposed to AT, while alkaline-tolerant soybean accessions showed the least impact on root and shoot biomass under AT relative to CK .\nWhat is the difference in biomass reduction between moderately tolerant soybean accessions and sensitive cultivars when exposed to alkaline conditions?",
+        "answer": "The biomass reduction in moderately tolerant soybean accessions is less compared to that in sensitive cultivars under alkaline treatment.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow . Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\nWhat difficulty arose in dividing the soybean landraces?",
+        "answer": "Direct and precise genotype partitioning was difficult despite genetic studies revealing distinct genotypes.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow . Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\nWhat clustering method was applied to categorize the soybean landraces?",
+        "answer": "The K-means clustering algorithm was used to group the soybean landraces based on similarities.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow . Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\nWhat method was used in the study to determine the ideal number of clusters?",
+        "answer": "The optimal number of clusters was determined using the elbow method by identifying the curve's elbow.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "In agreement with proteomic findings (Das et al. [49]), a direct correlation for key amino acids such as glutamine and glutamate was reflected in this metabolomic investigation. The proteomics study [49] indicated that cytosolic glutamine synthetase, which assimilates ammonium to glutamine using glutamate as a substrate, is reduced significantly during drought, and alleviates nitric oxide (active radicals) levels to activate drought tolerance mechanisms in soybeans. Our metabolic data supports proteomic findings, as glutamate was found to be reduced during drought stress.\n在蛋白质组学研究中，哪种酶在干旱环境下显著减少？",
+        "answer": "在蛋白质组学研究中，细胞质谷氨酰胺合成酶在干旱条件下显著减少。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "In agreement with proteomic findings (Das et al. [49]), a direct correlation for key amino acids such as glutamine and glutamate was reflected in this metabolomic investigation. The proteomics study [49] indicated that cytosolic glutamine synthetase, which assimilates ammonium to glutamine using glutamate as a substrate, is reduced significantly during drought, and alleviates nitric oxide (active radicals) levels to activate drought tolerance mechanisms in soybeans. Our metabolic data supports proteomic findings, as glutamate was found to be reduced during drought stress.\n谷氨酰胺合成酶减少会对大豆的干旱耐受机制产生怎样的影响？",
+        "answer": "谷氨酰胺合成酶的减少有助于缓解一氧化氮水平，从而激活大豆的干旱耐受机制。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Under salt stress and when compared to that of EV plants, overexpression of the GmADC gene significantly reduced the contents of Na+ in the roots, stems and leaves of soybean hairy-root composite plants and consequently decreased their Na+/K+ ratios caused by the relatively stable K+ levels . Moreover, in contrast to the EV plants, the contents of Cl? decreased significantly in the roots, stems and leaves of the salt-stressed OEGmADC soybean hairy-root composite plants, while the NO3? contents raised in the roots, and kept at a relatively stable level in the stems and leaves of OEGmADC plants, all these thus lead to the decreases of Cl?/NO3? ratio in the salt-stressed OEGmADC soybean plants .\nWhat impact does the overexpression of the GmADC gene have on the Na+/K+ balance in soybean plants?",
+        "answer": "The overexpression of the GmADC gene decreases Na+/K+ ratios due to stable K+ levels.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Under salt stress and when compared to that of EV plants, overexpression of the GmADC gene significantly reduced the contents of Na+ in the roots, stems and leaves of soybean hairy-root composite plants and consequently decreased their Na+/K+ ratios caused by the relatively stable K+ levels . Moreover, in contrast to the EV plants, the contents of Cl? decreased significantly in the roots, stems and leaves of the salt-stressed OEGmADC soybean hairy-root composite plants, while the NO3? contents raised in the roots, and kept at a relatively stable level in the stems and leaves of OEGmADC plants, all these thus lead to the decreases of Cl?/NO3? ratio in the salt-stressed OEGmADC soybean plants .\nHow does overexpression of the GmADC gene affect the Cl?/NO3? ratio in soybean plants under salt stress?",
+        "answer": "The overall impact of GmADC gene overexpression is a decreased Cl?/NO3? ratio in salt-stressed OEGmADC soybean plants.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "In addition to the changed oil content, the protein content was also altered in the knockout and overexpression lines . In the two knockout lines, the protein content was significantly increased, whereas it was decreased in the overexpression lines OEGmMFT-1 and OEGmMFT-2 . Moreover, the seed width and thickness were all significantly decreased, whereas they were significantly increased in the overexpression lines . The seed length was not altered in the knockout lines, and slightly increased in the overexpression lines . As a result, the seed weight and shape were also changed in the knockout and overexpression lines. In contrast to the average 13.8?g per 100 seeds in WT, the average 100 seed weights were 16.9 and 16.1?g in the overexpression lines, whereas they were 11.3 and 10.6?g in the knockout lines .\n在knockout lines中，蛋白质水平发生了怎样的变化？",
+        "answer": "在knockout lines中，蛋白质含量增加。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "In addition to the changed oil content, the protein content was also altered in the knockout and overexpression lines . In the two knockout lines, the protein content was significantly increased, whereas it was decreased in the overexpression lines OEGmMFT-1 and OEGmMFT-2 . Moreover, the seed width and thickness were all significantly decreased, whereas they were significantly increased in the overexpression lines . The seed length was not altered in the knockout lines, and slightly increased in the overexpression lines . As a result, the seed weight and shape were also changed in the knockout and overexpression lines. In contrast to the average 13.8?g per 100 seeds in WT, the average 100 seed weights were 16.9 and 16.1?g in the overexpression lines, whereas they were 11.3 and 10.6?g in the knockout lines .\nOEGmMFT-1和OEGmMFT-2过表达线中的蛋白质含量发生了怎样的变化？",
+        "answer": "在OEGmMFT-1和OEGmMFT-2过表达线中，蛋白质含量减少。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "Soybean seed protein quality is largely determined by its protein composition. This is especially true in the case of β-subunit of β-conglycinin, a protein that is totally devoid of methionine, an essential amino acid [25]. Since rj1 accumulated very little β-subunit of β-conglycinin, the relative levels of essential amino acids were examined in the total seed protein of Rj1 and rj1 soybeans. Table 1 shows the amino acid composition of Rj1 and rj1 soybean. It is evident that rj1 soybeans, in spite of accumulating lower amounts of β-subunit of β-conglycinin, contained relatively lower amounts of methionine (Table 1). Interestingly, the relative amount of cysteine is higher in rj1 soybeans and its abundance was reduced in the presence of nitrogen, indicating nitrogen may influence the accumulation of proteins that are rich in cysteine\n与Rj1大豆相比，rj1大豆在β-伴大豆球蛋白的β-亚基积累方面有何特征？",
+        "answer": "rj1大豆积累的β-伴大豆球蛋白的β-亚基非常少。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "During the R1 and R7 stages, the high-yield variety Changnong 39 is significantly higher than the conventional variety Jiyu 441, while at the R3, R5, and R6 stages, the high-yield variety consistently shows significant differences compared to the conventional varieties, but there are no significant differences between the two conventional varieties. The leaf area index of the high-yield variety Changnong 39 increases rapidly in the early growth stages and decreases slowly in the later stages, creating favorable conditions for the plant's photosynthesis.\nWhich high-yield variety is referred to in the context?",
+        "answer": "The name of the high-yield variety is Changnong 39.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "During the R1 and R7 stages, the high-yield variety Changnong 39 is significantly higher than the conventional variety Jiyu 441, while at the R3, R5, and R6 stages, the high-yield variety consistently shows significant differences compared to the conventional varieties, but there are no significant differences between the two conventional varieties. The leaf area index of the high-yield variety Changnong 39 increases rapidly in the early growth stages and decreases slowly in the later stages, creating favorable conditions for the plant's photosynthesis.\nWhat is the performance comparison between Changnong 39 and Jiyu 441 during the R1 and R7 growth phases?",
+        "answer": "During the R1 and R7 stages, Changnong 39 shows significantly higher performance compared to Jiyu 441.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "During the R1 and R7 stages, the high-yield variety Changnong 39 is significantly higher than the conventional variety Jiyu 441, while at the R3, R5, and R6 stages, the high-yield variety consistently shows significant differences compared to the conventional varieties, but there are no significant differences between the two conventional varieties. The leaf area index of the high-yield variety Changnong 39 increases rapidly in the early growth stages and decreases slowly in the later stages, creating favorable conditions for the plant's photosynthesis.\nAt what growth stages does Changnong 39 consistently exhibit notable differences when compared to traditional varieties?",
+        "answer": "During the R3, R5, and R6 stages, Changnong 39 consistently shows significant differences compared to conventional varieties.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n例如：\n问题：中嘉8号是由哪些单位育成的水稻品种？\n正确答案：中嘉8号是由中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所育成的水稻品种。\n问题：",
+        "question": "During the R1 and R7 stages, the high-yield variety Changnong 39 is significantly higher than the conventional variety Jiyu 441, while at the R3, R5, and R6 stages, the high-yield variety consistently shows significant differences compared to the conventional varieties, but there are no significant differences between the two conventional varieties. The leaf area index of the high-yield variety Changnong 39 increases rapidly in the early growth stages and decreases slowly in the later stages, creating favorable conditions for the plant's photosynthesis.\nWhat beneficial condition is established by the leaf area index configuration of Changnong 39?",
+        "answer": "The pattern of Changnong 39's leaf area index creates favorable conditions for photosynthesis.",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_text_generation"
     }
 ]

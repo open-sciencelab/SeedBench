@@ -1015,5 +1015,355 @@
             "level1": "基因基本信息查询"
         },
         "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "‘Glutathione metabolism’, ‘RNA polymerase’, ‘purine metabolism’, ‘nucleotide excision repair’, ‘pyrimidine metabolism’, and spliceosome pathways were only enriched in up-regulated genes at 24 HAI (Supplementary Tables S8). All ‘glutathione metabolism’ DEGs encode glutathione-S-transferases (GSTs) and their up-regulation is related to an increased antioxidant capacity. Increased antioxidant capacity and DNA repair mechanisms at 24 HAI in response to PBZ might be part of a tolerance mechanism to cope with the germination delay, which is in line with a recent study that proposed a link between DNA repair and antioxidant activity in Medicago truncatula seed germination and seedling establishment.\n哪种代谢途径与抗氧化能力的提升相关？\nA. RNA polymerase  \nB. Purine metabolism  \nC. Spliceosome pathways  \nD. Glutathione metabolism  ",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GmPME7 mainly expressed in flowers, root and nodules; GmPME94 showed relatively high expressions in leaves, stem and pods; GmPME105 highly expressed in stem, root, root hairs, nodules and seeds; GmPME121 displayed superior expressions in SAM, stem, root, root hairs and pods. Besides, GmPME111 and GmPME122 were from the Group II clade and uniformly exhibited high expressions in flowers . GmPME38 and GmPME60 from the Group III clade were depicted in Fig. 11c. GmPME38 presented relatively high expression levels in stem, root hairs, nodules, pods and seeds. Whereas, GmPME60 displayed considerable expressions in SAM, stem, nodules, pods and seeds. The two extracted genes (GmPME71 and GmPME113) from the Group IV clade exhibited superior expressions in pods and seeds, and GmPME71 simultaneously owned relatively high expression in SAM .\n在花中高表达的GmPME家族成员是以下哪个？\nA. GmPME94  \nB. GmPME111  \nC. GmPME105  \nD. GmPME38  ",
+        "answer": "B",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GmPME7 mainly expressed in flowers, root and nodules; GmPME94 showed relatively high expressions in leaves, stem and pods; GmPME105 highly expressed in stem, root, root hairs, nodules and seeds; GmPME121 displayed superior expressions in SAM, stem, root, root hairs and pods. Besides, GmPME111 and GmPME122 were from the Group II clade and uniformly exhibited high expressions in flowers . GmPME38 and GmPME60 from the Group III clade were depicted in Fig. 11c. GmPME38 presented relatively high expression levels in stem, root hairs, nodules, pods and seeds. Whereas, GmPME60 displayed considerable expressions in SAM, stem, nodules, pods and seeds. The two extracted genes (GmPME71 and GmPME113) from the Group IV clade exhibited superior expressions in pods and seeds, and GmPME71 simultaneously owned relatively high expression in SAM .\n在SAM（茎尖分生组织）中，哪个GmPME家族成员的表达水平较高？\nA. GmPME94  \nB. GmPME105  \nC. GmPME60  \nD. GmPME38  ",
+        "answer": "C",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "This geographical bias was further analyzed in China where the proportion of PH13H3 among all cultivars increased from near zero in the lower latitude regions (below 40°N) to 48.7% in the higher latitude regions (above 40°N) . Out of 78 cultivars carrying PH13H3, 76 were located in higher latitude regions , demonstrating that the PH13H3 allele has been used successfully in breeding programs to improve soybean adaptation in high latitudes.\n问题：PH13H3等位基因在大豆育种计划中用于增强大豆在何种地区的适应性？\nA. 热带地区\nB. 中纬度地区\nC. 高纬度地区\nD. 低纬度地区",
+        "answer": "C",
+        "split": {
+            "level1": "基因基本信息查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The predicted subcellular locations of the Gmzf_CCCHs showed that most of the Gmzf_CCCHs (104 of 116) were localized in nucleus. Seven Gmzf_CCCH genes were predicted to be localized in chloroplast and 3 localized in cytoplasm. The other 2 Gmzf_CCCH genes (Glyma03g02000.3 and Glyma08g39400.1) were localized in vacuole and mitochondrial, respectively.\nGmzf_CCCHs基因家族的主要亚细胞定位在哪里？\nA. 液泡\nB. 细胞质\nC. 细胞核\nD. 叶绿体",
+        "answer": "C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The correlation coefficients for the five traits were calculated based on the BLUP values and are summarized in Table 2. There was a significant positive correlation between plant height (PH) and number of nodes on main stem (NN), with a correlation coefficient of 0.894. There was also a significant positive correlation between PH, NN, branch number (BN) and stem diameter (DI). Additionally, 100-seed weight (100-SW) was only significantly positively correlated with DI, with a correlation coefficient of 0.244. Correlation analysis showed that there was a positive correlation between PH, NN, BN, DI and 100-SW in soybean.\n在大豆的特性中，哪个特性与主茎节数（NN）呈显著正相关？\nA. 100粒重（100-SW）\nB. 植株高度（PH）\nC. 株型（Plant Type）\nD. 分枝数（BN）",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The correlation coefficients for the five traits were calculated based on the BLUP values and are summarized in Table 2. There was a significant positive correlation between plant height (PH) and number of nodes on main stem (NN), with a correlation coefficient of 0.894. There was also a significant positive correlation between PH, NN, branch number (BN) and stem diameter (DI). Additionally, 100-seed weight (100-SW) was only significantly positively correlated with DI, with a correlation coefficient of 0.244. Correlation analysis showed that there was a positive correlation between PH, NN, BN, DI and 100-SW in soybean.\n哪个特征与茎粗（DI）呈显著正相关？\nA. 叶片数（Leaf Number）\nB. 100粒重（100-SW）\nC. 花期（Flowering Time）\nD. 根系长度（Root Length）",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The correlation coefficients for the five traits were calculated based on the BLUP values and are summarized in Table 2. There was a significant positive correlation between plant height (PH) and number of nodes on main stem (NN), with a correlation coefficient of 0.894. There was also a significant positive correlation between PH, NN, branch number (BN) and stem diameter (DI). Additionally, 100-seed weight (100-SW) was only significantly positively correlated with DI, with a correlation coefficient of 0.244. Correlation analysis showed that there was a positive correlation between PH, NN, BN, DI and 100-SW in soybean.\n根据相关性分析，下列哪一性状与分枝数（BN）呈显著正相关？\nA. 种子颜色（Seed Color）\nB. 叶片形状（Leaf Shape）\nC. 叶片颜色（Leaf Color）\nD. 植株高度（PH）",
+        "answer": "D",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In similar conditions in other studies, glyphosate reduced root growth (length and weight) of susceptible soybean [21]. Consistent with the cited reports, glyphosate also reduced the root length of susceptible soybean seedlings . In contrast, glyphosate did not affect the root growth of GR soybeans—an expected result because this cultivar tolerates the herbicide. However, since glyphosate residues and its metabolite aminomethylphosphonic acid (AMPA) were found in GR soybean seeds in field’s conditions [22], growth and yield cannot be assumed to be unchanged. Glyphosate reduced the root growth of GR soybeans in greenhouse studies [23], but did not affect soybean growth in field experiments [24]. At least for the short-term experimental conditions reported in this work, the root length of GR soybeans was unaffected by glyphosate treatment.\n草甘膦对易感大豆的根系生长产生了什么样的影响？\nA. 不影响根系长度和重量  \nB. 促进根系分枝  \nC. 增加根系长度和重量  \nD. 减少根系长度和重量  ",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The cultivar Jiaoda 133 is a vegetable soybean, and Williams 82 is a grain soybean; there are several seed phenotypic differences between them. The Jiaoda 133 pods harvested at the R6 stage (stage 6)  and boiled in water for 7 min, tasted sweet, soft and fragrant, whereas those of Williams 82 were hard and neither sweet nor fragrant. For vegetable soybean, the sweet taste is a key trait. To check out which sugar contributed to the sweet taste, we measured the content of four sugars (sucrose, fructose, glucose, and maltose) in fresh seeds at the stage R6. The sucrose content was significantly higher in Jiaoda 133 (2.39 g/100 g) than Williams 82 (1.52 g/100 g). The contents of fructose and glucose were low, with no significant differences between Jiaoda 133 and Williams 82. No maltose was detected . These results suggested that the sweet taste was determined mainly by sucrose content. The pods and fresh grains of Jiaoda 133 were much larger than those of Williams 82 at various developmental stages . At maturity, the 100-grain weight of Jiaoda 133 was 31.38 g and that of Williams 82 was 17.87 g (that 1.75-fold difference was significant) .\n关于Williams 82的以下描述中，哪一项是准确的？\nA. 豆荚甜、软且芳香  \nB. 蔗糖含量高于Jiaoda 133  \nC. 豆荚硬、不甜、不芳香  \nD. 100粒种子重量为31.38 g  ",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The sweeter taste is one of the major differences between grain and vegetable soybeans, which is determined by the higher sucrose content in vegetable soybean. Therefore, we focused on the expressions of genes related to sucrose metabolism and transport. Genes for sweet and waxy corn had been studied, and eight genes of maize endosperm mutant have been used for commercial breeding, including shrunken2 (sh2), brittle1 (bt1), brittle2 (bt2), sugary1 (su1), sugary enhancer1 (se1), amylose extender1 (ae1), dull endosperm1 (du1), and waxy1 (wx1) (Yang and Wang, 2005). The expression of most genes homologous to sh2, bt1 and su1 was higher in Williams 82 than Jiaoda 133 , which would contribute to accumulation of sucrose in Jiaoda 133. In contrast, the expression of genes homologous to bt2, se1, ae1, and du1 was lower in Williams 82 than Jiaoda 133 , which could increase the amylopectin content and contribute to waxy taste in Jiaoda 133. The expression patterns of two genes homologous to wx1 were opposite in the two genotypes , potentially leading to no difference in amylose\nWhich genes in maize have been utilized in commercial breeding to achieve sweet and waxy characteristics?\nA. sh2, su1, wx1, bt2, ae1, se1  \nB. sh2, bt2, su1, ae1, wx1, du1, se1  \nC. sh2, su1, bt1, wx1, ae1  \nD. sh2, bt1, su1, se1, ae1, du1, wx1, bt2  ",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The sweeter taste is one of the major differences between grain and vegetable soybeans, which is determined by the higher sucrose content in vegetable soybean. Therefore, we focused on the expressions of genes related to sucrose metabolism and transport. Genes for sweet and waxy corn had been studied, and eight genes of maize endosperm mutant have been used for commercial breeding, including shrunken2 (sh2), brittle1 (bt1), brittle2 (bt2), sugary1 (su1), sugary enhancer1 (se1), amylose extender1 (ae1), dull endosperm1 (du1), and waxy1 (wx1) (Yang and Wang, 2005). The expression of most genes homologous to sh2, bt1 and su1 was higher in Williams 82 than Jiaoda 133 , which would contribute to accumulation of sucrose in Jiaoda 133. In contrast, the expression of genes homologous to bt2, se1, ae1, and du1 was lower in Williams 82 than Jiaoda 133 , which could increase the amylopectin content and contribute to waxy taste in Jiaoda 133. The expression patterns of two genes homologous to wx1 were opposite in the two genotypes , potentially leading to no difference in amylose\nIn soybeans, increased expression of genes similar to which maize gene aids in sucrose buildup in Jiaoda 133?  \nA. ae1  \nB. wx1  \nC. du1  \nD. sh2  \n正确答案：D\nA. ae1  \nB. wx1  \nC. du1  \nD. sh2  ",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The sweeter taste is one of the major differences between grain and vegetable soybeans, which is determined by the higher sucrose content in vegetable soybean. Therefore, we focused on the expressions of genes related to sucrose metabolism and transport. Genes for sweet and waxy corn had been studied, and eight genes of maize endosperm mutant have been used for commercial breeding, including shrunken2 (sh2), brittle1 (bt1), brittle2 (bt2), sugary1 (su1), sugary enhancer1 (se1), amylose extender1 (ae1), dull endosperm1 (du1), and waxy1 (wx1) (Yang and Wang, 2005). The expression of most genes homologous to sh2, bt1 and su1 was higher in Williams 82 than Jiaoda 133 , which would contribute to accumulation of sucrose in Jiaoda 133. In contrast, the expression of genes homologous to bt2, se1, ae1, and du1 was lower in Williams 82 than Jiaoda 133 , which could increase the amylopectin content and contribute to waxy taste in Jiaoda 133. The expression patterns of two genes homologous to wx1 were opposite in the two genotypes , potentially leading to no difference in amylose\nHow does the reduced expression of genes similar to bt2, se1, ae1, and du1 in Williams 82 relative to Jiaoda 133 potentially affect the plant?  \nA. Greater sucrose concentration  \nB. Higher amylose levels  \nC. Enhanced amylopectin content  \nD. Lower sweetness  \nCorrect answer: C\nA. Increased sucrose content  \nB. Increased amylose content  \nC. Increased amylopectin content  \nD. Decreased sweetness  ",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Among the 12 genes, only GmMFT and Glyma.05G243800/SoyZH13_05G228900 showed high expression in seeds . GmMFT exhibited very specific expression in seed and pod, and was almost undetectable in other tissues. By contrast, SoyZH13_05G228900/Glyma.05G243800 showed high expression in other tissues including root hairs and leaves . This finding was also confirmed by the expression data of Williams 82 deposited in Phytozome (https://phytozome-next.jgi.doe.gov) . Taken together, this result suggested that GmMFT might be the candidate gene of qOil-5-1.\n哪种基因在根毛和叶片中显示出高水平的表达？\nA. Glyma.05G243800/SoyZH13_05G228900  \nB. Phytozome  \nC. qOil-5-1  \nD. GmMFT  ",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To evaluate the influence of haplotypes on soybean seed traits, we examined the association between haplotypes and seed oil content in soybean collections. Hap_S has a very low seed oil content but very high seed protein content . This result was consistent with well-documented characteristics of wild soybean seeds, which are very small, black, have low oil content, but are rich in protein. In cultivated soybeans, Hap_H displayed a high seed oil content and low protein content, whereas Hap_W showed a relatively low seed oil content but high protein content . With respect to the contrasting seed oil and protein content of Hap_H and Hap_W described above, it is possible that Hap_H and Hap_W may reflect the two classic breeding goals of achieving high oil or high protein varieties, respectively.\n研究大豆种子性状时，哪种单倍型的种子油含量极低？\nA. Hap_S\nB. Hap_W\nC. Hap_P\nD. Hap_H",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To evaluate the influence of haplotypes on soybean seed traits, we examined the association between haplotypes and seed oil content in soybean collections. Hap_S has a very low seed oil content but very high seed protein content . This result was consistent with well-documented characteristics of wild soybean seeds, which are very small, black, have low oil content, but are rich in protein. In cultivated soybeans, Hap_H displayed a high seed oil content and low protein content, whereas Hap_W showed a relatively low seed oil content but high protein content . With respect to the contrasting seed oil and protein content of Hap_H and Hap_W described above, it is possible that Hap_H and Hap_W may reflect the two classic breeding goals of achieving high oil or high protein varieties, respectively.\n研究表明，Hap_H单倍型的种子油含量有什么特征？\nA. 中等\nB. 低\nC. 高\nD. 不确定",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For centuries, soybean breeders from the northern regions of China have had more enthusiasm to develop varieties with high seed oil contents. Next, we wondered about the reflection of the haplotypes of GmMFT on the soybean breeding traditions in China. An examination of the geographic distribution of the haplotypes in China indicated that Hap_H displayed a decreasing trend from the high-latitude to low-latitude regions. In Northeast China, the frequency of Hap_H is >?88%. However, it decreased to 66% and 34.5% in Central and South China, respectively. By contrast, an opposite trend was observed for Hap_W, whose frequency is <?5% in Northeast China, 32% in Central China, and >?63% in South China . Taken together, these results indicated that the frequencies and distribution of the haplotypes of GmMFT coincided with the soybean breeding traditions in China, suggesting that GmMFT was a hot locus that has been popularly selected for soybean breeding.\n在中国东北地区，哪种GmMFT单倍型的频率更高？\nA. Hap_W\nB. Hap_H\nC. Hap_B\nD. Hap_A",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For centuries, soybean breeders from the northern regions of China have had more enthusiasm to develop varieties with high seed oil contents. Next, we wondered about the reflection of the haplotypes of GmMFT on the soybean breeding traditions in China. An examination of the geographic distribution of the haplotypes in China indicated that Hap_H displayed a decreasing trend from the high-latitude to low-latitude regions. In Northeast China, the frequency of Hap_H is >?88%. However, it decreased to 66% and 34.5% in Central and South China, respectively. By contrast, an opposite trend was observed for Hap_W, whose frequency is <?5% in Northeast China, 32% in Central China, and >?63% in South China . Taken together, these results indicated that the frequencies and distribution of the haplotypes of GmMFT coincided with the soybean breeding traditions in China, suggesting that GmMFT was a hot locus that has been popularly selected for soybean breeding.\nGmMFT单倍型的分布模式与哪个领域的传统相符？\nA. 水稻育种\nB. 小麦育种\nC. 玉米育种\nD. 大豆育种",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The 66 GmMIP sequences were also analyzed for distribution of introns and exons; the results are shown in Fig. 2 . The number of introns ranged from zero (in GmSIP1;5 and GmSIP1;6) to 5 (in GmNIP1;4 and GmNIP4;1). The division into five subfamilies based on comparison of the deduced protein sequences (see above) was mirrored in the intron-exon structures. All GmPIPs included three introns except GmPIP2;13 which contained four introns (intron # 1 is additional intron). For the GmTIPs, two introns were usual, but three genes: GmTIP1;7, GmTIP1;8 and GmTIP1;9 contained only one intron while one gene GmTIP5;1 contained three introns. GmNIPs contained variable introns with the majority characterized by 4 introns. GmNIP5;1 lacked one intron (intron # 2), GmNIP6;2 lacked two introns (intron # 2 and 3) while GmNIP1;4 and GmNIP4;1 each had five introns. GmSIPs contained two introns except GmSIP1;5 and GmSIP1;6 which included no intron. GmXIPs have a single intron. All the AtPIPs, PtPIPs and some of OsPIPs have three introns, however, some OsPIPs contained fewer and one member OsPIP2;8 contained no intron [29], [30]. In AtTIPs, PtTIPs and OsTIPs, the pattern was more varied; the majority of the genes contained two introns and the others either one or none. Most of AtNIPs, PtNIPs and OsNIPs were observed to have four introns while the AtSIPs, PtSIPs and OsSIPs have two [29], [30].\n哪种类型的GmMIP基因通常包含四个内含子？\nA. GmPIPs  \nB. GmTIPs  \nC. GmNIPs  \nD. GmSIPs  ",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The 66 GmMIP sequences were also analyzed for distribution of introns and exons; the results are shown in Fig. 2 . The number of introns ranged from zero (in GmSIP1;5 and GmSIP1;6) to 5 (in GmNIP1;4 and GmNIP4;1). The division into five subfamilies based on comparison of the deduced protein sequences (see above) was mirrored in the intron-exon structures. All GmPIPs included three introns except GmPIP2;13 which contained four introns (intron # 1 is additional intron). For the GmTIPs, two introns were usual, but three genes: GmTIP1;7, GmTIP1;8 and GmTIP1;9 contained only one intron while one gene GmTIP5;1 contained three introns. GmNIPs contained variable introns with the majority characterized by 4 introns. GmNIP5;1 lacked one intron (intron # 2), GmNIP6;2 lacked two introns (intron # 2 and 3) while GmNIP1;4 and GmNIP4;1 each had five introns. GmSIPs contained two introns except GmSIP1;5 and GmSIP1;6 which included no intron. GmXIPs have a single intron. All the AtPIPs, PtPIPs and some of OsPIPs have three introns, however, some OsPIPs contained fewer and one member OsPIP2;8 contained no intron [29], [30]. In AtTIPs, PtTIPs and OsTIPs, the pattern was more varied; the majority of the genes contained two introns and the others either one or none. Most of AtNIPs, PtNIPs and OsNIPs were observed to have four introns while the AtSIPs, PtSIPs and OsSIPs have two [29], [30].\nGmTIP5;1基因包含多少个内含子？\nA. 1  \nB. 3  \nC. 4  \nD. 2  ",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The 66 GmMIP sequences were also analyzed for distribution of introns and exons; the results are shown in Fig. 2 . The number of introns ranged from zero (in GmSIP1;5 and GmSIP1;6) to 5 (in GmNIP1;4 and GmNIP4;1). The division into five subfamilies based on comparison of the deduced protein sequences (see above) was mirrored in the intron-exon structures. All GmPIPs included three introns except GmPIP2;13 which contained four introns (intron # 1 is additional intron). For the GmTIPs, two introns were usual, but three genes: GmTIP1;7, GmTIP1;8 and GmTIP1;9 contained only one intron while one gene GmTIP5;1 contained three introns. GmNIPs contained variable introns with the majority characterized by 4 introns. GmNIP5;1 lacked one intron (intron # 2), GmNIP6;2 lacked two introns (intron # 2 and 3) while GmNIP1;4 and GmNIP4;1 each had five introns. GmSIPs contained two introns except GmSIP1;5 and GmSIP1;6 which included no intron. GmXIPs have a single intron. All the AtPIPs, PtPIPs and some of OsPIPs have three introns, however, some OsPIPs contained fewer and one member OsPIP2;8 contained no intron [29], [30]. In AtTIPs, PtTIPs and OsTIPs, the pattern was more varied; the majority of the genes contained two introns and the others either one or none. Most of AtNIPs, PtNIPs and OsNIPs were observed to have four introns while the AtSIPs, PtSIPs and OsSIPs have two [29], [30].\n大豆（Gm）中哪种基因通常包含两个内含子？\nA. GmPIPs  \nB. GmXIPs  \nC. GmSIPs  \nD. GmNIPs  ",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "All GmMIPs were analyzed for putative specificity determining positions (SDPs) for non-aqua substrate [25]. SDPs of five substrates (ammonia, boric acid, CO2, H2O2, and urea) were observed while SDPs for silicic acid were not observed in GmMIPs (Table 4). Most of GmPIPs, GmTIPs and GmNIPs contained these SDPs while none were present in GmSIPs and GmXIPs .\n在GmMIPs研究中，哪个基因家族与GmNIPs相似，并包含SDPs？\nA. GmPIPs  \nB. GmTIPs  \nC. GmXIPs  \nD. GmSIPs  ",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In this study, GmMTP8.1, a member of group 8 within the Mn-CDF cluster , displayed highest similarity with ShMTP8 in S. hamata that has been well-characterized for its involvement in Mn detoxification by the sequestration of Mn into vacuoles, was further selected to dissect its function in Mn detoxification. The GmMTP8.1 protein includes 294 amino acid residues (33.1 kDa) and possesses common features of Mn-CDF transporters, such as four putative TMDs, cation efflux, and ZT dimer domains . The consensus sequence DxxxD (x = any amino acid) localizes to the first TMD and the cytosolic loop of GmMTP8.1 . In addition, based on amino acid sequence comparisons, GmMTP8.1 shares a high degree of homology identity (90.8%) with ShMTP8 in S. hamata, and shares 83.3% identity with HvMTP8.1 in barley, 83% identity with OsMTP8.1 in rice, 83% identity with CsMTP8 in cucumber, and 81% identity with AtMTP8 in Arabidopsis, which were the representative MTP8-like proteins included in group 8 . This suggests that the role of GmMTP8.1 is similar to that of the MTP homologs.\nGmMTP8.1蛋白是哪个簇的成员？\nA. Zn-CDF簇\nB. Fe-CDF簇\nC. Cu-CDF簇\nD. Mn-CDF簇",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In this study, GmMTP8.1, a member of group 8 within the Mn-CDF cluster , displayed highest similarity with ShMTP8 in S. hamata that has been well-characterized for its involvement in Mn detoxification by the sequestration of Mn into vacuoles, was further selected to dissect its function in Mn detoxification. The GmMTP8.1 protein includes 294 amino acid residues (33.1 kDa) and possesses common features of Mn-CDF transporters, such as four putative TMDs, cation efflux, and ZT dimer domains . The consensus sequence DxxxD (x = any amino acid) localizes to the first TMD and the cytosolic loop of GmMTP8.1 . In addition, based on amino acid sequence comparisons, GmMTP8.1 shares a high degree of homology identity (90.8%) with ShMTP8 in S. hamata, and shares 83.3% identity with HvMTP8.1 in barley, 83% identity with OsMTP8.1 in rice, 83% identity with CsMTP8 in cucumber, and 81% identity with AtMTP8 in Arabidopsis, which were the representative MTP8-like proteins included in group 8 . This suggests that the role of GmMTP8.1 is similar to that of the MTP homologs.\nGmMTP8.1蛋白与哪种植物的ShMTP8蛋白同源性达到90.8%？\nA. 黄瓜\nB. 水稻\nC. 大麦\nD. *S. hamata*",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A complementation assay of yeast mutants was further conducted to investigate the metal transport activity of GmMTP8.1, which was heterologously expressed in five yeast mutants that are defective in transport activity of various metals, namely, Mn (Δpmr1), Zn (Δzrc1), Cu (Δcup2), Cd (Δycf1), and Co (Δcot1). The results showed that the yeast mutants carrying either the pYES2 empty vector or the pYES2-GmMTP8.1 construct grew similarly in the control medium . However, the growth of the five yeast mutants transformed with the pYES2 empty vector was inhibited in the medium containing high or toxic metal levels . Furthermore, although the growth of the yeast mutants Δzrc1, Δcup2, Δycf1, and Δcot1, transformed with the pYES2-GmMTP8.1 construct, was suppressed in the corresponding metal treatments, GmMTP8.1 expression rescued the sensitivities to excess Mn in the Δpmr1 mutant , suggesting that GmMTP8.1 is a specific Mn transporter.\n哪种酵母突变体的过量锰（Mn）敏感性能够通过GmMTP8.1的表达得到缓解？\nA. Δcup2\nB. Δcot1\nC. Δzrc1\nD. Δpmr1",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A complementation assay of yeast mutants was further conducted to investigate the metal transport activity of GmMTP8.1, which was heterologously expressed in five yeast mutants that are defective in transport activity of various metals, namely, Mn (Δpmr1), Zn (Δzrc1), Cu (Δcup2), Cd (Δycf1), and Co (Δcot1). The results showed that the yeast mutants carrying either the pYES2 empty vector or the pYES2-GmMTP8.1 construct grew similarly in the control medium . However, the growth of the five yeast mutants transformed with the pYES2 empty vector was inhibited in the medium containing high or toxic metal levels . Furthermore, although the growth of the yeast mutants Δzrc1, Δcup2, Δycf1, and Δcot1, transformed with the pYES2-GmMTP8.1 construct, was suppressed in the corresponding metal treatments, GmMTP8.1 expression rescued the sensitivities to excess Mn in the Δpmr1 mutant , suggesting that GmMTP8.1 is a specific Mn transporter.\n实验结果显示，GmMTP8.1在酵母突变体中具有什么作用？\nA. 锌（Zn）运输\nB. 锰（Mn）运输\nC. 镉（Cd）运输\nD. 铜（Cu）运输",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Western-blot analysis indicated further that the GmMTP8.1 protein was expressed in transgenic Arabidopsis . WT and transgenic Arabidopsis were exposed to different levels of Mn, from 0.1 to 4 mM, in an MS solid medium for 7 days. As shown in Figure 8A, no difference in Arabidopsis growth was observed between the GmMTP8.1 overexpression lines (OE1 and OE2) and WT under control conditions containing 0.1 mM Mn\n在实验的对照条件（0.1 mM Mn）下，转基因拟南芥与野生型拟南芥的生长情况如何比较？\nA. 转基因拟南芥完全停止生长  \nB. 转基因拟南芥生长显著优于野生型拟南芥  \nC. 两者生长无差异  \nD. 野生型拟南芥生长显著优于转基因拟南芥  ",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Total RNA was isolated from developing soybean seeds and analyzed by Northern blots . A probe specific to the β-subunit of β-conglycinin hybridized to two RNA transcripts of 2.1 and 1.6 kb . The 1.6 kb transcript, which codes for the β-subunit [5], was barely detectable in rj1 soybean and its accumulation was clearly enhanced in presence of nitrogen (lane 3). However, both the 2.1 and 1.6 kb RNA transcripts were much more abundant in Rj1 soybean than rjirji soybean grown either in the absence or presence of nitrogen. Nitrogen application, however, did not influence the levels of the β-conglycinin α-subunit  or glycinin G4  RNA levels in rj1 soybeans. The RNA levels of the α-subunit of β-conglycinin and glycinin G4 were several-fold higher in Rj1 soybeans than in rj1 soybeans .\n在rj1大豆中，氮的存在对1.6 kb转录物的积累有何影响？\nA. 氮存在时无变化  \nB. 氮存在时转录物消失  \nC. 氮存在时积累增加  \nD. 氮存在时积累减少  ",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Total RNA was isolated from developing soybean seeds and analyzed by Northern blots . A probe specific to the β-subunit of β-conglycinin hybridized to two RNA transcripts of 2.1 and 1.6 kb . The 1.6 kb transcript, which codes for the β-subunit [5], was barely detectable in rj1 soybean and its accumulation was clearly enhanced in presence of nitrogen (lane 3). However, both the 2.1 and 1.6 kb RNA transcripts were much more abundant in Rj1 soybean than rjirji soybean grown either in the absence or presence of nitrogen. Nitrogen application, however, did not influence the levels of the β-conglycinin α-subunit  or glycinin G4  RNA levels in rj1 soybeans. The RNA levels of the α-subunit of β-conglycinin and glycinin G4 were several-fold higher in Rj1 soybeans than in rj1 soybeans .\nRj1大豆与rjirji大豆相比，β-球蛋白β-亚基的2.1 kb和1.6 kb转录物的丰度有什么不同？\nA. 在rjirji大豆中更少  \nB. 在Rj1大豆中更少  \nC. 在氮存在时丰度相同  \nD. 两者丰度相同  ",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To test the interaction between native and variant Gα1 proteins and Gβ, the full-length proteins were expressed as prey (NUb fusions) and bait (CUb fusions), respectively, in the split-ubiquitin interaction system. In this assay, all native Gβ proteins (Gβ1–Gβ4) interacted with the native Gα1 and with the phospho-deficient Gα1 (Gα1quadA), but intriguingly no interaction was observed with Gα1quadD . To corroborate these interactions in?planta, native Gα1, Gα1quadA or Gα1quadD proteins were transiently co-expressed with Gβ and Gγ proteins in tobacco leaves. We used two soybean Gβ proteins (Gβ2 and Gβ3), which belong to two different subgroups, and three different Gγ proteins (Gγ1, Gγ5 and Gγ9), representing each of the Gγ subgroups (Roy Choudhury et al.,?2011), to test the tripartite interaction of Gβγ with Gα1, Gα1quadA or Gα1quadD. In these assays, Gα1quadD also did not show any interaction, whereas the native Gα1 as well as Gα1quadA exhibited strong interactions with all tested combinations of Gβγ proteins . These data imply that the inability of the phosphorylated Gα proteins to interact with Gβγ, thereby making them constitutively available, is most likely to be the critical regulatory aspect of G-protein signaling during nodulation.\n在split-ubiquitin相互作用系统中，哪种Gα1变体与所有本地Gβ蛋白（Gβ1–Gβ4）产生了相互作用？\nA. Native Gα1\nB. Gα1quadB\nC. Gα1quadA\nD. Gα1quadD",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To test the interaction between native and variant Gα1 proteins and Gβ, the full-length proteins were expressed as prey (NUb fusions) and bait (CUb fusions), respectively, in the split-ubiquitin interaction system. In this assay, all native Gβ proteins (Gβ1–Gβ4) interacted with the native Gα1 and with the phospho-deficient Gα1 (Gα1quadA), but intriguingly no interaction was observed with Gα1quadD . To corroborate these interactions in?planta, native Gα1, Gα1quadA or Gα1quadD proteins were transiently co-expressed with Gβ and Gγ proteins in tobacco leaves. We used two soybean Gβ proteins (Gβ2 and Gβ3), which belong to two different subgroups, and three different Gγ proteins (Gγ1, Gγ5 and Gγ9), representing each of the Gγ subgroups (Roy Choudhury et al.,?2011), to test the tripartite interaction of Gβγ with Gα1, Gα1quadA or Gα1quadD. In these assays, Gα1quadD also did not show any interaction, whereas the native Gα1 as well as Gα1quadA exhibited strong interactions with all tested combinations of Gβγ proteins . These data imply that the inability of the phosphorylated Gα proteins to interact with Gβγ, thereby making them constitutively available, is most likely to be the critical regulatory aspect of G-protein signaling during nodulation.\n在in planta测定中，哪种Gα1变体无法与任何Gβγ蛋白组合进行相互作用？\nA. Native Gα1\nB. Gα1quadB\nC. Gα1quadD\nD. Gα1quadA",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "China is the original country of soybeans, and the soybeans planted in various countries have been directly or indirectly introduced from China. Before the 1950s, China's soybean production and export volume ranked first in the world, but it has now dropped to fourth place. The soybean planting area in China reached 12.75 million hectares in 1957, decreased to over 8 million hectares between 1995 and 1998, and further dropped to 7.96 million hectares in 1999. In recent years, China's soybean industry has remained stagnant.\n到目前为止，中国在世界大豆生产中的位次是怎样的？\nA. 第三\nB. 第一\nC. 第二\nD. 第四",
+        "answer": "D",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "China is the original country of soybeans, and the soybeans planted in various countries have been directly or indirectly introduced from China. Before the 1950s, China's soybean production and export volume ranked first in the world, but it has now dropped to fourth place. The soybean planting area in China reached 12.75 million hectares in 1957, decreased to over 8 million hectares between 1995 and 1998, and further dropped to 7.96 million hectares in 1999. In recent years, China's soybean industry has remained stagnant.\n1957年，中国种植大豆的面积有多少公顷？\nA. 15百万公顷\nB. 8百万公顷\nC. 12.75百万公顷\nD. 10百万公顷",
+        "answer": "C",
+        "split": {
+            "level1": "中国品种选育过程查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "From the diurnal variation of the photosynthetic rate of different soybean varieties under cloudy conditions , it can be seen that, influenced by the cloudy weather, the high-yield variety Changnong 39 exhibits a brief midday photosynthetic rest phenomenon. The maximum photosynthetic rate of the population occurs between 10:00 and 11:00. For the conventional varieties Jiyu 441 and Changnong 35, the midday photosynthetic rest phenomenon is not obvious, showing a single peak curve. Among them, the maximum photosynthetic rate of the Jiyu 441 population occurs earlier than that of Changnong 39.\n长农39的光合作用速率最高通常出现在哪个时间段？\nA. 10:00-11:00  \nB. 14:00-15:00  \nC. 8:00-9:00  \nD. 12:00-13:00  ",
+        "answer": "A",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "From the diurnal variation of the photosynthetic rate of different soybean varieties under cloudy conditions , it can be seen that, influenced by the cloudy weather, the high-yield variety Changnong 39 exhibits a brief midday photosynthetic rest phenomenon. The maximum photosynthetic rate of the population occurs between 10:00 and 11:00. For the conventional varieties Jiyu 441 and Changnong 35, the midday photosynthetic rest phenomenon is not obvious, showing a single peak curve. Among them, the maximum photosynthetic rate of the Jiyu 441 population occurs earlier than that of Changnong 39.\n与长农39相比，稷玉441的最大光合作用速率出现时间是怎样的？\nA. 更早  \nB. 不确定  \nC. 更晚  \nD. 同时发生  ",
+        "answer": "A",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
     }
 ]

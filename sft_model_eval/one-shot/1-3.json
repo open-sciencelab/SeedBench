@@ -2014,5 +2014,455 @@
             "level1": "中国品种适宜种植区域推荐"
         },
         "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在植物中，IAA的生物合成途径是________依赖的。  ",
+        "answer": "色氨酸（tryptophan）",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "YUCCA黄素单加氧酶将IPA转化为________。  ",
+        "answer": "吲哚乙酸（indole acetic acid，IAA）",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "植物在受到胁迫时，________在植物体内增加。  ",
+        "answer": "活性氧物种（ROS）",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在胁迫条件下，植物的________酶活性会发生变化。  ",
+        "answer": "抗氧化",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在LISCL亚家族中，________、GmGRAS82和GmGRAS83显示出相对较高的表达水平。",
+        "answer": "GmGRAS67",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在SHR亚家族中，________显示出相对较高的表达水平。",
+        "answer": "GmGRAS97",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在SCL3亚家族中，GmGRAS15和________显示出相对较高的表达水平。",
+        "answer": "GmGRAS65",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "GmGRAS基因在________和根中表现出较高的表达水平。",
+        "answer": "根瘤",
+        "split": {
+            "level1": "基因表达模式",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在HY15环境中，与JP14相比，大豆种子的正常幼苗率（NSR）平均值________。",
+        "answer": "较低",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在HY15环境中，与JP14相比，大豆种子的电导率（EC）平均值________。",
+        "answer": "较高",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在多个环境和不同的GWAS模型中稳定检测到的SNP被称为________。",
+        "answer": "稳定的多性状关联（MTAs）",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "SNP AX-93793,210 是使用四种不同的GWAS模型识别的，这些模型包括________。",
+        "answer": "BLINK, FarmCPU, GLM, 和 MLMM",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在大豆的V阶段观察到活跃的________相关能量代谢。",
+        "answer": "碳",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在R5阶段之前，观察到碳和________代谢之间的显著协调。",
+        "answer": "氮",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在R6-R8阶段，某些________积累，表明能量向种子的重新分配。",
+        "answer": "氨基酸",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "M5中的基因功能富集包括________生物合成过程。",
+        "answer": "叶绿素",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "M5中的基因具有________1,6-二磷酸酯酶活性。",
+        "answer": "果糖",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在大豆中，________和________被鉴定为从种皮向胚胎运输糖的重要转运蛋白，影响多个种子性状。  ",
+        "answer": "GmSWEET10a，GmSWEET39",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "GmMIP基因家族中包含________个GmPIPs。",
+        "answer": "22",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "GmTIPs的定位包括细胞质、质膜、内质网、液泡、线粒体和________。",
+        "answer": "叶绿体",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "GmNIP2;2定位于________结构。",
+        "answer": "细胞外",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Ka/Ks比率大于1的伪基因是PseudoPIP#3和________。",
+        "answer": "PseudoSIP#1",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "GmPIP1;3在________、茎、叶和豆荚中强烈表达。",
+        "answer": "根",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "GmTIP2;6在茎、叶、花和________中强烈表达。",
+        "answer": "豆荚",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "GmPIP2;11在所有植物部位的表达量是________。",
+        "answer": "边缘较低的表达量",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在PEG胁迫下，大豆根中GmMIP基因的表达水平研究中，使用了________作为内参基因。",
+        "answer": "GmPEPC",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在20% PEG处理下，GmPIP1;4和GmPIP1;7的相对表达量在0至4小时逐渐增加，并在________小时时快速增加。",
+        "answer": "12",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "GmPIP2;3的相对表达量在12小时时达到峰值，但在此之前最初是________的。",
+        "answer": "下降",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在PEG胁迫下，GmPIP1;8在2小时和4小时的相对表达量显著________。",
+        "answer": "下降",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "一个双等位基因突变系表现出________的表型。  ",
+        "answer": "雄性不育",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Cas9-Glyma.13G114200突变系的雄性不育表型与________突变体相似。  ",
+        "answer": "ms1",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "研究结果表明，Glyma.13G114200被鉴定为________，它在大豆的雄性生育中是必需的。  ",
+        "answer": "GmMs1",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "GmMs1-GFP 构建体的表达由________启动子控制。",
+        "answer": "35S",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "GmMs1-GFP 构建体被暂时表达在________的叶片中。",
+        "answer": "*Nicotiana benthamiana*",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "研究发现 GmMs1 定位于________和/或________。",
+        "answer": "细胞质，质膜",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Shengdou 118 的播种方法需要使用________技术并进行秸秆覆盖。  ",
+        "answer": "免耕精量播种",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Shengdou 118 的播种深度应为________厘米。  ",
+        "answer": "5-Mar",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "用于大豆种子的化学包衣剂中，35% Doconazole 的使用比例是________。",
+        "answer": "1:80~100",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "种子处理方法的目的是有效杀死大豆种子表面的________。",
+        "answer": "病原体",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "化学种衣剂的使用可以预防大豆在________阶段的病虫害。",
+        "answer": "幼苗",
+        "split": {
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Changnong 39 在 R6 阶段的净光合速率比 Jiyu 441 高了________%。  ",
+        "answer": "11.28",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Changnong 39 在 R6 阶段的净光合速率比 Changnong 35 高了________%。  ",
+        "answer": "20.78",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在 R7 阶段，Changnong 39 的净光合速率下降了________%。  ",
+        "answer": "55.74",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在 R7 阶段，Jiyu 441 的净光合速率下降了________%。  ",
+        "answer": "58.15",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "在 R7 阶段，Changnong 35 的净光合速率下降了________%。  ",
+        "answer": "61.82",
+        "split": {
+            "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_blank_fill"
     }
 ]
