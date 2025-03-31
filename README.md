@@ -16,8 +16,6 @@ SeedBench assesses LLMs across three core seed breeding stages:
 
 Built with domain experts, SeedBench features **2,264 expert-validated questions** across 11 task types and 10 subcategories, initially targeting rice breeding. Future updates will include other crops like maize, soybean, and wheat.
 
----
-
 ## 🔎 Dataset Details
 
 - **Corpus**: 308,727 publications cleaned to 1.1 billion tokens; 279 segments from 113 documents.
@@ -94,8 +92,6 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
   - `zero-shot/`: Organized by 11 task types (see Tab 1).
 - `corpus/`: 279 high-quality text segments and low-quality questions discarded after expert validation.
 - `README.md`: This file.
-
----
 
 ## 📬 Contact
 
