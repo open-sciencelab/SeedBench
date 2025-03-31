@@ -3,6 +3,8 @@
 Welcome to the official GitHub repository for **SeedBench**, the first multi-task benchmark designed to evaluate large language models (LLMs) in seed science, focusing on seed breeding. This repository includes the dataset, evaluation code, and documentation to support research in this domain.
 
 SeedBench is a benchmark suite for the seed/agriculture industry's LLM (Large Language Model) evaluation. It is designed to test the model's performance at two stages: pretraining and SFT (Supervised Fine-Tuning).
+
+
 ---
 
 ## Overview
