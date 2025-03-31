@@ -53,23 +53,23 @@ Built with domain experts, SeedBench features **2,264 expert-validated questions
 *Figure 2: Benchmark Taxonomy Distribution*
 
 ### Task Types and Metrics
-
+          
 | Type ID | Question Type              | Metric   | Count |
 |---------|----------------------------|----------|-------|
 | **Q&A** |                            |          |       |
-| QA-1    | Multiple Choice            | Accuracy | 199   |
-| QA-2    | Multiple Answer            | Macro-F1 | 186   |
-| QA-3    | Fill-in-the-Blank          | ROUGE-L  | 223   |
-| QA-4    | Generation                 | ROUGE-L  | 241   |
+| QA-1    | Multiple Choice            | Accuracy | 200   |
+| QA-2    | Multiple Answer            | Macro-F1 | 187   |
+| QA-3    | Fill-in-the-Blank          | ROUGE-L  | 224   |
+| QA-4    | Generation                 | ROUGE-L  | 242   |
 | **Summarization** |                  |          |       |
-| SUM-1   | Simple Summarization       | ROUGE-L  | 224   |
-| SUM-2   | Key Information Extraction | ROUGE-L  | 224   |
+| SUM-1   | Simple Summarization       | ROUGE-L  | 225   |
+| SUM-2   | Key Information Extraction | ROUGE-L  | 225   |
 | **Reading Comprehension** |          |          |       |
-| RC-1    | Multiple Choice            | Accuracy | 112   |
-| RC-2    | Multiple Answer            | Macro-F1 | 107   |
-| RC-3    | Fill-in-the-Blank          | ROUGE-L  | 220   |
-| RC-4    | Generation                 | ROUGE-L  | 239   |
-| RC-5    | Subcategory Classification | Accuracy | 278   |
+| RC-1    | Multiple Choice            | Accuracy | 113   |
+| RC-2    | Multiple Answer            | Macro-F1 | 108   |
+| RC-3    | Fill-in-the-Blank          | ROUGE-L  | 221   |
+| RC-4    | Generation                 | ROUGE-L  | 240   |
+| RC-5    | Subcategory Classification | Accuracy | 279   |
 
 *Table 1: Benchmark Task Types*
 
@@ -87,9 +87,8 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 | DeepSeek-V3-671B | 56.03| 62.42| 74.81| 63.17| 55.23| 58.84| 68.23| 69.04| 66.46| 68.48| 63.30|
 | Qwen2-72B        | 51.16| 58.10| 74.07| 59.72| 51.58| 57.76| 58.85| 61.63| 56.69| 59.11| 57.62|
 
-*Table 2 (Excerpt): Evaluation of 26 LLMs on SeedBench Subcategories*  
+*Table 2: Evaluation by Breeding Subcategories*  
 - **Top Performers**: DeepSeek-V3-671B (63.30), GPT-4 (62.06).
-- **Insight**: Larger models excel in complex tasks (C3, C10).
 
 ### Performance by Question Type (Zero-Shot)
 
@@ -99,10 +98,9 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 | DeepSeek-V3     | 72.50| 79.84| 29.29| 40.63| 48.06 | 54.67 | 100.00| 97.22| 87.89| 55.19| 86.74| 68.37|
 | Qwen2-72B       | 59.50| 75.98| 19.55| 31.62| 31.08 | 63.09 | 99.12 | 94.24| 72.20| 51.58| 89.96| 62.54|
 
-*Table 3 (Excerpt): Zero-Shot Evaluation by Question Type*  
+*Table 3: Evaluation by Task Types*  
 - **Top Performers**: DeepSeek-V3 (68.37), GPT-4 (67.88).
-- **Insight**: High accuracy in multiple-choice tasks; generation tasks are challenging.
-
+- 
 ![Proprietary LLM Radar](images/redar1.png)  
 *Figure 3: Proprietary LLM Performance by Task Type*
 
@@ -118,10 +116,5 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 Open an issue on this repository for questions or contributions.
 
 *Last Updated: March 30, 2025*  
-*License: CC-BY 4.0, Apache 2.0, MIT*
-
----
-
-
-# [GPL License](./LICENSE)
+*License: Dataset under CC-BY 4.0; Code under Apache 2.0 (see [LICENSE](./LICENSE))*
 
