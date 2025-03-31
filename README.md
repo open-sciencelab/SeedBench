@@ -19,16 +19,16 @@ Built with domain experts, SeedBench features **2,264 expert-validated questions
 
 ## Repository Contents
 
-- `dataset/`: Full dataset.
-  - `segments/`: 279 expert-curated text segments.
-  - `questions/`: 2,264 questions across 10 subcategories.
-  - `discarded_samples/`: Excluded samples for transparency.
-- `code/`: Evaluation scripts.
-  - `evaluate.py`: Main evaluation script.
-  - `requirements.txt`: Dependencies.
-- `docs/`: Prompt templates and appendices.
-- `README.md`: This guide.
+- `base_model_eval/`: Used to test base models without dialogue capabilities, i.e., evaluating performance after pretraining.
+- `sft_model_eval/`: Used to test SFT (Supervised Fine-Tuning) models, with a total of 2,264 questions covering 10 subcategories (see Fig 2).
+  - `one-shot/`: Organized by 11 task types (see Tab 1).
+  - `zero-shot/`: Organized by 11 task types (see Tab 1).
+- `corpus/`: 279 high-quality text segments and low-quality questions discarded after expert validation.
+- `README.md`: This file.
 
+--- 
+
+Let me know if you need further adjustments or additional sections!
 ---
 
 ## Dataset Details
