@@ -58,7 +58,7 @@ Built with domain experts, SeedBench features **2,264 expert-validated questions
 
 We evaluated 26 LLMs, including proprietary, open-source, and domain-specific models. Highlights:
 
-### Performance by Question Type (Zero-Shot)
+### Performance by Question Type
 
 - **Top Performers**: DeepSeek-V3 (68.37), GPT-4 (67.88).
 
