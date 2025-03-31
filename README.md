@@ -61,11 +61,9 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 ### Performance by Question Type (Zero-Shot)
 
 - **Top Performers**: DeepSeek-V3 (68.37), GPT-4 (67.88).
-- *Proprietary LLM Performance by Task Type*
 
   ![Proprietary LLM Radar](images/redar1.png)  
 
-- *Open-Source LLM Performance by Task Type*
   ![Open-Source LLM Radar](images/redar2.png)  
 
 
