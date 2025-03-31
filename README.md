@@ -9,6 +9,9 @@ SeedBench assesses LLMs across three core seed breeding stages:
 - **Gene Information Retrieval**
 - **Gene Function and Regulation Analysis**
 - **Variety Breeding with Agronomic Trait Optimization**
+- 
+![Breeding Workflow](images/overview_2_s.png)  
+*Figure 1: Breeding Expert Workflow Framework*
 
 Built with domain experts, SeedBench features **2,264 expert-validated questions** across 11 task types and 10 subcategories, initially targeting rice breeding. Future updates will include other crops like maize, soybean, and wheat.
 
