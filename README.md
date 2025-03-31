@@ -64,11 +64,12 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 - *Proprietary LLM Performance by Task Type*
 
   ![Proprietary LLM Radar](images/redar1.png)  
-  
+
+- *Open-Source LLM Performance by Task Type*
   ![Open-Source LLM Radar](images/redar2.png)  
 
 
-*Evaluation by Task Types:*
+### Performance by Task Types
 
 | Model            | QA-1 | QA-2 | QA-3 | QA-4 | SUM-1 | SUM-2 | RC-1 | RC-2 | RC-3 | RC-4 | RC-5 | Avg  |
 |------------------|------|------|------|------|-------|-------|------|------|------|------|------|------|
