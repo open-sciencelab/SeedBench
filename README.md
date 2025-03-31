@@ -52,7 +52,7 @@ Built with domain experts, SeedBench features **2,264 expert-validated questions
 |                              | Variety Cultivation Key Points Query (C9)  | 279       |
 |                              | Variety Suitable Planting Area Rec. (C10)  | 500       |
 
-![Taxonomy Distribution](images/distribution2_s.png)  
+![Taxonomy Distribution](images/distribution.png)  
 *Figure 2: Benchmark Taxonomy Distribution*
 
 ### Task Types and Metrics
