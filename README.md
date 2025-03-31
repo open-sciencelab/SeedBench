@@ -1,3 +1,5 @@
+<img src="images/logo.png" style="zoom: 67%;" />
+
 # SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science
 
 **SeedBench** is the first multi-task benchmark designed to evaluate large language models (LLMs) in seed science, focusing on seed breeding. This repository includes the dataset, evaluation code, and documentation to support research in this domain.
@@ -26,7 +28,7 @@ Built with domain experts, SeedBench features **2,264 expert-validated questions
 
 
   <div align="center">
-  
+
   | Type ID | Question Type              | Metric   | Count |
   |---------|----------------------------|----------|-------|
   | **Q&A** |                            |          |       |
@@ -43,11 +45,11 @@ Built with domain experts, SeedBench features **2,264 expert-validated questions
   | RC-3    | Fill-in-the-Blank          | ROUGE-L  | 221   |
   | RC-4    | Generation                 | ROUGE-L  | 240   |
   | RC-5    | Subcategory Classification | Accuracy | 279   |
-  
+
   </div>
 
   **Taxonomy Distribution:**
-  
+
   <div align="center">
     <img src="images/distribution.png" width="50%" alt="Taxonomy Distribution">  
   </div>
@@ -81,7 +83,7 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 | GPT-4            | 59.59| 60.55| 76.32| 61.16| 56.34| 59.35| 63.67| 64.74| 60.65| 67.66| 62.06|
 | DeepSeek-V3-671B | 56.03| 62.42| 74.81| 63.17| 55.23| 58.84| 68.23| 69.04| 66.46| 68.48| 63.30|
 | Qwen2-72B        | 51.16| 58.10| 74.07| 59.72| 51.58| 57.76| 58.85| 61.63| 56.69| 59.11| 57.62|
- 
+
 - **Top Performers**: DeepSeek-V3-671B (63.30), GPT-4 (62.06).
 
 ## 🐝 Repository Contents
