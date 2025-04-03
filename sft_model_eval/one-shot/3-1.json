@@ -4,7 +4,8 @@
         "question": "Field tests of these plant lines inBeijing in 2018 revealed that OsDREB1C overexpression led to increases in grain yield per plant of 45.1 to 67.6% and in yield per plot of 41.3 to 68.3% compared with wild-type (WT) plants (Fig. 1C). Conversely, OsDREB1C KO resulted in yield decreases (from 16.1 to 29.1% in yield per plant and 13.8 to 27.8% in yield per plot) compared with the WT (Fig. 1, D and E, and table S1). A detailed phenotypic analysis showed that the higher yield of the OsDREB1C-OE lines was mainly attributable to an enhanced grain number per panicle and an increased 1000-grain weight (Fig. 1F and fig. S3C), traits apparently resulting from increased secondary branch number and grain length, width, thickness, and density (fig. S3, A and B and D to K, respectively). The OsDREB1C-OE plants exhibited higher grain yield but reduced strawweight compared withWT plants (Fig. 1G), thus leading to an increased harvest index (the ratio of grain yield to aboveground biomass; Fig. 1H) and raising the possibility that OsDREB1C controls resource allocation between vegetative and reproductive tissues. The harvest index of OsDREB1C-OE plants was increased by 40.3 to 55.7%, whereas it was decreased by 22.4 to 33.7% in OsDREB1C-KO plants (table S1). In addition, key grain quality traits were enhanced in OsDREB1C-OE plants, suggesting that yield improvement does not entail a quality penalty (table S2).Leaves of\nOsDREB1C-OE plants contained higher levels\nof photosynthetic pigments (chlorophylls and\ncarotenoids) compared with WT plants, where-\nas pigment levels were reduced in OsDREB1C-\nKO plants (fig. S7A). Analysis ofleafmesophyll\ncells revealed that both chloroplast number\nand sizewere increased in OsDREB1C-OE plants\n(fig.S7, Band C).. Analysis of carbon and nitrogen distribution showed that the OsDREB1C-OE plants accumulated more carbon and nitrogen in the grains, but less in their mature leaves, without substantial alterations in the carbon-to-nitrogen ratio (Fig. 3H and fig. S11).\nWhat was the impact on grain yield per plant as a result of overexpressing OsDREB1C in the 2018 Beijing field test on plant lines?\nA. Decrease by 45.1 to 67.6%\nB. Increase by 45.1 to 67.6%\nC. No significant change\nD. Decrease by 16.1 to 29.1%",
         "answer": "B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -13,7 +14,8 @@
         "question": "Field tests of these plant lines inBeijing in 2018 revealed that OsDREB1C overexpression led to increases in grain yield per plant of 45.1 to 67.6% and in yield per plot of 41.3 to 68.3% compared with wild-type (WT) plants (Fig. 1C). Conversely, OsDREB1C KO resulted in yield decreases (from 16.1 to 29.1% in yield per plant and 13.8 to 27.8% in yield per plot) compared with the WT (Fig. 1, D and E, and table S1). A detailed phenotypic analysis showed that the higher yield of the OsDREB1C-OE lines was mainly attributable to an enhanced grain number per panicle and an increased 1000-grain weight (Fig. 1F and fig. S3C), traits apparently resulting from increased secondary branch number and grain length, width, thickness, and density (fig. S3, A and B and D to K, respectively). The OsDREB1C-OE plants exhibited higher grain yield but reduced strawweight compared withWT plants (Fig. 1G), thus leading to an increased harvest index (the ratio of grain yield to aboveground biomass; Fig. 1H) and raising the possibility that OsDREB1C controls resource allocation between vegetative and reproductive tissues. The harvest index of OsDREB1C-OE plants was increased by 40.3 to 55.7%, whereas it was decreased by 22.4 to 33.7% in OsDREB1C-KO plants (table S1). In addition, key grain quality traits were enhanced in OsDREB1C-OE plants, suggesting that yield improvement does not entail a quality penalty (table S2).Leaves of\nOsDREB1C-OE plants contained higher levels\nof photosynthetic pigments (chlorophylls and\ncarotenoids) compared with WT plants, where-\nas pigment levels were reduced in OsDREB1C-\nKO plants (fig. S7A). Analysis ofleafmesophyll\ncells revealed that both chloroplast number\nand sizewere increased in OsDREB1C-OE plants\n(fig.S7, Band C).. Analysis of carbon and nitrogen distribution showed that the OsDREB1C-OE plants accumulated more carbon and nitrogen in the grains, but less in their mature leaves, without substantial alterations in the carbon-to-nitrogen ratio (Fig. 3H and fig. S11).\nWhat was the impact of overexpressing OsDREB1C on the plant's harvest index?\nA. Increased by 40.3 to 55.7%\nB. Decreased by 40.3 to 55.7%\nC. No significant change\nD. Decreased by 22.4 to 33.7%",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -22,7 +24,8 @@
         "question": "Fertilization Independent Endosperm (FIE) is an essential member of Polycomb Repressive Complex 2 (PRC2) that plays important roles in the developmental regulation of plants. OsFIE1 and OsFIE2 are two FIE homologs in the rice genome. Here, we showed that OsFIE1 probably duplicated from OsFIE2 after the origin of the tribe Oryzeae, but has a specific expression pattern and methylation landscape. During evolution, OsFIE1 underwent a less intensive purifying selection than did OsFIE2.\nFertilization Independent Endosperm (FIE) 在哪个复合体中发挥了关键作用？\nA. Polycomb Repressive Complex 1 (PRC1)\nB. Polycomb Repressive Complex 3 (PRC3)\nC. Polycomb Repressive Complex 2 (PRC2)\nD. Polycomb Repressive Complex 4 (PRC4)",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -31,7 +34,8 @@
         "question": "Fertilization Independent Endosperm (FIE) is an essential member of Polycomb Repressive Complex 2 (PRC2) that plays important roles in the developmental regulation of plants. OsFIE1 and OsFIE2 are two FIE homologs in the rice genome. Here, we showed that OsFIE1 probably duplicated from OsFIE2 after the origin of the tribe Oryzeae, but has a specific expression pattern and methylation landscape. During evolution, OsFIE1 underwent a less intensive purifying selection than did OsFIE2.\nWhat is the number of FIE homologs in the rice genome?\nA. Four\nB. One\nC. Three\nD. Two",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -40,7 +44,8 @@
         "question": "Fertilization Independent Endosperm (FIE) is an essential member of Polycomb Repressive Complex 2 (PRC2) that plays important roles in the developmental regulation of plants. OsFIE1 and OsFIE2 are two FIE homologs in the rice genome. Here, we showed that OsFIE1 probably duplicated from OsFIE2 after the origin of the tribe Oryzeae, but has a specific expression pattern and methylation landscape. During evolution, OsFIE1 underwent a less intensive purifying selection than did OsFIE2.\nIn the rice genome, which FIE homolog exhibits a distinct expression pattern and methylation landscape?\nA. OsFIE2\nB. OsFIE1\nC. Neither OsFIE1 nor OsFIE2\nD. Both OsFIE1 and OsFIE2",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -49,7 +54,8 @@
         "question": "Fertilization Independent Endosperm (FIE) is an essential member of Polycomb Repressive Complex 2 (PRC2) that plays important roles in the developmental regulation of plants. OsFIE1 and OsFIE2 are two FIE homologs in the rice genome. Here, we showed that OsFIE1 probably duplicated from OsFIE2 after the origin of the tribe Oryzeae, but has a specific expression pattern and methylation landscape. During evolution, OsFIE1 underwent a less intensive purifying selection than did OsFIE2.\nWhich FIE homolog in the rice genome is likely the origin of OsFIE1 duplication?\nA. OsFIE2\nB. Both OsFIE1 and OsFIE2\nC. OsFIE1 itself\nD. Neither OsFIE1 nor OsFIE2",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -58,7 +64,8 @@
         "question": "To further analyze the expression pattern of OsRELA, we performed real-time quantitative PCR (RT–qPCR) to measure the OsRELA expression level, and the results showed that OsRELAwas expressed in various tissues ofrice (Figure 3C). GUS staining experiments performed on pOsRELA:GUS transgenic plants revealed strong GUS staining in the lamina joint, young florets, stem, vascular bundles, leaf sheath and root (Figure 3D). All these tissues were associated with the phenotypes of the rela mutant.\nHow was the expression pattern of OsRELA examined?\nA. Real-time quantitative PCR (RT–qPCR) and GUS staining experiments\nB. Microscopy\nC. DNA sequencing\nD. Gel electrophoresis",
         "answer": "A",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -67,7 +74,8 @@
         "question": "To further analyze the expression pattern of OsRELA, we performed real-time quantitative PCR (RT–qPCR) to measure the OsRELA expression level, and the results showed that OsRELAwas expressed in various tissues ofrice (Figure 3C). GUS staining experiments performed on pOsRELA:GUS transgenic plants revealed strong GUS staining in the lamina joint, young florets, stem, vascular bundles, leaf sheath and root (Figure 3D). All these tissues were associated with the phenotypes of the rela mutant.\nWhere was OsRELA found to be expressed?\nA. In various tissues of rice\nB. Only in the stem\nC. Only in the leaf sheath\nD. Only in the root",
         "answer": "A",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -76,7 +84,8 @@
         "question": "To further analyze the expression pattern of OsRELA, we performed real-time quantitative PCR (RT–qPCR) to measure the OsRELA expression level, and the results showed that OsRELAwas expressed in various tissues ofrice (Figure 3C). GUS staining experiments performed on pOsRELA:GUS transgenic plants revealed strong GUS staining in the lamina joint, young florets, stem, vascular bundles, leaf sheath and root (Figure 3D). All these tissues were associated with the phenotypes of the rela mutant.\nIn which areas was intense GUS staining detected?\nA. In the lamina joint, young florets, stem, vascular bundles, leaf sheath and root\nB. Only in the vascular bundles\nC. Only in the young florets\nD. Only in the lamina joint",
         "answer": "A",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -85,7 +94,8 @@
         "question": "To further analyze the expression pattern of OsRELA, we performed real-time quantitative PCR (RT–qPCR) to measure the OsRELA expression level, and the results showed that OsRELAwas expressed in various tissues ofrice (Figure 3C). GUS staining experiments performed on pOsRELA:GUS transgenic plants revealed strong GUS staining in the lamina joint, young florets, stem, vascular bundles, leaf sheath and root (Figure 3D). All these tissues were associated with the phenotypes of the rela mutant.\nWith which growth stage was the expression of OsRELA associated?\nA. The phenotypes of the rela mutant\nB. The photosynthesis process\nC. The growth of the rice plant\nD. The reproductive process of the rice plant",
         "answer": "C",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -94,7 +104,8 @@
         "question": "hirteen OsDT11-overexpressing lines were obtained, and three of them (pU1301::OsDT11-1,3, and 4) were selected for determination of the transcript level. When the plants were 15 days old, both the overexpressing and wild-type lines were deprived of water for 17 days. After the treatment, most of the wild-type plants withered, while the overexpressing lines exhibited less wilting compared with the control plants (Fig. 4a, panel D17). Water was then supplied for 7 days, resulting in the recovery of all of the transgenic lines but not the wild-type plants (Fig. 4a, panel RW). OsDT11 expression in the transgenic plants was significantly correlated with water loss (r = −0.855, Fig. 4b, c). To further confirm the function of OsDT11 in drought tolerance, the knockdown transgenic lines were also examined under drought stress conditions. The transgenic plants were found to be more sensitive to drought stress than the wildtype plants (Fig. 4a, panel D17). After rewatering for 7 days, neither the transgenic nor the wild-type lines recovered (Fig. 4a, panel RW). The water loss of the wild-type plants was approximately 10 % lower than that of the suppressed plants. Additionally, the results of the correlation analysis suggested that the OsDT11 expression level in the knockdown lines was associated with water loss (r = −0.767, Fig. 4b, c). These results indicate that the overexpression of OsDT11 improves the tolerance to drought stress in rice. To further evaluate the physiological mechanism by which OsDT11 enables the plant to retain water, the stomata and wax on the leaf surface of wild-type and transgenic plants were visualized by ESEM. It was found that the stomatal size was smaller on the leaf surface of wildtype plants under drought stress conditions, compared with the wild-type plants under normal condition (Fig. 5a, b). However, there was no obvious difference between the overexpressing lines and wild-type plants under normal conditions, and the overexpression lines after drought treatment (Fig. 5c, d). Similar results were observed for the calculated stomatal density. Only the drought-stressed wild-type plants presented as higher stomatal density on the leaves than the others three samples (Fig. 5e). Furthermore, there was no obvious difference between the wax distribution of the wild-type and transgenic lines under normal conditions, and a reduction in wax content was only observed for wild-type lines after drought treatment (Fig. S3). These results indicate that OsDT11 overexpression may improve water retention by modulating stomatal density.To test whether ABA biosynthesis was affected in the transgenic plants, the endogenous ABA levels in the overexpressing and wild-type lines were measured under normal conditions and were found to be 16.25 ng g−1FW on average in the wild-type seedlings, while they were increased to 61.56, 35.91, and 24.96 ng g−1FW in the three different pU1301::OsDT11 lines, respectively (Fig. 8). These findings suggested that the ABA concentration was highly increased in the overexpressing seedlings, demonstrating that ABA biosynthesis was affected in the OsDT11 transgenic plants.\nIn the study where OsDT11 was overexpressed in rice to enhance drought resistance, how many lines overexpressing OsDT11 were generated for the research?\nA. 3\nB. 10\nC. 7\nD. 13",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -103,7 +114,8 @@
         "question": "hirteen OsDT11-overexpressing lines were obtained, and three of them (pU1301::OsDT11-1,3, and 4) were selected for determination of the transcript level. When the plants were 15 days old, both the overexpressing and wild-type lines were deprived of water for 17 days. After the treatment, most of the wild-type plants withered, while the overexpressing lines exhibited less wilting compared with the control plants (Fig. 4a, panel D17). Water was then supplied for 7 days, resulting in the recovery of all of the transgenic lines but not the wild-type plants (Fig. 4a, panel RW). OsDT11 expression in the transgenic plants was significantly correlated with water loss (r = −0.855, Fig. 4b, c). To further confirm the function of OsDT11 in drought tolerance, the knockdown transgenic lines were also examined under drought stress conditions. The transgenic plants were found to be more sensitive to drought stress than the wildtype plants (Fig. 4a, panel D17). After rewatering for 7 days, neither the transgenic nor the wild-type lines recovered (Fig. 4a, panel RW). The water loss of the wild-type plants was approximately 10 % lower than that of the suppressed plants. Additionally, the results of the correlation analysis suggested that the OsDT11 expression level in the knockdown lines was associated with water loss (r = −0.767, Fig. 4b, c). These results indicate that the overexpression of OsDT11 improves the tolerance to drought stress in rice. To further evaluate the physiological mechanism by which OsDT11 enables the plant to retain water, the stomata and wax on the leaf surface of wild-type and transgenic plants were visualized by ESEM. It was found that the stomatal size was smaller on the leaf surface of wildtype plants under drought stress conditions, compared with the wild-type plants under normal condition (Fig. 5a, b). However, there was no obvious difference between the overexpressing lines and wild-type plants under normal conditions, and the overexpression lines after drought treatment (Fig. 5c, d). Similar results were observed for the calculated stomatal density. Only the drought-stressed wild-type plants presented as higher stomatal density on the leaves than the others three samples (Fig. 5e). Furthermore, there was no obvious difference between the wax distribution of the wild-type and transgenic lines under normal conditions, and a reduction in wax content was only observed for wild-type lines after drought treatment (Fig. S3). These results indicate that OsDT11 overexpression may improve water retention by modulating stomatal density.To test whether ABA biosynthesis was affected in the transgenic plants, the endogenous ABA levels in the overexpressing and wild-type lines were measured under normal conditions and were found to be 16.25 ng g−1FW on average in the wild-type seedlings, while they were increased to 61.56, 35.91, and 24.96 ng g−1FW in the three different pU1301::OsDT11 lines, respectively (Fig. 8). These findings suggested that the ABA concentration was highly increased in the overexpressing seedlings, demonstrating that ABA biosynthesis was affected in the OsDT11 transgenic plants.\nIn the study of enhancing drought resistance in rice through OsDT11 overexpression, what was the response of the OsDT11-overexpressing lines when water was withheld for 17 days compared to the wild-type plants?\nA. They exhibited more wilting\nB. They died\nC. They exhibited the same amount of wilting\nD. They exhibited less wilting",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -112,7 +124,8 @@
         "question": "hirteen OsDT11-overexpressing lines were obtained, and three of them (pU1301::OsDT11-1,3, and 4) were selected for determination of the transcript level. When the plants were 15 days old, both the overexpressing and wild-type lines were deprived of water for 17 days. After the treatment, most of the wild-type plants withered, while the overexpressing lines exhibited less wilting compared with the control plants (Fig. 4a, panel D17). Water was then supplied for 7 days, resulting in the recovery of all of the transgenic lines but not the wild-type plants (Fig. 4a, panel RW). OsDT11 expression in the transgenic plants was significantly correlated with water loss (r = −0.855, Fig. 4b, c). To further confirm the function of OsDT11 in drought tolerance, the knockdown transgenic lines were also examined under drought stress conditions. The transgenic plants were found to be more sensitive to drought stress than the wildtype plants (Fig. 4a, panel D17). After rewatering for 7 days, neither the transgenic nor the wild-type lines recovered (Fig. 4a, panel RW). The water loss of the wild-type plants was approximately 10 % lower than that of the suppressed plants. Additionally, the results of the correlation analysis suggested that the OsDT11 expression level in the knockdown lines was associated with water loss (r = −0.767, Fig. 4b, c). These results indicate that the overexpression of OsDT11 improves the tolerance to drought stress in rice. To further evaluate the physiological mechanism by which OsDT11 enables the plant to retain water, the stomata and wax on the leaf surface of wild-type and transgenic plants were visualized by ESEM. It was found that the stomatal size was smaller on the leaf surface of wildtype plants under drought stress conditions, compared with the wild-type plants under normal condition (Fig. 5a, b). However, there was no obvious difference between the overexpressing lines and wild-type plants under normal conditions, and the overexpression lines after drought treatment (Fig. 5c, d). Similar results were observed for the calculated stomatal density. Only the drought-stressed wild-type plants presented as higher stomatal density on the leaves than the others three samples (Fig. 5e). Furthermore, there was no obvious difference between the wax distribution of the wild-type and transgenic lines under normal conditions, and a reduction in wax content was only observed for wild-type lines after drought treatment (Fig. S3). These results indicate that OsDT11 overexpression may improve water retention by modulating stomatal density.To test whether ABA biosynthesis was affected in the transgenic plants, the endogenous ABA levels in the overexpressing and wild-type lines were measured under normal conditions and were found to be 16.25 ng g−1FW on average in the wild-type seedlings, while they were increased to 61.56, 35.91, and 24.96 ng g−1FW in the three different pU1301::OsDT11 lines, respectively (Fig. 8). These findings suggested that the ABA concentration was highly increased in the overexpressing seedlings, demonstrating that ABA biosynthesis was affected in the OsDT11 transgenic plants.\nIn the study of enhancing drought resistance in rice through the overexpression of OsDT11, what was the relationship between the expression of OsDT11 in the genetically modified plants and water loss?\nA. r = 0.767\nB. r = -0.855\nC. r = 0.855\nD. r = -0.767",
         "answer": "B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -121,7 +134,8 @@
         "question": "hirteen OsDT11-overexpressing lines were obtained, and three of them (pU1301::OsDT11-1,3, and 4) were selected for determination of the transcript level. When the plants were 15 days old, both the overexpressing and wild-type lines were deprived of water for 17 days. After the treatment, most of the wild-type plants withered, while the overexpressing lines exhibited less wilting compared with the control plants (Fig. 4a, panel D17). Water was then supplied for 7 days, resulting in the recovery of all of the transgenic lines but not the wild-type plants (Fig. 4a, panel RW). OsDT11 expression in the transgenic plants was significantly correlated with water loss (r = −0.855, Fig. 4b, c). To further confirm the function of OsDT11 in drought tolerance, the knockdown transgenic lines were also examined under drought stress conditions. The transgenic plants were found to be more sensitive to drought stress than the wildtype plants (Fig. 4a, panel D17). After rewatering for 7 days, neither the transgenic nor the wild-type lines recovered (Fig. 4a, panel RW). The water loss of the wild-type plants was approximately 10 % lower than that of the suppressed plants. Additionally, the results of the correlation analysis suggested that the OsDT11 expression level in the knockdown lines was associated with water loss (r = −0.767, Fig. 4b, c). These results indicate that the overexpression of OsDT11 improves the tolerance to drought stress in rice. To further evaluate the physiological mechanism by which OsDT11 enables the plant to retain water, the stomata and wax on the leaf surface of wild-type and transgenic plants were visualized by ESEM. It was found that the stomatal size was smaller on the leaf surface of wildtype plants under drought stress conditions, compared with the wild-type plants under normal condition (Fig. 5a, b). However, there was no obvious difference between the overexpressing lines and wild-type plants under normal conditions, and the overexpression lines after drought treatment (Fig. 5c, d). Similar results were observed for the calculated stomatal density. Only the drought-stressed wild-type plants presented as higher stomatal density on the leaves than the others three samples (Fig. 5e). Furthermore, there was no obvious difference between the wax distribution of the wild-type and transgenic lines under normal conditions, and a reduction in wax content was only observed for wild-type lines after drought treatment (Fig. S3). These results indicate that OsDT11 overexpression may improve water retention by modulating stomatal density.To test whether ABA biosynthesis was affected in the transgenic plants, the endogenous ABA levels in the overexpressing and wild-type lines were measured under normal conditions and were found to be 16.25 ng g−1FW on average in the wild-type seedlings, while they were increased to 61.56, 35.91, and 24.96 ng g−1FW in the three different pU1301::OsDT11 lines, respectively (Fig. 8). These findings suggested that the ABA concentration was highly increased in the overexpressing seedlings, demonstrating that ABA biosynthesis was affected in the OsDT11 transgenic plants.\nIn the study where OsDT11 was overexpressed in rice to enhance drought resistance, what was the response of the knockdown transgenic lines to drought stress in comparison to the wild-type plants?\nA. They were more sensitive and did not recover after rewatering\nB. They were equally sensitive and did not recover after rewatering\nC. They were less sensitive and recovered after rewatering\nD. They were more sensitive but recovered after rewatering",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -130,7 +144,8 @@
         "question": "hirteen OsDT11-overexpressing lines were obtained, and three of them (pU1301::OsDT11-1,3, and 4) were selected for determination of the transcript level. When the plants were 15 days old, both the overexpressing and wild-type lines were deprived of water for 17 days. After the treatment, most of the wild-type plants withered, while the overexpressing lines exhibited less wilting compared with the control plants (Fig. 4a, panel D17). Water was then supplied for 7 days, resulting in the recovery of all of the transgenic lines but not the wild-type plants (Fig. 4a, panel RW). OsDT11 expression in the transgenic plants was significantly correlated with water loss (r = −0.855, Fig. 4b, c). To further confirm the function of OsDT11 in drought tolerance, the knockdown transgenic lines were also examined under drought stress conditions. The transgenic plants were found to be more sensitive to drought stress than the wildtype plants (Fig. 4a, panel D17). After rewatering for 7 days, neither the transgenic nor the wild-type lines recovered (Fig. 4a, panel RW). The water loss of the wild-type plants was approximately 10 % lower than that of the suppressed plants. Additionally, the results of the correlation analysis suggested that the OsDT11 expression level in the knockdown lines was associated with water loss (r = −0.767, Fig. 4b, c). These results indicate that the overexpression of OsDT11 improves the tolerance to drought stress in rice. To further evaluate the physiological mechanism by which OsDT11 enables the plant to retain water, the stomata and wax on the leaf surface of wild-type and transgenic plants were visualized by ESEM. It was found that the stomatal size was smaller on the leaf surface of wildtype plants under drought stress conditions, compared with the wild-type plants under normal condition (Fig. 5a, b). However, there was no obvious difference between the overexpressing lines and wild-type plants under normal conditions, and the overexpression lines after drought treatment (Fig. 5c, d). Similar results were observed for the calculated stomatal density. Only the drought-stressed wild-type plants presented as higher stomatal density on the leaves than the others three samples (Fig. 5e). Furthermore, there was no obvious difference between the wax distribution of the wild-type and transgenic lines under normal conditions, and a reduction in wax content was only observed for wild-type lines after drought treatment (Fig. S3). These results indicate that OsDT11 overexpression may improve water retention by modulating stomatal density.To test whether ABA biosynthesis was affected in the transgenic plants, the endogenous ABA levels in the overexpressing and wild-type lines were measured under normal conditions and were found to be 16.25 ng g−1FW on average in the wild-type seedlings, while they were increased to 61.56, 35.91, and 24.96 ng g−1FW in the three different pU1301::OsDT11 lines, respectively (Fig. 8). These findings suggested that the ABA concentration was highly increased in the overexpressing seedlings, demonstrating that ABA biosynthesis was affected in the OsDT11 transgenic plants.\nIn the study of enhancing drought resistance in rice by overexpressing OsDT11, what was observed to be elevated in the overexpressing lines relative to the wild-type lines under standard conditions?\nA. Endogenous ABA levels\nB. Water loss\nC. Stomatal density\nD. Water retention",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -139,7 +154,8 @@
         "question": "To reveal the molecular mechanisms underlying Bph32-mediated BPH resistance, we examined the expression profile of the Bph32 gene. Real-time (RT) PCR analysis showed that Bph32 was expressed in all investigated tissues at the flowering stage, and its expression level was highest in leaf sheaths followed by leaf blades, culms, panicles and roots (Fig. 3a), consistent with the preference of BPH to settle and probe in leaf sheaths at the flowering stage49. Bph32 expression was further analysed in more detail using transgenic plants carrying a Bph32 promoter-driven GUS reporter gene. GUS expression was observed in the root, leaf blade, leaf sheath, culm, glume, flower, immature seed and germinating seed (Fig. 3b), and GUS activity was strongly detected in parenchyma cells and the vascular bundle (Fig. 3b1,4 and 3b2,3). Notably, the expression levels of the Bph32 gene in some tissues of the susceptible line were different from that of the resistant line, which may be associated with the different in 5′ regulatory sequences (Figure S1a).\nWhat technique was utilized to investigate the expression pattern of the Bph32 gene?\nA. Western Blot analysis\nB. RT PCR analysis and transgenic plants carrying a Bph32 promoter-driven GUS reporter gene\nC. Mass spectrometry\nD. DNA sequencing",
         "answer": "B",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -148,7 +164,8 @@
         "question": "To reveal the molecular mechanisms underlying Bph32-mediated BPH resistance, we examined the expression profile of the Bph32 gene. Real-time (RT) PCR analysis showed that Bph32 was expressed in all investigated tissues at the flowering stage, and its expression level was highest in leaf sheaths followed by leaf blades, culms, panicles and roots (Fig. 3a), consistent with the preference of BPH to settle and probe in leaf sheaths at the flowering stage49. Bph32 expression was further analysed in more detail using transgenic plants carrying a Bph32 promoter-driven GUS reporter gene. GUS expression was observed in the root, leaf blade, leaf sheath, culm, glume, flower, immature seed and germinating seed (Fig. 3b), and GUS activity was strongly detected in parenchyma cells and the vascular bundle (Fig. 3b1,4 and 3b2,3). Notably, the expression levels of the Bph32 gene in some tissues of the susceptible line were different from that of the resistant line, which may be associated with the different in 5′ regulatory sequences (Figure S1a).\nBph32's expression level was found to be highest in which tissue?\nA. Culms\nB. Roots\nC. Leaf sheaths\nD. Leaf blades",
         "answer": "C",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -157,7 +174,8 @@
         "question": "To reveal the molecular mechanisms underlying Bph32-mediated BPH resistance, we examined the expression profile of the Bph32 gene. Real-time (RT) PCR analysis showed that Bph32 was expressed in all investigated tissues at the flowering stage, and its expression level was highest in leaf sheaths followed by leaf blades, culms, panicles and roots (Fig. 3a), consistent with the preference of BPH to settle and probe in leaf sheaths at the flowering stage49. Bph32 expression was further analysed in more detail using transgenic plants carrying a Bph32 promoter-driven GUS reporter gene. GUS expression was observed in the root, leaf blade, leaf sheath, culm, glume, flower, immature seed and germinating seed (Fig. 3b), and GUS activity was strongly detected in parenchyma cells and the vascular bundle (Fig. 3b1,4 and 3b2,3). Notably, the expression levels of the Bph32 gene in some tissues of the susceptible line were different from that of the resistant line, which may be associated with the different in 5′ regulatory sequences (Figure S1a).\nWhat could be linked to the varying expression levels of the Bph32 gene in certain tissues of both the susceptible and resistant line?\nA. Differences in gene duplication\nB. Differences in 5′ regulatory sequences\nC. Differences in gene mutation\nD. Differences in 3′ regulatory sequences",
         "answer": "B",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -166,7 +184,8 @@
         "question": "1）原丰早是什么？ 原丰早是浙江省农业科学院作物与核技术利用研究所选育的籼型常规水稻，水稻育种完成人是王汀华、王贤裕、孙漱芗和宋永贵。\n2）原丰早选育过程是什么样的？ 1971年春，在浙江杭州用钴-60γ射线3.5万伦琴（照射量率68伦/分）照射“科字六号”干种子8月初播于温室，5月初栽于大田（M1代），成熟时混收少量种子；1972年春，在浙江杭州单本插14400株，共选择4个早熟突变株（M2代），其中有一单株比原种早熟40多天，性状良好，代号“692-1”；同年秋天，于福建省翻秋，进行株系鉴定，性状稳定表现良好（M3代）；冬季于海南岛崖县繁殖种子（M4代）。\n1973年春，在浙江杭州进行品比试验，示范鉴定，产量占首位，定名“原丰早”。该品种适合在长江中作早稻地区种植，该品种1982年以来累计推广3千万亩以上。\n综上所述，原丰早是通过科字六号的辐射诱变，经过科研人员多年的选育、试种和示范推广，最终育成的一个早熟、高产、抗性好的籼型水稻新品种，在我国南方稻区得到了良好推广及应用。\n原丰早的种植最适宜在哪个地区？\nA. 松花江流域\nB. 辽河流域\nC. 海河流域\nD. 长江流域",
         "answer": "D",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -175,7 +194,8 @@
         "question": "1）原丰早是什么？ 原丰早是浙江省农业科学院作物与核技术利用研究所选育的籼型常规水稻，水稻育种完成人是王汀华、王贤裕、孙漱芗和宋永贵。\n2）原丰早选育过程是什么样的？ 1971年春，在浙江杭州用钴-60γ射线3.5万伦琴（照射量率68伦/分）照射“科字六号”干种子8月初播于温室，5月初栽于大田（M1代），成熟时混收少量种子；1972年春，在浙江杭州单本插14400株，共选择4个早熟突变株（M2代），其中有一单株比原种早熟40多天，性状良好，代号“692-1”；同年秋天，于福建省翻秋，进行株系鉴定，性状稳定表现良好（M3代）；冬季于海南岛崖县繁殖种子（M4代）。\n1973年春，在浙江杭州进行品比试验，示范鉴定，产量占首位，定名“原丰早”。该品种适合在长江中作早稻地区种植，该品种1982年以来累计推广3千万亩以上。\n综上所述，原丰早是通过科字六号的辐射诱变，经过科研人员多年的选育、试种和示范推广，最终育成的一个早熟、高产、抗性好的籼型水稻新品种，在我国南方稻区得到了良好推广及应用。\n原丰早属于何种水稻类型？\nA. 籼型常规水稻\nB. 粳型杂交水稻\nC. 粳型常规水稻\nD. 籼型杂交水稻",
         "answer": "A",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -184,7 +204,8 @@
         "question": "1）原丰早是什么？ 原丰早是浙江省农业科学院作物与核技术利用研究所选育的籼型常规水稻，水稻育种完成人是王汀华、王贤裕、孙漱芗和宋永贵。\n2）原丰早选育过程是什么样的？ 1971年春，在浙江杭州用钴-60γ射线3.5万伦琴（照射量率68伦/分）照射“科字六号”干种子8月初播于温室，5月初栽于大田（M1代），成熟时混收少量种子；1972年春，在浙江杭州单本插14400株，共选择4个早熟突变株（M2代），其中有一单株比原种早熟40多天，性状良好，代号“692-1”；同年秋天，于福建省翻秋，进行株系鉴定，性状稳定表现良好（M3代）；冬季于海南岛崖县繁殖种子（M4代）。\n1973年春，在浙江杭州进行品比试验，示范鉴定，产量占首位，定名“原丰早”。该品种适合在长江中作早稻地区种植，该品种1982年以来累计推广3千万亩以上。\n综上所述，原丰早是通过科字六号的辐射诱变，经过科研人员多年的选育、试种和示范推广，最终育成的一个早熟、高产、抗性好的籼型水稻新品种，在我国南方稻区得到了良好推广及应用。\n原丰早具备哪些特性？\nA. 晚熟、高产、抗性好\nB. 早熟、高产、抗性好\nC. 晚熟、低产、抗性差\nD. 早熟、低产、抗性差",
         "answer": "B",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -193,7 +214,8 @@
         "question": "1）黄丰占是什么？黄丰占是广东省农科院水稻研究所应用水稻核心种质育种理论，以优质稻黄华占为母本、丰秀占为父本杂交育成的早晚兼用型优质、丰产、抗病水稻新品种。\n2）黄丰占的亲本特征是什么？黄丰占的父、 母本均为广东省农科院水稻研究所 育成的水稻品种。母本黄华占以黄新占与丰华占杂交育成，2005 年通过广东省农作物品种审定，2006—2012年成为广东省农业主导品种。黄华占株型较好，剑叶长、直，分蘖力较强，转色顺调，结实率较高；稻米外观品质鉴定为早造特二级，整精米率40.0%-55.2%，垩白粒率4%-6%， 垩白度0.6%-3.2%， 直链淀粉含量13.8%-14.0%， 胶稠度67-88mm；抗稻瘟病和白叶枯病，但苗期耐寒性较弱。 父本丰秀占是以丰丝占和矮秀占杂交育成的早晚兼用型优质稻品种，其株型适中，叶色浓绿，分蘖力中等，抽穗整齐，着粒密，后期熟色好，抗倒性、苗期耐寒性中等；早造米质达国标优质3级、省标优质2级，整精米率62.3%，垩白粒率14%，垩白度3.3%，直链淀粉含量16.3%，胶稠度82 mm；抗稻瘟病，中抗白叶枯病，2006年通过广东省农作物品种审定。 \n从亲本的特征特性可见， 父母本在米质和耐寒性方面具有较明显的互补性，因此，通过杂交配组有可能选育出综合性状优于双亲的品种。\n黄丰占这一水稻新品种是由哪个机构培育出来的？\nA. 广东省农业大学\nB. 广东省农业研究所\nC. 广东省农业科学院\nD. 广东省农科院水稻研究所",
         "answer": "D",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -202,7 +224,8 @@
         "question": "1）黄丰占是什么？黄丰占是广东省农科院水稻研究所应用水稻核心种质育种理论，以优质稻黄华占为母本、丰秀占为父本杂交育成的早晚兼用型优质、丰产、抗病水稻新品种。\n2）黄丰占的亲本特征是什么？黄丰占的父、 母本均为广东省农科院水稻研究所 育成的水稻品种。母本黄华占以黄新占与丰华占杂交育成，2005 年通过广东省农作物品种审定，2006—2012年成为广东省农业主导品种。黄华占株型较好，剑叶长、直，分蘖力较强，转色顺调，结实率较高；稻米外观品质鉴定为早造特二级，整精米率40.0%-55.2%，垩白粒率4%-6%， 垩白度0.6%-3.2%， 直链淀粉含量13.8%-14.0%， 胶稠度67-88mm；抗稻瘟病和白叶枯病，但苗期耐寒性较弱。 父本丰秀占是以丰丝占和矮秀占杂交育成的早晚兼用型优质稻品种，其株型适中，叶色浓绿，分蘖力中等，抽穗整齐，着粒密，后期熟色好，抗倒性、苗期耐寒性中等；早造米质达国标优质3级、省标优质2级，整精米率62.3%，垩白粒率14%，垩白度3.3%，直链淀粉含量16.3%，胶稠度82 mm；抗稻瘟病，中抗白叶枯病，2006年通过广东省农作物品种审定。 \n从亲本的特征特性可见， 父母本在米质和耐寒性方面具有较明显的互补性，因此，通过杂交配组有可能选育出综合性状优于双亲的品种。\n关于黄丰占母本黄华占的特性，以下哪一项描述不准确？\nA. 抗稻瘟病和白叶枯病\nB. 具有较好的株型\nC. 稻米外观品质鉴定为早造特二级\nD. 苗期耐热性较强",
         "answer": "D",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -211,7 +234,8 @@
         "question": "1）黄丰占是什么？黄丰占是广东省农科院水稻研究所应用水稻核心种质育种理论，以优质稻黄华占为母本、丰秀占为父本杂交育成的早晚兼用型优质、丰产、抗病水稻新品种。\n2）黄丰占的亲本特征是什么？黄丰占的父、 母本均为广东省农科院水稻研究所 育成的水稻品种。母本黄华占以黄新占与丰华占杂交育成，2005 年通过广东省农作物品种审定，2006—2012年成为广东省农业主导品种。黄华占株型较好，剑叶长、直，分蘖力较强，转色顺调，结实率较高；稻米外观品质鉴定为早造特二级，整精米率40.0%-55.2%，垩白粒率4%-6%， 垩白度0.6%-3.2%， 直链淀粉含量13.8%-14.0%， 胶稠度67-88mm；抗稻瘟病和白叶枯病，但苗期耐寒性较弱。 父本丰秀占是以丰丝占和矮秀占杂交育成的早晚兼用型优质稻品种，其株型适中，叶色浓绿，分蘖力中等，抽穗整齐，着粒密，后期熟色好，抗倒性、苗期耐寒性中等；早造米质达国标优质3级、省标优质2级，整精米率62.3%，垩白粒率14%，垩白度3.3%，直链淀粉含量16.3%，胶稠度82 mm；抗稻瘟病，中抗白叶枯病，2006年通过广东省农作物品种审定。 \n从亲本的特征特性可见， 父母本在米质和耐寒性方面具有较明显的互补性，因此，通过杂交配组有可能选育出综合性状优于双亲的品种。\n关于黄丰占的父本丰秀占的特性，以下哪一项描述是不正确的？\nA. 早造米质未达优质国标\nB. 株型适中\nC. 叶色浓绿\nD. 抗倒性、苗期耐寒性中等",
         "answer": "A",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -220,7 +244,8 @@
         "question": "1）黄丰占是什么？黄丰占是广东省农科院水稻研究所应用水稻核心种质育种理论，以优质稻黄华占为母本、丰秀占为父本杂交育成的早晚兼用型优质、丰产、抗病水稻新品种。\n2）黄丰占的亲本特征是什么？黄丰占的父、 母本均为广东省农科院水稻研究所 育成的水稻品种。母本黄华占以黄新占与丰华占杂交育成，2005 年通过广东省农作物品种审定，2006—2012年成为广东省农业主导品种。黄华占株型较好，剑叶长、直，分蘖力较强，转色顺调，结实率较高；稻米外观品质鉴定为早造特二级，整精米率40.0%-55.2%，垩白粒率4%-6%， 垩白度0.6%-3.2%， 直链淀粉含量13.8%-14.0%， 胶稠度67-88mm；抗稻瘟病和白叶枯病，但苗期耐寒性较弱。 父本丰秀占是以丰丝占和矮秀占杂交育成的早晚兼用型优质稻品种，其株型适中，叶色浓绿，分蘖力中等，抽穗整齐，着粒密，后期熟色好，抗倒性、苗期耐寒性中等；早造米质达国标优质3级、省标优质2级，整精米率62.3%，垩白粒率14%，垩白度3.3%，直链淀粉含量16.3%，胶稠度82 mm；抗稻瘟病，中抗白叶枯病，2006年通过广东省农作物品种审定。 \n从亲本的特征特性可见， 父母本在米质和耐寒性方面具有较明显的互补性，因此，通过杂交配组有可能选育出综合性状优于双亲的品种。\n黄丰占的父本丰秀占的稻米质量达到了哪一级别的国家标准？\nA. 国标优质1级\nB. 国标优质2级\nC. 国标优质3级\nD. 国标优质4级",
         "answer": "C",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -229,7 +254,8 @@
         "question": "1）C两优7号是什么？C两优7号是湖南农业大学与湖南希望种业科技有限公司以恢复系R777为父本，C815S为母本育成的水稻品种。\n2）C两优7号的选育思想是什么？立足天优华占现有的产量，力争增强抗性，并在制种产量、安全性和米质的适口性方面有所提高，先选育超级亲本，再选配超级杂交稻组合，在优势相同的组合中推荐制种产量高、种子质量好的组合参加国家或者省级区域试验。C两优7号就是在这一指导思想下选育成功的两系杂交晚稻新组合。\nC两优7号的育种单位是哪两个？\nA. 湖南农业大学与北京希望种业科技有限公司\nB. 湖南农业大学与湖南希望种业科技有限公司\nC. 北京农业大学与湖南希望种业科技有限公司\nD. 北京农业大学与北京希望种业科技有限公司",
         "answer": "B",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -238,7 +264,8 @@
         "question": "1）C两优7号是什么？C两优7号是湖南农业大学与湖南希望种业科技有限公司以恢复系R777为父本，C815S为母本育成的水稻品种。\n2）C两优7号的选育思想是什么？立足天优华占现有的产量，力争增强抗性，并在制种产量、安全性和米质的适口性方面有所提高，先选育超级亲本，再选配超级杂交稻组合，在优势相同的组合中推荐制种产量高、种子质量好的组合参加国家或者省级区域试验。C两优7号就是在这一指导思想下选育成功的两系杂交晚稻新组合。\nC两优7号是如何育种的？\nA. 以恢复系C815S为父本，R777为母本育成的小麦品种\nB. 以恢复系R777为父本，C815S为母本育成的小麦品种\nC. 以恢复系C815S为父本，R777为母本育成的水稻品种\nD. 以恢复系R777为父本，C815S为母本育成的水稻品种",
         "answer": "D",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -247,7 +274,8 @@
         "question": "1)中嘉8号是什么？中嘉8号系中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所以ZH559为父本，嘉禾218为母本育成的水稻品种。\n2）中嘉8号有哪些农艺现状？①该品种长势繁茂，植株较高，剑叶较长，叶色绿，穗大粒重，结实率较高，稃尖无色，谷色暗；②两年浙江省区试平均全生育期162.1天，比对照长0.9天；③该品种亩有效穗22.9万，株高106.6厘米，每穗总粒数143.3粒，实粒数123.7粒，结实率86.3%，千粒重29.7克；④经省农科院植微所2014-2015年抗性鉴定，穗瘟损失率最高3级，综合指数3.8；白叶枯病最高7级，褐飞虱最高7级；⑤经农业部稻米及制品质量监督检测中心2014-2015年检测，平均整精米率46.0%，长宽比2.5，垩白粒率29%，垩白度3.3%，透明度1级，碱消值7.0，胶稠度73mm，直链淀粉含量16.6%，米质各项指标综合评价两年分别为食用稻品种品质部颁普通和四等。\n综上所述，中嘉8号具有生育期适中、株型紧凑、米质优良、抗稻瘟病、产量高、适应性较广等农艺性状，适宜在长江中下游粳稻区作单季晚稻种植，栽培上要注意防治稻瘟病等病虫害。\n中嘉8号水稻品种的育成单位是哪些？\nA. 中国农业科学院、江苏省农业科学研究院(所)和中国科学院遗传与发育生物学研究所\nB. 中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所\nC. 中国农业科学院、浙江省农业科学研究院(所)和中国科学院遗传与发育生物学研究所\nD. 中国水稻研究所、江苏省农业科学研究院(所)和中国科学院遗传与发育生物学研究所",
         "answer": "B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -256,7 +284,8 @@
         "question": "1)中嘉8号是什么？中嘉8号系中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所以ZH559为父本，嘉禾218为母本育成的水稻品种。\n2）中嘉8号有哪些农艺现状？①该品种长势繁茂，植株较高，剑叶较长，叶色绿，穗大粒重，结实率较高，稃尖无色，谷色暗；②两年浙江省区试平均全生育期162.1天，比对照长0.9天；③该品种亩有效穗22.9万，株高106.6厘米，每穗总粒数143.3粒，实粒数123.7粒，结实率86.3%，千粒重29.7克；④经省农科院植微所2014-2015年抗性鉴定，穗瘟损失率最高3级，综合指数3.8；白叶枯病最高7级，褐飞虱最高7级；⑤经农业部稻米及制品质量监督检测中心2014-2015年检测，平均整精米率46.0%，长宽比2.5，垩白粒率29%，垩白度3.3%，透明度1级，碱消值7.0，胶稠度73mm，直链淀粉含量16.6%，米质各项指标综合评价两年分别为食用稻品种品质部颁普通和四等。\n综上所述，中嘉8号具有生育期适中、株型紧凑、米质优良、抗稻瘟病、产量高、适应性较广等农艺性状，适宜在长江中下游粳稻区作单季晚稻种植，栽培上要注意防治稻瘟病等病虫害。\n中嘉8号的育种过程中，其父母本分别是哪两种水稻品种？\nA. ZH558和嘉禾218\nB. ZH558和嘉禾219\nC. ZH559和嘉禾218\nD. ZH559和嘉禾219",
         "answer": "C",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -265,7 +294,8 @@
         "question": "1)中嘉8号是什么？中嘉8号系中国水稻研究所、浙江省嘉兴市农业科学研究院(所)和中国科学院遗传与发育生物学研究所以ZH559为父本，嘉禾218为母本育成的水稻品种。\n2）中嘉8号有哪些农艺现状？①该品种长势繁茂，植株较高，剑叶较长，叶色绿，穗大粒重，结实率较高，稃尖无色，谷色暗；②两年浙江省区试平均全生育期162.1天，比对照长0.9天；③该品种亩有效穗22.9万，株高106.6厘米，每穗总粒数143.3粒，实粒数123.7粒，结实率86.3%，千粒重29.7克；④经省农科院植微所2014-2015年抗性鉴定，穗瘟损失率最高3级，综合指数3.8；白叶枯病最高7级，褐飞虱最高7级；⑤经农业部稻米及制品质量监督检测中心2014-2015年检测，平均整精米率46.0%，长宽比2.5，垩白粒率29%，垩白度3.3%，透明度1级，碱消值7.0，胶稠度73mm，直链淀粉含量16.6%，米质各项指标综合评价两年分别为食用稻品种品质部颁普通和四等。\n综上所述，中嘉8号具有生育期适中、株型紧凑、米质优良、抗稻瘟病、产量高、适应性较广等农艺性状，适宜在长江中下游粳稻区作单季晚稻种植，栽培上要注意防治稻瘟病等病虫害。\n中嘉8号的全生育期平均天数是多少？\nA. 162.1天\nB. 160.1天\nC. 166.1天\nD. 164.1天",
         "answer": "A",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -274,7 +304,8 @@
         "question": "1）宁香粳9号是什么？宁香粳9号由南京农业大学水稻研究所以宁粳1号/武软2为母本，宁粳3号为父本育成的早熟晚粳水稻品种。\n2）宁香粳9号有哪些农艺性状？①宁香粳9号株型紧凑，分蘖力较强，叶片浓绿挺拔，长相清秀，成穗率较高，穗型大，穗层整齐，熟相好，秆青籽黄，稻谷无花壳，近闻有香味；②株高100.1cm，全生育期159.6天，比张家港地区主栽品种南粳5055和南粳46分别早4.4天和11.4天，有效穗数21.2万穗/667m2 ，每穗总粒数152.3粒，每穗实粒数134.8 粒，结实率88.5%，千粒重 24.6g。③米质理化指标：出糙率80.3%，精米率71.3%，整精米率66.1%，垩白粒率46%，垩白度10.8%，长宽比1.8，胶稠度80毫米，直链淀粉含量12.3%，碱消值级7.0，透明度1级；食味鉴评80.69分。④抗性：经江苏省农业科学院植保所鉴定，穗颈瘟损失率最高级5级、稻瘟病综合抗性指数5.0，中感稻瘟病、水稻白叶枯病，高感稻纹枯病，抗水稻条纹叶枯病。⑤产量表现：2021-2022年在苏中及宁镇扬丘陵地区组织扩区自主试验，平均亩产680.8公斤，比对照淮稻5号增产5.1%。\n综上可知，宁香粳9号具有早熟、高产、优质、抗倒性强、食味佳、氮高效等农艺性状，是江苏优质食味大米的突出代表。\n宁香粳9号的全生育期大概需要多久？\nA. 180天\nB. 200天\nC. 159.6天\nD. 120天",
         "answer": "C",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -283,7 +314,8 @@
         "question": "1）龙粳31是什么？龙粳31原代号龙花01-687，由黑龙江省农业科学院佳木斯水稻研究所和黑龙江省龙粳高科有限责任公司共同育成。\n2）龙粳31具有哪些农艺性状？\n①生育期适宜：生育日数约为130天，需≥10℃活动积温约2350℃；\n②植株性状：株高92厘米左右，穗长15.7厘米左右，穗粒数86粒/穗左右，千粒重26.3克。株型收敛，叶片开张角度小且略内卷，叶片较厚，叶色深绿；\n③高产稳产：具有较强的分蘖力和抽穗后灌浆结实速度快的特点，成熟度好，空秕率低；\n④抗逆性强：具有较强的抗倒伏性和抗病性，叶瘟等级为3至5级，穗颈瘟等级为1至5级；\n⑤适应性广：对温度、光照反应不敏感，生态适应性；。\n⑥米率高、品质佳：出糙率81.1%～81.2%，整精米率71.6%～71.8%，垩白粒米率0.0%～2.0%，垩白度0.0%～0.1%，直链淀粉含量（干基）16.89%～17.43%，胶稠度70.5mm～71.0mm，食味品质79～82分。\n⑥丰产性强：穗长15.7厘米左右，每穗粒数86粒左右，千粒重26.3克左右。\n龙粳31作为黑龙江省第三积温带上限主栽的寒地早粳超级稻新品种，具有早熟、高产、优质、抗病、抗倒、耐寒等优点。\n龙粳31的米率和品质表现如何？\nA. 米率高、品质差\nB. 米率低、品质佳\nC. 米率高、品质佳\nD. 米率低、品质差",
         "answer": "C",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -292,7 +324,8 @@
         "question": "1）C两优7号是什么？C两优7号是湖南农业大学与湖南希望种业科技有限公司合作以C815S为母本、R777为父本选育的两系杂交晚稻新组合。\n2）C两优7号的产量表现怎么样？①2008年夏季在长沙进行3次重复的中稻品比试验，5月25日播种，6月15日移栽，8月16日抽穗，9月26日成熟，全生育期121天，单产8.925t/hm2，比对照汕优63全生育期短2-3天，增产6.65%，比对照两优培九全生育期短8-9d，增产3.1%。 2010年参加湖南省双季晚稻区试预备试验，平均单产8.043t/hm2，居本组第1位，比对照威优46增产7.9%，极显著;日产量65.7kg/hm2，比对照高3.6kg/hm2，生育期121.7天，比对照长2.8天。②2011年参加湖南省双季晚稻区试，平均单产7.684t/hm2，居本组第7位，比对照天优华占增产1.54%， 增产不显著;日产量62.7kg/hm2，与对照相当;生育期122.5d，比对照天优华占长1.9天。③2012年湖南省区试续试，平均单产8.555t/hm2，居本组第1位， 比对照增产5.76%，增产极显著，增产点次率为100%;日产量69.45kg/hm2，比对照高4.99%;生育期123.1d，比对照长0.7d。2年区试平均单产8.12t/hm2，比对照天优华占增产3.65%，增产点次比例为75%，日产量66.15 kg/hm2，比对照高2.52%;生育期122.8天，比对照长1.3天。\n    综合来看，C两优7号在产量方面表现良好，区域试验平均产量比对照品种均有所增加，表现出较好的丰产性。\nC两优7号这种两系杂交晚稻新组合是由哪两个单位联合选育的？\nA. 湖南希望种业科技有限公司与湖南农业科学院\nB. 湖南农业大学与湖南希望种业科技有限公司\nC. 湖南农业大学与湖南省农业科学院\nD. 湖南农业大学与湖南农业科学院",
         "answer": "B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -301,7 +334,8 @@
         "question": "1）C两优7号是什么？C两优7号是湖南农业大学与湖南希望种业科技有限公司合作以C815S为母本、R777为父本选育的两系杂交晚稻新组合。\n2）C两优7号的产量表现怎么样？①2008年夏季在长沙进行3次重复的中稻品比试验，5月25日播种，6月15日移栽，8月16日抽穗，9月26日成熟，全生育期121天，单产8.925t/hm2，比对照汕优63全生育期短2-3天，增产6.65%，比对照两优培九全生育期短8-9d，增产3.1%。 2010年参加湖南省双季晚稻区试预备试验，平均单产8.043t/hm2，居本组第1位，比对照威优46增产7.9%，极显著;日产量65.7kg/hm2，比对照高3.6kg/hm2，生育期121.7天，比对照长2.8天。②2011年参加湖南省双季晚稻区试，平均单产7.684t/hm2，居本组第7位，比对照天优华占增产1.54%， 增产不显著;日产量62.7kg/hm2，与对照相当;生育期122.5d，比对照天优华占长1.9天。③2012年湖南省区试续试，平均单产8.555t/hm2，居本组第1位， 比对照增产5.76%，增产极显著，增产点次率为100%;日产量69.45kg/hm2，比对照高4.99%;生育期123.1d，比对照长0.7d。2年区试平均单产8.12t/hm2，比对照天优华占增产3.65%，增产点次比例为75%，日产量66.15 kg/hm2，比对照高2.52%;生育期122.8天，比对照长1.3天。\n    综合来看，C两优7号在产量方面表现良好，区域试验平均产量比对照品种均有所增加，表现出较好的丰产性。\nC两优7号的父母植株分别是哪两种？\nA. R815S和C777\nB. C815S和C777\nC. C815S和R777\nD. R777和C815S",
         "answer": "C",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -310,7 +344,8 @@
         "question": "1）C两优7号是什么？C两优7号是湖南农业大学与湖南希望种业科技有限公司合作以C815S为母本、R777为父本选育的两系杂交晚稻新组合。\n2）C两优7号的产量表现怎么样？①2008年夏季在长沙进行3次重复的中稻品比试验，5月25日播种，6月15日移栽，8月16日抽穗，9月26日成熟，全生育期121天，单产8.925t/hm2，比对照汕优63全生育期短2-3天，增产6.65%，比对照两优培九全生育期短8-9d，增产3.1%。 2010年参加湖南省双季晚稻区试预备试验，平均单产8.043t/hm2，居本组第1位，比对照威优46增产7.9%，极显著;日产量65.7kg/hm2，比对照高3.6kg/hm2，生育期121.7天，比对照长2.8天。②2011年参加湖南省双季晚稻区试，平均单产7.684t/hm2，居本组第7位，比对照天优华占增产1.54%， 增产不显著;日产量62.7kg/hm2，与对照相当;生育期122.5d，比对照天优华占长1.9天。③2012年湖南省区试续试，平均单产8.555t/hm2，居本组第1位， 比对照增产5.76%，增产极显著，增产点次率为100%;日产量69.45kg/hm2，比对照高4.99%;生育期123.1d，比对照长0.7d。2年区试平均单产8.12t/hm2，比对照天优华占增产3.65%，增产点次比例为75%，日产量66.15 kg/hm2，比对照高2.52%;生育期122.8天，比对照长1.3天。\n    综合来看，C两优7号在产量方面表现良好，区域试验平均产量比对照品种均有所增加，表现出较好的丰产性。\nC两优7号的产量表现如何？\nA. 产量一般\nB. 产量极高\nC. 产量较低\nD. 产量较高",
         "answer": "D",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -319,7 +354,8 @@
         "question": "1）冈优22是什么？冈优22系四川省农科院作物所用岗46A不育系与自育恢复系CDR22配组育成的中籼迟熟杂交稻。\n2）冈优22具有哪些农艺性状？①冈优22生育期理想，作中稻栽培，全生育期152天 ，比汕优63迟熟1天。②该组合株型集散适中，株叶形态好，分桑力中等，茎秆粗壮，穗层整齐，穗大粒多，中抗稻瘟病。③株高104厘米，叶片较宽大，后期转色好。④每亩有效穗17-18万，穗长23-27厘米，每穗粒数190粒，结实率80%左右，千粒重27.3克 ，一般亩产450-500公斤。⑤产量表现：1993、1994两年贵州省区试平均亩产587.1公斤，居首位，比汕优63增产6.32%。⑥抗性：1993年在务川县农科所田间稻瘟自然抗性鉴定，苗叶瘟为7级(感)，穗颈瘟1级(抗)；1994年苗叶瘟5级(中感)，穗颈瘟1级；1994年贵州省农科院水稻所室内接种鉴定，苗叶瘟为0级。\n这些农艺性状使得冈优22成为一个中籼迟熟杂交稻品种，具有较好的丰产性、米质和抗稻瘟病的特性，适宜在贵州省海拔1000米以下地区种植。\n冈优22的整个生育周期大约需要多少天？\nA. 160天\nB. 170天\nC. 145天\nD. 152天",
         "answer": "D",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -328,7 +364,8 @@
         "question": "1）冈优22是什么？冈优22系四川省农科院作物所用岗46A不育系与自育恢复系CDR22配组育成的中籼迟熟杂交稻。\n2）冈优22具有哪些农艺性状？①冈优22生育期理想，作中稻栽培，全生育期152天 ，比汕优63迟熟1天。②该组合株型集散适中，株叶形态好，分桑力中等，茎秆粗壮，穗层整齐，穗大粒多，中抗稻瘟病。③株高104厘米，叶片较宽大，后期转色好。④每亩有效穗17-18万，穗长23-27厘米，每穗粒数190粒，结实率80%左右，千粒重27.3克 ，一般亩产450-500公斤。⑤产量表现：1993、1994两年贵州省区试平均亩产587.1公斤，居首位，比汕优63增产6.32%。⑥抗性：1993年在务川县农科所田间稻瘟自然抗性鉴定，苗叶瘟为7级(感)，穗颈瘟1级(抗)；1994年苗叶瘟5级(中感)，穗颈瘟1级；1994年贵州省农科院水稻所室内接种鉴定，苗叶瘟为0级。\n这些农艺性状使得冈优22成为一个中籼迟熟杂交稻品种，具有较好的丰产性、米质和抗稻瘟病的特性，适宜在贵州省海拔1000米以下地区种植。\n冈优22每亩的有效穗数大概有多少？\nA. 10-12万\nB. 13-15万\nC. 20-22万\nD. 17-18万",
         "answer": "D",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -337,7 +374,8 @@
         "question": "1）冈优22是什么？冈优22系四川省农科院作物所用岗46A不育系与自育恢复系CDR22配组育成的中籼迟熟杂交稻。\n2）冈优22具有哪些农艺性状？①冈优22生育期理想，作中稻栽培，全生育期152天 ，比汕优63迟熟1天。②该组合株型集散适中，株叶形态好，分桑力中等，茎秆粗壮，穗层整齐，穗大粒多，中抗稻瘟病。③株高104厘米，叶片较宽大，后期转色好。④每亩有效穗17-18万，穗长23-27厘米，每穗粒数190粒，结实率80%左右，千粒重27.3克 ，一般亩产450-500公斤。⑤产量表现：1993、1994两年贵州省区试平均亩产587.1公斤，居首位，比汕优63增产6.32%。⑥抗性：1993年在务川县农科所田间稻瘟自然抗性鉴定，苗叶瘟为7级(感)，穗颈瘟1级(抗)；1994年苗叶瘟5级(中感)，穗颈瘟1级；1994年贵州省农科院水稻所室内接种鉴定，苗叶瘟为0级。\n这些农艺性状使得冈优22成为一个中籼迟熟杂交稻品种，具有较好的丰产性、米质和抗稻瘟病的特性，适宜在贵州省海拔1000米以下地区种植。\n冈优22在哪个省份的海拔1000米以下地区适合种植？\nA. 四川省\nB. 江苏省\nC. 贵州省\nD. 湖南省",
         "answer": "C",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -346,7 +384,8 @@
         "question": "1）越光是什么？ “越光”是日本于1956年以农林22号为母本，农林1号为父本育成的水稻品种。 \n2）越光特征特性有哪些？①属偏感温特早熟晚粳类型。越光在杭州的生育期明显短于秀水11。作单季稻种植时,越光比秀水11早抽穗1个月; 作双季稻种植时,抽穗期、成熟期比秀水11早15-20天。在海南异地试种,越光齐穗期较秀水11早约10天,全生育期短约7天。②1996年在杭州与秀水11的农艺性状相比，越光的植株高度中等，茎秆细软,易倒伏,分蘖中等,千粒重25g左右,产量只有秀水11的60%,成熟后期有早衰现象。③抗性：抗性鉴定结果表现为不抗稻瘟病，对细菌性叶枯病表现出稍强的抗性，但易感染褐色条纹病。④‘越光’米圆润饱满，色泽度高，直链淀粉和蛋白质含量低，黏性高，香甜度高，食用品质高。\n水稻品种“越光”是哪个国家育种的？\nA. 中国\nB. 日本\nC. 泰国\nD. 韩国",
         "answer": "B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -355,7 +394,8 @@
         "question": "1）越光是什么？ “越光”是日本于1956年以农林22号为母本，农林1号为父本育成的水稻品种。 \n2）越光特征特性有哪些？①属偏感温特早熟晚粳类型。越光在杭州的生育期明显短于秀水11。作单季稻种植时,越光比秀水11早抽穗1个月; 作双季稻种植时,抽穗期、成熟期比秀水11早15-20天。在海南异地试种,越光齐穗期较秀水11早约10天,全生育期短约7天。②1996年在杭州与秀水11的农艺性状相比，越光的植株高度中等，茎秆细软,易倒伏,分蘖中等,千粒重25g左右,产量只有秀水11的60%,成熟后期有早衰现象。③抗性：抗性鉴定结果表现为不抗稻瘟病，对细菌性叶枯病表现出稍强的抗性，但易感染褐色条纹病。④‘越光’米圆润饱满，色泽度高，直链淀粉和蛋白质含量低，黏性高，香甜度高，食用品质高。\n是什么特性导致越光容易倒伏？\nA. 茎秆细软\nB. 分蘖中等\nC. 植株高度中等\nD. 千粒重25g左右",
         "answer": "A",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -364,7 +404,8 @@
         "question": "1）空育131是什么？空育131是1990年由黑龙江省农垦科学院水稻研究所从吉林农科院引进并以空育110为父本，道北36为母本育种而成的品种。\n2）空育131特征特性有哪些？①熟期适中。在黑龙江省庆安县旱育稀植插秧栽培, 生育日数127天, 主茎11片叶, 需活动积温2320℃。属高纬寒地中、早熟品种。②米质优良。糙米率83.3%, 精米率75.5%, 整精米率74.5%, 垩白大小7.9%, 垩白米率6.2%, 碱消值7.0级, 胶稠度64.6毫米, 直链淀粉含量1.70%, 粗蛋白含量7.9%,外观米透明, 饭粒完整洁白, 软而不粘结, 食味好。早在1994年黑龙江省第二次优质水稻品种 (系) 鉴评会上, 就被评为优质品系。③丰产稳产。属穗数型品种, 株型紧凑, 分蘖力强, 成穗率和结实率高, 穗较短但着粒密, 穗长14cm, 穗粒数80粒, 千粒重26.5g, 在庆安县一般产量在7500～8000 kg/hm2, 1999年全省布点生产示范田平均产量7684.5kg/hm2。④抗逆性强。植株矮壮, 茎秆强韧, 株高80cm, 耐肥抗倒。对延迟性和不育性冷害耐性强, 在外界温度较低, 育苗棚内2～6℃时, 幼苗未出现不正常现象。抗稻瘟病性中等, 但田间抗性较好, 在庆安县未发生发病地块。⑤适应性广。对温度、光照反应不敏感, 生态适应性强, 不同年际间, 不同地域间, 无论是井灌还是自流灌, 对产量影响小。适于黑龙江省第二积温带下限、第三积温带、第四积温带上限旱育稀植栽培, 也适合超稀植栽培。\n以上特征使得空育131成为一个有潜力的水稻品种，通过不断的改良，可以进一步提高其生产应用价值。\n空育131的育种工作是由哪个机构完成的？\nA. 中国科学院\nB. 黑龙江省农垦科学院水稻研究所\nC. 中国农业科学院\nD. 中国农业大学",
         "answer": "B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -373,7 +414,8 @@
         "question": "1）甬优7850是什么？“甬优7850”是由浙江省宁波市农科院和宁波市种子有限公司合作, 以早熟晚粳不育系“甬粳78A”为母本、早熟中籼恢复系“F9250”为父本育成的籼粳杂交稻新品种。\n2）栽培甬优7850时有哪些技术要点需要注意？①培育多蘖壮秧：精做秧田，按照大田∶秧田为10∶1的比例，选择土质松软肥沃、田平草少、避风向阳、排灌方便的田块做秧田，必须做到早耕、多耕、细整，即“三犁三耙”。同时在秧田耕后耙前，早施基肥。施绿亨水稻专用生物有机肥1000～2000千克/667平方米，水稻复合肥10～15千克/667平方米，秧厢做好后再施尿素2～3千克/667平方米，浸种催芽晒种。播种前晒种1～2天，利用太阳光紫外线杀死部分细菌，同时晒种后能使种子充分吸水，促进种子萌发，提高种子发芽率和发芽势；采用“日浸夜露，少浸多露，三起三落”的方法，用强氯精3克加水1.25千克浸泡种子1千克，10小时后捞出种子用20%稻脚青或硫酸铜1/1000溶液浸泡种子24小时，随后再用清水浸泡12小时，捞出沥干即可催芽；先用45摄氏度以内的温水预热上堆，谷种升温后，控制温度在35～38摄氏度，温度过高要翻堆，过低则要采取措施提高种堆温度。催芽20小时左右，谷种即可露白破胸。播种前将催好芽的谷种摊开，常温下炼芽3～6小时后再播种，以便谷种适应空气温度，提高成苗率。②适时播种：选择4月上旬播种为宜，同时根据天气变化，选择冷尾暖头的天气播种，根据该组合的全生育期，最佳播种期为4月6—20日。稀播匀播，一般秧田播种量控制在20千克/667平方米左右。播后及时塌谷盖膜，采用湿润薄膜育秧，秧龄以30天左右为宜，不得超过40天。③肥水管理，尽早追肥：按照“断奶肥要早，促蘖肥要巧，接力肥要轻，送嫁肥要准“的原则。叶一心时，追断奶肥，用尿素2千克/667平方米并加入15%多效唑可湿性粉剂120～180克/667平方米对水喷施；叶一心时，巧施促蘖肥，用尿素3～5千克/667平方米与叶面肥喷施宝或高能磷钾王一并对水喷施；叶期前后视苗情适当补施接力肥，生长较弱叶色较差的施尿素3～5千克/667平方米，生长较好的不施；拔秧前3～4天追施送嫁肥，施尿素5～6千克/667平方米，如果移栽前气温低，或小苗移栽，送嫁肥可适当早施；④科学排灌，科学合理排灌：以水调温、以水调气、以水调肥，秧田灌水应根据秧苗生长情况，播后要保持厢面湿润，土壤通气，促进扎根立苗，一般从播种到秧苗叶一心期间，保持湿润灌溉，阴天秧厢沟应保持半沟水，晴天满沟水，切忌灌深水；叶一心后，灌水上秧厢，并保持秧厢2～3厘米浅水层，防止秧厢断水，若遇寒冷天气，灌深水护秧，深度以不淹秧苗尖为度，夜灌昼排。秧苗高3厘米时，及时排水晒苗，促使秧苗根下扎，叶期以后，一般采用浅水灌溉，提高水温和土温，促进秧苗健壮生长。\n⑤适时炼苗： 当秧苗穿针见绿即叶一心时，遇气温高于28摄氏度，白天可打开两头的薄膜通风炼苗；叶一心时气温达到22摄氏度以上，白天需打开四周的薄膜通风炼苗；叶一心期按照“宁冷勿热”原则即可揭膜，最好是早上或傍晚揭膜（如果空气湿度大、气温偏低的阴雨天应在上午揭膜，如果是晴天，揭膜时间宜在傍晚前）；揭膜后，白天气温不低于25摄氏度，夜间不低于15摄氏度时，不必盖膜。⑥秧田病虫害防治：水稻秧田期主要发生二化螟、蓟马、立枯病、稻瘟等，危害水稻秧苗生长；需农业防治，科学管好水肥，提高秧苗抗性。需药物防治，稻飞虱：用噻嗪酮、噻虫嗪、啶虫脒等，稻蓟马：用吡虫啉、敌百虫、吡蚜酮等，稻纵卷叶螟：用康宽、氯虫噻虫嗪等，稻瘟病：用三环唑、富士一号、苯甲丙环唑等；需好送嫁药，在拔秧前2～3天，用三环唑+三唑磷+吡蚜酮对水均匀喷雾。⑦加强大田管理：及时平整大田，保证质量选择排灌方便、肥力中等、土质为冲积性土壤的稻田，在栽插前一周（不论是否寒潮期间）开始少水耕整，实施“三犁三耙”，一定要整平且泥烂适中，只留遮泥水。同时结合耕整深施基肥，底肥以有机肥为主，N、P、K肥配合施用；施绿亨水稻专用生物有机肥2000～3000千克/667平方米，硫酸锌1千克/667平方米，碳铵40～50千克/667平方米、过磷酸钙30～40千克/667平方米，或40%高含量复混肥25千克/667平方米加尿素5～8千克/667平方米作基肥。\n甬优7850这一籼粳杂交稻新品种是由哪两个机构联合培育的？\nA. 宁波市种子有限公司和浙江省农业局\nB. 浙江省宁波市农科院和宁波市种子有限公司\nC. 浙江省农科院和浙江省种子有限公司\nD. 浙江省农科院和宁波市农业局",
         "answer": "B",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -382,7 +424,8 @@
         "question": "1）甬优7850是什么？“甬优7850”是由浙江省宁波市农科院和宁波市种子有限公司合作, 以早熟晚粳不育系“甬粳78A”为母本、早熟中籼恢复系“F9250”为父本育成的籼粳杂交稻新品种。\n2）栽培甬优7850时有哪些技术要点需要注意？①培育多蘖壮秧：精做秧田，按照大田∶秧田为10∶1的比例，选择土质松软肥沃、田平草少、避风向阳、排灌方便的田块做秧田，必须做到早耕、多耕、细整，即“三犁三耙”。同时在秧田耕后耙前，早施基肥。施绿亨水稻专用生物有机肥1000～2000千克/667平方米，水稻复合肥10～15千克/667平方米，秧厢做好后再施尿素2～3千克/667平方米，浸种催芽晒种。播种前晒种1～2天，利用太阳光紫外线杀死部分细菌，同时晒种后能使种子充分吸水，促进种子萌发，提高种子发芽率和发芽势；采用“日浸夜露，少浸多露，三起三落”的方法，用强氯精3克加水1.25千克浸泡种子1千克，10小时后捞出种子用20%稻脚青或硫酸铜1/1000溶液浸泡种子24小时，随后再用清水浸泡12小时，捞出沥干即可催芽；先用45摄氏度以内的温水预热上堆，谷种升温后，控制温度在35～38摄氏度，温度过高要翻堆，过低则要采取措施提高种堆温度。催芽20小时左右，谷种即可露白破胸。播种前将催好芽的谷种摊开，常温下炼芽3～6小时后再播种，以便谷种适应空气温度，提高成苗率。②适时播种：选择4月上旬播种为宜，同时根据天气变化，选择冷尾暖头的天气播种，根据该组合的全生育期，最佳播种期为4月6—20日。稀播匀播，一般秧田播种量控制在20千克/667平方米左右。播后及时塌谷盖膜，采用湿润薄膜育秧，秧龄以30天左右为宜，不得超过40天。③肥水管理，尽早追肥：按照“断奶肥要早，促蘖肥要巧，接力肥要轻，送嫁肥要准“的原则。叶一心时，追断奶肥，用尿素2千克/667平方米并加入15%多效唑可湿性粉剂120～180克/667平方米对水喷施；叶一心时，巧施促蘖肥，用尿素3～5千克/667平方米与叶面肥喷施宝或高能磷钾王一并对水喷施；叶期前后视苗情适当补施接力肥，生长较弱叶色较差的施尿素3～5千克/667平方米，生长较好的不施；拔秧前3～4天追施送嫁肥，施尿素5～6千克/667平方米，如果移栽前气温低，或小苗移栽，送嫁肥可适当早施；④科学排灌，科学合理排灌：以水调温、以水调气、以水调肥，秧田灌水应根据秧苗生长情况，播后要保持厢面湿润，土壤通气，促进扎根立苗，一般从播种到秧苗叶一心期间，保持湿润灌溉，阴天秧厢沟应保持半沟水，晴天满沟水，切忌灌深水；叶一心后，灌水上秧厢，并保持秧厢2～3厘米浅水层，防止秧厢断水，若遇寒冷天气，灌深水护秧，深度以不淹秧苗尖为度，夜灌昼排。秧苗高3厘米时，及时排水晒苗，促使秧苗根下扎，叶期以后，一般采用浅水灌溉，提高水温和土温，促进秧苗健壮生长。\n⑤适时炼苗： 当秧苗穿针见绿即叶一心时，遇气温高于28摄氏度，白天可打开两头的薄膜通风炼苗；叶一心时气温达到22摄氏度以上，白天需打开四周的薄膜通风炼苗；叶一心期按照“宁冷勿热”原则即可揭膜，最好是早上或傍晚揭膜（如果空气湿度大、气温偏低的阴雨天应在上午揭膜，如果是晴天，揭膜时间宜在傍晚前）；揭膜后，白天气温不低于25摄氏度，夜间不低于15摄氏度时，不必盖膜。⑥秧田病虫害防治：水稻秧田期主要发生二化螟、蓟马、立枯病、稻瘟等，危害水稻秧苗生长；需农业防治，科学管好水肥，提高秧苗抗性。需药物防治，稻飞虱：用噻嗪酮、噻虫嗪、啶虫脒等，稻蓟马：用吡虫啉、敌百虫、吡蚜酮等，稻纵卷叶螟：用康宽、氯虫噻虫嗪等，稻瘟病：用三环唑、富士一号、苯甲丙环唑等；需好送嫁药，在拔秧前2～3天，用三环唑+三唑磷+吡蚜酮对水均匀喷雾。⑦加强大田管理：及时平整大田，保证质量选择排灌方便、肥力中等、土质为冲积性土壤的稻田，在栽插前一周（不论是否寒潮期间）开始少水耕整，实施“三犁三耙”，一定要整平且泥烂适中，只留遮泥水。同时结合耕整深施基肥，底肥以有机肥为主，N、P、K肥配合施用；施绿亨水稻专用生物有机肥2000～3000千克/667平方米，硫酸锌1千克/667平方米，碳铵40～50千克/667平方米、过磷酸钙30～40千克/667平方米，或40%高含量复混肥25千克/667平方米加尿素5～8千克/667平方米作基肥。\n甬优7850的理想播种时间是何时？\nA. 6月上旬\nB. 3月上旬\nC. 5月上旬\nD. 4月上旬",
         "answer": "D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -391,7 +434,8 @@
         "question": "1）甬优7850是什么？“甬优7850”是由浙江省宁波市农科院和宁波市种子有限公司合作, 以早熟晚粳不育系“甬粳78A”为母本、早熟中籼恢复系“F9250”为父本育成的籼粳杂交稻新品种。\n2）栽培甬优7850时有哪些技术要点需要注意？①培育多蘖壮秧：精做秧田，按照大田∶秧田为10∶1的比例，选择土质松软肥沃、田平草少、避风向阳、排灌方便的田块做秧田，必须做到早耕、多耕、细整，即“三犁三耙”。同时在秧田耕后耙前，早施基肥。施绿亨水稻专用生物有机肥1000～2000千克/667平方米，水稻复合肥10～15千克/667平方米，秧厢做好后再施尿素2～3千克/667平方米，浸种催芽晒种。播种前晒种1～2天，利用太阳光紫外线杀死部分细菌，同时晒种后能使种子充分吸水，促进种子萌发，提高种子发芽率和发芽势；采用“日浸夜露，少浸多露，三起三落”的方法，用强氯精3克加水1.25千克浸泡种子1千克，10小时后捞出种子用20%稻脚青或硫酸铜1/1000溶液浸泡种子24小时，随后再用清水浸泡12小时，捞出沥干即可催芽；先用45摄氏度以内的温水预热上堆，谷种升温后，控制温度在35～38摄氏度，温度过高要翻堆，过低则要采取措施提高种堆温度。催芽20小时左右，谷种即可露白破胸。播种前将催好芽的谷种摊开，常温下炼芽3～6小时后再播种，以便谷种适应空气温度，提高成苗率。②适时播种：选择4月上旬播种为宜，同时根据天气变化，选择冷尾暖头的天气播种，根据该组合的全生育期，最佳播种期为4月6—20日。稀播匀播，一般秧田播种量控制在20千克/667平方米左右。播后及时塌谷盖膜，采用湿润薄膜育秧，秧龄以30天左右为宜，不得超过40天。③肥水管理，尽早追肥：按照“断奶肥要早，促蘖肥要巧，接力肥要轻，送嫁肥要准“的原则。叶一心时，追断奶肥，用尿素2千克/667平方米并加入15%多效唑可湿性粉剂120～180克/667平方米对水喷施；叶一心时，巧施促蘖肥，用尿素3～5千克/667平方米与叶面肥喷施宝或高能磷钾王一并对水喷施；叶期前后视苗情适当补施接力肥，生长较弱叶色较差的施尿素3～5千克/667平方米，生长较好的不施；拔秧前3～4天追施送嫁肥，施尿素5～6千克/667平方米，如果移栽前气温低，或小苗移栽，送嫁肥可适当早施；④科学排灌，科学合理排灌：以水调温、以水调气、以水调肥，秧田灌水应根据秧苗生长情况，播后要保持厢面湿润，土壤通气，促进扎根立苗，一般从播种到秧苗叶一心期间，保持湿润灌溉，阴天秧厢沟应保持半沟水，晴天满沟水，切忌灌深水；叶一心后，灌水上秧厢，并保持秧厢2～3厘米浅水层，防止秧厢断水，若遇寒冷天气，灌深水护秧，深度以不淹秧苗尖为度，夜灌昼排。秧苗高3厘米时，及时排水晒苗，促使秧苗根下扎，叶期以后，一般采用浅水灌溉，提高水温和土温，促进秧苗健壮生长。\n⑤适时炼苗： 当秧苗穿针见绿即叶一心时，遇气温高于28摄氏度，白天可打开两头的薄膜通风炼苗；叶一心时气温达到22摄氏度以上，白天需打开四周的薄膜通风炼苗；叶一心期按照“宁冷勿热”原则即可揭膜，最好是早上或傍晚揭膜（如果空气湿度大、气温偏低的阴雨天应在上午揭膜，如果是晴天，揭膜时间宜在傍晚前）；揭膜后，白天气温不低于25摄氏度，夜间不低于15摄氏度时，不必盖膜。⑥秧田病虫害防治：水稻秧田期主要发生二化螟、蓟马、立枯病、稻瘟等，危害水稻秧苗生长；需农业防治，科学管好水肥，提高秧苗抗性。需药物防治，稻飞虱：用噻嗪酮、噻虫嗪、啶虫脒等，稻蓟马：用吡虫啉、敌百虫、吡蚜酮等，稻纵卷叶螟：用康宽、氯虫噻虫嗪等，稻瘟病：用三环唑、富士一号、苯甲丙环唑等；需好送嫁药，在拔秧前2～3天，用三环唑+三唑磷+吡蚜酮对水均匀喷雾。⑦加强大田管理：及时平整大田，保证质量选择排灌方便、肥力中等、土质为冲积性土壤的稻田，在栽插前一周（不论是否寒潮期间）开始少水耕整，实施“三犁三耙”，一定要整平且泥烂适中，只留遮泥水。同时结合耕整深施基肥，底肥以有机肥为主，N、P、K肥配合施用；施绿亨水稻专用生物有机肥2000～3000千克/667平方米，硫酸锌1千克/667平方米，碳铵40～50千克/667平方米、过磷酸钙30～40千克/667平方米，或40%高含量复混肥25千克/667平方米加尿素5～8千克/667平方米作基肥。\n甬优7850的肥水管理应遵循哪个原则？\nA. 断奶肥要晚，促蘖肥要巧，接力肥要轻，送嫁肥要准\nB. 断奶肥要早，促蘖肥要重，接力肥要轻，送嫁肥要准\nC. 断奶肥要早，促蘖肥要巧，接力肥要轻，送嫁肥要准\nD. 断奶肥要早，促蘖肥要巧，接力肥要重，送嫁肥要准",
         "answer": "C",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -400,7 +444,8 @@
         "question": "1）云粳26号是什么？云粳26号是云南省农业科学院粮食作物研究所于2005年以云粳优5号为母本,云粳12号为父本杂交育成的粳稻新品种1。\n2）秧龄对云粳26号产量的影响？根据已有文献数据记载，40天与50天秧龄之间产量差异不显著,50天与60天秧龄之间产量差异达显著水平,40与60天秧龄产量差异达极显著水平。由此说明，云粳26号最佳秧龄为40～50天，秧龄过大不利于高产，在不能按时移栽的条件下，宜推迟播种。\n3）施氮量对云粳26号产量的影响？氮肥用量的增加，产量也随之增加：施氮量从240 kg/hm2增加到270kg/hm2,每公顷增施纯氮1kg,平均增产稻谷27.3kg,施氮量从270kg/hm2增加到300kg/hm2,每公顷增施纯氮1kg,平均增产稻谷38.0kg。以上结果表明,云粳26号需肥量大,需要维持较高的氮素水平才能获得高产。因此云粳26号需肥量大，需要维持较高的氮素水平才能获得高产。\n综上，题中所给条件并非云粳26号的最佳栽种条件，故不能获得高产。\n云粳26号的育种单位是哪个？\nA. 云南省农业科学院作物遗传育种研究所\nB. 云南省农业科学院水稻研究所\nC. 云南省农业科学院农业生物技术研究所\nD. 云南省农业科学院粮食作物研究所",
         "answer": "D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -409,7 +454,8 @@
         "question": "1）云粳26号是什么？云粳26号是云南省农业科学院粮食作物研究所于2005年以云粳优5号为母本,云粳12号为父本杂交育成的粳稻新品种1。\n2）秧龄对云粳26号产量的影响？根据已有文献数据记载，40天与50天秧龄之间产量差异不显著,50天与60天秧龄之间产量差异达显著水平,40与60天秧龄产量差异达极显著水平。由此说明，云粳26号最佳秧龄为40～50天，秧龄过大不利于高产，在不能按时移栽的条件下，宜推迟播种。\n3）施氮量对云粳26号产量的影响？氮肥用量的增加，产量也随之增加：施氮量从240 kg/hm2增加到270kg/hm2,每公顷增施纯氮1kg,平均增产稻谷27.3kg,施氮量从270kg/hm2增加到300kg/hm2,每公顷增施纯氮1kg,平均增产稻谷38.0kg。以上结果表明,云粳26号需肥量大,需要维持较高的氮素水平才能获得高产。因此云粳26号需肥量大，需要维持较高的氮素水平才能获得高产。\n综上，题中所给条件并非云粳26号的最佳栽种条件，故不能获得高产。\n云粳26号的母本是哪一个品种？\nA. 云粳优6号\nB. 云粳12号\nC. 云粳优5号\nD. 云粳13号",
         "answer": "C",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -418,7 +464,8 @@
         "question": "1）云粳26号是什么？云粳26号是云南省农业科学院粮食作物研究所于2005年以云粳优5号为母本,云粳12号为父本杂交育成的粳稻新品种1。\n2）秧龄对云粳26号产量的影响？根据已有文献数据记载，40天与50天秧龄之间产量差异不显著,50天与60天秧龄之间产量差异达显著水平,40与60天秧龄产量差异达极显著水平。由此说明，云粳26号最佳秧龄为40～50天，秧龄过大不利于高产，在不能按时移栽的条件下，宜推迟播种。\n3）施氮量对云粳26号产量的影响？氮肥用量的增加，产量也随之增加：施氮量从240 kg/hm2增加到270kg/hm2,每公顷增施纯氮1kg,平均增产稻谷27.3kg,施氮量从270kg/hm2增加到300kg/hm2,每公顷增施纯氮1kg,平均增产稻谷38.0kg。以上结果表明,云粳26号需肥量大,需要维持较高的氮素水平才能获得高产。因此云粳26号需肥量大，需要维持较高的氮素水平才能获得高产。\n综上，题中所给条件并非云粳26号的最佳栽种条件，故不能获得高产。\n云粳26号的理想秧龄是几天？\nA. 30～40天\nB. 50～60天\nC. 60～70天\nD. 40～50天",
         "answer": "D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -427,7 +474,8 @@
         "question": "1）云粳26号是什么？云粳26号是云南省农业科学院粮食作物研究所于2005年以云粳优5号为母本,云粳12号为父本杂交育成的粳稻新品种1。\n2）秧龄对云粳26号产量的影响？根据已有文献数据记载，40天与50天秧龄之间产量差异不显著,50天与60天秧龄之间产量差异达显著水平,40与60天秧龄产量差异达极显著水平。由此说明，云粳26号最佳秧龄为40～50天，秧龄过大不利于高产，在不能按时移栽的条件下，宜推迟播种。\n3）施氮量对云粳26号产量的影响？氮肥用量的增加，产量也随之增加：施氮量从240 kg/hm2增加到270kg/hm2,每公顷增施纯氮1kg,平均增产稻谷27.3kg,施氮量从270kg/hm2增加到300kg/hm2,每公顷增施纯氮1kg,平均增产稻谷38.0kg。以上结果表明,云粳26号需肥量大,需要维持较高的氮素水平才能获得高产。因此云粳26号需肥量大，需要维持较高的氮素水平才能获得高产。\n综上，题中所给条件并非云粳26号的最佳栽种条件，故不能获得高产。\n云粳26号的产量受哪项因素直接影响？\nA. 水分\nB. 温度\nC. 氮肥用量\nD. 光照",
         "answer": "C",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -436,7 +484,8 @@
         "question": "1）淮稻7号是什么？淮稻7号是江苏徐淮地区淮阴农业科学研究所用丙850、广陵香糯、早丰九号复交选育而成的中粳稻新品种。\n2）淮稻7号应如何科学用肥？①施肥量：据1997～2004年江苏省多年试种结果表明，淮稻7号亩产600-650kg，一般需亩施纯氮18-20kg（磷钾配合）。②基蘖肥与穗粒肥：肥料运筹宜采用平衡促进法，基蘖肥与穗粒肥比为6：4或者6.5：3.5，既促进前期早发早够苗，又保证种后期高成穗率。基肥在整地前施入，每亩尿素10kg、复合肥25kg。③分蘖肥：分蘖肥栽插后5-6天施入，每亩尿素10kg。栽后10-12天看苗促黄塘，亩施尿素2kg左右。④穗肥：穗肥要促进兼顾，以促为主，一般在余叶3.5、1.5叶时，各亩施尿素10.4-10.5kg。⑤促花肥：施促花肥时，每亩增施氯化钾6-8kg。\n通过以上科学用肥管理措施，可以促进淮稻7号的生长发育，提升其品质和产量。\n淮稻7号的选育是由哪个科研机构完成的？\nA. 江苏徐淮地区淮阴农业科学研究所\nB. 山东农业科学研究所\nC. 广东农业科学研究所\nD. 湖南农业科学研究所",
         "answer": "A",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -445,7 +494,8 @@
         "question": "1）淮稻7号是什么？淮稻7号是江苏徐淮地区淮阴农业科学研究所用丙850、广陵香糯、早丰九号复交选育而成的中粳稻新品种。\n2）淮稻7号应如何科学用肥？①施肥量：据1997～2004年江苏省多年试种结果表明，淮稻7号亩产600-650kg，一般需亩施纯氮18-20kg（磷钾配合）。②基蘖肥与穗粒肥：肥料运筹宜采用平衡促进法，基蘖肥与穗粒肥比为6：4或者6.5：3.5，既促进前期早发早够苗，又保证种后期高成穗率。基肥在整地前施入，每亩尿素10kg、复合肥25kg。③分蘖肥：分蘖肥栽插后5-6天施入，每亩尿素10kg。栽后10-12天看苗促黄塘，亩施尿素2kg左右。④穗肥：穗肥要促进兼顾，以促为主，一般在余叶3.5、1.5叶时，各亩施尿素10.4-10.5kg。⑤促花肥：施促花肥时，每亩增施氯化钾6-8kg。\n通过以上科学用肥管理措施，可以促进淮稻7号的生长发育，提升其品质和产量。\n淮稻7号在栽插后多少天应施入分蘖肥？\nA. 3-4天\nB. 9-10天\nC. 7-8天\nD. 5-6天",
         "answer": "D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -454,7 +504,8 @@
         "question": "1）黄丰占是什么？黄丰占是广东省农科院水稻研究所以优质稻黄华占为母本、丰秀占为父本杂交育成的水稻新品种。\n2）种植黄丰占怎么防治病虫害？①黄丰占叶色浓绿，中抗稻瘟病，但栽培时仍需注意防治。可以通过选用抗病品种、合理轮作、田间卫生管理以及适时施用农药等综合措施进行防治；②黄丰占白叶枯病具有中抗性，栽培时的防治措施包括采用无病种子、合理灌溉、及时除草、增施有机肥以及适时使用生物或化学农药等方法；③对于纹枯病、细菌性条斑病及螟虫，在在分蘖盛期、破口至齐穗期进行防治效果最佳；④在黄丰占种植后期注意防治稻飞虱。\n除此之外，可以综合运用物理、化学及生物防治措施，实施病虫害综合管理。\n黄丰占在种植后期应防治哪种病虫害？\nA. 螟虫\nB. 稻瘟病\nC. 稻飞虱\nD. 白叶枯病",
         "answer": "C",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -463,7 +514,8 @@
         "question": "1)Y两优1号是什么？Y两优1号系湖南杂交水稻研究中心用Y58S与9311配制而成的优质二系杂交水稻新品种。\n2)Y两优1号在秧田时的管理措施有哪些？①因地制宜，适时播种。Y两优1号适应性较广, 适宜在永安市不同土壤类型、不同稻作区栽培推广。在晚改中 (早播中稻) 栽培区,4月10-25日播种, 在一季中稻栽培区, 5月10-15日播种, 在瓜后稻、豆后稻、菜后稻栽培区, 5 月20-25日播种, 在烟后稻栽培区, 6月5-10日播种, 在连作晚稻栽培区, 6月10-15日播种。②培育多蘖壮秧。选择背风向阳、肥力中上等、排灌方便的稻田作秧地, 以湿润育秧为主, 施水稻专用肥1125kg/hm2作基肥, 两叶一心期施水稻专用肥375 kg/hm2作为秧田追肥。③适时插秧, 合理密植。采用湿润育秧, 5-6叶时移栽, 秧龄25-26 天为宜, 30天内插完;秧龄不宜超龄, 插秧规格以25cm×20cm, 丛插2粒谷, 确保基本苗达到120万-150万/hm2, 适时注意浅插, 促进低节位多分蘖成大穗。④合理施肥。本田基肥使用水稻专用肥1125kg/hm2为宜, 插秧后5-7天施用金稻龙药肥混合除草剂150kg/hm2、15-20天用水稻专用肥375kg/hm2作本田追肥, Y两优1号有明显的二次灌浆现象, 孕穗期必须严把穗肥关, 一般用尿素和氯化钾各75 kg/hm2。⑤科学管水, 及时排水 (搁) 烤田。水稻田间水分管理上, 掌握以水调肥、以肥促蘖、以气养根保蘖为原则。⑥综合防治病虫害。采取“预防为主, 综合防治”的植保方针, 认真做好植保“二查二定”工作, 采用准确测报及时防治的方法。化学防治选用高效、低毒、低残留的农药产品。\n通过以上管理措施，可以有效促进Y两优1号的优质高产。\nY两优1号的秧田基肥采用了哪种肥料？\nA. 尿素\nB. 氯化钾\nC. 水稻专用肥\nD. 金稻龙药肥",
         "answer": "C",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -472,7 +524,8 @@
         "question": "1)Y两优1号是什么？Y两优1号系湖南杂交水稻研究中心用Y58S与9311配制而成的优质二系杂交水稻新品种。\n2)Y两优1号在秧田时的管理措施有哪些？①因地制宜，适时播种。Y两优1号适应性较广, 适宜在永安市不同土壤类型、不同稻作区栽培推广。在晚改中 (早播中稻) 栽培区,4月10-25日播种, 在一季中稻栽培区, 5月10-15日播种, 在瓜后稻、豆后稻、菜后稻栽培区, 5 月20-25日播种, 在烟后稻栽培区, 6月5-10日播种, 在连作晚稻栽培区, 6月10-15日播种。②培育多蘖壮秧。选择背风向阳、肥力中上等、排灌方便的稻田作秧地, 以湿润育秧为主, 施水稻专用肥1125kg/hm2作基肥, 两叶一心期施水稻专用肥375 kg/hm2作为秧田追肥。③适时插秧, 合理密植。采用湿润育秧, 5-6叶时移栽, 秧龄25-26 天为宜, 30天内插完;秧龄不宜超龄, 插秧规格以25cm×20cm, 丛插2粒谷, 确保基本苗达到120万-150万/hm2, 适时注意浅插, 促进低节位多分蘖成大穗。④合理施肥。本田基肥使用水稻专用肥1125kg/hm2为宜, 插秧后5-7天施用金稻龙药肥混合除草剂150kg/hm2、15-20天用水稻专用肥375kg/hm2作本田追肥, Y两优1号有明显的二次灌浆现象, 孕穗期必须严把穗肥关, 一般用尿素和氯化钾各75 kg/hm2。⑤科学管水, 及时排水 (搁) 烤田。水稻田间水分管理上, 掌握以水调肥、以肥促蘖、以气养根保蘖为原则。⑥综合防治病虫害。采取“预防为主, 综合防治”的植保方针, 认真做好植保“二查二定”工作, 采用准确测报及时防治的方法。化学防治选用高效、低毒、低残留的农药产品。\n通过以上管理措施，可以有效促进Y两优1号的优质高产。\nY两优1号的插秧应按照何种规格进行？\nA. 30cm×25cm\nB. 25cm×20cm\nC. 20cm×15cm\nD. 35cm×30cm",
         "answer": "B",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -481,7 +534,8 @@
         "question": "1)汕优63是什么？汕优63是1981年由福建三明市农科所以亲本珍汕97A和明恢63育成的水稻品种。\n2)汕优63有哪些栽培要点需要注意？①根据结果要求，掌握最佳播期。7月下旬、8月中上旬是适合汕优63生长的温度最优时期，最有利于汕优63灌浆结实。②培养多蘖壮秧。栽培汕优63时应控制播种量，采用8-10公斤/亩，使单株营养方面达到5.2厘米；改进追肥方法。一叶一心施断奶肥，亩用尿素4-5公斤;二叶一心施促蘗肥,亩用尿素2-3公斤;五叶一心施送嫁肥,亩用尿素2-3公斤，亩施尿素总量9-11公斤。③适时移栽，进行合理密植。对于基本苗，采用“小群体，壮个体，高光效”原则进行。用双粒谷落田，对于不同类型的田块，采用不同的栽插规格。④依不同生育进程，进行合理施肥。施肥上采用“前重、中补、后轻”的施肥原则，以有机肥为主，磷钾结合，施足基肥、早追肥、早中耕；⑤加强田间管理，实现均衡增产。主要抓早促、晒田和病虫防治。⑥合理排灌水，浅促分蘖长好禾架，中期排水露田练苗壮秆，孕穗期浅水养胎，后期干湿交替成熟。\n    遵循以上栽培技术要点，可以使得汕优63在实际生产中获得优质高产。\n汕优63的播种时间最佳在哪个时段？\nA. 7月下旬\nB. 6月下旬\nC. 8月下旬\nD. 9月下旬",
         "answer": "A",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -490,7 +544,8 @@
         "question": "1)汕优63是什么？汕优63是1981年由福建三明市农科所以亲本珍汕97A和明恢63育成的水稻品种。\n2)汕优63有哪些栽培要点需要注意？①根据结果要求，掌握最佳播期。7月下旬、8月中上旬是适合汕优63生长的温度最优时期，最有利于汕优63灌浆结实。②培养多蘖壮秧。栽培汕优63时应控制播种量，采用8-10公斤/亩，使单株营养方面达到5.2厘米；改进追肥方法。一叶一心施断奶肥，亩用尿素4-5公斤;二叶一心施促蘗肥,亩用尿素2-3公斤;五叶一心施送嫁肥,亩用尿素2-3公斤，亩施尿素总量9-11公斤。③适时移栽，进行合理密植。对于基本苗，采用“小群体，壮个体，高光效”原则进行。用双粒谷落田，对于不同类型的田块，采用不同的栽插规格。④依不同生育进程，进行合理施肥。施肥上采用“前重、中补、后轻”的施肥原则，以有机肥为主，磷钾结合，施足基肥、早追肥、早中耕；⑤加强田间管理，实现均衡增产。主要抓早促、晒田和病虫防治。⑥合理排灌水，浅促分蘖长好禾架，中期排水露田练苗壮秆，孕穗期浅水养胎，后期干湿交替成熟。\n    遵循以上栽培技术要点，可以使得汕优63在实际生产中获得优质高产。\n汕优63的施肥应遵循哪种原则？\nA. “前轻、中重、后补”\nB. “前重、中补、后轻”\nC. “前轻、中补、后重”\nD. “前补、中轻、后重”",
         "answer": "B",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -499,7 +554,8 @@
         "question": "1）黄华占是什么？黄华占是广东省农业科学院水稻研究所以黄新占为母本、丰华占为父本配制杂交育成的感温型常规稻品种。\n2）黄华占的栽培技术要点有哪些？由2016、2017年铅山县汪二镇火田村试验示范可知，黄华占的栽培有以下技术要点：①地块选择。种植黄华占应选择地势开阔、土层深厚、土壤养分中等以上水平地块。火田村的平原畈田, 地势开阔平坦, 排灌方便, 土地表层厚度50cm以上, 耕作层20-30cm, 属河积性潴育型水稻土, 有机质含量2%-3%, 土壤结构良好, 养分含量中等, 呈弱酸性, 适宜种植黄华占。②适时播种，合理密植。示范地采取育苗移栽方式, 5月23日播种, 6月21日移栽, 移栽时带泥、带药、带分蘖。秧田播种量225-300 kg/hm2。栽插规格20cm×24cm, 每蔸插3-4苗, 确保基本苗达120万-150万株/hm2。在陕南适宜生态区内，可于4月10日采用薄膜育秧(机插秋4月20日播种)，秧田应注意做好肥水管理，培育带蘗壮秧。③肥水管理。黄华占作中稻栽培的生育期相对较长, 可适当在其生长中后期提高施肥比例。肥分管理的原则是早施重施前期肥、适施巧施中期肥、稳施追施后期肥。水分管理的原则是勤灌浅灌、多灌多晒。④病虫害防治。总体防治原则是以防为主、标本兼治。前期注意防治二化螟，中期注意防治纹枯病，后期注意防治稻瘟病、稻苞虫和稻纵卷叶螟。\n遵循以上栽培要点，可以在实际生产中提高黄华占的品质和产量。\n感温型常规稻品种黄华占是由哪个省的农业科学院水稻研究所育成的？\nA. 福建省\nB. 广东省\nC. 江苏省\nD. 湖南省",
         "answer": "B",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -508,7 +564,8 @@
         "question": "1)宜香优2115是什么？“宜香优2115”是四川省绿丹种业有限责任公司、四川农业大学农学院、宜宾市农业科学院用“宜香1A”与恢复系“雅恢2115”组配而成的籼迟熟优质杂交水稻。\n2)宜香优2115适合在哪些地区种植？宜香优2115于2012年通过国家稻品种审定标准。适合在以下地区种植：①在云南、贵州（武陵山区除外）、重庆（武陵山区除外）的中低海拔籼稻区作一季中稻种植；②在四川的平坝丘陵稻区作为一季中稻种植；③陕西南部地区同样适合种植宜香优2115作为一季中稻；④贵州省铜仁市的迟熟籼稻区适合宜香优2115的种植；⑤贵州、湖南、湖北、重庆四省（市）所辖的武陵山区海拔800米以下稻区适合宜香优2115作一季中稻种植。\n综合以上信息可知，宜香优2115是一个适应性较广的籼型三系杂交水稻品种，适合在我国南方多个地区的特定稻作区种植。\n宜香优2115这种籼迟熟优质杂交水稻是哪些单位共同配制的？\nA. 四川省绿丹种业有限责任公司、四川农业大学农学院、宜宾市农业科学院\nB. 四川农业大学、贵州农业科学院、湖南农业科学院\nC. 云南农业大学、贵州农业科学院、重庆农业科学院\nD. 陕西农业大学、湖南农业科学院、湖北农业科学院",
         "answer": "A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -517,7 +574,8 @@
         "question": "1)宜香优2115是什么？“宜香优2115”是四川省绿丹种业有限责任公司、四川农业大学农学院、宜宾市农业科学院用“宜香1A”与恢复系“雅恢2115”组配而成的籼迟熟优质杂交水稻。\n2)宜香优2115适合在哪些地区种植？宜香优2115于2012年通过国家稻品种审定标准。适合在以下地区种植：①在云南、贵州（武陵山区除外）、重庆（武陵山区除外）的中低海拔籼稻区作一季中稻种植；②在四川的平坝丘陵稻区作为一季中稻种植；③陕西南部地区同样适合种植宜香优2115作为一季中稻；④贵州省铜仁市的迟熟籼稻区适合宜香优2115的种植；⑤贵州、湖南、湖北、重庆四省（市）所辖的武陵山区海拔800米以下稻区适合宜香优2115作一季中稻种植。\n综合以上信息可知，宜香优2115是一个适应性较广的籼型三系杂交水稻品种，适合在我国南方多个地区的特定稻作区种植。\n宜香优2115的适宜种植地区是哪些？\nA. 四川的平坝丘陵稻区\nB. 云南、贵州、重庆的中低海拔籼稻区\nC. 陕西南部地区、贵州省铜仁市的迟熟籼稻区\nD. 所有以上地区",
         "answer": "D",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -526,7 +584,8 @@
         "question": "1)宜香优2115是什么？“宜香优2115”是四川省绿丹种业有限责任公司、四川农业大学农学院、宜宾市农业科学院用“宜香1A”与恢复系“雅恢2115”组配而成的籼迟熟优质杂交水稻。\n2)宜香优2115适合在哪些地区种植？宜香优2115于2012年通过国家稻品种审定标准。适合在以下地区种植：①在云南、贵州（武陵山区除外）、重庆（武陵山区除外）的中低海拔籼稻区作一季中稻种植；②在四川的平坝丘陵稻区作为一季中稻种植；③陕西南部地区同样适合种植宜香优2115作为一季中稻；④贵州省铜仁市的迟熟籼稻区适合宜香优2115的种植；⑤贵州、湖南、湖北、重庆四省（市）所辖的武陵山区海拔800米以下稻区适合宜香优2115作一季中稻种植。\n综合以上信息可知，宜香优2115是一个适应性较广的籼型三系杂交水稻品种，适合在我国南方多个地区的特定稻作区种植。\n宜香优2115属于哪一类的水稻品种？\nA. 籼型三系杂交水稻\nB. 早熟杂交水稻\nC. 迟熟杂交水稻\nD. 粳型三系杂交水稻",
         "answer": "A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -535,7 +594,8 @@
         "question": "1）黄华占是什么？黄华占是广东省农业科学院水稻研究所用黄新占和丰华占为亲本育成的籼型常规水稻。\n2）黄华占的特征特性是什么？黄华占属感温型常规水稻品种，桂南、桂中早稻种植，全生育期126天左右，比对照七桂占迟熟5天；晚稻种植，全生育期106天左右，比对照七桂占迟熟4-5天。\n3）黄华占的适宜种植区域？①2013年通过陕西审定，可在陕西南部适宜生态区内种植；②2011年通过重庆审定，适宜重庆市海拔600米以下地区作一季中稻种植；渝西及沿江河谷地区3月上中旬播种，深丘及武陵山区适宜3月下旬至4月上旬播种；③2010年通过浙江审定，适宜在浙江省稻瘟病轻发地区作单季籼稻种植；④2008年通过广西审定，可在桂南、桂中稻作区作早、晚稻种植，应特别注意稻瘟病等病虫害的防治；⑤2008年通过海南审定，适宜在海南省作早晚稻种植，稻瘟重发区要注意防治稻瘟病；⑥2007年通过湖南审定，适宜湖南省稻瘟病轻发的山丘区作中稻种植；⑦2007年通过湖北省审定，适于湖北省稻瘟病无病区或轻病区作一季晚稻种植；⑧2005年通过广西审定，适合广西省各地晚造种植和粤北以外地区早造种植。\n综上可以得出，黄华占作为一个感温型常规稻品种，具有较好的适应性，能够在多个省份种植，特别是在华南地区表现良好。\n黄华占水稻品种是由哪个单位育种的？\nA. 广东省农业科学院水稻研究所\nB. 浙江省农业科学院水稻研究所\nC. 陕西省农业科学院水稻研究所\nD. 重庆市农业科学院水稻研究所",
         "answer": "A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -544,7 +604,8 @@
         "question": "1）黄华占是什么？黄华占是广东省农业科学院水稻研究所用黄新占和丰华占为亲本育成的籼型常规水稻。\n2）黄华占的特征特性是什么？黄华占属感温型常规水稻品种，桂南、桂中早稻种植，全生育期126天左右，比对照七桂占迟熟5天；晚稻种植，全生育期106天左右，比对照七桂占迟熟4-5天。\n3）黄华占的适宜种植区域？①2013年通过陕西审定，可在陕西南部适宜生态区内种植；②2011年通过重庆审定，适宜重庆市海拔600米以下地区作一季中稻种植；渝西及沿江河谷地区3月上中旬播种，深丘及武陵山区适宜3月下旬至4月上旬播种；③2010年通过浙江审定，适宜在浙江省稻瘟病轻发地区作单季籼稻种植；④2008年通过广西审定，可在桂南、桂中稻作区作早、晚稻种植，应特别注意稻瘟病等病虫害的防治；⑤2008年通过海南审定，适宜在海南省作早晚稻种植，稻瘟重发区要注意防治稻瘟病；⑥2007年通过湖南审定，适宜湖南省稻瘟病轻发的山丘区作中稻种植；⑦2007年通过湖北省审定，适于湖北省稻瘟病无病区或轻病区作一季晚稻种植；⑧2005年通过广西审定，适合广西省各地晚造种植和粤北以外地区早造种植。\n综上可以得出，黄华占作为一个感温型常规稻品种，具有较好的适应性，能够在多个省份种植，特别是在华南地区表现良好。\n黄华占这种稻米适合在哪个省份的轻度稻瘟病地区进行单季种植？\nA. 浙江省\nB. 陕西省\nC. 新疆省\nD. 重庆市",
         "answer": "A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -553,7 +614,8 @@
         "question": "文献语料显示TAC4(Tiller Angle Control 4)与SG2（small grain2）为同一基因。TAC4基因位于2号染色体的正链上，水稻日本晴（Oryza sativa?ssp.?japonica?cv. Nipponbare）基因组第三代测序结果显示，基因起始位点至终止位点为15138546-15142385，序列全长3840bp，编码一种植物特有的、高度保守的核蛋白，据报道TAC4调节水稻中的内源性生长素含量和分布来控制分蘖角度。TAC4在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os02g0450000；水稻基因组注释项目数据库（Rice?Genome Annotation Project，RGAP）：LOC_Os02g25230；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os02g022060。\nTAC4基因是存在于哪个染色体上的？\nA. 3号染色体\nB. 1号染色体\nC. 2号染色体\nD. 4号染色体",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -562,7 +624,8 @@
         "question": "文献语料显示TAC4(Tiller Angle Control 4)与SG2（small grain2）为同一基因。TAC4基因位于2号染色体的正链上，水稻日本晴（Oryza sativa?ssp.?japonica?cv. Nipponbare）基因组第三代测序结果显示，基因起始位点至终止位点为15138546-15142385，序列全长3840bp，编码一种植物特有的、高度保守的核蛋白，据报道TAC4调节水稻中的内源性生长素含量和分布来控制分蘖角度。TAC4在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os02g0450000；水稻基因组注释项目数据库（Rice?Genome Annotation Project，RGAP）：LOC_Os02g25230；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os02g022060。\nTAC4基因是负责编码哪类蛋白的？\nA. 膜蛋白\nB. 核蛋白\nC. 信号蛋白\nD. 酶蛋白",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -571,7 +634,8 @@
         "question": "水稻OsSIZ2基因是SIZ/PIAS-type SUMO E3 ligase 2（RAP-DB），正向调控水稻的发育响应，对不同组织中的磷酸盐Pi（phosphate）和总磷浓度的负调控作用也很明显，并且对一些在磷（Pi）稳态感知和信号传导级联中发挥关键作用的基因有不同的影响，但OsSIZ2与OsSIZ1之间存在一定程度的功能冗余（Pei et al. 2017）。OsSIZ2基因位于3号染色体的正链上，水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）基因组第三代测序结果显示，基因起始位点至终止位点为30007436- 30015615，序列全长8180bp，编码的SUMO（small ubiquitin-related modifer） E3连接酶被预测的蛋白质域有PHD (plant homeodomain）, SAP (scaffold attachment factor A/B/acinus/PIAS), zf-MIZ (MIZ/SP-RING zinc finger)（RiceSuperPIRdb）。OsSIZ2在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os03g0719100；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os03g50980；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os03g044120。\nOsSIZ2基因位于水稻的哪一条染色体上？\nA. 3号染色体\nB. 2号染色体\nC. 4号染色体\nD. 1号染色体",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -580,7 +644,8 @@
         "question": "水稻OsSIZ2基因是SIZ/PIAS-type SUMO E3 ligase 2（RAP-DB），正向调控水稻的发育响应，对不同组织中的磷酸盐Pi（phosphate）和总磷浓度的负调控作用也很明显，并且对一些在磷（Pi）稳态感知和信号传导级联中发挥关键作用的基因有不同的影响，但OsSIZ2与OsSIZ1之间存在一定程度的功能冗余（Pei et al. 2017）。OsSIZ2基因位于3号染色体的正链上，水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）基因组第三代测序结果显示，基因起始位点至终止位点为30007436- 30015615，序列全长8180bp，编码的SUMO（small ubiquitin-related modifer） E3连接酶被预测的蛋白质域有PHD (plant homeodomain）, SAP (scaffold attachment factor A/B/acinus/PIAS), zf-MIZ (MIZ/SP-RING zinc finger)（RiceSuperPIRdb）。OsSIZ2在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os03g0719100；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os03g50980；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os03g044120。\nOsSIZ2基因在水稻中的序列长度为多少？\nA. 7180bp\nB. 10180bp\nC. 8180bp\nD. 9180bp",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -589,7 +654,8 @@
         "question": "水稻OsSIZ2基因是SIZ/PIAS-type SUMO E3 ligase 2（RAP-DB），正向调控水稻的发育响应，对不同组织中的磷酸盐Pi（phosphate）和总磷浓度的负调控作用也很明显，并且对一些在磷（Pi）稳态感知和信号传导级联中发挥关键作用的基因有不同的影响，但OsSIZ2与OsSIZ1之间存在一定程度的功能冗余（Pei et al. 2017）。OsSIZ2基因位于3号染色体的正链上，水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）基因组第三代测序结果显示，基因起始位点至终止位点为30007436- 30015615，序列全长8180bp，编码的SUMO（small ubiquitin-related modifer） E3连接酶被预测的蛋白质域有PHD (plant homeodomain）, SAP (scaffold attachment factor A/B/acinus/PIAS), zf-MIZ (MIZ/SP-RING zinc finger)（RiceSuperPIRdb）。OsSIZ2在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os03g0719100；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os03g50980；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os03g044120。\n水稻OsSIZ2基因是编码哪种蛋白质的？\nA. SUMO E3连接酶\nB. SUMO E4连接酶\nC. SUMO E1连接酶\nD. SUMO E2连接酶",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -598,7 +664,8 @@
         "question": "截止2024年7月，文献搜索显示OsJRL45基因可能通过调节与离子转运、盐胁迫响应和激素响应相关的基因的表达来提高水稻的盐耐受性，以下九个基因在OsJRL45基因敲除突变体水稻中下调，而在OsJRL45过表达水稻中上调, 这些基因包括: Os10g0210500, Os06g0193200, Os08g0564300, OsHAK8, OsHAK9, CAX3, G6PGH1, WOX4, PIN2。\n\n根据2024年7月的研究，OsJRL45基因可能通过调控哪类基因的表达来增强水稻的盐耐受性？\nA. 与氮素吸收、磷酸盐转运相关的基因\nB. 与离子转运、盐胁迫响应和激素响应相关的基因\nC. 与病虫害防治、生长发育相关的基因\nD. 与糖分解、光合作用相关的基因",
         "answer": "B",
         "split": {
-            "level1": "基因产物调控下游基因"
+            "level1": "基因产物调控下游基因",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -607,7 +674,8 @@
         "question": "水稻OsHCAR基因编码7-羟甲基叶绿素a还原酶（7-hydroxymethyl chlorophyll a reductase），它将 7-羟基甲基叶绿素 a (7- hydroxymethyl Chl a，7-HMC a) 转化为叶绿素 a (Chl a)，参与促进叶绿素降解，并调节细胞死亡信号传导(Piao et al. 2017)。OsHCAR基因位于4号染色体的正链上，水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）基因组第三代测序结果显示，基因起始位点至终止位点为14945302-14950729，序列全长5428bp，编码的7-羟甲基叶绿素a还原酶（7-hydroxymethyl chlorophyll a reductase）被预测的蛋白质域有FrhB_FdhB_C (Coenzyme F420 hydrogenase/dehydrogenase, beta subunit C terminus)和FrhB_FdhB_N (Coenzyme F420 hydrogenase/dehydrogenase, beta subunit N-term)（RiceSuperPIRdb）。OsHCAR在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os04g0320100；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os04g25400；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os04g021980。\nOsHCAR基因的序列长度为何？\nA. 5284bp\nB. 5428bp\nC. 4285bp\nD. 4528bp",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -616,7 +684,8 @@
         "question": "水稻OsHCAR基因编码7-羟甲基叶绿素a还原酶（7-hydroxymethyl chlorophyll a reductase），它将 7-羟基甲基叶绿素 a (7- hydroxymethyl Chl a，7-HMC a) 转化为叶绿素 a (Chl a)，参与促进叶绿素降解，并调节细胞死亡信号传导(Piao et al. 2017)。OsHCAR基因位于4号染色体的正链上，水稻日本晴（Oryza sativa ssp. japonica cv. Nipponbare）基因组第三代测序结果显示，基因起始位点至终止位点为14945302-14950729，序列全长5428bp，编码的7-羟甲基叶绿素a还原酶（7-hydroxymethyl chlorophyll a reductase）被预测的蛋白质域有FrhB_FdhB_C (Coenzyme F420 hydrogenase/dehydrogenase, beta subunit C terminus)和FrhB_FdhB_N (Coenzyme F420 hydrogenase/dehydrogenase, beta subunit N-term)（RiceSuperPIRdb）。OsHCAR在不同数据库中的基因编号如下：水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)：Os04g0320100；水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）：LOC_Os04g25400；稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)：AGIS_Os04g021980。\n预测的OsHCAR基因的蛋白质域包括哪些？\nA. FrhB_FdhB_D 和 FrhB_FdhB_E\nB. FrhB_FdhB_A 和 FrhB_FdhB_B\nC. FrhB_FdhB_C 和 FrhB_FdhB_N\nD. FrhB_FdhB_F 和 FrhB_FdhB_G",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -625,7 +694,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测CDPK13基因可能影响的植物性状包括：耐寒性(TO:0000303), 耐旱性(TO:0000276), 耐淹性(TO:0000524), 耐盐性(TO:0006001)。\n在RiceSuperPIRdb数据库中检索CDPK13基因的T2T基因编号，预测CDPK13基因的功能是：CAMK_CAMK_like.27 - CAMK includes calcium/calmodulin depedent protein kinases。其GO分析和KEGG分析发现OsCHR709基因的功能包括： GO:0001101_response to acid chemical(biological process),GO:0003674_molecular_function(molecular function),GO:0003824_catalytic activity(molecular function),GO:0004672_protein kinase activity(molecular function),GO:0004674_protein serine/threonine kinase activity(molecular function)等。\n在RAPDB数据库中搜索发现，CDPK13基因有以下功能：Similar to Calcium dependent protein kinase. (Os04t0584600-01); Group I calcium-dependent protein kinase; Cold and salt/drought tolerance; Activation of NADPH oxidase (RBOHH) in rice root during aerenchyma formation (Os04t0584600-02); Similar to cDNA clone:001-041-E12; full insert sequence. (Os04t0584600-03)。\n在EnsemblPlants数据库中，CDPK13基因有以下功能：GO:0005634_nucleus (cellular component), GO:0005737_cytoplasm (cellular component), GO:0016740_transferase activity (molecular function), GO:0016301_kinase activity (molecular function), GO:0016310_phosphorylation (biological process)等。\nCDPK13基因可能对哪些植物特性产生影响？\nA. 耐寒性\nB. 耐旱性\nC. 所有以上\nD. 耐盐性",
         "answer": "C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -634,7 +704,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测CDPK13基因可能影响的植物性状包括：耐寒性(TO:0000303), 耐旱性(TO:0000276), 耐淹性(TO:0000524), 耐盐性(TO:0006001)。\n在RiceSuperPIRdb数据库中检索CDPK13基因的T2T基因编号，预测CDPK13基因的功能是：CAMK_CAMK_like.27 - CAMK includes calcium/calmodulin depedent protein kinases。其GO分析和KEGG分析发现OsCHR709基因的功能包括： GO:0001101_response to acid chemical(biological process),GO:0003674_molecular_function(molecular function),GO:0003824_catalytic activity(molecular function),GO:0004672_protein kinase activity(molecular function),GO:0004674_protein serine/threonine kinase activity(molecular function)等。\n在RAPDB数据库中搜索发现，CDPK13基因有以下功能：Similar to Calcium dependent protein kinase. (Os04t0584600-01); Group I calcium-dependent protein kinase; Cold and salt/drought tolerance; Activation of NADPH oxidase (RBOHH) in rice root during aerenchyma formation (Os04t0584600-02); Similar to cDNA clone:001-041-E12; full insert sequence. (Os04t0584600-03)。\n在EnsemblPlants数据库中，CDPK13基因有以下功能：GO:0005634_nucleus (cellular component), GO:0005737_cytoplasm (cellular component), GO:0016740_transferase activity (molecular function), GO:0016301_kinase activity (molecular function), GO:0016310_phosphorylation (biological process)等。\n在RiceSuperPIRdb数据库中，CDPK13基因的预测功能是什么？\nA. 包括蛋白丝氨酸/苏氨酸激酶活性\nB. 包括催化活性\nC. 包括钙/钙调蛋白依赖性蛋白激酶\nD. 包括响应酸性化学物质",
         "answer": "C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -643,7 +714,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测CDPK13基因可能影响的植物性状包括：耐寒性(TO:0000303), 耐旱性(TO:0000276), 耐淹性(TO:0000524), 耐盐性(TO:0006001)。\n在RiceSuperPIRdb数据库中检索CDPK13基因的T2T基因编号，预测CDPK13基因的功能是：CAMK_CAMK_like.27 - CAMK includes calcium/calmodulin depedent protein kinases。其GO分析和KEGG分析发现OsCHR709基因的功能包括： GO:0001101_response to acid chemical(biological process),GO:0003674_molecular_function(molecular function),GO:0003824_catalytic activity(molecular function),GO:0004672_protein kinase activity(molecular function),GO:0004674_protein serine/threonine kinase activity(molecular function)等。\n在RAPDB数据库中搜索发现，CDPK13基因有以下功能：Similar to Calcium dependent protein kinase. (Os04t0584600-01); Group I calcium-dependent protein kinase; Cold and salt/drought tolerance; Activation of NADPH oxidase (RBOHH) in rice root during aerenchyma formation (Os04t0584600-02); Similar to cDNA clone:001-041-E12; full insert sequence. (Os04t0584600-03)。\n在EnsemblPlants数据库中，CDPK13基因有以下功能：GO:0005634_nucleus (cellular component), GO:0005737_cytoplasm (cellular component), GO:0016740_transferase activity (molecular function), GO:0016301_kinase activity (molecular function), GO:0016310_phosphorylation (biological process)等。\nEnsemblPlants数据库中的CDPK13基因具备哪些功能？\nA. 细胞核\nB. 细胞质\nC. 所有以上\nD. 转移酶活性",
         "answer": "C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -652,7 +724,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测AM1基因可能影响的植物性状包括：叶色(TO:0000326), 耐旱性(TO:0000276), 过氧化氢含量(TO:0000605), 耐盐性(TO:0006001)。\n在RiceSuperPIRdb数据库中检索AM1基因的T2T基因编号，预测AM1基因的功能是：potasium efflux antiporter protein。其GO分析和KEGG分析发现OsCHR709基因的功能包括：GO:0003674_molecular_function(molecular function), GO:0005215_transporter activity(molecular function), GO:0005451_obsolete monoatomic cation:proton antiporter activity(molecular function), GO:0005575_cellular_component(cellular component), GO:0005622_intracellular anatomical structure(cellular component)等。\n在RAPDB数据库中搜索发现，AM1基因有以下功能：Potassium efflux antiporter; Chloroplast development; Drought tolerance (Os04t0682800-01); Similar to H0124B04.17 protein. (Os04t0682800-02); Non-protein coding transcript. (Os04t0682800-03); Similar to H0124B04.17 protein. (Os04t0682800-04)。\n在EnsemblPlants数据库中，AM1基因有以下功能：GO:0016020_membrane(cellular component), GO:1902600_proton transmembrane transport(biological process), GO:0005524_ATP binding(molecular function), GO:0015297_antiporter activity(molecular function), GO:0055085_transmembrane transport(biological process)等。\nAM1基因在RAPDB数据库中的功能是什么？\nA. 光合作用\nB. 细胞分裂\nC. 钾离子反向转运\nD. 氨基酸合成",
         "answer": "C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -661,7 +734,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测AM1基因可能影响的植物性状包括：叶色(TO:0000326), 耐旱性(TO:0000276), 过氧化氢含量(TO:0000605), 耐盐性(TO:0006001)。\n在RiceSuperPIRdb数据库中检索AM1基因的T2T基因编号，预测AM1基因的功能是：potasium efflux antiporter protein。其GO分析和KEGG分析发现OsCHR709基因的功能包括：GO:0003674_molecular_function(molecular function), GO:0005215_transporter activity(molecular function), GO:0005451_obsolete monoatomic cation:proton antiporter activity(molecular function), GO:0005575_cellular_component(cellular component), GO:0005622_intracellular anatomical structure(cellular component)等。\n在RAPDB数据库中搜索发现，AM1基因有以下功能：Potassium efflux antiporter; Chloroplast development; Drought tolerance (Os04t0682800-01); Similar to H0124B04.17 protein. (Os04t0682800-02); Non-protein coding transcript. (Os04t0682800-03); Similar to H0124B04.17 protein. (Os04t0682800-04)。\n在EnsemblPlants数据库中，AM1基因有以下功能：GO:0016020_membrane(cellular component), GO:1902600_proton transmembrane transport(biological process), GO:0005524_ATP binding(molecular function), GO:0015297_antiporter activity(molecular function), GO:0055085_transmembrane transport(biological process)等。\n在EnsemblPlants数据库中，AM1基因具有什么功能？\nA. 脱氧核糖核酸修复\nB. 细胞膜\nC. 脂肪酸代谢\nD. 蛋白质翻译",
         "answer": "B",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -670,7 +744,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测AM1基因可能影响的植物性状包括：叶色(TO:0000326), 耐旱性(TO:0000276), 过氧化氢含量(TO:0000605), 耐盐性(TO:0006001)。\n在RiceSuperPIRdb数据库中检索AM1基因的T2T基因编号，预测AM1基因的功能是：potasium efflux antiporter protein。其GO分析和KEGG分析发现OsCHR709基因的功能包括：GO:0003674_molecular_function(molecular function), GO:0005215_transporter activity(molecular function), GO:0005451_obsolete monoatomic cation:proton antiporter activity(molecular function), GO:0005575_cellular_component(cellular component), GO:0005622_intracellular anatomical structure(cellular component)等。\n在RAPDB数据库中搜索发现，AM1基因有以下功能：Potassium efflux antiporter; Chloroplast development; Drought tolerance (Os04t0682800-01); Similar to H0124B04.17 protein. (Os04t0682800-02); Non-protein coding transcript. (Os04t0682800-03); Similar to H0124B04.17 protein. (Os04t0682800-04)。\n在EnsemblPlants数据库中，AM1基因有以下功能：GO:0016020_membrane(cellular component), GO:1902600_proton transmembrane transport(biological process), GO:0005524_ATP binding(molecular function), GO:0015297_antiporter activity(molecular function), GO:0055085_transmembrane transport(biological process)等。\n在中国水稻数据中心的数据库中，AM1基因可能不会影响到哪种植物特性？\nA. 果实颜色\nB. 耐旱性\nC. 过氧化氢含量\nD. 叶色",
         "answer": "A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -679,7 +754,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测GWD1基因可能影响的植物性状包括：株高(TO:0000207), 蒸煮酿制品质(TO:0000667), 糊化温度(TO:0000462), 单株穗数(TO:0000152), 结实率(TO:0000448), 粒宽(TO:0000402), 粒长(TO:0000734), 总淀粉含量(TO:0000696), 垩白胚乳(TO:0000266), 发芽率(TO:0010001), 千粒重(TO:0000592), 冷胶粘度(TO:0000379), 热浆粘度(TO:0000408), 峰值粘度(TO:0000409), 崩解值(TO:0000374), 消减值(TO:0000412), 单株产量(TO:0000449), 籽粒长宽比(TO:0000411), 籽粒灌浆速率(TO:1002661)。\n在RiceSuperPIRdb数据库中检索GWD1基因的T2T基因编号，预测GWD1基因的功能是：alpha-glucan water dikinase, chloroplast precursor。其GO分析发现OsCHR709基因的功能包括：GO:0000272_polysaccharide catabolic process(biological process), GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0005575_cellular_component(cellular component), GO:0005622_intracellular anatomical structure(cellular component)等。\n在RAPDB数据库中搜索发现，GWD1基因有以下功能：Alpha-glucan; water dikinase; Positive regulation of seed germination; Tolerance to abiotic stress; Regulation of grain yield and quality (Os06t0498400-01)。\n在EnsemblPlants数据库中，GWD1基因有以下功能：GO:0003729_mRNA binding (molecular function),GO:0009631_cold acclimation (biological process), GO:0005983_starch catabolic process(biological process), GO:0009610_response to symbiotic fungus(biological process), GO:0050521_alpha-glucan, water dikinase activity(molecular function)。\n\n以下哪项植物性状不可能受到GWD1基因的影响？\nA. 单株穗数\nB. 糊化温度\nC. 株高\nD. 花色",
         "answer": "D",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -688,7 +764,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测GWD1基因可能影响的植物性状包括：株高(TO:0000207), 蒸煮酿制品质(TO:0000667), 糊化温度(TO:0000462), 单株穗数(TO:0000152), 结实率(TO:0000448), 粒宽(TO:0000402), 粒长(TO:0000734), 总淀粉含量(TO:0000696), 垩白胚乳(TO:0000266), 发芽率(TO:0010001), 千粒重(TO:0000592), 冷胶粘度(TO:0000379), 热浆粘度(TO:0000408), 峰值粘度(TO:0000409), 崩解值(TO:0000374), 消减值(TO:0000412), 单株产量(TO:0000449), 籽粒长宽比(TO:0000411), 籽粒灌浆速率(TO:1002661)。\n在RiceSuperPIRdb数据库中检索GWD1基因的T2T基因编号，预测GWD1基因的功能是：alpha-glucan water dikinase, chloroplast precursor。其GO分析发现OsCHR709基因的功能包括：GO:0000272_polysaccharide catabolic process(biological process), GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0005575_cellular_component(cellular component), GO:0005622_intracellular anatomical structure(cellular component)等。\n在RAPDB数据库中搜索发现，GWD1基因有以下功能：Alpha-glucan; water dikinase; Positive regulation of seed germination; Tolerance to abiotic stress; Regulation of grain yield and quality (Os06t0498400-01)。\n在EnsemblPlants数据库中，GWD1基因有以下功能：GO:0003729_mRNA binding (molecular function),GO:0009631_cold acclimation (biological process), GO:0005983_starch catabolic process(biological process), GO:0009610_response to symbiotic fungus(biological process), GO:0050521_alpha-glucan, water dikinase activity(molecular function)。\n\nGWD1基因被预测有何功能？\nA. cold acclimation\nB. polysaccharide catabolic process\nC. alpha-glucan water dikinase, chloroplast precursor\nD. mRNA binding",
         "answer": "C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -697,7 +774,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测GWD1基因可能影响的植物性状包括：株高(TO:0000207), 蒸煮酿制品质(TO:0000667), 糊化温度(TO:0000462), 单株穗数(TO:0000152), 结实率(TO:0000448), 粒宽(TO:0000402), 粒长(TO:0000734), 总淀粉含量(TO:0000696), 垩白胚乳(TO:0000266), 发芽率(TO:0010001), 千粒重(TO:0000592), 冷胶粘度(TO:0000379), 热浆粘度(TO:0000408), 峰值粘度(TO:0000409), 崩解值(TO:0000374), 消减值(TO:0000412), 单株产量(TO:0000449), 籽粒长宽比(TO:0000411), 籽粒灌浆速率(TO:1002661)。\n在RiceSuperPIRdb数据库中检索GWD1基因的T2T基因编号，预测GWD1基因的功能是：alpha-glucan water dikinase, chloroplast precursor。其GO分析发现OsCHR709基因的功能包括：GO:0000272_polysaccharide catabolic process(biological process), GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0005575_cellular_component(cellular component), GO:0005622_intracellular anatomical structure(cellular component)等。\n在RAPDB数据库中搜索发现，GWD1基因有以下功能：Alpha-glucan; water dikinase; Positive regulation of seed germination; Tolerance to abiotic stress; Regulation of grain yield and quality (Os06t0498400-01)。\n在EnsemblPlants数据库中，GWD1基因有以下功能：GO:0003729_mRNA binding (molecular function),GO:0009631_cold acclimation (biological process), GO:0005983_starch catabolic process(biological process), GO:0009610_response to symbiotic fungus(biological process), GO:0050521_alpha-glucan, water dikinase activity(molecular function)。\n\n在GWD1基因可能影响的植物性状中，与以下哪项性状有关？\nA. 株高\nB. 籽粒长宽比\nC. 发芽率\nD. 单株穗数",
         "answer": "C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -706,7 +784,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测OsGPT1基因可能影响的植物性状包括：株高(TO:0000207), 花粉败育(TO:0000053), 分蘖数(TO:0000346), 花药颜色(TO:0000187), 花药长度(TO:0000531)。\n在RiceSuperPIRdb数据库中检索OsGPT1基因的T2T基因编号，预测OsGPT1基因的功能是：phosphate/phosphate translocator。其GO分析和KEGG分析发现OsGPT1基因的功能包括：：solute carrier family 35, member E1（K15283）。\n在RAPDB数据库中搜索发现，OsGPT1基因有以下功能：Glucose 6-phosphate/phosphate translocator; Starch biosynthesis (Os08t0187800-01)。\n在EnsemblPlants数据库中，OsGPT1基因有以下功能：GO:0016020_membrane(cellular component), GO:0015297_antiporter activity(molecular function), GO:0005794_Golgi apparatus(cellular component), GO:0055085_transmembrane transport(biological process), GO:0022857_transmembrane transporter activity(molecular function)等。\nOsGPT1基因在RAPDB数据库中的作用是什么？\nA. 抗氧化酶\nB. 转录因子\nC. 磷酸/磷酸转运蛋白\nD. 水通道蛋白",
         "answer": "C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -715,7 +794,8 @@
         "question": "1.OsWOX3A调节水稻多个器官的发育，如叶片的横轴生长和维管束形成，小穗的的内外稃形态建成以及分蘖和侧根发育。\n2.OsWOX3A是一个GA(赤霉酸)应答基因，在GA合成通路的负反馈调控中发挥功能，保持发育过程內源GA中间产物的阈值水平，维持GA动态平衡。\n3.参与侧根的发育和根毛的形成。\nOsWOX3A基因在哪种植物激素的生成过程中发挥作用？\nA. 赤霉素\nB. 脱落酸\nC. 吲哚乙酸\nD. 赤霉酸",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -724,7 +804,8 @@
         "question": "1.OsWOX3A调节水稻多个器官的发育，如叶片的横轴生长和维管束形成，小穗的的内外稃形态建成以及分蘖和侧根发育。\n2.OsWOX3A是一个GA(赤霉酸)应答基因，在GA合成通路的负反馈调控中发挥功能，保持发育过程內源GA中间产物的阈值水平，维持GA动态平衡。\n3.参与侧根的发育和根毛的形成。\n水稻的哪个器官发育过程中，OsWOX3A基因发挥作用？\nA. 茎\nB. 种子\nC. 花\nD. 叶片",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -733,7 +814,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测Pb2基因可能影响的植物性状包括：叶瘟抗性(TO:0000468), 穗颈瘟抗性(TO:0000477)。\n在RiceSuperPIRdb数据库中检索Pb2基因的T2T基因编号，预测Pb2基因的功能是：rust-resistance protein Lr21。\n在RAPDB数据库中搜索发现，Pb2基因有以下功能：NB-ARC domain containing disease resistance protein; Panicle blast resistance (Os11t0682600-01)。\n在EnsemblPlants数据库中，Pb2基因有以下功能：GO:0016020_membrane(cellular component)\n\nPb2基因在RiceSuperPIRdb数据库中的预测功能是什么？\nA. GO:0016020_membrane\nB. rust-resistance protein Lr21\nC. NB-ARC domain containing disease resistance protein\nD. Panicle blast resistance",
         "answer": "B",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -742,7 +824,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测Pb2基因可能影响的植物性状包括：叶瘟抗性(TO:0000468), 穗颈瘟抗性(TO:0000477)。\n在RiceSuperPIRdb数据库中检索Pb2基因的T2T基因编号，预测Pb2基因的功能是：rust-resistance protein Lr21。\n在RAPDB数据库中搜索发现，Pb2基因有以下功能：NB-ARC domain containing disease resistance protein; Panicle blast resistance (Os11t0682600-01)。\n在EnsemblPlants数据库中，Pb2基因有以下功能：GO:0016020_membrane(cellular component)\n\nPb2基因在EnsemblPlants数据库中的预期功能是什么？\nA. Panicle blast resistance\nB. GO:0016020_membrane\nC. rust-resistance protein Lr21\nD. NB-ARC domain containing disease resistance protein",
         "answer": "B",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -751,7 +834,8 @@
         "question": "在国家水稻数据中心（China Rice Data Center）中搜索，根据Trait Ontology分类推测Pb2基因可能影响的植物性状包括：叶瘟抗性(TO:0000468), 穗颈瘟抗性(TO:0000477)。\n在RiceSuperPIRdb数据库中检索Pb2基因的T2T基因编号，预测Pb2基因的功能是：rust-resistance protein Lr21。\n在RAPDB数据库中搜索发现，Pb2基因有以下功能：NB-ARC domain containing disease resistance protein; Panicle blast resistance (Os11t0682600-01)。\n在EnsemblPlants数据库中，Pb2基因有以下功能：GO:0016020_membrane(cellular component)\n\nPb2基因的信息可以从哪些数据库中获取？\nA. EnsemblPlants数据库和国家水稻数据中心\nB. RiceSuperPIRdb数据库、RAPDB数据库、EnsemblPlants数据库和国家水稻数据中心\nC. RAPDB数据库和EnsemblPlants数据库\nD. RiceSuperPIRdb数据库和RAPDB数据库",
         "answer": "B",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -760,7 +844,8 @@
         "question": "In the China Rice Data Center, according to Trait Ontology classifications, the OSCS1 gene is inferred to potentially influence plant traits such as aluminum sensitivity (TO:0000354).\nIn the RiceSuperPIRdb database, it was found that the gene may be involved in citrate synthesis. GO and KEGG analyses revealed that the potential functions of the OSCS1 gene include:GO:0000166_nucleotide binding (molecular function)，GO:0003674_molecular_function (molecular function)，GO:0003824_catalytic activity(molecular function)，GO:0004108_citrate (Si)-synthase activity(molecular function)，GO:0005488_binding(molecular function) etc. ;Citrate synthase (K01647; EC:2.3.3.1).\nIn the RAPDB database, it is inferred that the OSCS1 gene may have the following functions: mitochondrial citrate synthase; confer aluminum tolerance (Os02t0194100-01).\nIn the EnsemblPlants database, it is inferred that the OSCS1 gene may have the following functions:GO:0016740_transferase activity(molecular function), GO:0005975_carbohydrate metabolic process (biological process), GO:0046912_acyltransferase activity, acyl Groups converted into alkyl on transfer (molecular function), GO:0006099_tricarboxylic acid cycle (biological process),GO:0004108_citrate (Si)-synthase activity (molecular function), GO:0005759_mitochondrial matrix (cellular component), GO:0006101_citrate metabolic process (biological process).\n\nAccording to the RiceSuperPIRdb database, what is a possible function of OSCS1?\nA. DNA synthesis\nB. Protein synthesis\nC. Citrate synthesis\nD. Lipid synthesis",
         "answer": "C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -769,7 +854,8 @@
         "question": "In the China Rice Data Center, according to Trait Ontology classifications, the OSCS1 gene is inferred to potentially influence plant traits such as aluminum sensitivity (TO:0000354).\nIn the RiceSuperPIRdb database, it was found that the gene may be involved in citrate synthesis. GO and KEGG analyses revealed that the potential functions of the OSCS1 gene include:GO:0000166_nucleotide binding (molecular function)，GO:0003674_molecular_function (molecular function)，GO:0003824_catalytic activity(molecular function)，GO:0004108_citrate (Si)-synthase activity(molecular function)，GO:0005488_binding(molecular function) etc. ;Citrate synthase (K01647; EC:2.3.3.1).\nIn the RAPDB database, it is inferred that the OSCS1 gene may have the following functions: mitochondrial citrate synthase; confer aluminum tolerance (Os02t0194100-01).\nIn the EnsemblPlants database, it is inferred that the OSCS1 gene may have the following functions:GO:0016740_transferase activity(molecular function), GO:0005975_carbohydrate metabolic process (biological process), GO:0046912_acyltransferase activity, acyl Groups converted into alkyl on transfer (molecular function), GO:0006099_tricarboxylic acid cycle (biological process),GO:0004108_citrate (Si)-synthase activity (molecular function), GO:0005759_mitochondrial matrix (cellular component), GO:0006101_citrate metabolic process (biological process).\n\nAccording to GO and KEGG analyses, which function is not likely associated with OSCS1?\nA. Molecular function\nB. Catalytic activity\nC. Protein folding\nD. Nucleotide binding",
         "answer": "C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -778,7 +864,8 @@
         "question": "OsCHR709, formally known as chromatin remodeling factor 709.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified OsCHR709 as being synonymous with OsPIE1 and homologous to Arabidopsis PIE1. The OsCHR709 gene is located on the negative strand of chromosome 2, spanning from position 28782722 to 28788607, with a total sequence length of 5886 bp, encoding SNF2 family protein.\nOsCHR709 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os02g0689800; Rice Genome Annotation Project (RGAP): LOC_Os02g46450; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os02g041810.\n\nOsCHR709属于何种类型的因子？\nA. 翻译因子\nB. 染色质重塑因子\nC. 转录因子\nD. 信号转导因子",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -787,7 +874,8 @@
         "question": "OsCHR709, formally known as chromatin remodeling factor 709.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified OsCHR709 as being synonymous with OsPIE1 and homologous to Arabidopsis PIE1. The OsCHR709 gene is located on the negative strand of chromosome 2, spanning from position 28782722 to 28788607, with a total sequence length of 5886 bp, encoding SNF2 family protein.\nOsCHR709 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os02g0689800; Rice Genome Annotation Project (RGAP): LOC_Os02g46450; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os02g041810.\n\nOsCHR709基因是存在于哪一条染色体上的？\nA. 第三染色体\nB. 第四染色体\nC. 第一染色体\nD. 第二染色体",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -796,7 +884,8 @@
         "question": "OsCHR709, formally known as chromatin remodeling factor 709.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified OsCHR709 as being synonymous with OsPIE1 and homologous to Arabidopsis PIE1. The OsCHR709 gene is located on the negative strand of chromosome 2, spanning from position 28782722 to 28788607, with a total sequence length of 5886 bp, encoding SNF2 family protein.\nOsCHR709 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os02g0689800; Rice Genome Annotation Project (RGAP): LOC_Os02g46450; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os02g041810.\n\nOsCHR709编码的蛋白是哪个家族的成员？\nA. G家族蛋白\nB. NF-κB家族蛋白\nC. SNF2家族蛋白\nD. MAPK家族蛋白",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -805,7 +894,8 @@
         "question": "OsCHR709, formally known as chromatin remodeling factor 709.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified OsCHR709 as being synonymous with OsPIE1 and homologous to Arabidopsis PIE1. The OsCHR709 gene is located on the negative strand of chromosome 2, spanning from position 28782722 to 28788607, with a total sequence length of 5886 bp, encoding SNF2 family protein.\nOsCHR709 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os02g0689800; Rice Genome Annotation Project (RGAP): LOC_Os02g46450; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os02g041810.\n\nOsCHR709的同源基因是哪一个？\nA. OsCHR708\nB. OsPIE1\nC. OsCHR710\nD. OsPIE2",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -814,7 +904,8 @@
         "question": "OsCHR709, formally known as chromatin remodeling factor 709.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified OsCHR709 as being synonymous with OsPIE1 and homologous to Arabidopsis PIE1. The OsCHR709 gene is located on the negative strand of chromosome 2, spanning from position 28782722 to 28788607, with a total sequence length of 5886 bp, encoding SNF2 family protein.\nOsCHR709 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os02g0689800; Rice Genome Annotation Project (RGAP): LOC_Os02g46450; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os02g041810.\n\n请问在Rice Genome Annotation Project (RGAP)数据库中，OsCHR709的标识符为何？\nA. AGIS_Os02g041810\nB. LOC_Os02g46450\nC. Os02g0689800\nD. Os02g0689900",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -823,7 +914,8 @@
         "question": "Os3BGlu6, formally known as beta-glucosidase 6.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified Os3BGlu6 located on the negative strand of chromosome 3, spanning from position 5923642 to 5930702, with a total sequence length of 7061 bp, encoding BGLU6 protein.\nOs3BGlu6 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os03g0212800; Rice Genome Annotation Project (RGAP): LOC_Os03g11420; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os03g009600.\n\nOs3BGlu6属于哪一类基因？\nA. 酶基因\nB. 转运蛋白基因\nC. 转录因子基因\nD. 结构蛋白基因",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -832,7 +924,8 @@
         "question": "Os3BGlu6, formally known as beta-glucosidase 6.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified Os3BGlu6 located on the negative strand of chromosome 3, spanning from position 5923642 to 5930702, with a total sequence length of 7061 bp, encoding BGLU6 protein.\nOs3BGlu6 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os03g0212800; Rice Genome Annotation Project (RGAP): LOC_Os03g11420; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os03g009600.\n\nOs3BGlu6基因是哪个物种的染色体上的基因？\nA. Homo sapiens\nB. Zea mays\nC. Oryza sativa ssp. japonica cv. Nipponbare\nD. Arabidopsis thaliana",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -841,7 +934,8 @@
         "question": "Os3BGlu6, formally known as beta-glucosidase 6.\nBased on third-generation sequencing data of Oryza sativa ssp. japonica cv. Nipponbare. Through comprehensive analysis and deep mining of the data, we identified Os3BGlu6 located on the negative strand of chromosome 3, spanning from position 5923642 to 5930702, with a total sequence length of 7061 bp, encoding BGLU6 protein.\nOs3BGlu6 is annotated with the following gene identifiers in various databases: Rice Annotation Project Database (RAP-DB): Os03g0212800; Rice Genome Annotation Project (RGAP): LOC_Os03g11420; Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb): AGIS_Os03g009600.\n\nOs3BGlu6基因是哪种蛋白质的编码基因？\nA. BGLU8蛋白\nB. BGLU7蛋白\nC. BGLU6蛋白\nD. BGLU5蛋白",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -850,7 +944,8 @@
         "question": "In the RiceSuperPIRdb database, it was found that the gene may be involved in histone deacetylase 19, putative, expressed. GO and KEGG analyses revealed that the potential functions of the OsHDA709 gene include: GO:0000118_histone deacetylase complex(cellular component), GO:0002376_immune system process(biological process), GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0004407_histone deacetylase activity(molecular function) etc.; histone deacetylase 1/2(K06067；EC:3.5.1.98).\nIn the RAPDB database, it is inferred that the OsHDA709 gene may have the following functions: Histone deacetylase 709; RPD/HDA1 gene family; Salt stress response; Response to auxin treatment (Os11t0200000-01).\nIn the EnsemblPlants database, it is inferred that the OsHDA709 gene may have the following functions: GO:0005634_nucleus(cellular component), GO:0016787_hydrolase activity(molecular function), GO:0046872_metal ion binding(molecular function), GO:0006357_regulation of transcription by RNA polymerase II(biological process), GO:0006325_chromatin organization(biological process), GO:0006338_chromatin remodeling(biological process), GO:0004407_histone deacetylase activity(molecular function), GO:0016575_obsolete histone deacetylation(biological process).\n\nOsHDA709基因可能具有哪些功能？\nA. DNA复制\nB. 蛋白质翻译\nC. 细胞分裂\nD. 组蛋白去乙酰化酶19的表达",
         "answer": "D",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -859,7 +954,8 @@
         "question": "In the RiceSuperPIRdb database, it was found that the gene may be involved in histone deacetylase 19, putative, expressed. GO and KEGG analyses revealed that the potential functions of the OsHDA709 gene include: GO:0000118_histone deacetylase complex(cellular component), GO:0002376_immune system process(biological process), GO:0003674_molecular_function(molecular function), GO:0003824_catalytic activity(molecular function), GO:0004407_histone deacetylase activity(molecular function) etc.; histone deacetylase 1/2(K06067；EC:3.5.1.98).\nIn the RAPDB database, it is inferred that the OsHDA709 gene may have the following functions: Histone deacetylase 709; RPD/HDA1 gene family; Salt stress response; Response to auxin treatment (Os11t0200000-01).\nIn the EnsemblPlants database, it is inferred that the OsHDA709 gene may have the following functions: GO:0005634_nucleus(cellular component), GO:0016787_hydrolase activity(molecular function), GO:0046872_metal ion binding(molecular function), GO:0006357_regulation of transcription by RNA polymerase II(biological process), GO:0006325_chromatin organization(biological process), GO:0006338_chromatin remodeling(biological process), GO:0004407_histone deacetylase activity(molecular function), GO:0016575_obsolete histone deacetylation(biological process).\n\n在EnsemblPlants数据库中，OsHDA709基因可能存在于哪个细胞组分？\nA. 细胞核\nB. 高尔基体\nC. 线粒体\nD. 细胞质",
         "answer": "A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -868,7 +964,8 @@
         "question": "最适宜种植水稻的土壤类型是水稻土。水稻土是指在长期淹水种稻条件下，受到人为活动和自然成土因素的双重作用，而产生水耕熟化和氧化与还原交替，以及物质的淋溶、淀积，形成特有剖面特征的土壤。这种土壤由于长期处于水淹的缺氧状态，土壤中的氧化铁被还原成易溶于水的氧化亚铁，并随水在土壤中移动，当土壤排水后或受稻根的影响（水稻有通气组织为根部提供氧气），氧化亚铁又被氧化成氧化铁沉淀，形成锈斑、锈线，土壤下层较为粘重。\n哪种作物适合在水稻土中种植？\nA. 大豆\nB. 小麦\nC. 水稻\nD. 玉米",
         "answer": "C",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -877,7 +974,8 @@
         "question": "最适宜种植水稻的土壤类型是水稻土。水稻土是指在长期淹水种稻条件下，受到人为活动和自然成土因素的双重作用，而产生水耕熟化和氧化与还原交替，以及物质的淋溶、淀积，形成特有剖面特征的土壤。这种土壤由于长期处于水淹的缺氧状态，土壤中的氧化铁被还原成易溶于水的氧化亚铁，并随水在土壤中移动，当土壤排水后或受稻根的影响（水稻有通气组织为根部提供氧气），氧化亚铁又被氧化成氧化铁沉淀，形成锈斑、锈线，土壤下层较为粘重。\n是什么特性使得水稻土中的氧化铁转化为易溶于水的氧化亚铁？\nA. 土壤中富含有机物质\nB. 土壤中富含矿物质\nC. 长期处于水淹的缺氧状态\nD. 土壤下层较为粘重",
         "answer": "C",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -886,7 +984,8 @@
         "question": "稻（Oryza sativa L.），通称水稻，按照生态功能可被划分为可食用植物。中国是水稻的原产地之一。中国南方地区农田多以水田为主，粮食作物以种植水稻为主。稻是亚洲热带广泛种植的重要谷物，中国南方为主要产稻区，北方各省也有栽种。种下主要分为2亚种，籼稻与粳稻。亚种下包括栽培品种极多。以成熟颖果入药。味甘，温。和中消食，健脾开胃。\n稻主要在我国的哪个地区进行种植？\nA. 中国西部地区\nB. 中国北方地区\nC. 中国南方地区\nD. 中国东部地区",
         "answer": "C",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -895,7 +994,8 @@
         "question": "豫农粳12，是粳型常规水稻，河南农业大学选育。其母本为“镇稻88”，父本为“方欣4号”。常规粳稻品种,全生育期4天。平均株高18.8cm,亩有效穗2.万,穗长1.cm,每穗总粒数18.3粒,结实率8.%,千粒重6.9g。该品种株型松散适中,长势繁茂,叶片绿色、挺直;半直立穗,谷粒椭圆形,有短芒。品质分析:21年检测:出糙率1.9%、精米率7.%、整精米率5.%、粒长5.1mm、长宽比.、垩白粒率7%、垩白度5.8%、直链淀粉6.2%、胶稠度6mm、碱消值5.5级、透明度1级、水分3.9%;07年检测:出糙率7.%、精米率6.7%、整精米率9.9%、粒长.mm、长宽比1.8、垩白粒率6%、垩白度7.9%、直链淀粉6.3%、胶稠度7mm、碱消值6级、透明度2级、水分1.7%。抗性鉴定:21年经江苏省农业科学院植物保护研究所鉴定:穗颈瘟损失指数级,稻瘟病综合抗性指数、中感稻瘟病(MS);对白叶枯病代表菌株浙7、KS-6-6和JS4-抗性表现为级、对PX7抗性表现为级;感纹枯病(S)。21年抗病鉴定:穗颈瘟损失指数级,稻瘟病综合抗性指数.5、中抗稻瘟病(MR);对白叶枯病代表菌株浙13、KS--和JS9-6、PX09抗性均表现为级;抗纹枯病(R)。\n豫农粳12的选育单位是哪个？\nA. 河南农业大学\nB. 上海农业大学\nC. 广东农业大学\nD. 北京农业大学",
         "answer": "A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -904,7 +1004,8 @@
         "question": "从萌发到三叶期是水稻的幼苗期。这是水稻生长发育的一个重要阶段，通常包括种子萌发、根系生长、以及初期叶片的形成。在这个阶段，水稻幼苗对环境条件非常敏感，需要适宜的温度、水分、光照和营养等条件来保证其正常生长。\n水稻的幼苗期属于其生长发育的哪个时期？\nA. 后期阶段\nB. 中期阶段\nC. 收获阶段\nD. 初期阶段",
         "answer": "D",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -913,7 +1014,8 @@
         "question": "The function of LOC_Os02g25230 was further confirmed by genetic transformation. All the transgenic plants overexpressing the full-length coding sequence of LOC_Os02g25230 (derived from IL55) in the tac4-mutant background displayed the small tiller angle phenotype, similar to IL55 (Figure 2b–e). Using RNA interference (RNAi), we generated LOC_Os02g25230 knockdown plants in the japonica cultivar Nipponbare background. The RNAi transgenic plants exhibited greater tiller angles compared with control plants, indicating that the decreased expression of LOC_Os02g25230 significantly increased tiller angle (Figure 2f–h). Therefore, we concluded that LOC_Os02g25230 corresponds to the TAC4 gene and that the expression level of TAC4 was negatively correlated with tiller angle.the introgression line IL55 harbouring the tac1 allele (Aida et al., 1997), which displays an extremely compact tiller angle in the indica rice variety IR24 background, was mutagenized with ethyl methane sulphonate to generate a mutant library for screening plants with large tiller angles. One such mutant, tac4, was identified. During both the vegetative and reproductive stages, tac4 always exhibited a greater tiller angle than IL55 (Figure 1a and b, and Figure S1), and at the heading stage, the tiller angle was ~13.2° in the tac4 mutant, while it was only ~5.2° in the IL55 (Figure 1c and d). The heights of tac4 plants were reduced ~20% compared with those of IL55 and mainly resulted from the shortened uppermost internode (Figure S2a–c). Observations of longitudinal sections of the uppermost internode revealed that cell lengths were significantly decreased in tac4, indicating that the decreased cell elongation could be the main cause of the reduced tac4 plant height (Figure S2d). We found that the panicle length was shorter, and the primary and secondary branches and the grain number per panicle were significantly reduced, compared with IL55 (Table S1). The grain length of tac4 was shorter than that of IL55, and the mean 1000-grain weight was less (Figure S3). These observations suggest that TAC4 is pleiotropic, regulating multiple important agronomic traits.\nHow is the expression level of TAC4 related to the tiller angle?\nA. Uncertain correlation\nB. No correlation\nC. Negative correlation\nD. Positive correlation",
         "answer": "C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -922,7 +1024,8 @@
         "question": "The function of LOC_Os02g25230 was further confirmed by genetic transformation. All the transgenic plants overexpressing the full-length coding sequence of LOC_Os02g25230 (derived from IL55) in the tac4-mutant background displayed the small tiller angle phenotype, similar to IL55 (Figure 2b–e). Using RNA interference (RNAi), we generated LOC_Os02g25230 knockdown plants in the japonica cultivar Nipponbare background. The RNAi transgenic plants exhibited greater tiller angles compared with control plants, indicating that the decreased expression of LOC_Os02g25230 significantly increased tiller angle (Figure 2f–h). Therefore, we concluded that LOC_Os02g25230 corresponds to the TAC4 gene and that the expression level of TAC4 was negatively correlated with tiller angle.the introgression line IL55 harbouring the tac1 allele (Aida et al., 1997), which displays an extremely compact tiller angle in the indica rice variety IR24 background, was mutagenized with ethyl methane sulphonate to generate a mutant library for screening plants with large tiller angles. One such mutant, tac4, was identified. During both the vegetative and reproductive stages, tac4 always exhibited a greater tiller angle than IL55 (Figure 1a and b, and Figure S1), and at the heading stage, the tiller angle was ~13.2° in the tac4 mutant, while it was only ~5.2° in the IL55 (Figure 1c and d). The heights of tac4 plants were reduced ~20% compared with those of IL55 and mainly resulted from the shortened uppermost internode (Figure S2a–c). Observations of longitudinal sections of the uppermost internode revealed that cell lengths were significantly decreased in tac4, indicating that the decreased cell elongation could be the main cause of the reduced tac4 plant height (Figure S2d). We found that the panicle length was shorter, and the primary and secondary branches and the grain number per panicle were significantly reduced, compared with IL55 (Table S1). The grain length of tac4 was shorter than that of IL55, and the mean 1000-grain weight was less (Figure S3). These observations suggest that TAC4 is pleiotropic, regulating multiple important agronomic traits.\nHow does the tac4 mutation influence the height of a plant?\nA. It causes variable effects on plant height.\nB. It has no effect on plant height.\nC. It increases plant height.\nD. It decreases plant height.",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -931,7 +1034,8 @@
         "question": "The function of LOC_Os02g25230 was further confirmed by genetic transformation. All the transgenic plants overexpressing the full-length coding sequence of LOC_Os02g25230 (derived from IL55) in the tac4-mutant background displayed the small tiller angle phenotype, similar to IL55 (Figure 2b–e). Using RNA interference (RNAi), we generated LOC_Os02g25230 knockdown plants in the japonica cultivar Nipponbare background. The RNAi transgenic plants exhibited greater tiller angles compared with control plants, indicating that the decreased expression of LOC_Os02g25230 significantly increased tiller angle (Figure 2f–h). Therefore, we concluded that LOC_Os02g25230 corresponds to the TAC4 gene and that the expression level of TAC4 was negatively correlated with tiller angle.the introgression line IL55 harbouring the tac1 allele (Aida et al., 1997), which displays an extremely compact tiller angle in the indica rice variety IR24 background, was mutagenized with ethyl methane sulphonate to generate a mutant library for screening plants with large tiller angles. One such mutant, tac4, was identified. During both the vegetative and reproductive stages, tac4 always exhibited a greater tiller angle than IL55 (Figure 1a and b, and Figure S1), and at the heading stage, the tiller angle was ~13.2° in the tac4 mutant, while it was only ~5.2° in the IL55 (Figure 1c and d). The heights of tac4 plants were reduced ~20% compared with those of IL55 and mainly resulted from the shortened uppermost internode (Figure S2a–c). Observations of longitudinal sections of the uppermost internode revealed that cell lengths were significantly decreased in tac4, indicating that the decreased cell elongation could be the main cause of the reduced tac4 plant height (Figure S2d). We found that the panicle length was shorter, and the primary and secondary branches and the grain number per panicle were significantly reduced, compared with IL55 (Table S1). The grain length of tac4 was shorter than that of IL55, and the mean 1000-grain weight was less (Figure S3). These observations suggest that TAC4 is pleiotropic, regulating multiple important agronomic traits.\nHow does the tac4 mutation influence the count of primary and secondary branches per panicle?\nA. It decreases the number of branches.\nB. It causes variable effects on the number of branches.\nC. It increases the number of branches.\nD. It has no effect on the number of branches.",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -940,7 +1044,8 @@
         "question": "To examine whether the expression of DTH8 is influenced by Hd1 and Ghd7, DTH8 expression was examined in Hd1 and Ghd7 near-isogenic lines (NILs) grown for 40 d under LD conditions. As shown in Figure 6A and Supplemental Figure S7A, the expression levels of DTH8 and Ghd7, compared with those in Nipponbare, were not changed in NIL (hd1) grown under LD conditions. However, Ehd1 and Hd3a were suppressed by Hd1 in Nipponbare. Similarly, no changes were found in the levels of DTH8 and Hd1 mRNA in the Ghd7 NILs under LD conditions. But the expressions of Ehd1 and Hd3a were also suppressed by Ghd7 (Fig. 6B; Supplemental Fig. S7B). These results indicate that DTH8 suppresses rice flowering by down-regulating the expression of Ehd1 and Hd3a, and that the expression of DTH8, Hd1,or Ghd7 is independent of each other under LD conditions.. Meanwhile, the differences between DTH8 and Ghd7 were also very obvious. Tiller number in Ghd7 NILs with functional or nonfunctional alleles differed from each other (Xue et al., 2008); those between Asominori and CSSL61 are the same (Fig. 1; Supplemental Tables S2 and S3). Ghd7 regulates the height through total cell number in the y axes of internodes and it also influences culm thickness, whereas DTH8 regulates height by altering cell elongation in the internodes, but keeps culm thickness stable (Fig. 7).\nWhat environmental factors influence DTH8？\nA.light \nB. temperature \nC.water \nD.drought",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -949,7 +1054,8 @@
         "question": "To examine whether the expression of DTH8 is influenced by Hd1 and Ghd7, DTH8 expression was examined in Hd1 and Ghd7 near-isogenic lines (NILs) grown for 40 d under LD conditions. As shown in Figure 6A and Supplemental Figure S7A, the expression levels of DTH8 and Ghd7, compared with those in Nipponbare, were not changed in NIL (hd1) grown under LD conditions. However, Ehd1 and Hd3a were suppressed by Hd1 in Nipponbare. Similarly, no changes were found in the levels of DTH8 and Hd1 mRNA in the Ghd7 NILs under LD conditions. But the expressions of Ehd1 and Hd3a were also suppressed by Ghd7 (Fig. 6B; Supplemental Fig. S7B). These results indicate that DTH8 suppresses rice flowering by down-regulating the expression of Ehd1 and Hd3a, and that the expression of DTH8, Hd1,or Ghd7 is independent of each other under LD conditions.. Meanwhile, the differences between DTH8 and Ghd7 were also very obvious. Tiller number in Ghd7 NILs with functional or nonfunctional alleles differed from each other (Xue et al., 2008); those between Asominori and CSSL61 are the same (Fig. 1; Supplemental Tables S2 and S3). Ghd7 regulates the height through total cell number in the y axes of internodes and it also influences culm thickness, whereas DTH8 regulates height by altering cell elongation in the internodes, but keeps culm thickness stable (Fig. 7).\nWhat was discovered about the expression levels of DTH8 and Ghd7 in NIL (hd1) when cultivated under LD conditions?\nA. The expression levels were not changed.\nB. The expression levels were decreased.\nC. The expression levels were increased.\nD. The expression levels were not examined.",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -958,7 +1064,8 @@
         "question": "To examine whether the expression of DTH8 is influenced by Hd1 and Ghd7, DTH8 expression was examined in Hd1 and Ghd7 near-isogenic lines (NILs) grown for 40 d under LD conditions. As shown in Figure 6A and Supplemental Figure S7A, the expression levels of DTH8 and Ghd7, compared with those in Nipponbare, were not changed in NIL (hd1) grown under LD conditions. However, Ehd1 and Hd3a were suppressed by Hd1 in Nipponbare. Similarly, no changes were found in the levels of DTH8 and Hd1 mRNA in the Ghd7 NILs under LD conditions. But the expressions of Ehd1 and Hd3a were also suppressed by Ghd7 (Fig. 6B; Supplemental Fig. S7B). These results indicate that DTH8 suppresses rice flowering by down-regulating the expression of Ehd1 and Hd3a, and that the expression of DTH8, Hd1,or Ghd7 is independent of each other under LD conditions.. Meanwhile, the differences between DTH8 and Ghd7 were also very obvious. Tiller number in Ghd7 NILs with functional or nonfunctional alleles differed from each other (Xue et al., 2008); those between Asominori and CSSL61 are the same (Fig. 1; Supplemental Tables S2 and S3). Ghd7 regulates the height through total cell number in the y axes of internodes and it also influences culm thickness, whereas DTH8 regulates height by altering cell elongation in the internodes, but keeps culm thickness stable (Fig. 7).\nHow does DTH8 influence the flowering of rice?\nA. The effect of DTH8 on rice flowering was not examined.\nB. DTH8 suppresses rice flowering by down-regulating the expression of Ehd1 and Hd3a.\nC. DTH8 has no effect on rice flowering.\nD. DTH8 promotes rice flowering by up-regulating the expression of Ehd1 and Hd3a.",
         "answer": "B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -967,7 +1074,8 @@
         "question": "For SNPs associated with SYL, a significant peak appeared in chromosome 2 and 33 candidate genes were detected in the candidate region of 30.45–30.65 Mb (200 kb) (Figure 3a,b). For SNPs in this candidate region, 10 of the 33 genes contain non-synonymous SNPs (Tables S7 and S8). However, only one non-synonymous SNP was significantly associated with SYL ( log10 P ≥ 5.5); it was located within the gene locus Os02g0733900 (MSU ID LOC_Os02g50110). Hereafter, gene Os02g0733900 is referred to as OsSYL2. The full length of OsSYL2 is 602 bp, including one exon and no introns. Gene OsSYL2 encodes an 80-amino-acid protein.\n\nAccording to the context provided, on which chromosome did a notable peak emerge?\nA. Chromosome 4\nB. Chromosome 3\nC. Chromosome 2\nD. Chromosome 1",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -976,7 +1084,8 @@
         "question": "For SNPs associated with SYL, a significant peak appeared in chromosome 2 and 33 candidate genes were detected in the candidate region of 30.45–30.65 Mb (200 kb) (Figure 3a,b). For SNPs in this candidate region, 10 of the 33 genes contain non-synonymous SNPs (Tables S7 and S8). However, only one non-synonymous SNP was significantly associated with SYL ( log10 P ≥ 5.5); it was located within the gene locus Os02g0733900 (MSU ID LOC_Os02g50110). Hereafter, gene Os02g0733900 is referred to as OsSYL2. The full length of OsSYL2 is 602 bp, including one exon and no introns. Gene OsSYL2 encodes an 80-amino-acid protein.\n\nWhat is the number of candidate genes found in the 30.45–30.65 Mb candidate region?\nA. 10\nB. 33\nC. 50\nD. 20",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -985,7 +1094,8 @@
         "question": "For SNPs associated with SYL, a significant peak appeared in chromosome 2 and 33 candidate genes were detected in the candidate region of 30.45–30.65 Mb (200 kb) (Figure 3a,b). For SNPs in this candidate region, 10 of the 33 genes contain non-synonymous SNPs (Tables S7 and S8). However, only one non-synonymous SNP was significantly associated with SYL ( log10 P ≥ 5.5); it was located within the gene locus Os02g0733900 (MSU ID LOC_Os02g50110). Hereafter, gene Os02g0733900 is referred to as OsSYL2. The full length of OsSYL2 is 602 bp, including one exon and no introns. Gene OsSYL2 encodes an 80-amino-acid protein.\n\nHow long is OsSYL2 in full length?\nA. 200 bp\nB. 400 bp\nC. 800 bp\nD. 602 bp",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -994,7 +1104,8 @@
         "question": "Initially, we mapped the GL10 locus to an interval between marker M15 and marker NP-11 using a population of 1200 plants derived from crossing NIL-GL10 and NIL-gl10 (Fig. 1F). Then, we mapped the GL10 to a 18.5 kb region between marker NC9 and marker NC14 in the BC5F3 generation, which included a total of 4000 plants (Fig. 1G). This region contained one predicted ORF, Os10g0536100, encoding a MADS-box family protein\n\nGL10位点在研究初期被定位在哪两个标记的区间内？\nA. 标记NP-11和标记NC9\nB. 标记M15和标记NP-11\nC. 标记M15和标记NC14\nD. 标记NC9和标记NC14",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -1003,7 +1114,8 @@
         "question": "Initially, we mapped the GL10 locus to an interval between marker M15 and marker NP-11 using a population of 1200 plants derived from crossing NIL-GL10 and NIL-gl10 (Fig. 1F). Then, we mapped the GL10 to a 18.5 kb region between marker NC9 and marker NC14 in the BC5F3 generation, which included a total of 4000 plants (Fig. 1G). This region contained one predicted ORF, Os10g0536100, encoding a MADS-box family protein\n\n在BC5F3世代，GL10被定位在哪两个标记的区间内？\nA. 标记NC9和标记NC14\nB. 标记NP-11和标记NC9\nC. 标记M15和标记NP-11\nD. 标记M15和标记NC14",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
@@ -1012,7 +1124,8 @@
         "question": "Initially, we mapped the GL10 locus to an interval between marker M15 and marker NP-11 using a population of 1200 plants derived from crossing NIL-GL10 and NIL-gl10 (Fig. 1F). Then, we mapped the GL10 to a 18.5 kb region between marker NC9 and marker NC14 in the BC5F3 generation, which included a total of 4000 plants (Fig. 1G). This region contained one predicted ORF, Os10g0536100, encoding a MADS-box family protein\n\n在此项研究中，预测的开放阅读框（ORF）位于哪个被映射区域的编号中？\nA. Os10g0536200\nB. Os10g0536400\nC. Os10g0536300\nD. Os10g0536100",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "context_single_choice"
     },
