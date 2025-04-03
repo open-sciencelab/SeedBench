@@ -4,7 +4,8 @@
         "question": "What are the observed characteristics of the Bg1-D mutant compared to the wild type (WT)?\nA. Increased grain size\nB. Decreased plant height\nC. Longer and wider leaves\nD. Smaller panicles",
         "answer": "A, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -13,7 +14,8 @@
         "question": "What changes were observed in the cells of the Bg1-D mutant?\nA. Increased area of parenchyma cells\nB. Decreased number of parenchyma cells\nC. Down-regulation of genes associated with cell cycle and cell expansion\nD. Longer epidermis cells of both palea and lemma",
         "answer": "D, A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -22,7 +24,8 @@
         "question": "What effects were observed when BG1 cDNA was overexpressed under the control of the rice ACTIN1 promoter in WT?\nA. Enhanced plant height\nB. Larger panicles\nC. Decreased grain size\nD. Longer leaves",
         "answer": "A, D, B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -31,7 +34,8 @@
         "question": "What growth changes were observed in one-week-old seedlings of the Bg1-D mutant compared with WT?\nA. Decreased length of leaf and root\nB. No significant changes in leaf and root length\nC. Decreased plant height\nD. Increased length of leaf and root",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -40,7 +44,8 @@
         "question": "What is the role of OsSPL14?\nA. It acts as a termination factor.\nB. It acts as a translation factor.\nC. It acts as a replication factor.\nD. It acts as a transcription factor.",
         "answer": "D",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -49,7 +54,8 @@
         "question": "Where is OsSPL14 predominantly expressed?\nA. In the flower apex\nB. In the leaf apex\nC. In the root apex\nD. In the shoot apex",
         "answer": "D",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -58,7 +64,8 @@
         "question": "How is OsSPL14 regulated?\nA. By the OsmiR159-directed cleavage in vivo.\nB. By the OsmiR157-directed cleavage in vivo.\nC. By the OsmiR156-directed cleavage in vivo.\nD. By the OsmiR158-directed cleavage in vivo.",
         "answer": "C",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -67,7 +74,8 @@
         "question": "What happens when OsmiR156 is overexpressed?\nA. There is a substantial decrease in OsSPL14 transcripts.\nB. There is no change in OsSPL14 transcripts.\nC. There is a substantial increase in OsSPL14 transcripts.\nD. There is a slight increase in OsSPL14 transcripts.",
         "answer": "A",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -76,7 +84,8 @@
         "question": "What is the relationship between the expression pattern of OsSPL14 and OsmiR156?\nA. They are complementary.\nB. They are identical.\nC. They are opposite.\nD. They are unrelated.",
         "answer": "A",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -85,7 +94,8 @@
         "question": "What were the results of the study?\nA. The gOsSPL14 transgenic lines had increased tillers, weaker culms, and decreased panicle branches and grain yield\nB. The OsSPL14 RNA interference (RNAi) transgenic plants showed a marked reduction in plant height, diameter of culms, panicle branches and grain number\nC. The gOsSPL14 transgenic lines had reduced tillers, stronger culms, and increased panicle branches and grain yield\nD. The OsSPL14 RNA interference (RNAi) transgenic plants showed a marked increase in plant height, diameter of culms, panicle branches and grain number",
         "answer": "C, B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -94,7 +104,8 @@
         "question": "What is the conclusion of the study?\nA. OsSPL14 has no effect on plant architecture and grain number\nB. OsSPL14 negatively impacts plant architecture and grain number\nC. The role of OsSPL14 in plant architecture and grain number is unclear\nD. OsSPL14 is the gene responsible for ideal plant architecture and grain number",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -103,7 +114,8 @@
         "question": "What effects did the gOsSPL14 transgenic lines show?\nA. Reduced tillers\nB. Decreased grain yield\nC. Increased panicle branches\nD. Stronger culms",
         "answer": "A, D, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -112,7 +124,8 @@
         "question": "What are the effects of the mutant osfie1?\nA. Produced smaller seeds\nB. Showed increased frequency of pre-harvest sprouting\nC. Impaired cellularization of the endosperm\nD. Displayed reduced dormancy",
         "answer": "A, D, B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -121,7 +134,8 @@
         "question": "What are the findings related to OsFIE1's role in seed development?\nA. Overexpression of OsFIE1 could directly affect seed development\nB. OsFIE1 predominantly functions in late seed development\nC. OsFIE1 is indispensable for early seed development\nD. OsFIE1 plays roles in late seed development",
         "answer": "B, A, D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -130,7 +144,8 @@
         "question": "What are the effects of the mutant osfie2?\nA. Displayed reduced dormancy\nB. Showed increased frequency of pre-harvest sprouting\nC. Impaired cellularization of the endosperm\nD. Produced smaller seeds",
         "answer": "C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -139,7 +154,8 @@
         "question": "Which of the following statements about OsFIE1 and OsFIE2 are true?\nA. Ectopic expression of OsFIE1 was deleterious to vegetative growth\nB. The expression of OsFIE2 was significantly increased in independent transgenic lines\nC. OsFIE2 is indispensable for early seed development\nD. The newly evolved N-terminal tail of OsFIE1 was the cause of the adverse effects on vegetative growth",
         "answer": "A, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -148,7 +164,8 @@
         "question": "What are the effects of the GT1::OsFIE1 lines?\nA. Showed increased frequency of pre-harvest sprouting\nB. Produced seeds significantly smaller than the WT seeds\nC. Showed vegetative development similar to that of the WT\nD. The 1000-grain weight of GT1::OsFIE1 was reduced to 86–88% of the WT value",
         "answer": "C, B, D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -157,7 +174,8 @@
         "question": "What are the initial compounds in the process of wax biosynthesis?\nA. VLCFAs\nB. Acyl-CoA\nC. Malonyl-CoA\nD. C16 and C18 fatty acids",
         "answer": "D",
         "split": {
-            "level1": "基因产物细胞位置"
+            "level1": "基因产物细胞位置",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -166,7 +184,8 @@
         "question": "Which complex is responsible for the elongation of C16 and C18 fatty acids to VLCFAs?\nA. Acyl-CoA synthetase complex\nB. Fatty acid elongase (FAE) complex\nC. Fatty acid synthase complex\nD. Acyl-CoA reductase complex",
         "answer": "B",
         "split": {
-            "level1": "基因产物细胞位置"
+            "level1": "基因产物细胞位置",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -175,7 +194,8 @@
         "question": "What are the steps of the VLCFA elongation cycle?\nA. Reduction of acyl-CoA by acyl-CoA reductase\nB. Reduction of enoyl acylCoA\nC. Condensation of C16 and C18 acyl-CoA with malonyl-CoA\nD. Dehydration of b-hydroxy acyl-CoA",
         "answer": "C, D, B",
         "split": {
-            "level1": "基因产物细胞位置"
+            "level1": "基因产物细胞位置",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -184,7 +204,8 @@
         "question": "What are the final products of the wax biosynthesis process?\nA. Alkanes\nB. Primary alcohols\nC. Aldehydes\nD. Free fatty acids",
         "answer": "D, B, C, A",
         "split": {
-            "level1": "基因产物细胞位置"
+            "level1": "基因产物细胞位置",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -193,7 +214,8 @@
         "question": "What is the result of each cycle in the VLCFA elongation process?\nA. An acyl-CoA with a two-carbon extension\nB. A VLCFA with a two-carbon extension\nC. A malonyl-CoA with a two-carbon extension\nD. A fatty acid with a two-carbon extension",
         "answer": "A",
         "split": {
-            "level1": "基因产物细胞位置"
+            "level1": "基因产物细胞位置",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -202,7 +224,8 @@
         "question": "OsSIZ2基因可能影响的植物性状包括哪些？\nA. 株高\nB. 花粉败育\nC. 磷含量\nD. 非生物胁迫抗性",
         "answer": "D, A, B, C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -211,7 +234,8 @@
         "question": "以下哪些是OsSIZ2基因的预测功能？\nA. response to acid chemical\nB. regulation of immune system process\nC. obsolete reproduction\nD. cell morphogenesis",
         "answer": "C, D, A, B",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -220,7 +244,8 @@
         "question": "OsSIZ2基因在哪些生长阶段发挥了正向调节作用？\nA. 芽发阶段\nB. 生殖生长阶段\nC. 营养生长阶段\nD. 老化阶段",
         "answer": "C, B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -229,7 +254,8 @@
         "question": "OsSIZ2基因突变体在营养生长过程中影响了哪些元素的吸收和转运？\nA. 氮\nB. 钾\nC. 磷酸盐Pi（phosphate）\nD. 钙",
         "answer": "C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -238,7 +264,8 @@
         "question": "在缺氮条件下，哪些植株的总氮量比野生型显著增加？\nA. ossiz2突变体\nB. OsSIZ2-Ri植株\nC. OsSIZ1-Ri植株\nD. ossiz1突变体",
         "answer": "B, A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -247,7 +274,8 @@
         "question": "OsSIZ2基因在哪些元素的稳态调控中发挥作用？\nA. 钙\nB. 磷酸盐Pi（phosphate）\nC. 氮\nD. 钾",
         "answer": "B, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -256,7 +284,8 @@
         "question": "哪些基因表达量在ossiz2突变体中发生改变？\nA. 参与钾稳态的基因\nB. 参与氮稳态的基因\nC. 参与钙稳态的基因\nD. 参与磷酸盐稳态的基因",
         "answer": "B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -265,7 +294,8 @@
         "question": "水稻OsJRL45基因的功能是什么？\nA. 调节水稻在所有生长阶段的盐耐受性\nB. 提高水稻的抗病性\nC. 调节Na?/K?的动态平衡\nD. 提高水稻在盐胁迫条件下的抗氧化酶活性",
         "answer": "A, D, C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -274,7 +304,8 @@
         "question": "水稻OsJRL45基因位于哪个染色体上？\nA. 4号染色体\nB. 2号染色体\nC. 3号染色体\nD. 1号染色体",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -283,7 +314,8 @@
         "question": "水稻OsJRL45基因的编码蛋白质域包括哪些？\nA. Jacalin\nB. Leptin\nC. Glucagon\nD. Insulin",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -292,7 +324,8 @@
         "question": "以下哪些数据库中包含了水稻OsJRL45基因的编号？\nA. 人类基因组数据库（Human Genome Database）\nB. 水稻注释计划数据库(The Rice Annotation Project Database，RAP-DB)\nC. 水稻基因组注释项目数据库（Rice Genome Annotation Project，RGAP）\nD. 稻属超级泛基因组数据库(Rice Super Pan-genome Information Resource Database, RiceSuperPIRdb)",
         "answer": "B, C, D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -301,7 +334,8 @@
         "question": "在EnsemblPlants数据库中，OsSIZ2基因的功能包括哪些？\nA. nucleus\nB. zinc ion binding\nC. transferase activity\nD. metal ion binding",
         "answer": "A, C, D, B",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -310,7 +344,8 @@
         "question": "水稻OsJRL45基因的序列全长是多少？\nA. 1613bp\nB. 1496bp\nC. 1491bp\nD. 1316bp",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -319,7 +354,8 @@
         "question": "根据GO分析预测，OsHCAR基因有哪些功能？\nA. catalytic activity\nB. intracellular anatomical structure\nC. metal ion binding\nD. molecular function",
         "answer": "D, A, B",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -328,7 +364,8 @@
         "question": "在RAPDB数据库中，OsHCAR基因有哪些功能？\nA. Promotion of chlorophyll degradation\nB. Metal ion binding\nC. Coenzyme F420 hydrogenase/dehydrogenase beta subunit\nD. 7-hydroxymethyl chlorophyll a reductase",
         "answer": "C, D, A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -337,7 +374,8 @@
         "question": "在EnsemblPlants数据库中，OsHCAR基因有哪些功能？\nA. Promotion of chlorophyll degradation\nB. metal ion binding\nC. chlorophyll metabolic process\nD. oxidoreductase activity",
         "answer": "D, B, C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -346,7 +384,8 @@
         "question": "OsHCAR基因在哪些生物过程中起作用？\nA. chlorophyll cycle\nB. chlorophyll metabolic process\nC. cell death signaling\nD. intracellular anatomical structure",
         "answer": "B, A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -355,7 +394,8 @@
         "question": "稻米HCAR是什么类型的酶？\nA. 叶绿素降解酶\nB. 糖酵解酶\nC. 蛋白酶\nD. 脂肪酶",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -364,7 +404,8 @@
         "question": "稻米hcar突变体的叶片表现出什么特性？\nA. 对氧化应激诱导的细胞死亡敏感\nB. 叶片颜色变黄\nC. 细胞死亡症状\nD. 叶绿素水平降低",
         "answer": "C, A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -373,7 +414,8 @@
         "question": "在细胞死亡期间，哪些基因在hcar突变体叶片中的表达量显著高于野生型？\nA. HCAR\nB. Os-NAC4\nC. JAmyb\nD. OsAPX1",
         "answer": "C, B, D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -382,7 +424,8 @@
         "question": "稻米hcar突变体叶片在什么条件下，基因表达量显著高于野生型？\nA. 在高光照下\nB. 在高温下\nC. 在低光照下\nD. 在低温下",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -391,7 +434,8 @@
         "question": "稻米hcar突变体叶片在暗诱导衰老过程中表现出什么特性？\nA. 叶绿素水平显著降低\nB. 呈现出黄色表型\nC. 呈现出持久绿色表型\nD. 保持了较高的叶绿素水平",
         "answer": "D, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -400,7 +444,8 @@
         "question": "水稻OsRING315基因的类型是什么？\nA. DUF3675 (Protein of unknown function)\nB. RINGv (RING-variant domain)\nC. AGIS_Os09g031220\nD. RING-type E3 ubiquitin ligase 315",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -409,7 +454,8 @@
         "question": "OsRING315基因的表达水平与哪些因素相关？\nA. amylose content (AC)\nB. 水稻的抗病性\nC. gel consistency (GC)\nD. 水稻的生长速度",
         "answer": "A, C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -418,7 +464,8 @@
         "question": "OsRING315基因位于水稻哪个染色体上？\nA. 1号染色体\nB. 9号染色体\nC. 5号染色体\nD. 12号染色体",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -427,7 +474,8 @@
         "question": "OsRING315基因的全长序列是多少？\nA. 19054746 bp\nB. 24650 bp\nC. 19049516 bp\nD. 5231 bp",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -436,7 +484,8 @@
         "question": "OsRING315基因在哪些数据库中有记录？\nA. GenBank\nB. RiceSuperPIRdb\nC. EnsemblPlants\nD. RAPDB",
         "answer": "B, D, C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -445,7 +494,8 @@
         "question": "在RiceSuperPIRdb数据库中，OsRING315基因涉及哪些功能？\nA. Zinc finger, C3HC4 type, putative, expressed\nB. Similar to Protein binding protein\nC. GO:0016020_membrane(cellular component)\nD. GO:0000323_lytic vacuole(cellular component)",
         "answer": "A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -454,7 +504,8 @@
         "question": "在RAPDB数据库中，OsRING315基因有哪些功能？\nA. GO:0000323_lytic vacuole(cellular component)\nB. GO:0016020_membrane(cellular component)\nC. Zinc finger, C3HC4 type, putative, expressed\nD. Similar to Protein binding protein",
         "answer": "D",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -463,7 +514,8 @@
         "question": "在EnsemblPlants数据库中，OsRING315基因有哪些功能？\nA. Similar to Protein binding protein\nB. Zinc finger, C3HC4 type, putative, expressed\nC. GO:0000323_lytic vacuole(cellular component)\nD. GO:0016020_membrane(cellular component)",
         "answer": "D",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -472,7 +524,8 @@
         "question": "BREVIS RADIX-like 1基因（OsBRXL1）来源于哪种植物？\nA. 水稻\nB. 大豆\nC. 玉米\nD. 小麦",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -481,7 +534,8 @@
         "question": "BREVIS RADIX-like 1基因（OsBRXL1）位于哪个染色体上？\nA. 3号染色体\nB. 1号染色体\nC. 2号染色体\nD. 4号染色体",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -490,7 +544,8 @@
         "question": "BREVIS RADIX-like 1基因（OsBRXL1）的序列全长是多少？\nA. 29316726- 29323651 bp\nB. 29323651 bp\nC. 6926 bp\nD. 29316726 bp",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -499,7 +554,8 @@
         "question": "BREVIS RADIX-like 1基因（OsBRXL1）编码的蛋白是什么？\nA. BRX蛋白\nB. RiceSuperPIRdb蛋白\nC. RGAP蛋白\nD. RAP-DB蛋白",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -508,7 +564,8 @@
         "question": "以下哪些是BREVIS RADIX-like 1基因（OsBRXL1）在不同数据库中的基因编号？\nA. LOC_Os02g47230\nB. AGIS_Os02g042580\nC. Os02g0700701\nD. Os02g0700700",
         "answer": "D, A, B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -517,7 +574,8 @@
         "question": "FLO10基因位于水稻日本晴的哪个染色体上？\nA. 2号染色体\nB. 4号染色体\nC. 3号染色体\nD. 1号染色体",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -526,7 +584,8 @@
         "question": "FLO10基因编码的蛋白质是什么？\nA. 线粒体定位的N型PPR蛋白\nB. 线粒体定位的P型PPR蛋白\nC. 核定位的P型PPR蛋白\nD. 核定位的N型PPR蛋白",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -535,7 +594,8 @@
         "question": "FLO10基因的等位基因是什么？\nA. WBG1基因\nB. WBG4基因\nC. WBG3基因\nD. WBG2基因",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -544,7 +604,8 @@
         "question": "FLO10基因在水稻注释计划数据库（RAP-DB）中的编号是什么？\nA. Os03g0168500\nB. LOC_Os03g07220\nC. AGIS_Os03g005990\nD. Os03g0168400",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -553,7 +614,8 @@
         "question": "FLO10基因的序列全长是多少？\nA. 4434 bp\nB. 4432 bp\nC. 4435 bp\nD. 4433 bp",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -562,7 +624,8 @@
         "question": "TAC4基因可能影响的植物性状有哪些？\nA. 籽粒灌浆速率\nB. 总淀粉含量\nC. 蛋白质含量\nD. 直链淀粉含量",
         "answer": "C, D, B, A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -571,7 +634,8 @@
         "question": "FLO10基因在哪些数据库中有记录？\nA. RiceSuperPIRdb\nB. 国家水稻数据中心\nC. EnsemblPlants\nD. RAPDB",
         "answer": "A, D, C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -580,7 +644,8 @@
         "question": "FLO10基因的预测功能是什么？\nA. 含PPR重复结构域蛋白\nB. 蛋白质合成\nC. DNA复制\nD. 细胞分裂",
         "answer": "A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -589,7 +654,8 @@
         "question": "OsCHR709基因的功能包括哪些？\nA. 核酸结合\nB. 分子功能\nC. RNA结合\nD. 酶活性",
         "answer": "B, A, C, D",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -598,7 +664,8 @@
         "question": "国家水稻数据中心数据库中的TAC4基因可能影响的植物性状包括哪些？\nA. 总淀粉含量\nB. 直链淀粉含量\nC. 蛋白质含量\nD. 粉质胚乳",
         "answer": "C, B, D, A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -607,7 +674,8 @@
         "question": "CDPK13基因是一种什么类型的蛋白激酶？\nA. 钾依赖性蛋白激酶\nB. 镁依赖性蛋白激酶\nC. 钙依赖性蛋白激酶\nD. 钠依赖性蛋白激酶",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -616,7 +684,8 @@
         "question": "CDPK13基因位于水稻日本晴的哪个染色体上？\nA. 2号染色体\nB. 3号染色体\nC. 1号染色体\nD. 4号染色体",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -625,7 +694,8 @@
         "question": "以下哪些是CDPK13基因的别名？\nA. OsCDPK20\nB. OsCDPK13\nC. OsCDPK7\nD. OsCDPK10",
         "answer": "C, B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -634,7 +704,8 @@
         "question": "CDPK13基因在水稻注释计划数据库（RAP-DB）中的编号是什么？\nA. LOC_Os04g49510\nB. Os04g0584700\nC. Os04g0584600\nD. AGIS_Os04g043580",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -643,7 +714,8 @@
         "question": "CDPK13基因的序列全长是多少？\nA. 6000 bp\nB. 5000 bp\nC. 5270 bp\nD. 52700 bp",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -652,7 +724,8 @@
         "question": "OsMTD2和哪个基因被认为是同一基因？\nA. OsCrRLK1L11\nB. OsCrRLK1L13\nC. OsCrRLK1L10\nD. OsCrRLK1L12",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -661,7 +734,8 @@
         "question": "OsGPT1基因在水稻日本晴中的位置是什么？\nA. 位于8号染色体的正链上\nB. 位于7号染色体的正链上\nC. 位于10号染色体的正链上\nD. 位于9号染色体的正链上",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -670,7 +744,8 @@
         "question": "OsGPT1基因的全名是什么？\nA. glucose 9-phosphate/phosphate translocator 1基因\nB. glucose 8-phosphate/phosphate translocator 1基因\nC. glucose 7-phosphate/phosphate translocator 1基因\nD. glucose 6-phosphate/phosphate translocator 1基因",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -679,7 +754,8 @@
         "question": "OsGPT1基因的长度是多少？\nA. 序列全长5073 bp\nB. 序列全长3073 bp\nC. 序列全长4073 bp\nD. 序列全长6073 bp",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -688,7 +764,8 @@
         "question": "OsGPT1基因编码的蛋白是什么？\nA. 编码一个WPT蛋白\nB. 编码一个UPT蛋白\nC. 编码一个TPT蛋白\nD. 编码一个VPT蛋白",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -697,7 +774,8 @@
         "question": "OsWOX3A基因可能影响的植物性状包括哪些？\nA. 叶宽\nB. 侧根数\nC. 节间长度\nD. 花苞形态学特征",
         "answer": "B, C, A, D",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -706,7 +784,8 @@
         "question": "OsWOX3A基因的预测功能是什么？\nA. protein binding\nB. homeobox domain containing protein\nC. DNA-binding transcription factor activity\nD. WUS-type homenodomain protein",
         "answer": "B",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -715,7 +794,8 @@
         "question": "以下哪些是OsWOX3A基因在GO分析和KEGG分析中的功能？\nA. developmental process involved in reproduction\nB. regionalization\nC. obsolete reproduction\nD. DNA-binding transcription factor activity",
         "answer": "C, B, A, D",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -724,7 +804,8 @@
         "question": "在EnsemblPlants数据库中，OsWOX3A基因的功能包括哪些？\nA. plant organ development\nB. protein binding\nC. regulation of DNA-templated transcription\nD. nucleus",
         "answer": "B, D, C, A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -733,7 +814,8 @@
         "question": "OsSYL2基因在水稻的哪个染色体上？\nA. 第四号染色体\nB. 第一号染色体\nC. 第三号染色体\nD. 第二号染色体",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -742,7 +824,8 @@
         "question": "以下哪些数据库中都有OsSYL2基因的标识？\nA. Rice Annotation Project Database (RAP-DB)\nB. Rice Super Pan-genome Information Resource Database (RiceSuperPIRdb)\nC. Human Genome Database (HGD)\nD. Rice Genome Annotation Project (RGAP)",
         "answer": "A, D, B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -751,7 +834,8 @@
         "question": "OsSYL2基因的总序列长度是多少？\nA. 123bp\nB. 443bp\nC. 243bp\nD. 343bp",
         "answer": "C",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -760,7 +844,8 @@
         "question": "OsSYL2基因的结构由几个外显子和几个内含子组成？\nA. 1个外显子，2个内含子\nB. 1个外显子，0个内含子\nC. 2个外显子，1个内含子\nD. 0个外显子，1个内含子",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -769,7 +854,8 @@
         "question": "OsSYL2基因的正式名称是什么？\nA. style length 4\nB. style length 3\nC. style length 1\nD. style length 2",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -778,7 +864,8 @@
         "question": "Which databases are mentioned in the context?\nA. EnsemblPlants\nB. RAPDB\nC. GeneBank\nD. RiceSuperPIRdb",
         "answer": "D, B, A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -787,7 +874,8 @@
         "question": "What are the possible activities of the gene Os3BGlu6?\nA. gamma-glucosidase/gamma-fucosidase/gamma-galactosidase\nB. alpha-glucosidase/alpha-fucosidase/alpha-galactosidase\nC. delta-glucosidase/delta-fucosidase/delta-galactosidase\nD. beta-glucosidase/beta-fucosidase/beta-galactosidase",
         "answer": "D",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -796,7 +884,8 @@
         "question": "What are the possible functions of Os3BGlu6 according to GO and KEGG analysis?\nA. Catalytic activity\nB. Alpha-galactosidase activity\nC. Hydrolase activity, hydrolyzing O-glycosyl compounds\nD. Molecular function",
         "answer": "D, A, C",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -805,7 +894,8 @@
         "question": "What are the possible functions of Os3BGlu6 according to RAPDB database?\nA. Drought tolerance\nB. Beta-glucosidase\nC. ABA recycling\nD. Control of photosynthesis",
         "answer": "B, C, A, D",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -814,7 +904,8 @@
         "question": "What are the possible functions of Os3BGlu6 according to EnsemblPlants database?\nA. Carbohydrate metabolic process\nB. Metabolic process\nC. Extracellular region\nD. Hydrolase activity",
         "answer": "D, B, C, A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -823,7 +914,8 @@
         "question": "OsINH3基因在哪些数据库中有记录？\nA. EnsemblPlants数据库\nB. RiceSuperPIRdb数据库\nC. 中国水稻数据中心\nD. RAPDB数据库",
         "answer": "C, B, D, A",
         "split": {
-            "level1": "基因功能预测"
+            "level1": "基因功能预测",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -832,7 +924,8 @@
         "question": "OsMTD2基因的全称是什么？\nA. male-gene transfer defective 5\nB. male-gene transfer defective 1\nC. male-gene transfer defective 3\nD. male-gene transfer defective 2",
         "answer": "D",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -841,7 +934,8 @@
         "question": "OsMTD2基因位于哪个染色体上？\nA. 第5号染色体\nB. 第7号染色体\nC. 第3号染色体\nD. 第1号染色体",
         "answer": "A",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -850,7 +944,8 @@
         "question": "OsMTD2基因的功能是什么？\nA. 编码受体样蛋白质\nB. 编码受体样激酶\nC. 编码受体样酶\nD. 编码受体样核酸",
         "answer": "B",
         "split": {
-            "level1": "基因基本信息查询"
+            "level1": "基因基本信息查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -859,7 +954,8 @@
         "question": "What was the objective of the study?\nA. To test the prediction of Ghd8 alleles' effect on plant characteristics.\nB. To analyze the T1 families of the T0 transformants under natural LD conditions.\nC. To introduce Ghd8 alleles of 93–11 and Nipponbare into NILZS through Agrobacterium-mediated transformation.\nD. To compare the performance of positive and negative T1 plants.",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -868,7 +964,8 @@
         "question": "What were the methods used in the study?\nA. Compared the performance of positive and negative T1 plants.\nB. Introduced Ghd8 alleles of 93–11 and Nipponbare into NILZS through Agrobacterium-mediated transformation.\nC. Analyzed the T1 families of the T0 transformants under natural LD conditions.\nD. Tested the prediction of Ghd8 alleles' effect on plant characteristics.",
         "answer": "B, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -877,7 +974,8 @@
         "question": "What were the results of the study?\nA. Ghd8 allele of Nipponbare promoted flowering under SD conditions and inhibited flowering under LD conditions in ZS97.\nB. Positive T1 plants showed significantly more grains, delayed heading, and taller culms compared to the transgenic negative plants.\nC. Negative Ghd8 transgenic plants showed a performance similar to their recipient line NILZS.\nD. Positive T1 plant resulted in increases above 60% in grain yield per plant and grains per panicle compared to the recipient NILZS and the negative T1 plant.",
         "answer": "B, C, D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -886,7 +984,8 @@
         "question": "What was the focus of the study?\nA. Investigation of the alteration of expression patterns of the two 'florigen' genes by OsMADS51.\nB. Investigation of the alteration of expression patterns of the two 'florigen' genes by EF8.\nC. Investigation of the alteration of expression patterns of the two 'florigen' genes by Hd1.\nD. Investigation of the alteration of expression patterns of the two 'florigen' genes by Ehd1.",
         "answer": "B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -895,7 +994,8 @@
         "question": "What was the phenotype of the ef8 mutant?\nA. Slightly darker green leaf and less chlorophyll content compared to wild type under LDs.\nB. Slightly lighter green leaf and more chlorophyll content compared to wild type under LDs.\nC. Slightly darker green leaf and more chlorophyll content compared to wild type under LDs.\nD. Slightly lighter green leaf and less chlorophyll content compared to wild type under LDs.",
         "answer": "C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -904,7 +1004,8 @@
         "question": "Which genes were up-regulated in the ef8 mutant compared to wild type under LDs?\nA. NADPH:protochlorophyllide oxidoreductase A (PORA)\nB. Chlorophyll synthetase (CHLG)\nC. Mg chelatase H subunit (CHLH)\nD. Mg-protoporphyrin IX methyltransferase (CHLM)",
         "answer": "D, A, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -913,7 +1014,8 @@
         "question": "How did EF8 affect chlorophyll biogenesis under LDs?\nA. EF8 did not affect chlorophyll biogenesis.\nB. EF8 negatively regulated chlorophyll biogenesis.\nC. The effect of EF8 on chlorophyll biogenesis is unknown.\nD. EF8 positively regulated chlorophyll biogenesis.",
         "answer": "B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -922,7 +1024,8 @@
         "question": "What were the observed changes in the pOsl2::GWD1 transgenic rice plants compared to the wild type?\nA. Increased plant height\nB. Decreased grain yield per plant\nC. Unchanged seed setting rate\nD. Decreased 1000-grain weight",
         "answer": "A, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -931,7 +1034,8 @@
         "question": "What is the impact of GWD1 overexpression on seed germination?\nA. It decreases seed germination\nB. It has no effect on seed germination\nC. It delays seed germination\nD. It increases seed germination",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -940,7 +1044,8 @@
         "question": "What is the effect of the gwd1 mutation on rice seed germination?\nA. It has no effect on seed germination\nB. It increases seed germination\nC. It delays seed germination\nD. It decreases seed germination",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -949,7 +1054,8 @@
         "question": "Which of the following traits remained unchanged in the pOsl2::GWD1 transgenic rice plants?\nA. Seed setting rate\nB. Grain number per panicle\nC. Panicle number per plant\nD. Plant height",
         "answer": "A, C, B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -958,7 +1064,8 @@
         "question": "What was the effect of GWD1 overexpression on the 1000-grain weight and grain yield per plant in the pOsl2::GWD1 transgenic rice plants?\nA. The grain yield per plant increased by about 10%, but the 1000-grain weight decreased by about 10%\nB. The 1000-grain weight increased by about 10%, but the grain yield per plant decreased by about 10%\nC. They both increased by about 10%\nD. They both decreased by about 10%",
         "answer": "C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -967,7 +1074,8 @@
         "question": "What was the result of the T-DNA insertion in the rice bglu6 mutant?\nA. Increase in root length.\nB. Increase in stomatal density in leaves.\nC. Increase in seedling plant height.\nD. No detectable expression of BGLU6 in leaves and roots.",
         "answer": "D, B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -976,7 +1084,8 @@
         "question": "What were the effects of the disruption of BGLU6 on the plant height and ABA content in bglu6?\nA. Significant decrease in seedling plant height.\nB. No change in plant height.\nC. Decrease in ABA content.\nD. Increase in ABA content.",
         "answer": "A, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -985,7 +1094,8 @@
         "question": "What were the changes observed in the BGLU6 RE and OE transgenic rice lines?\nA. BGLU6 OE lines had a plant height of 120.5% of the WT.\nB. The plant height of BGLU6 RE lines was 93.2% that of the WT.\nC. The hydrolysis activity of ABA-GE in the OE-5 line was 22.6% higher than that of the WT.\nD. The stomatal density in the OE line was lower than that of the WT.",
         "answer": "B, A, C",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -994,7 +1104,8 @@
         "question": "What were the effects of the disruption of BGLU6 on photosynthesis efficiency and oxidative stress?\nA. It increased chloroplastic oxidative stress.\nB. It lowered the photosynthesis efficiency.\nC. It decreased chloroplastic oxidative stress.\nD. It increased the photosynthesis efficiency.",
         "answer": "B, A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1003,7 +1114,8 @@
         "question": "What changes were observed in the hydrolysis activity and stomatal density under drought stress?\nA. The hydrolysis activity in the WT and the OE-5 line increased.\nB. The stomatal density was slightly higher in these genotypes compared to that before treatment.\nC. The stomatal density in the OE line was lower than before stress.\nD. The hydrolysis activity in the WT and the OE-5 line decreased.",
         "answer": "A, B",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1012,7 +1124,8 @@
         "question": "What is the mutation in the GL10 gene in knockout lines (KO-GL10)?\nA. A nonsense mutation causing a stop codon.\nB. A missense mutation causing a change in one amino acid.\nC. A deletion mutation causing a loss of a whole gene.\nD. A frameshift mutation causing premature termination of translation.",
         "answer": "D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1021,7 +1134,8 @@
         "question": "What phenotypic effects are observed in KO-GL10 lines compared to the HJX74 wild-type line?\nA. Increased plant height and effective tiller numbers.\nB. Decreased grain length, grain width, and 1000-grain weight.\nC. Increased grain number.\nD. Earlier heading date.",
         "answer": "B, D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1030,7 +1144,8 @@
         "question": "What effects are observed when GL10 is overexpressed in the NIL-gl10 background?\nA. Earlier heading stage.\nB. Increased grain length and grain weight.\nC. Decreased grain width, plant height, effective tiller numbers, and grain number per plant.\nD. No significant differences in grain width, plant height, effective tiller numbers, and grain number per plant.",
         "answer": "B, A, D",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1039,7 +1154,8 @@
         "question": "What is the role of GL10 in rice plants?\nA. It participates in the regulation of gibberellic acid (GA) signaling pathway genes in young panicle tissues.\nB. It is a negative regulator of grain width and plant height.\nC. It is a positive regulator of grain length, grain weight and heading date.\nD. It regulates grain length by promoting greater longitudinal cell growth in the grain glume.",
         "answer": "C, D, A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1048,7 +1164,8 @@
         "question": "What is observed in the analysis of GL10 haplotypes?\nA. Obvious divergence between the japonica and indica lineages.\nB. No significant differences between different haplotypes.\nC. Similarity between the japonica and indica lineages.\nD. A high level of genetic diversity within the same lineage.",
         "answer": "A",
         "split": {
-            "level1": "基因功能实验观察"
+            "level1": "基因功能实验观察",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1057,7 +1174,8 @@
         "question": "湘早籼45号的育种单位和育种方法分别是什么？\nA. 湖南农业大学\nB. 品种间杂交育种方法\nC. 益阳市农科所\nD. 单株选择育种方法",
         "answer": "C, B",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1066,7 +1184,8 @@
         "question": "湘早籼45号的育种时间和审定时间分别是什么？\nA. 1997年至2007年\nB. 2007年2月\nC. 2010年3月\nD. 2005年至2015年",
         "answer": "A, B",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1075,7 +1194,8 @@
         "question": "以下哪些是湘早籼45号的特点？\nA. 米质优，抗性好\nB. 熟期早，全生育期105.9天\nC. 3年区试（预试）产量均达到7.5吨/公顷以上\nD. 适宜在湖南省稻瘟病重发区作早稻种植",
         "answer": "B, C, A",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1084,7 +1204,8 @@
         "question": "湘早籼45号适宜在哪些地区种植？\nA. 湖南省稻瘟病重发区\nB. 广东省稻瘟病轻发区\nC. 湖北省稻瘟病轻发区\nD. 湖南省稻瘟病轻发区",
         "answer": "D",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1093,7 +1214,8 @@
         "question": "湘早籼45号的产量和生育期分别是多少？\nA. 3年区试（预试）产量均达到8.5吨/公顷以上\nB. 全生育期95.9天\nC. 3年区试（预试）产量均达到7.5吨/公顷以上\nD. 全生育期105.9天",
         "answer": "C, D",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1102,7 +1224,8 @@
         "question": "五常大米的产地是哪里？\nA. 黑龙江省哈尔滨市五常市\nB. 江苏省扬州市\nC. 山东省青岛市\nD. 广东省广州市",
         "answer": "A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1111,7 +1234,8 @@
         "question": "以下哪些是五常大米的特性？\nA. 干物质含量高\nB. 香味浓郁\nC. 支链淀粉含量低\nD. 粒大饱满、口感弹牙",
         "answer": "A, D, B",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1120,7 +1244,8 @@
         "question": "五常大米的种植条件包括哪些？\nA. 收获期昼夜温差大\nB. 五常地区一年只能种一季水稻\nC. 育苗需要借助大棚或温室\nD. 生长期短",
         "answer": "B, C, A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1129,7 +1254,8 @@
         "question": "如何确认大米是否为正宗的五常大米？\nA. 包装袋上印有“产地证明商标”\nB. 包装袋上印有“中华人民共和国地理标志”\nC. 包装袋上印有“国家质检总局授权”\nD. 包装袋上印有“五常大米国家标准”",
         "answer": "B, A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1138,7 +1264,8 @@
         "question": "五常大米的种子选择应该满足哪些条件？\nA. 种子选用五优稻系列\nB. 种子选用松粳系列\nC. 种子选用其他符合五常种植条件种植的其他粳稻品种\nD. 种子选用符合大米执行标准GB/T 19266的种子",
         "answer": "A, B, C, D",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1147,7 +1274,8 @@
         "question": "镇籼232的特性包括哪些？\nA. 株高110cm，茎秆弹性较好\nB. 每穗总粒135粒左右，结实率90%左右\nC. 抗逆性较强，抗倒性好\nD. 全生育期145天左右，后期转色较好",
         "answer": "A, B, D, C",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1156,7 +1284,8 @@
         "question": "镇籼232的育种机构是哪个？\nA. 中国农业科学院\nB. 江苏丘陵地区镇江农科所\nC. 中科院植物研究所\nD. 江苏省农科院",
         "answer": "B",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1165,7 +1294,8 @@
         "question": "镇籼232对哪些病害有较强的抗性？\nA. 褐飞虱\nB. 纹桔病\nC. 白叶枯病\nD. 稻瘟病",
         "answer": "C, D, A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1174,7 +1304,8 @@
         "question": "以下哪些温度条件是水稻生长需要的？\nA. 灌浆结实期要求日平均气温在23~28℃之间\nB. 分蘖期日均20℃以上\nC. 开花最适温30℃左右\nD. 幼苗发芽最适28~32℃",
         "answer": "D, B, C, A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1183,7 +1314,8 @@
         "question": "以下哪些情况会对水稻生长产生不良影响？\nA. 日平均气温低于12℃三天以上易感染绵腐病\nB. 花粉母细胞减数分裂期最低温度低于15~17℃，会造成颖花退化，不实粒增加和抽穗延迟\nC. 连续3天平均气温低于20℃(粳稻)或2~3天低于22℃(籼稻)，易形成空壳和谷\nD. 秧苗温度高于40℃易受灼伤",
         "answer": "A, D, C, B",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1192,7 +1324,8 @@
         "question": "水稻的湿度需求是什么？\nA. 相对湿度100%为宜\nB. 相对湿度50~90%为宜\nC. 水稻对湿度没有特殊要求\nD. 相对湿度20~40%为宜",
         "answer": "B",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1201,7 +1334,8 @@
         "question": "水稻种子的结构包括哪些部分？\nA. 种皮\nB. 胚\nC. 花粉\nD. 胚乳",
         "answer": "A, D, B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1210,7 +1344,8 @@
         "question": "大米制作过程中，会去除水稻种子的哪些部分？\nA. 胚乳\nB. 胚\nC. 花粉\nD. 种皮",
         "answer": "D, B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1219,7 +1354,8 @@
         "question": "我们食用大米获取的营养物质主要储存在哪个部分？\nA. 花粉\nB. 胚乳\nC. 种皮\nD. 胚",
         "answer": "B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1228,7 +1364,8 @@
         "question": "以下哪些部分是水稻种子胚的组成部分？\nA. 胚轴\nB. 胚芽\nC. 子叶\nD. 胚根",
         "answer": "D, B, A, C",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1237,7 +1374,8 @@
         "question": "龙粳10号的选育单位是哪个机构？\nA. 中国农业科学院\nB. 中国农业大学\nC. 中国科学院\nD. 黑龙江农业科学院水稻研究所",
         "answer": "D",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1246,7 +1384,8 @@
         "question": "以下哪些地区适合种植龙粳10号？\nA. 广东省\nB. 江苏省\nC. 黑龙江省第二积温带\nD. 云南省",
         "answer": "C",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1255,7 +1394,8 @@
         "question": "龙粳10号的品种类型是什么？\nA. 粳型杂交水稻\nB. 粳型早熟水稻\nC. 粳型抗病水稻\nD. 粳型常规水稻",
         "answer": "D",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1264,7 +1404,8 @@
         "question": "南粳9108的育种机构是哪个？\nA. 上海农业科学院\nB. 中国农业科学院\nC. 江苏省农业科学院粮食作物研究所\nD. 北京农业大学",
         "answer": "C",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1273,7 +1414,8 @@
         "question": "南粳9108的亲本包括哪些？\nA. 南粳46\nB. 江苏优质高产粳稻武香粳14\nC. 日本优质粳稻关东194\nD. 宁9108",
         "answer": "C, B",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1282,7 +1424,8 @@
         "question": "南粳9108的育成时间是什么时候？\nA. 2009年\nB. 1999年\nC. 2000年\nD. 2010年",
         "answer": "A",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1291,7 +1434,8 @@
         "question": "黄丰占的育种机构是哪个？\nA. 广东省农业大学\nB. 广东省农业科学院\nC. 广东省农科院水稻研究所\nD. 广东省农业研究所",
         "answer": "C",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1300,7 +1444,8 @@
         "question": "黄丰占适宜在哪些地区种植？\nA. 广东粤北\nB. 广东粤南\nC. 广东粤北以外稻作区\nD. 广东粤西",
         "answer": "C",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1309,7 +1454,8 @@
         "question": "武运粳7号的育种单位是哪个？\nA. 北京农业科学研究所\nB. 江苏省武进市农业科学研究所\nC. 广东省农业科学研究所\nD. 上海农业科学研究所",
         "answer": "B",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1318,7 +1464,8 @@
         "question": "武运粳7号的亲本包括哪些？\nA. 嘉40\nB. 丙816\nC. 香糯9121\nD. 丙815",
         "answer": "A, C, D",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1327,7 +1474,8 @@
         "question": "武运粳7号适宜在哪些地区种植？\nA. 长江中下游粳稻区\nB. 黄河流域粳稻区\nC. 珠江流域粳稻区\nD. 长江上游粳稻区",
         "answer": "A",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1336,7 +1484,8 @@
         "question": "武运粳7号适宜在哪个季节种植？\nA. 双季晚稻\nB. 双季早稻\nC. 单季晚稻\nD. 单季早稻",
         "answer": "A",
         "split": {
-            "level1": "中国品种选育过程查询"
+            "level1": "中国品种选育过程查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1345,7 +1494,8 @@
         "question": "南粳9108的育种单位是哪个？\nA. 江苏省农业科学院粮食作物研究所\nB. 宁镇扬丘陵地区农业科学院\nC. 江苏省农业科学院水稻研究所\nD. 江苏省农业科学院作物研究所",
         "answer": "A",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1354,7 +1504,8 @@
         "question": "C两优7号的选育方法是什么？\nA. 以C815S和R777为母本选育的两系杂交晚稻新组合\nB. 以C815S为母本、R777为父本选育的两系杂交晚稻新组合\nC. 以C815S和R777为父本选育的两系杂交晚稻新组合\nD. 以R777为母本、C815S为父本选育的两系杂交晚稻新组合",
         "answer": "B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1363,7 +1514,8 @@
         "question": "C两优7号的耐低温能力如何？\nA. 高\nB. 中等\nC. 极低\nD. 低",
         "answer": "B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1372,7 +1524,8 @@
         "question": "水稻进行的光合作用类型是什么？\nA. C2型光合作用\nB. C3型光合作用\nC. C4型光合作用\nD. CAM型光合作用",
         "answer": "B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1381,7 +1534,8 @@
         "question": "以下哪些因素会影响水稻的光合效率？\nA. 水分\nB. 二氧化碳浓度\nC. 光照强度\nD. 温度",
         "answer": "C, D, A, B",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1390,7 +1544,8 @@
         "question": "水稻光合作用最适温度是多少？\nA. 20～25℃\nB. 30～35℃\nC. 15～20℃\nD. 25～30℃",
         "answer": "D",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1399,7 +1554,8 @@
         "question": "以下哪些条件可以优化水稻的光合作用？\nA. 土壤水分充足\nB. 充足的光照\nC. 适宜的相对湿度\nD. 适宜的环境温度",
         "answer": "D, B, A, C",
         "split": {
-            "level1": "中国品种农艺性状查询"
+            "level1": "中国品种农艺性状查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1408,7 +1564,8 @@
         "question": "以下哪些是水稻病虫害的物理防治方法？\nA. 借助设备进行驱逐或诱杀\nB. 利用天敌、微生物等生物因素进行防治\nC. 喷施化学药剂杀灭和处理害虫\nD. 利用灯光、温度和气味等物理要素进行驱逐或诱杀",
         "answer": "A, D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1417,7 +1574,8 @@
         "question": "以下哪些是水稻病虫害的生物防治方法？\nA. 借助设备进行驱逐或诱杀\nB. 利用天敌、微生物等生物因素进行防治\nC. 喷施化学药剂杀灭和处理害虫\nD. 选择抗病性强的水稻品种种植",
         "answer": "B",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1426,7 +1584,8 @@
         "question": "以下哪些是水稻病虫害的化学防治方法？\nA. 选择抗病性强的水稻品种种植\nB. 喷施化学药剂杀灭和处理害虫\nC. 借助设备进行驱逐或诱杀\nD. 利用天敌、微生物等生物因素进行防治",
         "answer": "B",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1435,7 +1594,8 @@
         "question": "绥粳27是由哪两个品种选育而成的？\nA. 绥粳4号\nB. 绥粳27号\nC. 绥粳3号\nD. 绥粳10号",
         "answer": "A, D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1444,7 +1604,8 @@
         "question": "绥粳27的施肥方法中，以下哪些肥效果最明显？\nA. 磷肥\nB. 铁肥\nC. 氮肥\nD. 钾肥",
         "answer": "C, A, D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1453,7 +1614,8 @@
         "question": "武运粳7号的母本和父本分别是什么？\nA. 武进市农科所\nB. 加48\nC. 武运粳6号\nD. 香糯9121",
         "answer": "B, D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1462,7 +1624,8 @@
         "question": "以下哪些病虫害需要在武运粳7号的生长过程中防治？\nA. 纹枯病\nB. 螟虫\nC. 稻曲病\nD. 飞虱",
         "answer": "A, C, B, D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1471,7 +1634,8 @@
         "question": "以下哪些措施可以提高武运粳7号的品质和产量？\nA. 科学管理水肥\nB. 适期播种，培育壮秧\nC. 防治病虫害\nD. 合理密植",
         "answer": "B, D, A, C",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1480,7 +1644,8 @@
         "question": "空育131的栽培技术要点包括哪些？\nA. 控制施肥量\nB. 合理密植\nC. 加强病害防治措施\nD. 品种合理搭配种植",
         "answer": "B, A, C, D",
         "split": {
-            "level1": "中国品种栽培及技术要点查询"
+            "level1": "中国品种栽培及技术要点查询",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1489,7 +1654,8 @@
         "question": "华浙优26是由哪些机构育成的？\nA. 浙江勿忘农种业股份有限公司\nB. 中国水稻研究所\nC. 中国农业科学院\nD. 浙江大学农业与生物技术学院",
         "answer": "A, B",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1498,7 +1664,8 @@
         "question": "华浙优26适宜在哪些地区种植？\nA. 江西省稻瘟病轻发区\nB. 桂南稻作区\nC. 四川省平坝丘陵稻区\nD. 广东省粤北稻作区",
         "answer": "B, C, A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1507,7 +1674,8 @@
         "question": "华浙优26在以下哪些地区适宜作为早稻种植？\nA. 重庆市武陵山区\nB. 广东省粤北稻作区\nC. 桂中稻作区\nD. 桂南稻作区",
         "answer": "D",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1516,7 +1684,8 @@
         "question": "华浙优26在以下哪些地区适宜作为晚稻种植？\nA. 江西省稻瘟病轻发区\nB. 桂南稻作区\nC. 广东省粤北稻作区\nD. 桂中稻作区",
         "answer": "D, A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1525,7 +1694,8 @@
         "question": "水稻种植的基本要求包括哪些？\nA. 寒冷干燥的气候\nB. 充沛的水分\nC. 充足的日照\nD. 温暖湿润的气候",
         "answer": "D, C, B",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1534,7 +1704,8 @@
         "question": "以下哪些省份属于我国的水稻种植区域？\nA. 广东\nB. 江苏\nC. 黑龙江\nD. 新疆",
         "answer": "B, A, C",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1543,7 +1714,8 @@
         "question": "以下哪些地区属于华南双季稻稻作区？\nA. 福建\nB. 河南\nC. 广西\nD. 广东",
         "answer": "D, C, A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1552,7 +1724,8 @@
         "question": "以下哪些地区属于华北单季稻稻作区？\nA. 湖南\nB. 北京\nC. 天津\nD. 河北",
         "answer": "B, C, D",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1561,7 +1734,8 @@
         "question": "南粳9108是由哪个机构育成的？\nA. 江苏省农业科学院粮食作物研究所\nB. 江苏省农业科学院水稻研究所\nC. 中国农业科学院\nD. 中国科学院",
         "answer": "A",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1570,7 +1744,8 @@
         "question": "南粳9108是由哪两种水稻杂交育成的？\nA. 武香粳14号/南粳9108\nB. 武香粳14号/关东194\nC. 关东194/南粳9108\nD. 关东194/武香粳14号",
         "answer": "B",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1579,7 +1754,8 @@
         "question": "南粳9108是什么类型的水稻新品种？\nA. 早熟中粳水稻\nB. 迟熟粳水稻\nC. 迟熟中粳水稻\nD. 早熟粳水稻",
         "answer": "C",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1588,7 +1764,8 @@
         "question": "冈优22是由哪些机构育成的？\nA. 四川省农科院作物所\nB. 中国农业大学\nC. 中国农业科学院\nD. 四川农大水稻所",
         "answer": "A, D",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1597,7 +1774,8 @@
         "question": "冈优22适宜在哪些地方种植？\nA. 海拔800米以下的河谷、平坝、丘陵籼稻区\nB. 海拔1000-1500米的中籼稻区\nC. 海拔500米以下的低洼地区\nD. 海拔1500米以上的高山区",
         "answer": "A, B",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1606,7 +1784,8 @@
         "question": "冈优22的父母本分别是什么？\nA. CDR22\nB. 冈优23\nC. 冈46A\nD. 冈优21",
         "answer": "A, C",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1615,7 +1794,8 @@
         "question": "冈优22适宜在哪些海拔范围内种植？\nA. 海拔800米以下\nB. 海拔1500-2000米\nC. 海拔2000米以上\nD. 海拔1000-1500米",
         "answer": "A, D",
         "split": {
-            "level1": "中国品种适宜种植区域推荐"
+            "level1": "中国品种适宜种植区域推荐",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1624,7 +1804,8 @@
         "question": "TAC4基因在哪些水稻组织中有表达？\nA. 穗\nB. 根\nC. 幼叶\nD. 叶",
         "answer": "A, B, C, D",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1633,7 +1814,8 @@
         "question": "TAC4基因在以下哪些组织中的表达量较高？\nA. 花序\nB. 叶枕\nC. 叶鞘基部\nD. 幼穗",
         "answer": "D, B, C",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1642,7 +1824,8 @@
         "question": "以下哪些因素可以反映基因的活跃程度？\nA. 基因的长度\nB. 基因的表达量\nC. 基因的结构\nD. 基因的位置",
         "answer": "B",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1651,7 +1834,8 @@
         "question": "TAC4基因在以下哪些组织中的表达量最低？\nA. 根\nB. 叶\nC. 幼叶\nD. 穗",
         "answer": "B",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1660,7 +1844,8 @@
         "question": "以下哪个数据库提供了TAC4基因的测序数据？\nA. 稻属超级泛基因组数据库\nB. 植物基因组数据库\nC. 基因表达数据库\nD. 人类基因组数据库",
         "answer": "A",
         "split": {
-            "level1": "基因表达模式"
+            "level1": "基因表达模式",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1669,7 +1854,8 @@
         "question": "TAC4基因能控制哪些基因的表达？\nA. YUC1–4 genes\nB. TAR1 and TAR2\nC. YUC5–7 genes\nD. OsIAA20",
         "answer": "C, D",
         "split": {
-            "level1": "基因产物调控下游基因"
+            "level1": "基因产物调控下游基因",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
@@ -1678,7 +1864,8 @@
         "question": "TAC4基因对哪些基因有正向调控作用？\nA. OsIAA20\nB. YUC5–7 genes\nC. TAR1 and TAR2\nD. YUC1–4 genes",
         "answer": "A",
         "split": {
-            "level1": "基因产物调控下游基因"
+            "level1": "基因产物调控下游基因",
+            "level2": "Oryza sativa"
         },
         "task_type": "key_multiple_choice"
     },
