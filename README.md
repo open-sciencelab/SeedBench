@@ -94,10 +94,18 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 - `corpus/`: 279 high-quality text segments and low-quality questions discarded after expert validation.
 - `README.md`: This file.
 
-## 📬 Contact
+## 📬 Cite
 
 Open an issue on this repository for questions or contributions.
 
-* Last Updated: March 30, 2025
-* [License](./LICENSE)
-
+```txt
+@misc{ying2025seedbenchmultitaskbenchmarkevaluating,
+      title={SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science}, 
+      author={Jie Ying and Zihong Chen and Zhefan Wang and Wanli Jiang and Chenyang Wang and Zhonghang Yuan and Haoyang Su and Huanjun Kong and Fan Yang and Nanqing Dong},
+      year={2025},
+      eprint={2505.13220},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.13220}, 
+}
+```
