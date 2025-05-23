@@ -99,13 +99,24 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 Open an issue on this repository for questions or contributions.
 
 ```txt
-@misc{ying2025seedbenchmultitaskbenchmarkevaluating,
+@misc{ying2025seedbench,
       title={SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science}, 
-      author={Jie Ying and Zihong Chen and Zhefan Wang and Wanli Jiang and Chenyang Wang and Zhonghang Yuan and Haoyang Su and Huanjun Kong and Fan Yang and Nanqing Dong},
+      author={Ying, Jie and Chen, Zihong and Wang, Zhefan and Jiang, Wanli and Wang, Chenyang and Yuan, Zhonghang and Su, Haoyang and Kong, Huanjun and Yang, Fan and Dong, Nanqing},
       year={2025},
       eprint={2505.13220},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2505.13220}, 
+}
+```
+```txt
+@inproceedings{ying2025seedbench,
+    title = "SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science",
+    author = "Ying, Jie and Chen, Zihong and Wang, Zhefan and Jiang, Wanli and Wang, Chenyang and Yuan, Zhonghang and Su, Haoyang and Kong, Huanjun and Yang, Fan and Dong, Nanqing",
+    booktitle = "Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics",
+    month = aug,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
 }
 ```
