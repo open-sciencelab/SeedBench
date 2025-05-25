@@ -108,9 +108,9 @@ Open an issue on this repository for questions or contributions.
 ```
 ```txt
 @inproceedings{ying2025seedbench,
-    title={SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science},
-    author={Ying, Jie and Chen, Zihong and Wang, Zhefan and Jiang, Wanli and Wang, Chenyang and Yuan, Zhonghang and Su, Haoyang and Kong, Huanjun and Yang, Fan and Dong, Nanqing},
-    booktitle={Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-    year={2025}
+  title={SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science},
+  author={Ying, Jie and Chen, Zihong and Wang, Zhefan and Jiang, Wanli and Wang, Chenyang and Yuan, Zhonghang and Su, Haoyang and Kong, Huanjun and Yang, Fan and Dong, Nanqing},
+  booktitle={Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  year={2025}
 }
 ```
