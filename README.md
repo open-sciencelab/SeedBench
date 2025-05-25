@@ -99,14 +99,6 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 Open an issue on this repository for questions or contributions.
 
 ```txt
-@article{ying2025seedbench,
-  title={SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science},
-  author={Ying, Jie and Chen, Zihong and Wang, Zhefan and Jiang, Wanli and Wang, Chenyang and Yuan, Zhonghang and Su, Haoyang and Kong, Huanjun and Yang, Fan and Dong, Nanqing},
-  journal={arXiv preprint arXiv:2505.13220},
-  year={2025}
-}
-```
-```txt
 @inproceedings{ying2025seedbench,
   title={SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science},
   author={Ying, Jie and Chen, Zihong and Wang, Zhefan and Jiang, Wanli and Wang, Chenyang and Yuan, Zhonghang and Su, Haoyang and Kong, Huanjun and Yang, Fan and Dong, Nanqing},
