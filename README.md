@@ -2,7 +2,7 @@
 
 # SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science
 
-**SeedBench** is the first multi-task benchmark designed to evaluate large language models (LLMs) in seed science, focusing on seed breeding. This repository includes the dataset, evaluation code, and documentation to support research in this domain.
+**SeedBench** is the first multi-task benchmark designed to evaluate large language models (LLMs) in seed science, focusing on seed breeding. This repository includes the dataset, evaluation code, and documentation to support research in this domain. [Here](https://github.com/open-sciencelab/SeedBench/issues/11) is the usage.
 
 ---
 
