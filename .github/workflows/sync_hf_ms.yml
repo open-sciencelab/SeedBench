@@ -1,0 +1,37 @@
+name: Sync to HF and ModelScope
+
+on:
+  push:
+    paths:
+      - 'sft_model_eval/**'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+          fetch-depth: 0
+
+      - name: Set Git config
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
+      - name: Add HF remote
+        run: |
+          git remote add hf "https://USER:${{ secrets.HF_TOKEN }}@huggingface.co/${{ secrets.HF_REPO }}"
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+
+      - name: Add ModelScope remote
+        run: |
+          git remote add ms "https://oauth2:${{ secrets.MODELSCOPE_TOKEN }}@www.modelscope.cn/${{ secrets.MODELSCOPE_REPO }}.git"
+
+      - name: Push to Hugging Face
+        run: git push hf HEAD:main --force
+
+      - name: Push to ModelScope
+        run: git push ms HEAD:master --force
