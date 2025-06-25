@@ -2658,5 +2658,1585 @@
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "During mechanical wounding in maize, genes that regulate growth and development were mostly downregulated (Supplementary Fig. 1), including casparian strip membrane protein 4, involved in cell wall deposition and casparian strip formation [14], cytochrome b561 participates in electron transport from ascorbate to semidehydroascorbate and as well as in catecholamine activity [15], Z1C alpha zein protein, a seed storage protein known to regulate morphology of protein bodies attached to the rough endoplasmic reticulum [16], Beta-arabinofuranosyl transferase RAY1 were also downregulated and it participates in cell wall polymer biosynthesis by transferring arabinosyl residue to galactose [17], 2-oxoglutarate dehydrogenase E1 component as an integral component of membrane involved in seedling development in addition function prominently in plant metabolism [18].\n问题：Casparian strip membrane protein 4 在细胞壁沉积以及________的形成中发挥作用。\n正确答案：Casparian strip\n\n改写问题：Casparian strip membrane protein 4 在细胞壁沉积和________的生成过程中起到作用。",
+        "answer": "Casparian strip",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "During mechanical wounding in maize, genes that regulate growth and development were mostly downregulated (Supplementary Fig. 1), including casparian strip membrane protein 4, involved in cell wall deposition and casparian strip formation [14], cytochrome b561 participates in electron transport from ascorbate to semidehydroascorbate and as well as in catecholamine activity [15], Z1C alpha zein protein, a seed storage protein known to regulate morphology of protein bodies attached to the rough endoplasmic reticulum [16], Beta-arabinofuranosyl transferase RAY1 were also downregulated and it participates in cell wall polymer biosynthesis by transferring arabinosyl residue to galactose [17], 2-oxoglutarate dehydrogenase E1 component as an integral component of membrane involved in seedling development in addition function prominently in plant metabolism [18].\nCytochrome b561 在电子传递中从抗坏血酸到________及儿茶酚胺的活性中发挥作用。",
+        "answer": "半脱氢抗坏血酸",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "During mechanical wounding in maize, genes that regulate growth and development were mostly downregulated (Supplementary Fig. 1), including casparian strip membrane protein 4, involved in cell wall deposition and casparian strip formation [14], cytochrome b561 participates in electron transport from ascorbate to semidehydroascorbate and as well as in catecholamine activity [15], Z1C alpha zein protein, a seed storage protein known to regulate morphology of protein bodies attached to the rough endoplasmic reticulum [16], Beta-arabinofuranosyl transferase RAY1 were also downregulated and it participates in cell wall polymer biosynthesis by transferring arabinosyl residue to galactose [17], 2-oxoglutarate dehydrogenase E1 component as an integral component of membrane involved in seedling development in addition function prominently in plant metabolism [18].\n问题：Z1C alpha zein protein 是一种种子储存蛋白，影响附着在________的蛋白质体的形态。  \n正确答案：粗面内质网",
+        "answer": "粗面内质网",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "During mechanical wounding in maize, genes that regulate growth and development were mostly downregulated (Supplementary Fig. 1), including casparian strip membrane protein 4, involved in cell wall deposition and casparian strip formation [14], cytochrome b561 participates in electron transport from ascorbate to semidehydroascorbate and as well as in catecholamine activity [15], Z1C alpha zein protein, a seed storage protein known to regulate morphology of protein bodies attached to the rough endoplasmic reticulum [16], Beta-arabinofuranosyl transferase RAY1 were also downregulated and it participates in cell wall polymer biosynthesis by transferring arabinosyl residue to galactose [17], 2-oxoglutarate dehydrogenase E1 component as an integral component of membrane involved in seedling development in addition function prominently in plant metabolism [18].\nBeta-arabinofuranosyl transferase RAY1 在细胞壁聚合物的生物合成过程中，将阿拉伯糖基残基转移到______上。",
+        "answer": "半乳糖",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Specifically, eight genes encoding DAD1 (phospholipase A1), LOX (lipoxygenase), AOS (hydroperoxide dehydratase), and OPR (12-oxophytodienoic acid reductase) were downregulated by drought stress, except AOS2 (Fig. 8). However, these same genes, encoding DAD1, LOX, AOS, and OPR were upregulated by MT under drought stress.\n在干旱胁迫条件下，MT促进编码______、LOX、AOS和OPR的基因表达上调。",
+        "answer": "DAD1",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The ZmbHLH121-CRISPR line had 14% RCA formation compared with 46% RCA formation in the FBLL MAB wild-type (Fig. 4). In low-nitrogen conditions, the ZmbHLH121-CRISPR mutant had 43% RCA formation compared with 12% RCA formation in wild-type counterparts (Fig. 4). In water deficit conditions, ZmbHLH121-CRISPR had 20% RCA formation compared with 48% RCA formation in the wild-type (Fig. 4). We conclude from our loss of function and over expression studies that the bHLH121 protein could function as a positive regulator of RCA formation even under studied environmental stress conditions.\n在低氮环境下，ZmbHLH121-CRISPR突变体的RCA形成比例为________，而野生型的比例为________。",
+        "answer": "43%，12%",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The ZmbHLH121-CRISPR line had 14% RCA formation compared with 46% RCA formation in the FBLL MAB wild-type (Fig. 4). In low-nitrogen conditions, the ZmbHLH121-CRISPR mutant had 43% RCA formation compared with 12% RCA formation in wild-type counterparts (Fig. 4). In water deficit conditions, ZmbHLH121-CRISPR had 20% RCA formation compared with 48% RCA formation in the wild-type (Fig. 4). We conclude from our loss of function and over expression studies that the bHLH121 protein could function as a positive regulator of RCA formation even under studied environmental stress conditions.\n在缺水环境中，ZmbHLH121-CRISPR系的RCA形成比例为________，而野生型的比例为________。",
+        "answer": "20%，48%",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The ZmbHLH121-CRISPR line had 14% RCA formation compared with 46% RCA formation in the FBLL MAB wild-type (Fig. 4). In low-nitrogen conditions, the ZmbHLH121-CRISPR mutant had 43% RCA formation compared with 12% RCA formation in wild-type counterparts (Fig. 4). In water deficit conditions, ZmbHLH121-CRISPR had 20% RCA formation compared with 48% RCA formation in the wild-type (Fig. 4). We conclude from our loss of function and over expression studies that the bHLH121 protein could function as a positive regulator of RCA formation even under studied environmental stress conditions.\n问题：即使在研究的环境压力条件下，bHLH121蛋白可能作为RCA形成的________调节因子。\n\n正确答案：正向\n\n改写问题：即便在实验的压力条件下，bHLH121蛋白可能充当RCA形成的________调节因子。",
+        "answer": "正向",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "After 12 days of drought treatment, we found that MDA content was lower in the transgenic lines than in WT, with pyramided plants exhibiting a 98~134% increase from well-watered conditions compared to a 255% increase in WT (Figure 2J). Quantification of the osmoprotectant, proline, showed that pyramided plants accumulated higher proline levels than WT, with a 53~59% increase from well-watered conditions in transgenic seedlings versus a 38% increase in WT (Figure 2K). The lower ROS and MDA accumulation, along with increased antioxidant activity and proline contents in the transgenic lines likely contributed to their enhanced resistance to drought stress.\n与野生型植物相比，转基因植株在干旱胁迫条件下展现出更强的抗性，这可能与其较低的________和MDA积累有关。",
+        "answer": "ROS",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "EMSA showed that the C-terminal of DLF1 (residues 101 to 204), including the basic leucine zipper DNA-binding domain, could bind in vitro to oligos centered on an ACGT-core motif near the TSSs of ZmMADS4 and ZmMADS67 (Fig. 5c,d). Both ZmMADS4 and ZmMADS67 were significantly downregulated in V4- and V6-stage dlf1-mu7 shoot apices relative to the wild-type (B73 background; Fig. 5e,f), indicating that dlf1 positively regulates their expression.\nDLF1 蛋白的 C-terminal 区域包含________ DNA结合域。",
+        "answer": "basic leucine zipper",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "EMSA showed that the C-terminal of DLF1 (residues 101 to 204), including the basic leucine zipper DNA-binding domain, could bind in vitro to oligos centered on an ACGT-core motif near the TSSs of ZmMADS4 and ZmMADS67 (Fig. 5c,d). Both ZmMADS4 and ZmMADS67 were significantly downregulated in V4- and V6-stage dlf1-mu7 shoot apices relative to the wild-type (B73 background; Fig. 5e,f), indicating that dlf1 positively regulates their expression.\n在 V4 和 V6 阶段的 dlf1-mu7 芽顶中，ZmMADS4 和 ZmMADS67 的表达水平与野生型（B73背景）相比如何变化？",
+        "answer": "显著下调",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "EMSA showed that the C-terminal of DLF1 (residues 101 to 204), including the basic leucine zipper DNA-binding domain, could bind in vitro to oligos centered on an ACGT-core motif near the TSSs of ZmMADS4 and ZmMADS67 (Fig. 5c,d). Both ZmMADS4 and ZmMADS67 were significantly downregulated in V4- and V6-stage dlf1-mu7 shoot apices relative to the wild-type (B73 background; Fig. 5e,f), indicating that dlf1 positively regulates their expression.\nDLF1 对 ZmMADS4 和 ZmMADS67 的表达有________调控效应。",
+        "answer": "正向",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "On the B73 genetic background, smk10 exhibited reduced size of both endosperm and embryo (Figs?1a–c, S1b,c). The smk10 mutant had a higher embryo?:?endosperm ratio than that of wild-type (Fig.?S1d), and its kernel development was slower (Fig.?S1e). Soluble sugar and storage protein contents were much higher in mature smk10 kernels, whereas total starch content was much lower (Fig.?S2), suggesting that the kernel development process was attenuated in smk10. The growth of seedling leaves and roots was slower in smk10 than that of the wild-type, which could mainly be due to the smaller endosperm and embryo. However, there were no obvious differences between the wild-type and smk10 in important agronomic traits such as kernel row number, ear length, plant height, and tassel branch number at the mature stage (Figs?1d,e, S3–S5).\n问题：与野生型相比，smk10 突变体的胚乳和胚的尺寸如何变化？",
+        "answer": "减小",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "On the B73 genetic background, smk10 exhibited reduced size of both endosperm and embryo (Figs?1a–c, S1b,c). The smk10 mutant had a higher embryo?:?endosperm ratio than that of wild-type (Fig.?S1d), and its kernel development was slower (Fig.?S1e). Soluble sugar and storage protein contents were much higher in mature smk10 kernels, whereas total starch content was much lower (Fig.?S2), suggesting that the kernel development process was attenuated in smk10. The growth of seedling leaves and roots was slower in smk10 than that of the wild-type, which could mainly be due to the smaller endosperm and embryo. However, there were no obvious differences between the wild-type and smk10 in important agronomic traits such as kernel row number, ear length, plant height, and tassel branch number at the mature stage (Figs?1d,e, S3–S5).\n问题：smk10 突变体成熟种子的可溶性糖和储存蛋白含量如何？\n\n改写问题：smk10 突变体成熟种子的可溶性糖和储存蛋白含量是怎样的？",
+        "answer": "较高",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "On the B73 genetic background, smk10 exhibited reduced size of both endosperm and embryo (Figs?1a–c, S1b,c). The smk10 mutant had a higher embryo?:?endosperm ratio than that of wild-type (Fig.?S1d), and its kernel development was slower (Fig.?S1e). Soluble sugar and storage protein contents were much higher in mature smk10 kernels, whereas total starch content was much lower (Fig.?S2), suggesting that the kernel development process was attenuated in smk10. The growth of seedling leaves and roots was slower in smk10 than that of the wild-type, which could mainly be due to the smaller endosperm and embryo. However, there were no obvious differences between the wild-type and smk10 in important agronomic traits such as kernel row number, ear length, plant height, and tassel branch number at the mature stage (Figs?1d,e, S3–S5).\n问题：smk10 突变体成熟种子的淀粉总含量如何？\n\n问题：iPad Air 2 的发布和上市日期分别是什么时候？\nA. 2014年10月16日发布，2014年10月22日上市\nB. 2014年10月22日发布，2014年10月16日上市\nC. 2015年10月16日发布，2015年10月22日上市\nD. 2014年9月16日发布，2014年9月22日上市\n正确答案：A\n\n改写问题：iPad Air 2 于何时发布和上市？\n\n问题：液晶相的形成条件是什么？\nA. 物质的压力和温度\nB. 物质的分子组合和流动性\nC. 物质的电磁场和光学性质\nD. 物质的结晶特性和光电特性\n正确答案：B\n\n改写问题：液晶相是如何形成的？\n\n问题：iPad Air 2 的处理器型号是________。\n正确答案：A8X\n\n改写问题：iPad Air 2 配备了______处理器？\n\n问题：smk10 突变体成熟种子的总淀粉含量________。\n正确答案：较低\n\n改写问题：",
+        "answer": "较低",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "On the B73 genetic background, smk10 exhibited reduced size of both endosperm and embryo (Figs?1a–c, S1b,c). The smk10 mutant had a higher embryo?:?endosperm ratio than that of wild-type (Fig.?S1d), and its kernel development was slower (Fig.?S1e). Soluble sugar and storage protein contents were much higher in mature smk10 kernels, whereas total starch content was much lower (Fig.?S2), suggesting that the kernel development process was attenuated in smk10. The growth of seedling leaves and roots was slower in smk10 than that of the wild-type, which could mainly be due to the smaller endosperm and embryo. However, there were no obvious differences between the wild-type and smk10 in important agronomic traits such as kernel row number, ear length, plant height, and tassel branch number at the mature stage (Figs?1d,e, S3–S5).\n问题：在成熟期，smk10 突变体与野生型在穗行数、穗长、株高和雄穗分枝数方面________。\n\n正确答案：没有显著差异\n\n改写问题：在成熟阶段，smk10 突变体与野生型在穗行数、穗长、株高和雄穗分枝数上表现出________。",
+        "answer": "没有显著差异",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Signals at the BIZ cell walls were significantly diminished in smk10 compared with the wild-type at 12 DAP (Fig.?5a–d). The number of PD in the BIZ region at 12 DAP was dramatically lower in smk10, but there were no obvious differences in PD morphology between the wild-type and smk10 (Fig.?5e–m). These observations are consistent with previous reports in Arabidopsis thaliana (Kraner et?al., 2017) and show that ZmCTLP1 is required for PD formation in endosperm transfer cells.\n在12 DAP时，smk10与野生型植物相比，BIZ细胞壁的信号如何变化？",
+        "answer": "显著减弱",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Signals at the BIZ cell walls were significantly diminished in smk10 compared with the wild-type at 12 DAP (Fig.?5a–d). The number of PD in the BIZ region at 12 DAP was dramatically lower in smk10, but there were no obvious differences in PD morphology between the wild-type and smk10 (Fig.?5e–m). These observations are consistent with previous reports in Arabidopsis thaliana (Kraner et?al., 2017) and show that ZmCTLP1 is required for PD formation in endosperm transfer cells.\n在12 DAP时，smk10中的BIZ区域的PD数量________。",
+        "answer": "显著减少",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Substantially fewer wax crystals accumulated on the leaf surfaces of the zmwax2 mutant compared to that on B73, whereas the leaf surfaces of ZmWAX2-overexpressing plants were covered by more wax crystals than that of B104 (Figure 7a). Total leaf waxes on the zmwax2 mutant were reduced by 36% of that in B73 and increased by 25% on the ZmWAX2oe-1 leaves relative to B104 (Figure 7b). Wax component analysis showed a decrease in C30 and longer chain primary alkanes, alcohols and siloxanes in zmwax2 mutant leaves but an increase in ZmWAX2oe-1 plant leaves (Figure 7c).\nzmwax2 突变体叶片表面的蜡晶体数量与 B73 相比如何？",
+        "answer": "更少",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Substantially fewer wax crystals accumulated on the leaf surfaces of the zmwax2 mutant compared to that on B73, whereas the leaf surfaces of ZmWAX2-overexpressing plants were covered by more wax crystals than that of B104 (Figure 7a). Total leaf waxes on the zmwax2 mutant were reduced by 36% of that in B73 and increased by 25% on the ZmWAX2oe-1 leaves relative to B104 (Figure 7b). Wax component analysis showed a decrease in C30 and longer chain primary alkanes, alcohols and siloxanes in zmwax2 mutant leaves but an increase in ZmWAX2oe-1 plant leaves (Figure 7c).\nZmWAX2 过表达植物叶片的蜡晶体数量与 B104 相比如何变化？",
+        "answer": "更多",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Substantially fewer wax crystals accumulated on the leaf surfaces of the zmwax2 mutant compared to that on B73, whereas the leaf surfaces of ZmWAX2-overexpressing plants were covered by more wax crystals than that of B104 (Figure 7a). Total leaf waxes on the zmwax2 mutant were reduced by 36% of that in B73 and increased by 25% on the ZmWAX2oe-1 leaves relative to B104 (Figure 7b). Wax component analysis showed a decrease in C30 and longer chain primary alkanes, alcohols and siloxanes in zmwax2 mutant leaves but an increase in ZmWAX2oe-1 plant leaves (Figure 7c).\n在 zmwax2 突变体叶片中，C30 及以上链长的主链烷烃、醇和硅氧烷的含量如何变化？",
+        "answer": "减少",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The Cluster on chromosome 10 (qRBNv1-10-1 and qTRLv1-10-1) detected within the marker interval Snp62466_Snp62578 was significantly associated to RBN and TRL and spanned 50.5–51.5 cM genetic region. This region harbored two candidate genes GRMZM2G116542 and GRMZM2G016477 predicted to encode a putative Spc97 / Spc98 family of spindle pole body (SBP) component and a putative leucine-rich repeat receptor-like protein kinase, respectively.\nGRMZM2G016477基因预计编码一种富含亮氨酸重复的______。",
+        "answer": "受体样蛋白激酶",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The relative expression level results obtained through qRT-PCR revealed that three candidate genes viz. Zm00001d038676, Zm00001d015379, and Zm00001d018496 acted as positive regulators for root branching number while two genes viz. Zm00001d050783 and Zm00001d017751 acted as negative regulators for root branching in both GWAS and mapping accessions (Figs. 5 and 6) at all the considered stages (V1, V3).\n被鉴定为根分枝负调控因子的两个基因是________和________。",
+        "answer": "Zm00001d050783，Zm00001d017751",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Finally, the four candidate genes, Zm00001d017932, Zm00001d003657, Zm00001d029793, and Zm00001d017906, were considered specifically responsive to the whole seed germination process in SCL326 (Fig. 3a). These genes separately encode an agamous-like MADS-box protein, a scarecrow protein, a glutathione S-transferase F9, and an O-fucosyltransferase family protein (Table S5). Among them, the three genes Zm00001d003657, Zm00001d029793, and Zm00001d017906 were downregulated with the process of seed germination, whereas Zm00001d017932 was upregulated in SCL326 (Fig. 3a). The four genes were considered as the priority candidate genes responsible for the seed germination ability in this study.\n在种子萌发的过程中，Zm00001d003657 的表达趋势是________。",
+        "answer": "下调",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Finally, the four candidate genes, Zm00001d017932, Zm00001d003657, Zm00001d029793, and Zm00001d017906, were considered specifically responsive to the whole seed germination process in SCL326 (Fig. 3a). These genes separately encode an agamous-like MADS-box protein, a scarecrow protein, a glutathione S-transferase F9, and an O-fucosyltransferase family protein (Table S5). Among them, the three genes Zm00001d003657, Zm00001d029793, and Zm00001d017906 were downregulated with the process of seed germination, whereas Zm00001d017932 was upregulated in SCL326 (Fig. 3a). The four genes were considered as the priority candidate genes responsible for the seed germination ability in this study.\nZm00001d029793 编码的蛋白质是________。",
+        "answer": "glutathione S-transferase F9",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Finally, the four candidate genes, Zm00001d017932, Zm00001d003657, Zm00001d029793, and Zm00001d017906, were considered specifically responsive to the whole seed germination process in SCL326 (Fig. 3a). These genes separately encode an agamous-like MADS-box protein, a scarecrow protein, a glutathione S-transferase F9, and an O-fucosyltransferase family protein (Table S5). Among them, the three genes Zm00001d003657, Zm00001d029793, and Zm00001d017906 were downregulated with the process of seed germination, whereas Zm00001d017932 was upregulated in SCL326 (Fig. 3a). The four genes were considered as the priority candidate genes responsible for the seed germination ability in this study.\n在 SCL326 中，Zm00001d017932 在种子发芽阶段的表达情况是________。",
+        "answer": "上调",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The seed germination test is routinely performed to evaluate the range of pollutant concentrations producing plant growth and development inhibition (OECD, 1984, EPA, 1986, APAT, 2002). In this study, maize seeds were exposed to increasing concentrations of chromium, ranging from 2 to 1500 ppm, and after 72 h the number of germinated seeds was counted and root lengths were measured. The percentage germination index (IG) in Fig. 1 was computed from combined data. Reduction of growth parameters was scored for all concentrations tested; at low potassium dichromate concentration (2–20 ppm) the damage was not fatal. An IG of 30% was observed at exposures of 50–100 ppm. Consistent growth inhibition was observed starting from 300 ppm of potassium dichromate (Fig. 1) with the highest inhibition occurring at 1200 ppm. These data indicate that maize is less sensitive to chromium than other plants species such as Trifolium repens (Citterio et al., 2002) or Brassica napus L. (Labra et al., 2004) and suggests that maize is a tolerant species, in agreement with observations from other authors (Mishra et al., 1995, Sharma et al., 2003). However the biochemical changes involved in tolerance were not clarified by previous investigations.\n问题：种子发芽试验旨在评估抑制植物生长和发育的________范围。\n\n改写问题：种子发芽试验的目的是测定影响植物生长与发育的________范围。",
+        "answer": "污染物浓度",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The seed germination test is routinely performed to evaluate the range of pollutant concentrations producing plant growth and development inhibition (OECD, 1984, EPA, 1986, APAT, 2002). In this study, maize seeds were exposed to increasing concentrations of chromium, ranging from 2 to 1500 ppm, and after 72 h the number of germinated seeds was counted and root lengths were measured. The percentage germination index (IG) in Fig. 1 was computed from combined data. Reduction of growth parameters was scored for all concentrations tested; at low potassium dichromate concentration (2–20 ppm) the damage was not fatal. An IG of 30% was observed at exposures of 50–100 ppm. Consistent growth inhibition was observed starting from 300 ppm of potassium dichromate (Fig. 1) with the highest inhibition occurring at 1200 ppm. These data indicate that maize is less sensitive to chromium than other plants species such as Trifolium repens (Citterio et al., 2002) or Brassica napus L. (Labra et al., 2004) and suggests that maize is a tolerant species, in agreement with observations from other authors (Mishra et al., 1995, Sharma et al., 2003). However the biochemical changes involved in tolerance were not clarified by previous investigations.\n与白三叶草和油菜相比，玉米对铬的敏感程度如何？",
+        "answer": "较低",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "there was a pronounced increase in PEP carboxylase activity in response to N treatment. This differential N response of PEP carboxylase and Rubisco activity was supported by Western blot analysis of enzyme abundance (Fig. 6). For both hybrids there was a more pronounced increase in abundance of PEP carboxylase (48% average increase) compared to Rubisco large subunit (29% increase) as N supply was increased from 0 to 224 kg ha?1.\n通过________分析技术来测量酶的丰度。  \n正确答案：Western blot",
+        "answer": "Western blot",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Treatment of leaves with NaCl leads to a pattern of expression different from the above (Fig. 5C). A significant induction (nearly 3-fold) in expression for both ZmPR10.1 and ZmPR10 was observed as early as 0.5 HAT. Their levels decreased to normal at 3 HAT. The expression of ZmPR10.1 and ZmPR10 under darkness, wounding or coldness was also examined. The results indicated that wounding significantly induced their expressions as early as 2 HAT for ZmPR10.1 (3.2-fold) and 4 HAT for ZmPR10 (3.1-fold).\n问题：NaCl处理后，ZmPR10.1和ZmPR10的表达在多少小时后显著增加？",
+        "answer": "0.5",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Treatment of leaves with NaCl leads to a pattern of expression different from the above (Fig. 5C). A significant induction (nearly 3-fold) in expression for both ZmPR10.1 and ZmPR10 was observed as early as 0.5 HAT. Their levels decreased to normal at 3 HAT. The expression of ZmPR10.1 and ZmPR10 under darkness, wounding or coldness was also examined. The results indicated that wounding significantly induced their expressions as early as 2 HAT for ZmPR10.1 (3.2-fold) and 4 HAT for ZmPR10 (3.1-fold).\nNaCl处理后，ZmPR10.1和ZmPR10的表达水平在______小时内恢复至正常状态。",
+        "answer": "3",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Treatment of leaves with NaCl leads to a pattern of expression different from the above (Fig. 5C). A significant induction (nearly 3-fold) in expression for both ZmPR10.1 and ZmPR10 was observed as early as 0.5 HAT. Their levels decreased to normal at 3 HAT. The expression of ZmPR10.1 and ZmPR10 under darkness, wounding or coldness was also examined. The results indicated that wounding significantly induced their expressions as early as 2 HAT for ZmPR10.1 (3.2-fold) and 4 HAT for ZmPR10 (3.1-fold).\n在受到伤害的情况下，ZmPR10.1的表达在______小时后显著提升至3.2倍。",
+        "answer": "2",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Treatment of leaves with NaCl leads to a pattern of expression different from the above (Fig. 5C). A significant induction (nearly 3-fold) in expression for both ZmPR10.1 and ZmPR10 was observed as early as 0.5 HAT. Their levels decreased to normal at 3 HAT. The expression of ZmPR10.1 and ZmPR10 under darkness, wounding or coldness was also examined. The results indicated that wounding significantly induced their expressions as early as 2 HAT for ZmPR10.1 (3.2-fold) and 4 HAT for ZmPR10 (3.1-fold).\n在受损情况下，ZmPR10的表达在______小时后显著提升至3.1倍。",
+        "answer": "4",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Lack of expression in this tissue in the mutant might partially explain the significantly reduced grain yield of the rth3 mutant. In contrast to rth3, the rth3-like gene is expressed in only a limited number of tissues including different stages of root development and all zones of the internode. Moreover, rth3 transcript accumulates in 12-days after pollination (DAP) endosperm, 10-DAP pericarp and V5 leaves. No expression of the rth3-like gene was detected in reproductive tissue and embryos.\n问题：rth3基因在授粉后第几天的胚乳中表达？",
+        "answer": "12",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "With the aim of highlighting the biological processes underlying maize endosperm PB biogenesis, the identified proteins in the PB proteomes were queried using the AmiGO browser, and were largely found to be classified into 14 categories (P-value <0.05, FDR<0.05; Fig.5A and Supplementary Dataset S2). Notably, around two fifths of the proteins were clustered into metabolic process (GO: 0008152), of which 40% belonged to protein metabolism, including translation, protein processing, folding, and modification.\n在代谢过程中，40%的蛋白质参与了蛋白质代谢，涉及翻译、蛋白质加工、______以及修饰。",
+        "answer": "折叠",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Compared to the control, heat stress markedly increased the expression of sHSP26 in maize leaves, whereas drought stress did not obviously increase sHSP26 expression (Fig. 1). Meanwhile, pretreatment with KI, H2O2 scavenger I, significantly reduced the expression of sHSP26 by heat stress, although pretreatment with PQ, which generates O2? and its decomposition product H2O2 in chloroplasts, significantly increased the expression of sHSP26 under control, drought and heat stress (Fig. 1), indicating that H2O2 production in chloroplasts up-regulated the expression of sHSP26.\n在对照、干旱和热应激情况下，PQ处理会显著________sHSP26的表达水平。",
+        "answer": "增加",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Compared to the control, heat stress markedly increased the expression of sHSP26 in maize leaves, whereas drought stress did not obviously increase sHSP26 expression (Fig. 1). Meanwhile, pretreatment with KI, H2O2 scavenger I, significantly reduced the expression of sHSP26 by heat stress, although pretreatment with PQ, which generates O2? and its decomposition product H2O2 in chloroplasts, significantly increased the expression of sHSP26 under control, drought and heat stress (Fig. 1), indicating that H2O2 production in chloroplasts up-regulated the expression of sHSP26.\n在叶绿体中生成的H2O2会________sHSP26的表达。",
+        "answer": "上调",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Comparing sweet with dent corn sugar content was lower in the methanol soluble fraction but higher in hemicellulose and cellulose fractions. The high temperature treatment decreased the sugar content of the hemicellulose and cellulose fractions in the cob and the hemicelluloses in shank. However, high temperature increased the sugar content of the methanol fraction in the shank of sweet corn (Fig. 6a). In contrast, in dent corn the sugar content of the methanol fraction of shanks and of the cellulose fraction of cobs was decreased by the high temperature treatment.\n问题：在甲醇可溶性部分中，甜玉米的糖含量相比硬粒玉米________。\n\n改写问题：在甲醇可溶性部分中，甜玉米的糖含量与硬粒玉米相比________。",
+        "answer": "低",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Comparing sweet with dent corn sugar content was lower in the methanol soluble fraction but higher in hemicellulose and cellulose fractions. The high temperature treatment decreased the sugar content of the hemicellulose and cellulose fractions in the cob and the hemicelluloses in shank. However, high temperature increased the sugar content of the methanol fraction in the shank of sweet corn (Fig. 6a). In contrast, in dent corn the sugar content of the methanol fraction of shanks and of the cellulose fraction of cobs was decreased by the high temperature treatment.\n在半纤维素和纤维素部分中，甜玉米的糖含量相比硬粒玉米________。",
+        "answer": "高",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Comparing sweet with dent corn sugar content was lower in the methanol soluble fraction but higher in hemicellulose and cellulose fractions. The high temperature treatment decreased the sugar content of the hemicellulose and cellulose fractions in the cob and the hemicelluloses in shank. However, high temperature increased the sugar content of the methanol fraction in the shank of sweet corn (Fig. 6a). In contrast, in dent corn the sugar content of the methanol fraction of shanks and of the cellulose fraction of cobs was decreased by the high temperature treatment.\n高温处理后，甜玉米柄中的甲醇糖含量会如何变化？",
+        "answer": "增加",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Comparing sweet with dent corn sugar content was lower in the methanol soluble fraction but higher in hemicellulose and cellulose fractions. The high temperature treatment decreased the sugar content of the hemicellulose and cellulose fractions in the cob and the hemicelluloses in shank. However, high temperature increased the sugar content of the methanol fraction in the shank of sweet corn (Fig. 6a). In contrast, in dent corn the sugar content of the methanol fraction of shanks and of the cellulose fraction of cobs was decreased by the high temperature treatment.\n高温处理后，硬粒玉米柄中的甲醇糖含量会如何变化？",
+        "answer": "减少",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The effects of H2O2 on the total thiamine pool and upon the distribution of thiamine compounds in maize seedling leaves were qualitatively similar to those observed for water and salt stress (Fig. 7A). However, the increase in total thiamine was much higher under oxidative stress conditions, and showed nearly a 2-fold up-regulation at the 50 mM H2O2 exposure level. Moreover, the free thiamine levels reached a 3-fold increase compared with normal tissue. Exclusive also to this type of abiotic stress, a regular increase (of up to 200%) in the TMP levels was observed at higher H2O2 concentrations.\n在氧化应激状态下，玉米幼苗叶片中的总硫胺素明显________。",
+        "answer": "增加",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The effects of H2O2 on the total thiamine pool and upon the distribution of thiamine compounds in maize seedling leaves were qualitatively similar to those observed for water and salt stress (Fig. 7A). However, the increase in total thiamine was much higher under oxidative stress conditions, and showed nearly a 2-fold up-regulation at the 50 mM H2O2 exposure level. Moreover, the free thiamine levels reached a 3-fold increase compared with normal tissue. Exclusive also to this type of abiotic stress, a regular increase (of up to 200%) in the TMP levels was observed at higher H2O2 concentrations.\n在50 mM H2O2环境下，总硫胺素的上调约为________倍。",
+        "answer": "2",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "MDA is one of the major aldehydes formed after the breakdown of lipid hydroperoxides. Therefore, it is considered a good biomarker with which to analyse lipid peroxidation in live organisms (Blokhina et al., 2003). The results showed that the MDA levels in Fe3O4 NP-treated maize leaves were not significantly different compared to those in the control (Fig. 2A), indicating that no lipid peroxidation was induced. Conversely, exposure to 500 mg/kg Fe3O4 NPs significantly decreased the root MDA content by 16.1% (p < 0.05) (Fig. 2B).\n研究表明，Fe3O4 NP处理后的玉米叶片中MDA水平与对照组相比________。",
+        "answer": "没有显著差异",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The Na+ content of shoots growing under drought without any added NaCl did not accumulate Na+ compared to the control plants. In the presence of NaCl, the leakage of electrolyte increased by three times or more compared to the controls, whereas in drought condition, only by less two times (Fig. 2a). C assimilation decreased to 67 %, 86 %, and 50 % in plants subjected to drought, salinity, and combined stress conditions, respectively (Fig. 2c). Figure 2b shows that the maize plants grown under drought and salinity stress conditions exhibited considerably lower FW and DW than those grown under the control condition.\n问题：在存在NaCl的条件下，电解质泄漏比对照组增加了______倍或以上。",
+        "answer": "三",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The Na+ content of shoots growing under drought without any added NaCl did not accumulate Na+ compared to the control plants. In the presence of NaCl, the leakage of electrolyte increased by three times or more compared to the controls, whereas in drought condition, only by less two times (Fig. 2a). C assimilation decreased to 67 %, 86 %, and 50 % in plants subjected to drought, salinity, and combined stress conditions, respectively (Fig. 2c). Figure 2b shows that the maize plants grown under drought and salinity stress conditions exhibited considerably lower FW and DW than those grown under the control condition.\n在干旱环境中，碳同化率降低至________%。",
+        "answer": "67",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The Na+ content of shoots growing under drought without any added NaCl did not accumulate Na+ compared to the control plants. In the presence of NaCl, the leakage of electrolyte increased by three times or more compared to the controls, whereas in drought condition, only by less two times (Fig. 2a). C assimilation decreased to 67 %, 86 %, and 50 % in plants subjected to drought, salinity, and combined stress conditions, respectively (Fig. 2c). Figure 2b shows that the maize plants grown under drought and salinity stress conditions exhibited considerably lower FW and DW than those grown under the control condition.\n问题：在干旱和盐分胁迫条件下生长的玉米植物，其鲜重和干重与正常条件下生长的植物相比明显________。",
+        "answer": "降低",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "In general, a distinct cluster related to treatment was found in the samples after the plants were exposed to the combined stress for 7 d; this result demonstrated that the amplitude of metabolic changes in maize leaves was greater due to combined stress than single stress. Moreover, the treatment of drought stress was clustered in a group that was distinct from the control plants and salt stress-exposed plants. The metabolome of maize plants exposed to salt stress showed a lower response because its cluster was closer to the control cluster.\nWhen maize leaves are subjected to combined stress, they exhibit ________ metabolic changes compared to single stress.",
+        "answer": "greater",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In 2020, the average yield per acre of the Longhua 853 corn variety at 36 trial sites in the Huang-Huai-Hai summer corn region, including Fuyang in Anhui, Cheng'an in Hebei, Hebi in Henan, Xiangyang in Hubei, Suqian in Jiangsu, Dezhou in Shandong, Yongji in Shanxi, and Sanyuan in Shaanxi, was 680.1 kg, an increase of 4.8% compared to the control variety Zhengdan 958, showing good performance. In 2021, the average yield per acre at 41 trial sites in the same region, including Hebei, Henan, Shandong, Shanxi, Shaanxi, Hubei, Anhui, and Jiangsu, was 577.2 kg, an increase of 7.2% compared to the control variety Zhengdan 958, demonstrating excellent performance (Table 1).\nLonghua 853 玉米品种在2020年黄淮海夏玉米区的试验点数量是多少？",
+        "answer": "36",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In 2020, the average yield per acre of the Longhua 853 corn variety at 36 trial sites in the Huang-Huai-Hai summer corn region, including Fuyang in Anhui, Cheng'an in Hebei, Hebi in Henan, Xiangyang in Hubei, Suqian in Jiangsu, Dezhou in Shandong, Yongji in Shanxi, and Sanyuan in Shaanxi, was 680.1 kg, an increase of 4.8% compared to the control variety Zhengdan 958, showing good performance. In 2021, the average yield per acre at 41 trial sites in the same region, including Hebei, Henan, Shandong, Shanxi, Shaanxi, Hubei, Anhui, and Jiangsu, was 577.2 kg, an increase of 7.2% compared to the control variety Zhengdan 958, demonstrating excellent performance (Table 1).\n2020年，Longhua 853 的平均亩产量是多少千克？",
+        "answer": "680.1",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The suitable planting period is from April 25 to June 25, with a planting density of 4,500 to 5,000 plants per acre. In high water and fertilized fields, the density can be appropriately increased, while in low water and fertilized fields, the density can be appropriately reduced. When sowing, ensure that the soil moisture is adequate, guarantee a full emergence with uniform and strong seedlings, and perform seedling thinning at the 3-leaf stage and stand adjustment at the 4-leaf stage. Corn seed germination requires three basic conditions: first, appropriate temperature; choosing the right sowing period and early sowing can benefit normal emergence and can also improve yield to some extent; second, appropriate moisture; generally, soil moisture content should be 15%–20%, as this promotes fast germination and high germination rate; watering should be done within 30 hours after sowing; third, appropriate oxygen content; ensure the soil is loose before sowing to ensure adequate oxygen in the soil.\n问题：玉米的播种时间范围是从________到________。  \n正确答案：April 25，June 25",
+        "answer": "April 25，June 25",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The suitable planting period is from April 25 to June 25, with a planting density of 4,500 to 5,000 plants per acre. In high water and fertilized fields, the density can be appropriately increased, while in low water and fertilized fields, the density can be appropriately reduced. When sowing, ensure that the soil moisture is adequate, guarantee a full emergence with uniform and strong seedlings, and perform seedling thinning at the 3-leaf stage and stand adjustment at the 4-leaf stage. Corn seed germination requires three basic conditions: first, appropriate temperature; choosing the right sowing period and early sowing can benefit normal emergence and can also improve yield to some extent; second, appropriate moisture; generally, soil moisture content should be 15%–20%, as this promotes fast germination and high germination rate; watering should be done within 30 hours after sowing; third, appropriate oxygen content; ensure the soil is loose before sowing to ensure adequate oxygen in the soil.\n问题：每英亩的标准种植密度范围是多少株？",
+        "answer": "4,500，5,000",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The suitable planting period is from April 25 to June 25, with a planting density of 4,500 to 5,000 plants per acre. In high water and fertilized fields, the density can be appropriately increased, while in low water and fertilized fields, the density can be appropriately reduced. When sowing, ensure that the soil moisture is adequate, guarantee a full emergence with uniform and strong seedlings, and perform seedling thinning at the 3-leaf stage and stand adjustment at the 4-leaf stage. Corn seed germination requires three basic conditions: first, appropriate temperature; choosing the right sowing period and early sowing can benefit normal emergence and can also improve yield to some extent; second, appropriate moisture; generally, soil moisture content should be 15%–20%, as this promotes fast germination and high germination rate; watering should be done within 30 hours after sowing; third, appropriate oxygen content; ensure the soil is loose before sowing to ensure adequate oxygen in the soil.\n问题：土壤氧气充足的条件是什么？  \n正确答案：播种前确保土壤松散",
+        "answer": "Ensure soil is loose before sowing",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In Figure 4-a, Zhongdan No. 2 is more clearly separated, and it also performs well in terms of stress resistance in both WT and NT treatments. The worst in drought resistance and tolerance to poor soil is An Dan 136, followed by Qianyu No. 1 and Qianxing No. 4. The results in Figures 4-a and 4-b are identical, and Figure 4-a also separates An Dan 136, which performs the worst in all three treatments. These three hybrids are grouped as one category (non-drought-resistant and non-tolerant to poor soil). Bidan No. 4, Qiandan No. 10, Qianxi No. 4, Qian 1632, Qian 2451, and Qiandan No. 14 show relatively weak drought resistance and tolerance to poor soil and can be grouped as another category.\n问题：依据图4-a，________在WT和NT处理条件下显示出优异的抗逆性。\n\n正确答案：Zhongdan No. 2",
+        "answer": "Zhongdan No. 2",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In Figure 4-a, Zhongdan No. 2 is more clearly separated, and it also performs well in terms of stress resistance in both WT and NT treatments. The worst in drought resistance and tolerance to poor soil is An Dan 136, followed by Qianyu No. 1 and Qianxing No. 4. The results in Figures 4-a and 4-b are identical, and Figure 4-a also separates An Dan 136, which performs the worst in all three treatments. These three hybrids are grouped as one category (non-drought-resistant and non-tolerant to poor soil). Bidan No. 4, Qiandan No. 10, Qianxi No. 4, Qian 1632, Qian 2451, and Qiandan No. 14 show relatively weak drought resistance and tolerance to poor soil and can be grouped as another category.\n在各种处理条件下，________在抗旱性和耐贫瘠土壤方面表现最不佳。",
+        "answer": "An Dan 136",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In Figure 4-a, Zhongdan No. 2 is more clearly separated, and it also performs well in terms of stress resistance in both WT and NT treatments. The worst in drought resistance and tolerance to poor soil is An Dan 136, followed by Qianyu No. 1 and Qianxing No. 4. The results in Figures 4-a and 4-b are identical, and Figure 4-a also separates An Dan 136, which performs the worst in all three treatments. These three hybrids are grouped as one category (non-drought-resistant and non-tolerant to poor soil). Bidan No. 4, Qiandan No. 10, Qianxi No. 4, Qian 1632, Qian 2451, and Qiandan No. 14 show relatively weak drought resistance and tolerance to poor soil and can be grouped as another category.\n不耐旱且对贫瘠土壤适应性差的杂交品种有________、________和________。",
+        "answer": "An Dan 136，Qianyu No. 1，Qianxing No. 4",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In Figure 4-a, Zhongdan No. 2 is more clearly separated, and it also performs well in terms of stress resistance in both WT and NT treatments. The worst in drought resistance and tolerance to poor soil is An Dan 136, followed by Qianyu No. 1 and Qianxing No. 4. The results in Figures 4-a and 4-b are identical, and Figure 4-a also separates An Dan 136, which performs the worst in all three treatments. These three hybrids are grouped as one category (non-drought-resistant and non-tolerant to poor soil). Bidan No. 4, Qiandan No. 10, Qianxi No. 4, Qian 1632, Qian 2451, and Qiandan No. 14 show relatively weak drought resistance and tolerance to poor soil and can be grouped as another category.\n抗旱能力和耐贫瘠土壤较弱的杂交品种有________、________、________、________、________和________。",
+        "answer": "Bidan No. 4，Qiandan No. 10，Qianxi No. 4，Qian 1632，Qian 2451，Qiandan No. 14",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "From Table 3, it can be seen that the correlation between corn yield and major agronomic traits is in the following order: seed setting rate > number of kernels per row > ear diameter > 1000-kernel weight > plant height > number of kernels per ear > ear length > number of ear rows > ear height > tip cap length. According to the principle of correlation analysis, sequences with a high correlation are closely related to the reference sequence, while sequences with a low correlation are more distant from the reference sequence.\n在玉米产量与农艺性状的相关排序中，________排在第三位。",
+        "answer": "Ear diameter",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "From Table 3, it can be seen that the correlation between corn yield and major agronomic traits is in the following order: seed setting rate > number of kernels per row > ear diameter > 1000-kernel weight > plant height > number of kernels per ear > ear length > number of ear rows > ear height > tip cap length. According to the principle of correlation analysis, sequences with a high correlation are closely related to the reference sequence, while sequences with a low correlation are more distant from the reference sequence.\n玉米产量与农艺性状的相关顺序中，排在第五位的是________。",
+        "answer": "Plant height",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Some homozygous T2 generation seeds were sown in sand pots and irrigated with different concentrations of NaCl solution. The emergence rate and the number of 5-leaf plants were recorded, with non-transgenic DH4866 as the control (Table 1). Under irrigation with 0.5% NaCl solution, the control had an emergence rate of 57% (34/60) and a 5-leaf plant percentage of 23% (14/60) (Table 1). The surviving plants exhibited dead lower leaves and dry or wilted leaf tips on the upper leaves. In contrast, the emergence rate of transgenic homozygous lines was above 86%, with mild or slight salt damage to the leaves, demonstrating significantly improved salt tolerance (Table 1).\n盐耐受性实验中，非转基因对照组中拥有5片叶子的植物占比是多少？",
+        "answer": "23%",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Some homozygous T2 generation seeds were sown in sand pots and irrigated with different concentrations of NaCl solution. The emergence rate and the number of 5-leaf plants were recorded, with non-transgenic DH4866 as the control (Table 1). Under irrigation with 0.5% NaCl solution, the control had an emergence rate of 57% (34/60) and a 5-leaf plant percentage of 23% (14/60) (Table 1). The surviving plants exhibited dead lower leaves and dry or wilted leaf tips on the upper leaves. In contrast, the emergence rate of transgenic homozygous lines was above 86%, with mild or slight salt damage to the leaves, demonstrating significantly improved salt tolerance (Table 1).\n实验所用的非转基因对照组为______。",
+        "answer": "DH4866",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Field observations and statistics revealed that in non-saline-alkali soil, except for a few variant lines, there were differences in plant height, leaf number, ear height, tassel branch number, and disease resistance among T2 generation transgenic homozygous lines, but the differences were not significant. Variance analysis of plant height, leaf number, ear height, and tassel branch number data from different T2 generation transgenic homozygous lines and control DH4866 plants showed that the differences within lines were not significant (P > 0.05) (data not shown). For progeny from the same independent transformation event, the differences between lines were also not significant. However, lines from different independent transformation events showed significant differences in ear height and tassel branch number. Compared to the control, transgenic plants had lower uniformity, but the main agronomic traits were not significantly different.\nT2代转基因纯合子系在植株高度、叶片数量、穗位高度、花序分枝数量和抗病性方面的差异是否显著？",
+        "answer": "不显著",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Field observations and statistics revealed that in non-saline-alkali soil, except for a few variant lines, there were differences in plant height, leaf number, ear height, tassel branch number, and disease resistance among T2 generation transgenic homozygous lines, but the differences were not significant. Variance analysis of plant height, leaf number, ear height, and tassel branch number data from different T2 generation transgenic homozygous lines and control DH4866 plants showed that the differences within lines were not significant (P > 0.05) (data not shown). For progeny from the same independent transformation event, the differences between lines were also not significant. However, lines from different independent transformation events showed significant differences in ear height and tassel branch number. Compared to the control, transgenic plants had lower uniformity, but the main agronomic traits were not significantly different.\n不同独立转化事件的系在________和花序分枝数量方面有明显差异。",
+        "answer": "穗位高度",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Twenty T2 generation transgenic homozygous lines were crossed with 196, and the resulting hybrid combinations, along with the control Denghai 1, were sown in soils with different salt contents. Significant changes in yield were observed. In non-saline-alkali soil (Table 2), Denghai 1 and the hybrid combinations derived from 14 T2 generation transgenic homozygous lines showed no significant differences in single-plant yield and plot yield. However, among these, three hybrid combinations showed significant differences in ear length or the number of grains per row compared to the control. Among the remaining six hybrid combinations, five had yields significantly lower than the control, with a reduction range of 9.6% to 17.3%, while one hybrid combination (derived from TDH4866-8-15) showed a 12% increase in yield compared to the control. In coastal saline-alkali soil, the hybrid combinations derived from transgenic plants demonstrated strong salt tolerance, with most yielding higher than the control, and the yield increase was greater in soils with higher salt content.\n在非盐碱土壤条件下，Denghai 1与14个T2系的杂交组合在产量方面没有显著差异，但有三个杂交组合在________或每行粒数上与对照组相比表现出显著不同。",
+        "answer": "穗长",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Twenty T2 generation transgenic homozygous lines were crossed with 196, and the resulting hybrid combinations, along with the control Denghai 1, were sown in soils with different salt contents. Significant changes in yield were observed. In non-saline-alkali soil (Table 2), Denghai 1 and the hybrid combinations derived from 14 T2 generation transgenic homozygous lines showed no significant differences in single-plant yield and plot yield. However, among these, three hybrid combinations showed significant differences in ear length or the number of grains per row compared to the control. Among the remaining six hybrid combinations, five had yields significantly lower than the control, with a reduction range of 9.6% to 17.3%, while one hybrid combination (derived from TDH4866-8-15) showed a 12% increase in yield compared to the control. In coastal saline-alkali soil, the hybrid combinations derived from transgenic plants demonstrated strong salt tolerance, with most yielding higher than the control, and the yield increase was greater in soils with higher salt content.\n在非盐碱土壤条件下，五个杂交组合的产量明显低于对照组，减产幅度介于________之间。",
+        "answer": "9.6%到17.3%",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Twenty T2 generation transgenic homozygous lines were crossed with 196, and the resulting hybrid combinations, along with the control Denghai 1, were sown in soils with different salt contents. Significant changes in yield were observed. In non-saline-alkali soil (Table 2), Denghai 1 and the hybrid combinations derived from 14 T2 generation transgenic homozygous lines showed no significant differences in single-plant yield and plot yield. However, among these, three hybrid combinations showed significant differences in ear length or the number of grains per row compared to the control. Among the remaining six hybrid combinations, five had yields significantly lower than the control, with a reduction range of 9.6% to 17.3%, while one hybrid combination (derived from TDH4866-8-15) showed a 12% increase in yield compared to the control. In coastal saline-alkali soil, the hybrid combinations derived from transgenic plants demonstrated strong salt tolerance, with most yielding higher than the control, and the yield increase was greater in soils with higher salt content.\n在非盐碱土壤环境中，哪个杂交组合的产量较对照组提高了12%？",
+        "answer": "TDH4866-8-15",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Table 3 shows the economic trait statistics of summer-sown maize in soil with a salt content of 0.28%. Hybrid combinations derived from T2 generation lines of the same transformation event showed differences in ear length, number of grains per row, 1,000-grain weight, single-plant yield, and plot yield. Among these, some hybrid combinations from different lines of the same transformation event showed significant differences (P < 0.05) in ear length, number of grains per row, and single-plant yield (Table 3).\n同一转化事件的不同系杂交组合在穗长、每行粒数和单株产量方面表现出显著差异，其显著性水平为________。",
+        "answer": "P < 0.05",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The agronomic traits of T4 generation transgenic homozygous plants and control plants grown in non-saline-alkali soil were measured. Data on plant height, leaf number, ear height, and tassel branch number were analyzed, showing that the differences among individuals within the same line were not significant. The uniformity of transgenic plants was similar to that of the control inbred lines, both being consistent and uniform. The differences between lines were similar to those in the T2 generation, with transgenic plants showing little difference in morphological characteristics compared to the control, except for a few lines where certain traits reached significant levels of difference\nT4代转基因纯合植物与对照植物的农艺性状研究是在何种土壤中进行的？",
+        "answer": "非盐碱",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The agronomic traits of T4 generation transgenic homozygous plants and control plants grown in non-saline-alkali soil were measured. Data on plant height, leaf number, ear height, and tassel branch number were analyzed, showing that the differences among individuals within the same line were not significant. The uniformity of transgenic plants was similar to that of the control inbred lines, both being consistent and uniform. The differences between lines were similar to those in the T2 generation, with transgenic plants showing little difference in morphological characteristics compared to the control, except for a few lines where certain traits reached significant levels of difference\n转基因植物的均匀性与对照自交系相似，表现为______和均匀。",
+        "answer": "一致",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The agronomic traits of T4 generation transgenic homozygous plants and control plants grown in non-saline-alkali soil were measured. Data on plant height, leaf number, ear height, and tassel branch number were analyzed, showing that the differences among individuals within the same line were not significant. The uniformity of transgenic plants was similar to that of the control inbred lines, both being consistent and uniform. The differences between lines were similar to those in the T2 generation, with transgenic plants showing little difference in morphological characteristics compared to the control, except for a few lines where certain traits reached significant levels of difference\n问题：除了一些品系的某些性状表现出显著差异外，转基因植物在形态特征上与对照组几乎没有______。",
+        "answer": "差异",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Trade-off between the Aux/IAA auxin-responsive transcriptional repressors and ARF transcriptional activators is important for normal auxin-dependent responses in Arabidopsis. The expression of transcriptional repressors Aux/IAA 2-11 (AT5G43700), Aux/IAA 14 (AT4G14550), and Aux/IAA 29 (AT4G32280) was reduced by 9, 11, and 28x, respectively, in response to treatment with 1 mM CysNO. Aux/IAA repressors have been shown to bind ARF transcriptional activators. After ubiquitin-dependent degradation of these repressors, ARF are released to activate auxin responsive genes (Nanao et al., 2014). Interestingly, two ARF-encoding genes, ARF6 (AT1G30330) and ARF5 (AT1G19850), were up-regulated by at least 4x.\nAux/IAA 抑制因子通过________依赖性降解释放 ARF 激活因子。\n\n改写问题：Aux/IAA 抑制因子通过依赖于________的降解来释放 ARF 激活因子。",
+        "answer": "泛素",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Trade-off between the Aux/IAA auxin-responsive transcriptional repressors and ARF transcriptional activators is important for normal auxin-dependent responses in Arabidopsis. The expression of transcriptional repressors Aux/IAA 2-11 (AT5G43700), Aux/IAA 14 (AT4G14550), and Aux/IAA 29 (AT4G32280) was reduced by 9, 11, and 28x, respectively, in response to treatment with 1 mM CysNO. Aux/IAA repressors have been shown to bind ARF transcriptional activators. After ubiquitin-dependent degradation of these repressors, ARF are released to activate auxin responsive genes (Nanao et al., 2014). Interestingly, two ARF-encoding genes, ARF6 (AT1G30330) and ARF5 (AT1G19850), were up-regulated by at least 4x.\n问题：1 mM CysNO 处理后，Aux/IAA 29 (AT4G32280) 的表达降低了______倍。",
+        "answer": "28",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Trade-off between the Aux/IAA auxin-responsive transcriptional repressors and ARF transcriptional activators is important for normal auxin-dependent responses in Arabidopsis. The expression of transcriptional repressors Aux/IAA 2-11 (AT5G43700), Aux/IAA 14 (AT4G14550), and Aux/IAA 29 (AT4G32280) was reduced by 9, 11, and 28x, respectively, in response to treatment with 1 mM CysNO. Aux/IAA repressors have been shown to bind ARF transcriptional activators. After ubiquitin-dependent degradation of these repressors, ARF are released to activate auxin responsive genes (Nanao et al., 2014). Interestingly, two ARF-encoding genes, ARF6 (AT1G30330) and ARF5 (AT1G19850), were up-regulated by at least 4x.\n在 1 mM CysNO 处理后，ARF6 (AT1G30330) 和 ARF5 (AT1G19850) 基因的表达增加了至少______倍。",
+        "answer": "4",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In order to investigate the role of AtSPF30 on the modulation of CCEs, we first validated its rhythmic transcriptional pattern by qPCR (Figure 4b–d), and isolated two different T-DNA insertion mutants (atspf30-1 and atspf30-2; Figure 5a). Plants homozygous for either mutant allele were morphologically very similar to the wild-type (Figure 5a). Characterization of two clock-regulated outputs, leaf movement and flowering, revealed no significant difference in leaf movement periodicity between Col-0 and either mutant (Figure 5b), and a consistent slightly early flowering phenotype across the different photoperiods tested (LL, LD and SD, *P < 0.05 anova followed by Dunnett’s post hoc test against Col-0; Figure 5c).\n通过qPCR验证了AtSPF30的______转录模式。",
+        "answer": "节律性",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Our dataset also revealed novel circadian-regulated genes that had not been identified by the two previous global studies (Figure 2a). This was to be expected, to a certain degree, because of the difference in genome coverage of the different technologies used (RNA-seq, ATH1 microarray and AGRONOMICS1 tiling array). However, hypothetically there should be no difference in the possible number of positive genes between our RNA-seq approach and the AGRONOMICS1 platform (Rehrauer et al., 2010; Figure S5). Nevertheless, we found 3545 circadian genes that are absent from previous global studies. We will refer to these genes as novel circadian genes. GO analysis of this subset revealed an enrichment in terms related to translation, ribosome biogenesis and RNA metabolism (Figure 2b; Table S6).\n新型昼夜节律基因在________、核糖体生物发生以及RNA代谢相关术语中表现出富集。",
+        "answer": "翻译",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Accessions showing ≤50% and >50% reduction in their root length compared to control condition were considered as tolerant and sensitive ones, respectively. Among different accessions, Col-0, Bur-0, Koch-1, Bla-1, Borsk-2, Sij-1, Sij-2, Sij-4 and Bay-0 were found to be tolerant towards arsenate [As(V)] stress. Contrary, Ciste-2, Ws, Sha, Timpo-1, Slavi-1, and Altneb-2 were observed to be sensitive ones (Fig. 1). Col-0 showed the lowest reduction in its root length (<10%) whereas, Slavi-1 and Altneb-2 showed the highest root growth inhibition (>60% and 80%, respectively). Thus, Col-0 was found to be the most tolerant one while Slavi-1 and Altneb-2 were the most sensitive ones among all the Arabidopsis accessions studied.\n若根长减少不超过50%，则被视为________。",
+        "answer": "耐受",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Accessions showing ≤50% and >50% reduction in their root length compared to control condition were considered as tolerant and sensitive ones, respectively. Among different accessions, Col-0, Bur-0, Koch-1, Bla-1, Borsk-2, Sij-1, Sij-2, Sij-4 and Bay-0 were found to be tolerant towards arsenate [As(V)] stress. Contrary, Ciste-2, Ws, Sha, Timpo-1, Slavi-1, and Altneb-2 were observed to be sensitive ones (Fig. 1). Col-0 showed the lowest reduction in its root length (<10%) whereas, Slavi-1 and Altneb-2 showed the highest root growth inhibition (>60% and 80%, respectively). Thus, Col-0 was found to be the most tolerant one while Slavi-1 and Altneb-2 were the most sensitive ones among all the Arabidopsis accessions studied.\n研究的核心在于拟南芥种质对________压力的耐受性及敏感性。",
+        "answer": "砷酸盐[As(V)]",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Accessions showing ≤50% and >50% reduction in their root length compared to control condition were considered as tolerant and sensitive ones, respectively. Among different accessions, Col-0, Bur-0, Koch-1, Bla-1, Borsk-2, Sij-1, Sij-2, Sij-4 and Bay-0 were found to be tolerant towards arsenate [As(V)] stress. Contrary, Ciste-2, Ws, Sha, Timpo-1, Slavi-1, and Altneb-2 were observed to be sensitive ones (Fig. 1). Col-0 showed the lowest reduction in its root length (<10%) whereas, Slavi-1 and Altneb-2 showed the highest root growth inhibition (>60% and 80%, respectively). Thus, Col-0 was found to be the most tolerant one while Slavi-1 and Altneb-2 were the most sensitive ones among all the Arabidopsis accessions studied.\n在耐受性种质中，________是一个例子。",
+        "answer": "Bur-0",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "To gain insight into the function and complexity of both cell types during early embryogenesis, we analyzed Gene Ontology (GO) terms for differentially expressed genes between the proembryo and the suspensor. Our analysis showed that over-represented GO terms for proembryo-enriched genes are ‘DNA or RNA metabolism’/‘cell organization and biogenesis' and ‘structural molecule activity’/‘protein binding’ in the categories ‘Biological processes’ and ‘Molecular function’, respectively (Fig. 2A; supplementary material Table S5).\n问题：在胚胎早期发育阶段分析的细胞类型包含________和悬垂体。\n正确答案：原胚",
+        "answer": "原胚",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The 69 genes with the annotation “reproductive process” encode proteins with diverse functions, including nucleic acid binding proteins, transporters, receptors, oxidoreductases, chaperons, calcium-binding proteins, hydrolases, and cytoskeletal proteins. Among all these 69 genes, nucleic acid binding proteins exhibited the highest percentage (31.90%, 22 out of 69, Additional file 10: Table S5). They bind to nucleic acid at different levels. A major group of them is involved in epigenetic regulation ranging from flowering, flower development to embryo development in seeds, such as FPA, VERNALIZATION INDEPENDENT 4 (VIP4), BLISTER (BL1), FORGETTER 1 (FGT1) (Additional file 10: Table S5).\n在与“生殖过程”相关的69个基因中，编码哪种蛋白质的比例最高？",
+        "answer": "核酸结合蛋白",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Elevated CO2 enhanced shoot growth under low Mg and normal Mg supply, whereas it enhanced root growth under exclusively normal Mg supply (Fig 2). Specifically, the fresh weight, rosette area, leaf area and chlorophyll content (SPAD value) in shoots were higher in EL (elevated CO2 + low Mg) and EC (elevated CO2 + control Mg) treatments whereas lower in AH (ambient CO2 + high Mg) and EH (elevated CO2 + high Mg) treatments than in the control treatment (Fig 2A and 2C–2E), suggesting that elevated CO2 could enhance the growth and chlorophyll content under both low Mg and normal Mg supply. By contrast, compared with the control, number of young leaf was increased in AH and EH treatments but not altered by AL or EL treatment (Fig 2B).\nElevated CO2 boosts root growth solely with ______ Mg supply.",
+        "answer": "normal",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Role of RAR in cell wall remodeling through overexpression of lipid transfer protein 3 (LTP3), delta 9 desaturase 1 (ADS1; At1G06080), polygalacturonase abscission zone A. thaliana (PGAZAT; At2G41850), 3-ketoacyl-coa synthase 3 (KCS3; At1G07720), expansin A10 (EXPA10; At1g26770), xylogen protein 1 (XYP1; At5g64080) and osbp (oxysterol binding protein)-related protein 4B (ORP4B; At4g25850) was also evident in the study.\nDelta 9 desaturase 1的基因编号为______。",
+        "answer": "At1G06080",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "It is well known that HY5 accumulates after the dark-to-light transition and promotes photomorphogenesis in A. thaliana. In order to investigate potential positive factor to enhance the stability of HY5 protein, we used full-length HY5 as a bait and a normalized Arabidopsis cDNA as a prey library to conduct yeast two-hybrid (Y2H) screen, and we identified that HY5 interacts with a partial fragment of UBP14. After that, all the previous studies on UBP14 were carefully read by us, and we considered UBP14 as a potential candidate owing to the long hypocotyl phenotypes of 7-d-old da3-1 (UBP14 mutation) seedlings which exhibited a phenotype reminiscent of the hy5 mutant (34).\n问题：UBP14突变（da3-1）幼苗的长胚轴表型与哪种突变体相似？\n\n正确答案：hy5",
+        "answer": "hy5",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "We further investigated whether BAG2 and BAG6 expression is regulated by abiotic stressors or plant hormones. The results show that ProBAG2:GUS expression is strongly increased by mannitol, salt (NaCl), heat and ABA treatments (Figure 2A,B and Figure S2A) and its expression is also slightly increased in response to other stressors and hormones such as PEG, SA and ACC, respectively. Similarly, ProBAG6:GUS showed significant enhanced GUS staining in response to JA, ABA, mannitol, salt, and heat treatment, and showed a slight increase in response to ACC, PEG and SA (Figure 2C,D and Figure S2B–D).\nProBAG2:GUS 在 ________、盐（NaCl）、高温以及 ABA 处理时显著增强。",
+        "answer": "甘露醇",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "We further investigated whether BAG2 and BAG6 expression is regulated by abiotic stressors or plant hormones. The results show that ProBAG2:GUS expression is strongly increased by mannitol, salt (NaCl), heat and ABA treatments (Figure 2A,B and Figure S2A) and its expression is also slightly increased in response to other stressors and hormones such as PEG, SA and ACC, respectively. Similarly, ProBAG6:GUS showed significant enhanced GUS staining in response to JA, ABA, mannitol, salt, and heat treatment, and showed a slight increase in response to ACC, PEG and SA (Figure 2C,D and Figure S2B–D).\nProBAG6:GUS 在 ________、PEG 和 SA 条件下表现出轻微的增长。",
+        "answer": "ACC",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Similarly, when compared on 1 μM ABA, WT exhibited 57% of seeds germinated and after 7 days a 29% greening rate was found, but the bag2 single mutant exhibited 65% germination while a 49% greening rate was observed; bag6 also showed higher germination and greening rates than the WT (i.e., 68% and 55%, respectively) (Figure 4B,C). Interestingly, the bag2 bag6 double mutant’s germination rate was higher than each single mutant and WT, which are 75% and 71%, respectively (Figure 4B,C).\n问题：在1 μM ABA环境下，bag2单突变体的发芽率是多少？",
+        "answer": "65%",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "On the third day a significant difference was noticed between WT and mutant plants (Figure 6A); bag2 showed 43%, bag6 showed 44%, and bag2 bag6 showed the highest survival rate at 73%, while the WT showed a lower survival rate at 29 % (Figure 6B). To further verify these results, we performed water loss experiments with different time intervals. Consistently, the water loss in mutant plants’ rosette leaves was slower than that of the WT (Figure 6C). These results suggest that BAG2 and BAG6 play a negative role in Arabidopsis responses to ABA and drought treatments.\n问题：BAG2和BAG6基因似乎在拟南芥对ABA和________处理的反应中具有负面影响。\n正确答案：干旱\n\n改写问题：BAG2和BAG6基因似乎在拟南芥对ABA以及________处理的反应中起负面作用。",
+        "answer": "干旱",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "In our observations, wild-type Col and Ler plants showed normal branching of the hypocotyl vein into the cotyledon and true leaf petioles below the shoot apical meristem (SAM), where new leaves are formed (Figs. 1a, b bottom panels, arrowhead). In contrast, the branch point of the hypocotyl vein in the stm-1 mutant was lower than the place of petiole emergence, suggesting the petioles are fused in that region (Fig. 1c bottom panel).\nWild-type Col and Ler plants show typical branching of the hypocotyl vein into the cotyledon and true leaf petioles beneath the ________.",
+        "answer": "shoot apical meristem (SAM)",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "In our observations, wild-type Col and Ler plants showed normal branching of the hypocotyl vein into the cotyledon and true leaf petioles below the shoot apical meristem (SAM), where new leaves are formed (Figs. 1a, b bottom panels, arrowhead). In contrast, the branch point of the hypocotyl vein in the stm-1 mutant was lower than the place of petiole emergence, suggesting the petioles are fused in that region (Fig. 1c bottom panel).\nThe stm-1 mutant shows that the petioles are ________ at the area where the branch point of the hypocotyl vein is situated lower.",
+        "answer": "fused",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Under normal growth conditions, no appreciable differences in the growth status of the FaMYB63-overexpressing transgenic lines and WT plants were detected. In contrast, after 4 weeks of salt treatment, the growth of WT plants was significantly hindered. The foliage of wilted plants exhibited severe chlorosis and albinism. Although the transgenic plants did not attain their full size (Fig. 4A), the survival of these plants was notably higher than that of the WT plants.\n在正常生长环境下，FaMYB63过表达转基因植株与______植物相比没有明显差异。",
+        "answer": "野生型（WT）",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Under normal growth conditions, no appreciable differences in the growth status of the FaMYB63-overexpressing transgenic lines and WT plants were detected. In contrast, after 4 weeks of salt treatment, the growth of WT plants was significantly hindered. The foliage of wilted plants exhibited severe chlorosis and albinism. Although the transgenic plants did not attain their full size (Fig. 4A), the survival of these plants was notably higher than that of the WT plants.\n盐处理对野生型植物造成的影响有明显的生长抑制和叶片的______。",
+        "answer": "白化",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Under normal growth conditions, no appreciable differences in the growth status of the FaMYB63-overexpressing transgenic lines and WT plants were detected. In contrast, after 4 weeks of salt treatment, the growth of WT plants was significantly hindered. The foliage of wilted plants exhibited severe chlorosis and albinism. Although the transgenic plants did not attain their full size (Fig. 4A), the survival of these plants was notably higher than that of the WT plants.\n在盐处理条件下，FaMYB63过表达的转基因植株比________植物表现更优。",
+        "answer": "野生型（WT）",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "However, when exposed to salt, significantly higher SOD, POD, and CAT activities in the transgenic lines compared to those in WT plants were observed (Fig. 4B–D). Furthermore, lower levels of MDA were detected in these transgenic plants. In contrast, levels of proline were significantly higher in FaMYB63-overexpressing transgenic lines than in the WT (Fig. 4E and F). These findings suggested that FaMYB63 overexpression leads to enhanced antioxidant enzyme activities, as well as alterations in proline and MDA levels, which likely contribute to the improved salt stress tolerance observed in the transgenic lines.\n问题：FaMYB63过表达的转基因植株中，________的含量明显高于野生型植物。  \n正确答案：脯氨酸",
+        "answer": "脯氨酸",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "However, when exposed to salt, significantly higher SOD, POD, and CAT activities in the transgenic lines compared to those in WT plants were observed (Fig. 4B–D). Furthermore, lower levels of MDA were detected in these transgenic plants. In contrast, levels of proline were significantly higher in FaMYB63-overexpressing transgenic lines than in the WT (Fig. 4E and F). These findings suggested that FaMYB63 overexpression leads to enhanced antioxidant enzyme activities, as well as alterations in proline and MDA levels, which likely contribute to the improved salt stress tolerance observed in the transgenic lines.\n问题：FaMYB63过表达不仅增强了抗氧化酶的活性，还影响了________和MDA的浓度。\n正确答案：脯氨酸",
+        "answer": "脯氨酸",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Under long-day conditions, WT plants produced inflorescences at 30 days after sowing, whereas DREB2C-overexpressors did not (Fig. 1a). Additionally, DREB2C-overexpressors showed, on average, five more rosette leaves at bolting than WT plants (Fig. 1b). Moreover, DREB2C-overexpressors flowered 5–7 days later than WT plants (Fig. 1c). Together, the results indicate that DREB2C overexpression delays flowering in Arabidopsis.\n在长日照环境中，野生型（WT）拟南芥植物播种后多少天会出现花序？",
+        "answer": "30",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Under long-day conditions, WT plants produced inflorescences at 30 days after sowing, whereas DREB2C-overexpressors did not (Fig. 1a). Additionally, DREB2C-overexpressors showed, on average, five more rosette leaves at bolting than WT plants (Fig. 1b). Moreover, DREB2C-overexpressors flowered 5–7 days later than WT plants (Fig. 1c). Together, the results indicate that DREB2C overexpression delays flowering in Arabidopsis.\n与野生型植物相比，DREB2C过表达的拟南芥在抽薹阶段平均增加了多少片莲座叶？",
+        "answer": "五",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Under long-day conditions, WT plants produced inflorescences at 30 days after sowing, whereas DREB2C-overexpressors did not (Fig. 1a). Additionally, DREB2C-overexpressors showed, on average, five more rosette leaves at bolting than WT plants (Fig. 1b). Moreover, DREB2C-overexpressors flowered 5–7 days later than WT plants (Fig. 1c). Together, the results indicate that DREB2C overexpression delays flowering in Arabidopsis.\n实验结果表明，DREB2C过表达会使拟南芥的开花时间________。",
+        "answer": "延迟",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "As shown in Figure 1A, hpr1 showed significant increases in the absolute amounts of photorespiratory intermediates including glycine (3.2-fold), serine (2.9-fold), and glycerate (8.0-fold). Expectedly, the strongest relative increase was seen in 3HP (190-fold). Given that some alterations in the ethanolamine (ETA) content was observed during previous studies [23,33], this intermediate was also in focus. Interestingly, an approximately 5.5-fold higher absolute amount of ETA was determined in hpr1.\n在hpr1研究中，丝氨酸的绝对量增加了______倍？",
+        "answer": "2.9",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "As shown in Figure 1A, hpr1 showed significant increases in the absolute amounts of photorespiratory intermediates including glycine (3.2-fold), serine (2.9-fold), and glycerate (8.0-fold). Expectedly, the strongest relative increase was seen in 3HP (190-fold). Given that some alterations in the ethanolamine (ETA) content was observed during previous studies [23,33], this intermediate was also in focus. Interestingly, an approximately 5.5-fold higher absolute amount of ETA was determined in hpr1.\n问题：在hpr1研究中，甘油酸的绝对量增加了______倍？\n\n问题：请描述液晶相的形成条件。\n\n改写问题：液晶相的形成条件有哪些？",
+        "answer": "8",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "As shown in Figure 1A, hpr1 showed significant increases in the absolute amounts of photorespiratory intermediates including glycine (3.2-fold), serine (2.9-fold), and glycerate (8.0-fold). Expectedly, the strongest relative increase was seen in 3HP (190-fold). Given that some alterations in the ethanolamine (ETA) content was observed during previous studies [23,33], this intermediate was also in focus. Interestingly, an approximately 5.5-fold higher absolute amount of ETA was determined in hpr1.\n在hpr1研究中，乙醇胺的绝对量增长了大约________倍。",
+        "answer": "5.5",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In addition to the expected impact of HPR1 deficiency on photorespiratory serine and 3HP accumulation, clear indications were observed that other pathways also respond to elevation of these intermediates, particularly serine. As shown in Figure 3A, hpr1 accumulated O-acetylserine (OAS, +540%), the precursor of cysteine biosynthesis, as well as cysteine (+518%) itself. Additionally, an increase was found in glutathione (GSH; sum parameter of GSH + GSSG, +203%) in hpr1 compared to wild type (Figure 3A).\nHPR1缺乏会导致其他途径对这些中间体的增加产生反应，尤其是________。",
+        "answer": "丝氨酸",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Deletion of HPR1, however, impacted those accumulation patterns. Citrate and succinate were generally higher in the hpr1 mutant over time, while minor fluctuations were seen in fumarate (decreased at week 6 and 7) and malate (increased in weeks 3 and 4). The accumulation of GABA was inverse of that in the wild type, which was elevated at week 3 and gradually decreasing until week 7 (Figure 5A).\n在hpr1突变体中，柠檬酸的含量通常是______的。",
+        "answer": "较高",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Deletion of HPR1, however, impacted those accumulation patterns. Citrate and succinate were generally higher in the hpr1 mutant over time, while minor fluctuations were seen in fumarate (decreased at week 6 and 7) and malate (increased in weeks 3 and 4). The accumulation of GABA was inverse of that in the wild type, which was elevated at week 3 and gradually decreasing until week 7 (Figure 5A).\n问题：在hpr1突变体中，第6周和第7周期间延胡索酸呈现出________的趋势。",
+        "answer": "下降",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Deletion of HPR1, however, impacted those accumulation patterns. Citrate and succinate were generally higher in the hpr1 mutant over time, while minor fluctuations were seen in fumarate (decreased at week 6 and 7) and malate (increased in weeks 3 and 4). The accumulation of GABA was inverse of that in the wild type, which was elevated at week 3 and gradually decreasing until week 7 (Figure 5A).\n问题：在hpr1突变体中，GABA的积累趋势与野生型相反，第3周时________，随后逐渐减少至第7周。",
+        "answer": "升高",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The two dominant metabolic changes in plants grown in Fe-free medium relative to plants grown in control medium were increases in the abundance of the organic acids citrate and malate. Quantification based on standard curves showed 5.6-fold and 3.1-fold higher concentrations, respectively (Fig. 3). Similarly, in root metabolite profiles of plants grown in alkaline medium, signals for these two compounds were again the most prominent changes (Table 2). Concentrations were 29.3-fold (citrate) and 4.1-fold (malate) higher than in profiles of plants grown under control conditions (Fig. 3).\n问题：在无铁培养基中，柠檬酸浓度增加了______倍。",
+        "answer": "5.6",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The two dominant metabolic changes in plants grown in Fe-free medium relative to plants grown in control medium were increases in the abundance of the organic acids citrate and malate. Quantification based on standard curves showed 5.6-fold and 3.1-fold higher concentrations, respectively (Fig. 3). Similarly, in root metabolite profiles of plants grown in alkaline medium, signals for these two compounds were again the most prominent changes (Table 2). Concentrations were 29.3-fold (citrate) and 4.1-fold (malate) higher than in profiles of plants grown under control conditions (Fig. 3).\n碱性培养基中，苹果酸的浓度增加了________倍。",
+        "answer": "4.1",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The two dominant metabolic changes in plants grown in Fe-free medium relative to plants grown in control medium were increases in the abundance of the organic acids citrate and malate. Quantification based on standard curves showed 5.6-fold and 3.1-fold higher concentrations, respectively (Fig. 3). Similarly, in root metabolite profiles of plants grown in alkaline medium, signals for these two compounds were again the most prominent changes (Table 2). Concentrations were 29.3-fold (citrate) and 4.1-fold (malate) higher than in profiles of plants grown under control conditions (Fig. 3).\n在无铁培养基中，苹果酸的浓度增加了______倍。",
+        "answer": "3.1",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The two dominant metabolic changes in plants grown in Fe-free medium relative to plants grown in control medium were increases in the abundance of the organic acids citrate and malate. Quantification based on standard curves showed 5.6-fold and 3.1-fold higher concentrations, respectively (Fig. 3). Similarly, in root metabolite profiles of plants grown in alkaline medium, signals for these two compounds were again the most prominent changes (Table 2). Concentrations were 29.3-fold (citrate) and 4.1-fold (malate) higher than in profiles of plants grown under control conditions (Fig. 3).\n在碱性培养基中，柠檬酸的浓度增加了______倍？",
+        "answer": "29.3",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Amino acid residues within protein sequences can promote ordered aggregation, which can be a precondition for altered rates of protein degradation in mammals. The TANGO algorithm can predict this aggregation propensity (Fernandez-Escamilla et al., 2004). In our set of 1228 proteins, the top 100 fastest degrading proteins show significantly higher protein aggregation propensity (AGG; P < 0.05) and longer amino acid length (LEN; P < 0.05), but no significant difference (P = 0.70) in AGG/LEN when compared with the 100 slowest turnover proteins (Figure 4B; Supplemental Data Set 4B).\n研究表明，降解速度最快的蛋白质的氨基酸链长度明显长于降解速度最慢的蛋白质，其显著性水平为________。",
+        "answer": "P < 0.05",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Amino acid residues within protein sequences can promote ordered aggregation, which can be a precondition for altered rates of protein degradation in mammals. The TANGO algorithm can predict this aggregation propensity (Fernandez-Escamilla et al., 2004). In our set of 1228 proteins, the top 100 fastest degrading proteins show significantly higher protein aggregation propensity (AGG; P < 0.05) and longer amino acid length (LEN; P < 0.05), but no significant difference (P = 0.70) in AGG/LEN when compared with the 100 slowest turnover proteins (Figure 4B; Supplemental Data Set 4B).\n在降解速度最快和最慢的蛋白质之间，聚集倾向与氨基酸长度的比率（AGG/LEN）无显著差异，其统计显著性水平为______。",
+        "answer": "P = 0.70",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The abundance and degradation differences for these proteins were calculated as relative ?Abundance and relative ?KD [i.e., (leaf 7-leaf 3)/average (leaf 3, 7)] and are each presented as box plots in Figure 5A. The dashed line indicates the point of parity between leaf 3 and leaf 7. Lower protein abundance in leaf 3 or 7 correlated with higher degradation rates for plastid proteins involved in cell organization, light reactions, stress, Calvin cycle, and photorespiration enzymes, while high protein abundances in leaf 3 or 7 correlated with low protein degradation rate for plastid proteins involved in tetrapyrrole synthesis, protein folding, and protein synthesis. When we focused on photosynthesis-associated proteins, and matched individual proteins across the data from leaves 3, 7, and 5, we found that there was a consistent correlation between relative abundance (Figure 5B) and protein degradation rate (Figure 5C) on a protein-by-protein basis across different protein complexes and metabolic pathways.\n问题：相对丰度和相对KD是如何计算的？\n\n改写问题：相对丰度和相对KD的计算公式是________。",
+        "answer": "(leaf 7-leaf 3)/average (leaf 3, 7)",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The abundance and degradation differences for these proteins were calculated as relative ?Abundance and relative ?KD [i.e., (leaf 7-leaf 3)/average (leaf 3, 7)] and are each presented as box plots in Figure 5A. The dashed line indicates the point of parity between leaf 3 and leaf 7. Lower protein abundance in leaf 3 or 7 correlated with higher degradation rates for plastid proteins involved in cell organization, light reactions, stress, Calvin cycle, and photorespiration enzymes, while high protein abundances in leaf 3 or 7 correlated with low protein degradation rate for plastid proteins involved in tetrapyrrole synthesis, protein folding, and protein synthesis. When we focused on photosynthesis-associated proteins, and matched individual proteins across the data from leaves 3, 7, and 5, we found that there was a consistent correlation between relative abundance (Figure 5B) and protein degradation rate (Figure 5C) on a protein-by-protein basis across different protein complexes and metabolic pathways.\n图5C显示了与________有关的蛋白质降解速率。",
+        "answer": "光合作用",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "For proteins such as GAPDH or PKL showing no signal in the supernatant, most of the corresponding proteins were associated with IP resin and a significant proportion further recovered after washing in the IP. In contrast, the immunoprecipitation is far less efficient for others proteins such as FBPase or CA which show a similar amount of protein in the supernatant and crude extract, thus suggesting that the corresponding nitrated forms would not be abundant in the total protein population of crude extracts.\nFBPase和CA的免疫沉淀效率如何？",
+        "answer": "较低",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "For serine hydroxymethyltransferase, the nitrated peptide contained two Y residues and showed a mass shift of +90, compatible with two Y nitration sites. Finally, for the other two proteins, a cytosolic GAPDH and a putative mannitol dehydrogenase, the nitrated peptides contained two Y residues and showed a mass shift of +45, corresponding to a single nitration event, so no nitration site could be proposed for these proteins (Table 2).\nSerine hydroxymethyltransferase 的硝化肽段含有多少个酪氨酸（Y）残基？",
+        "answer": "两个",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "For serine hydroxymethyltransferase, the nitrated peptide contained two Y residues and showed a mass shift of +90, compatible with two Y nitration sites. Finally, for the other two proteins, a cytosolic GAPDH and a putative mannitol dehydrogenase, the nitrated peptides contained two Y residues and showed a mass shift of +45, corresponding to a single nitration event, so no nitration site could be proposed for these proteins (Table 2).\n问题：Serine hydroxymethyltransferase 的质量变化为________，这表明存在两个酪氨酸硝化位点。\n\n改写问题：Serine hydroxymethyltransferase 的质量变化为______，显示出两个酪氨酸硝化位点的存在。",
+        "answer": "90",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "For serine hydroxymethyltransferase, the nitrated peptide contained two Y residues and showed a mass shift of +90, compatible with two Y nitration sites. Finally, for the other two proteins, a cytosolic GAPDH and a putative mannitol dehydrogenase, the nitrated peptides contained two Y residues and showed a mass shift of +45, corresponding to a single nitration event, so no nitration site could be proposed for these proteins (Table 2).\nCytosolic GAPDH 和推测的甘露醇脱氢酶的硝化肽段中含有多少个酪氨酸（Y）残基？",
+        "answer": "两个",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "For serine hydroxymethyltransferase, the nitrated peptide contained two Y residues and showed a mass shift of +90, compatible with two Y nitration sites. Finally, for the other two proteins, a cytosolic GAPDH and a putative mannitol dehydrogenase, the nitrated peptides contained two Y residues and showed a mass shift of +45, corresponding to a single nitration event, so no nitration site could be proposed for these proteins (Table 2).\n问题：Cytosolic GAPDH 和推测的甘露醇脱氢酶的质量变化是多少，显示了一次硝化事件的发生？\n正确答案：45\n\n改写问题：Cytosolic GAPDH 和推定的甘露醇脱氢酶的质量变化为______，表明发生了一次硝化事件。",
+        "answer": "45",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Thus, the localization of the Arabidopsisd-CDes in the cell was investigated experimentally by two different approaches. Total protein extracts and protein extracts from isolated mitochondria and chloroplasts (≈15μg each) were subjected to western blot analysis using a monospecific d-CDes antibody. In total extracts a single band was recognized at ≈?43?kDa indicating the presence of the full-length protein, in mitochondria three bands at about 42, 43 and 44?kDa were detected, while no bands were visible in chloroplast extracts (Fig. 3). One could assume that in mitochondria the unprocessed protein, the mature protein and a post-translationally modified protein might be present. N-terminal sequencing and analysis of peptides by MS could help to verify this explanation.\n问题：在总蛋白提取物中观察到的d-CDes蛋白的单一条带约为多少大小？",
+        "answer": "43 kDa",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Thus, the localization of the Arabidopsisd-CDes in the cell was investigated experimentally by two different approaches. Total protein extracts and protein extracts from isolated mitochondria and chloroplasts (≈15μg each) were subjected to western blot analysis using a monospecific d-CDes antibody. In total extracts a single band was recognized at ≈?43?kDa indicating the presence of the full-length protein, in mitochondria three bands at about 42, 43 and 44?kDa were detected, while no bands were visible in chloroplast extracts (Fig. 3). One could assume that in mitochondria the unprocessed protein, the mature protein and a post-translationally modified protein might be present. N-terminal sequencing and analysis of peptides by MS could help to verify this explanation.\n在线粒体中检测到的d-CDes蛋白的条带尺寸分别为________、________和________。",
+        "answer": "42 kDa，43 kDa，44 kDa",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Interestingly, removal of the N-terminal affinity tag with TEV protease was successful only for the fusion proteins that included the At1g16640Nterminus (1–92, 1–102, and 1–112), but not for the 8–102 or 8–112 versions. Structural results presented below reveal that Val 7 is the initial residue of the first β-strand of the B3 domain, suggesting that the cleavage site may have been sequestered by secondary structure in the N-terminally truncated constructs.\nTEV蛋白酶未能有效去除亲和标签的融合蛋白序列包含________和________。",
+        "answer": "8–102, 8–112",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Interestingly, removal of the N-terminal affinity tag with TEV protease was successful only for the fusion proteins that included the At1g16640Nterminus (1–92, 1–102, and 1–112), but not for the 8–102 or 8–112 versions. Structural results presented below reveal that Val 7 is the initial residue of the first β-strand of the B3 domain, suggesting that the cleavage site may have been sequestered by secondary structure in the N-terminally truncated constructs.\n在上下文中，使用________来去除融合蛋白中的N端亲和标签。",
+        "answer": "TEV protease",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The deduced AGG2 amino acid sequence reveals a small 100 amino acid (11.1 kDa) protein containing several structural features conserved in all known G-protein γ-subunits [37] including a prenyl group binding site (CAAX box) on its C-terminus. Computer algorithms designed to predict secondary structure identified a region on the AGG2 N-terminus (amino acids 16–57) as strongly favouring coiled-coil formation (predicted probability of 1), another characteristic of γ-subunits.\n问题：AGG2蛋白由________个氨基酸组成，其分子量为________kDa。",
+        "answer": "100，11.1",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The deduced AGG2 amino acid sequence reveals a small 100 amino acid (11.1 kDa) protein containing several structural features conserved in all known G-protein γ-subunits [37] including a prenyl group binding site (CAAX box) on its C-terminus. Computer algorithms designed to predict secondary structure identified a region on the AGG2 N-terminus (amino acids 16–57) as strongly favouring coiled-coil formation (predicted probability of 1), another characteristic of γ-subunits.\n问题：AGG2蛋白的N-末端区域（氨基酸16–57）被高度预测会形成什么样的结构？\n正确答案：卷曲螺旋（coiled-coil）",
+        "answer": "卷曲螺旋（coiled-coil）",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The deduced AGG2 amino acid sequence reveals a small 100 amino acid (11.1 kDa) protein containing several structural features conserved in all known G-protein γ-subunits [37] including a prenyl group binding site (CAAX box) on its C-terminus. Computer algorithms designed to predict secondary structure identified a region on the AGG2 N-terminus (amino acids 16–57) as strongly favouring coiled-coil formation (predicted probability of 1), another characteristic of γ-subunits.\n问题：AGG2蛋白的二级结构预测采用了________方法。",
+        "answer": "计算机算法",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "In contrast to flowering time variation which has been shown to correlate with latitude of origin in Arabidopsis accessions[21], ovule number was not strongly correlated with location of origin in the accessions analyzed (Figs 1C and S1). Mapping ovule number data onto a cladogram of the accessions used in our study revealed a cluster of low ovule number accessions in one specific clade, indicating that these closely-related accessions may have similar genetic control of ovule number (Fig 1D).\nArabidopsis accessions 的开花时间变化与其________的纬度有关。",
+        "answer": "起源地",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In contrast to flowering time variation which has been shown to correlate with latitude of origin in Arabidopsis accessions[21], ovule number was not strongly correlated with location of origin in the accessions analyzed (Figs 1C and S1). Mapping ovule number data onto a cladogram of the accessions used in our study revealed a cluster of low ovule number accessions in one specific clade, indicating that these closely-related accessions may have similar genetic control of ovule number (Fig 1D).\n在分析的拟南芥品系中，胚珠数量与其来源地的________没有显著相关性。",
+        "answer": "位置",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "In contrast to flowering time variation which has been shown to correlate with latitude of origin in Arabidopsis accessions[21], ovule number was not strongly correlated with location of origin in the accessions analyzed (Figs 1C and S1). Mapping ovule number data onto a cladogram of the accessions used in our study revealed a cluster of low ovule number accessions in one specific clade, indicating that these closely-related accessions may have similar genetic control of ovule number (Fig 1D).\n在研究中，发现了一组胚珠数量较少的accessions，这些accessions位于系统发育树的一个________上。",
+        "answer": "特定分支",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Anthocyanin accumulation for 360 natural accessions of Arabidopsis was evaluated by visual scoring of rosette-stage plants grown under control conditions or osmotic stress conditions. Each plant was assigned to a category ranging from a completely green plant (category 1) to a completely red/purple plant (category 5) (Fig 1A). These categories correlated very well with anthocyanin content as determined by spectrophotometric analyses (Fig 2). Most plants (66%) did not produce any visible anthocyanins under control conditions and only very few accumulated substantial levels (Fig 3). PEG treatment, however, induced anthocyanin accumulation in almost all accessions, with most plants being assigned to category 3 and more than 98% to category 2 or higher (Fig 3A). Levels of accumulation were highly reproducible among replicates of accessions within and between experiments.\n在拟南芥研究中，PEG处理被视为________条件。",
+        "answer": "渗透胁迫",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Anthocyanin accumulation for 360 natural accessions of Arabidopsis was evaluated by visual scoring of rosette-stage plants grown under control conditions or osmotic stress conditions. Each plant was assigned to a category ranging from a completely green plant (category 1) to a completely red/purple plant (category 5) (Fig 1A). These categories correlated very well with anthocyanin content as determined by spectrophotometric analyses (Fig 2). Most plants (66%) did not produce any visible anthocyanins under control conditions and only very few accumulated substantial levels (Fig 3). PEG treatment, however, induced anthocyanin accumulation in almost all accessions, with most plants being assigned to category 3 and more than 98% to category 2 or higher (Fig 3A). Levels of accumulation were highly reproducible among replicates of accessions within and between experiments.\n在拟南芥研究中，完全绿色的植物被分类为________类。",
+        "answer": "第1",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "The four MYB genes (MYB90, MYB113, MYB114 and MYB75) are part of the largest class of MYB-transcription factors, the R2R3-class, and have high similarity in the overall sequence, particularly the DNA binding domains [29]. For 10 of the 12 accessions the calmoduline-like gene was not significantly up-regulated upon osmotic stress (Fig 5), suggesting that it is very unlikely that this gene is causal for the observed variation in anthocyanin accumulation. In contrast, all MYB genes were up-regulated upon osmotic stress in all accessions tested, except MYB114, which was not up-regulated in Ty-0. This up-regulation confirms the role of these genes in stress responses.\n问题：MYB90、MYB113、MYB114、MYB75属于哪一类MYB转录因子？",
+        "answer": "R2R3-class",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The four MYB genes (MYB90, MYB113, MYB114 and MYB75) are part of the largest class of MYB-transcription factors, the R2R3-class, and have high similarity in the overall sequence, particularly the DNA binding domains [29]. For 10 of the 12 accessions the calmoduline-like gene was not significantly up-regulated upon osmotic stress (Fig 5), suggesting that it is very unlikely that this gene is causal for the observed variation in anthocyanin accumulation. In contrast, all MYB genes were up-regulated upon osmotic stress in all accessions tested, except MYB114, which was not up-regulated in Ty-0. This up-regulation confirms the role of these genes in stress responses.\nMYB基因的序列相似性尤为突出，尤其是在______区域。",
+        "answer": "DNA结合域",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Several motifs significantly associated with promoters of DEGs were identified de novo in each tissue (E-value < 1e-10). The BASIC PENTACYSTEINE (BPC) family (BPC1, BPC5 and BPC6) had the most enriched motifs in the promoters of DEGs in embryo proper, endosperm, endothelium, epidermis and hilum. The BPC TF family is integral in a wide range of processes that support plant normal growth and development.\nBASIC PENTACYSTEINE (BPC)家族包含________、BPC5和BPC6，并在DEGs启动子中拥有最多的富集motifs。",
+        "answer": "BPC1",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Several motifs significantly associated with promoters of DEGs were identified de novo in each tissue (E-value < 1e-10). The BASIC PENTACYSTEINE (BPC) family (BPC1, BPC5 and BPC6) had the most enriched motifs in the promoters of DEGs in embryo proper, endosperm, endothelium, epidermis and hilum. The BPC TF family is integral in a wide range of processes that support plant normal growth and development.\nBPC转录因子家族在促进植物正常生长和发育的过程中发挥着________的作用。",
+        "answer": "重要",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "As is shown in the figure, the expressions of the GmPME genes in the maintainer NJCMS1B are universally higher than those in cytoplasmic male sterile line NJCMS1A. In the Group I and Group II clades, some GmPME genes, for examples, GmPME46 and GmPME121 in the Group I clade as well as GmPME12 and GmPME122 in the Group II clade, were at relatively high expression levels both in NJCMS1A and NJCMS1B.\n在Group II clade中，GmPME12和______在NJCMS1A和NJCMS1B中均表现出较高的表达水平。",
+        "answer": "GmPME122",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "As is shown in the figure, the expressions of the GmPME genes in the maintainer NJCMS1B are universally higher than those in cytoplasmic male sterile line NJCMS1A. In the Group I and Group II clades, some GmPME genes, for examples, GmPME46 and GmPME121 in the Group I clade as well as GmPME12 and GmPME122 in the Group II clade, were at relatively high expression levels both in NJCMS1A and NJCMS1B.\n在Group I clade中，GmPME46和________在NJCMS1A和NJCMS1B中均表现出较高的表达水平。",
+        "answer": "GmPME121",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "We acquired the expression patterns of two nodulation marker genes (NIN and ENOD40) and three defense marker genes (PR1, PR2, and PR5) in Suinong 14 roots (where the NopC mutant decreased NN and NDW) inoculated with HH103 and the NopC mutant. NopC absence did not induce difference in expression patterns of NIN or ENOD40 compared with the wild strain (Fig. S3), but caused changes in the expression patterns of PR1 and PR5. HH103 induced expression of PR1 reached a peak at 36 h post-inoculation, whereas the NopC mutant did not. The same was true for the PR5 gene, where there were opposite expression patterns after inoculation with HH103 and the NopC mutant (Fig. S3).\nNopC突变体的缺失对结瘤标记基因______和______的表达模式没有影响。",
+        "answer": "NIN，ENOD40",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "We acquired the expression patterns of two nodulation marker genes (NIN and ENOD40) and three defense marker genes (PR1, PR2, and PR5) in Suinong 14 roots (where the NopC mutant decreased NN and NDW) inoculated with HH103 and the NopC mutant. NopC absence did not induce difference in expression patterns of NIN or ENOD40 compared with the wild strain (Fig. S3), but caused changes in the expression patterns of PR1 and PR5. HH103 induced expression of PR1 reached a peak at 36 h post-inoculation, whereas the NopC mutant did not. The same was true for the PR5 gene, where there were opposite expression patterns after inoculation with HH103 and the NopC mutant (Fig. S3).\n问题：HH103诱导的________基因表达在接种后36小时达到最高水平，而NopC突变体未显示出这一峰值。",
+        "answer": "PR1",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The predicted subcellular locations of the Gmzf_CCCHs showed that most of the Gmzf_CCCHs (104 of 116) were localized in nucleus. Seven Gmzf_CCCH genes were predicted to be localized in chloroplast and 3 localized in cytoplasm. The other 2 Gmzf_CCCH genes (Glyma03g02000.3 and Glyma08g39400.1) were localized in vacuole and mitochondrial, respectively.\n大部分Gmzf_CCCH基因（116个中有104个）定位于________。",
+        "answer": "细胞核",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "This is a fill-in-the-blank question about agriculture. As a university student majoring in agriculture, you should answer according to the following rules: Fill-in-the-blank questions usually require you to fill in the missing content according to the requirements of the question.\nNote that your answer should only include the content that should be filled in the blank line, and should not include any other content. If there are multiple blank lines, please separate the content with commas.\nFor example:\nCorrect answer: answer1, answer2\nPlease strictly follow this format to answer, and do not have any additional output.\nFor example:\nQuestion: The overexpression of OsDREB1C __________ the levels of photosynthetic pigments in the leaves of the plants.\nCorrect answer: increased\nQuestion:",
+        "question": "Analysis of variance indicated that the genotype (G), environment (E) and genotype by environment interaction (G?×?E) had significant effects on plant height (PH), number of nodes on main stem (NN) and stem diameter (DI) (P?<?0.01; Table 1). The genotype (G) and genotype by environment interaction (G?×?E) had significant effects on branch number (BN) and 100-seed weight (100-SW), but the genotype by environment interaction (G?×?E) had no significant effects.\nBranch Number (BN) 受哪些因素的影响？",
+        "answer": "G, G × E",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Further, some of these SNPs were consistently detected in multiple environments, using different GWAS models, and were found to be associated with more than one studied trait. Such SNPs were considered stable MTAs. For example, the significant SNP (AX-93793,210) on Chr.11 was identified consistently in five individual environments (E1, E2, E3, E4, and E5) and the combined environment. In addition, this SNP was also identified through four different GWAS models (BLINK, FarmCPU, GLM, and MLMM), and was found to be associated with two yield-related traits (HSW and SPP).\n显著的SNP（AX-93793,210）位于第几号染色体上？",
+        "answer": "11",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "After seven days of treatment, the soybean germplasm accessions exhibited a range of responses to alkaline treatment (AT), from sensitive to moderately tolerant and highly tolerant. Extremely sensitive accessions experienced the wilting of aboveground leaves, plant death, and significant reductions in both shoot and root biomass compared to CK (Figure 1A,B). Accessions with moderate alkaline tolerance displayed yellowing and the wilting of leaves, as well as reductions in shoot and root biomass under AT (Figure 1C,D). However, compared to sensitive cultivars, those with moderate alkaline tolerance exhibited a lesser reduction in both shoot and root biomass when exposed to AT, while alkaline-tolerant soybean accessions showed the least impact on root and shoot biomass under AT relative to CK (Figure 1E,F).\n问题：与对照组相比，极度敏感的大豆种质在碱性处理条件下，________显著减少。\n\n正确答案：地上部分和根部生物量\n\n改写问题：在碱性处理下，与对照组相比，极度敏感的大豆种质的________显著减少。",
+        "answer": "地上部分和根部生物量",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow (Figure S2). Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\n问题：对357个大豆地方品种进行分组时，采用了________算法来根据相似性进行分类。  \n正确答案：K-means聚类",
+        "answer": "K-means聚类",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow (Figure S2). Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\n在识别出的三个组中，组I包括多少个地方品种？",
+        "answer": "92",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "The R3–5 stages were characterized by an accumulation of terpenoids (phytol, campesterol, stigmasterol, and beta-sitosterol) and a decrease in the levels of amino acids (glutamine, asparagine, isoleucine, proline, glycine, and leucine) and monosaccharides (xylose, fructose, mannose, galactose, arabinose, and glucose) (Figures 2B and 3).\n在R3–5阶段，氨基酸水平下降，其中涉及谷氨酰胺、天冬酰胺、异亮氨酸、脯氨酸、甘氨酸以及________。",
+        "answer": "亮氨酸",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Considering the phenotype changes occur later than the expression of genes, the metabolome analyses of seeds were performed at T6 time point, whereas DEGs between Williams 82 and Jiaoda 133 at T4 and T5 time points were used for GO and KEGG enrichment analyses. GO enrichment analysis revealed these DEGs were enriched in the biological process (BP) category, comprising photosynthesis, light harvesting in photosystem I, photosynthesis, chlorophyll biosynthetic process, response to light stimulus, protein-chromophore linkage, xyloglucan metabolic process, recognition of pollen, auxin-activated signaling pathway, response to auxin, microtubule-based movement, oxidation-reduction process, DNA integration, glutamine biosynthetic process, and iron ion transmembrane transport. DEGs were also enriched in the cellular component (CC) category, with the dominant terms being photosystem I, photosystem I reaction center, chloroplast, chloroplast thylakoid membrane, chloroplast envelope, lysosome, extracellular space, kinesin complex, plastoglobule, apoplast, cell wall, and plasma membrane. In the molecular function (MF) category, the main terms were chlorophyll binding, cysteine-type peptidase activity, pigment binding, cysteine-type endopeptidase activity, ADP binding, xyloglucan:xyloglucosyl transferase activity, microtubule motor activity, 2-alkenal reductase [NAD(P)] activity, 2 iron, 2 sulfur cluster binding, drug binding, thiamine pyrophosphate binding, and lysophospholipase activity (Fig. 5A).\n在种子研究中，代谢组分析是在______时刻进行的。",
+        "answer": "T6",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Under salt stress and when compared to that of EV plants, overexpression of the GmADC gene significantly reduced the contents of Na+ in the roots, stems and leaves of soybean hairy-root composite plants and consequently decreased their Na+/K+ ratios caused by the relatively stable K+ levels (Fig. 8e). Moreover, in contrast to the EV plants, the contents of Cl? decreased significantly in the roots, stems and leaves of the salt-stressed OEGmADC soybean hairy-root composite plants, while the NO3? contents raised in the roots, and kept at a relatively stable level in the stems and leaves of OEGmADC plants, all these thus lead to the decreases of Cl?/NO3? ratio in the salt-stressed OEGmADC soybean plants (Fig. 8f).\n问题：在盐胁迫条件下，转基因大豆毛状根复合植物中，GmADC基因过表达导致根部的NO3?含量________，而茎和叶中的含量则保持不变。",
+        "answer": "增加",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "To evaluate the influence of haplotypes on soybean seed traits, we examined the association between haplotypes and seed oil content in soybean collections. Hap_S has a very low seed oil content but very high seed protein content (Fig.?6d,e). This result was consistent with well-documented characteristics of wild soybean seeds, which are very small, black, have low oil content, but are rich in protein. In cultivated soybeans, Hap_H displayed a high seed oil content and low protein content, whereas Hap_W showed a relatively low seed oil content but high protein content (Fig.?6d,e). With respect to the contrasting seed oil and protein content of Hap_H and Hap_W described above, it is possible that Hap_H and Hap_W may reflect the two classic breeding goals of achieving high oil or high protein varieties, respectively.\n问题：Hap_S单倍型大豆种子的种子油含量极低，而________含量则非常高。\n正确答案：种子蛋白",
+        "answer": "种子蛋白",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "A comprehensive phylogenetic analysis was conducted to establish groups of homology within the GmMIP gene family. The 66 GmMIPs were classified into various subfamilies including 22 GmPIPs, 23 GmTIPs, 13 GmNIPs, six GmSIPs and two new GmXIPs i.e., uncharacterized isoforms (Fig. 1 and Tables 1 & 2). The GmXIPs might be similar to the novel plant AQP subfamily XIP recently reported in moss [15] and tomato [16]. All the members of the GmPIPs subfamily localized to plasma membranes (Table 1). The predicted localization of members of the GmTIPs subfamily was diverse, and predicted localization included cytosol, plasma membrane, endoplasmic reticulum, vacuole, mitochondria and chloroplast. From the GmNIPs subfamily, GmNIP1;1 and GmNIP4;1 localized to vacuoles, GmNIP2;2 to extra-cellular structures and the rest to plasma membranes. Two members of the GmSIP subfamily localized to vacuoles and the remainder to plasma membranes. GmXIP1;1 localized to extra-cellular structures and GmXIP1;2 to cytosol. The ka/ks ratio was >1 and 1 for PseudoPIP#3 and PseudoSIP#1, and PseudoPIP#2, respectively. The remaining GmMIPs showed ka/ks ratio <1 (Table 1, also see Table S2 and Fig. S3 for details).\nGmXIP1;1位于________结构中。",
+        "answer": "胞外",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "A complementation assay of yeast mutants was further conducted to investigate the metal transport activity of GmMTP8.1, which was heterologously expressed in five yeast mutants that are defective in transport activity of various metals, namely, Mn (Δpmr1), Zn (Δzrc1), Cu (Δcup2), Cd (Δycf1), and Co (Δcot1). The results showed that the yeast mutants carrying either the pYES2 empty vector or the pYES2-GmMTP8.1 construct grew similarly in the control medium (Figure 7). However, the growth of the five yeast mutants transformed with the pYES2 empty vector was inhibited in the medium containing high or toxic metal levels (Figure 7). Furthermore, although the growth of the yeast mutants Δzrc1, Δcup2, Δycf1, and Δcot1, transformed with the pYES2-GmMTP8.1 construct, was suppressed in the corresponding metal treatments, GmMTP8.1 expression rescued the sensitivities to excess Mn in the Δpmr1 mutant (Figure 7), suggesting that GmMTP8.1 is a specific Mn transporter.\n酵母突变体在被转化为pYES2空载体后，在高浓度或有毒金属环境的培养基中表现出________。",
+        "answer": "抑制生长",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "A complementation assay of yeast mutants was further conducted to investigate the metal transport activity of GmMTP8.1, which was heterologously expressed in five yeast mutants that are defective in transport activity of various metals, namely, Mn (Δpmr1), Zn (Δzrc1), Cu (Δcup2), Cd (Δycf1), and Co (Δcot1). The results showed that the yeast mutants carrying either the pYES2 empty vector or the pYES2-GmMTP8.1 construct grew similarly in the control medium (Figure 7). However, the growth of the five yeast mutants transformed with the pYES2 empty vector was inhibited in the medium containing high or toxic metal levels (Figure 7). Furthermore, although the growth of the yeast mutants Δzrc1, Δcup2, Δycf1, and Δcot1, transformed with the pYES2-GmMTP8.1 construct, was suppressed in the corresponding metal treatments, GmMTP8.1 expression rescued the sensitivities to excess Mn in the Δpmr1 mutant (Figure 7), suggesting that GmMTP8.1 is a specific Mn transporter.\nGmMTP8.1的表达缓解了Δpmr1突变体对过量______的敏感性。",
+        "answer": "锰",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "A complementation assay of yeast mutants was further conducted to investigate the metal transport activity of GmMTP8.1, which was heterologously expressed in five yeast mutants that are defective in transport activity of various metals, namely, Mn (Δpmr1), Zn (Δzrc1), Cu (Δcup2), Cd (Δycf1), and Co (Δcot1). The results showed that the yeast mutants carrying either the pYES2 empty vector or the pYES2-GmMTP8.1 construct grew similarly in the control medium (Figure 7). However, the growth of the five yeast mutants transformed with the pYES2 empty vector was inhibited in the medium containing high or toxic metal levels (Figure 7). Furthermore, although the growth of the yeast mutants Δzrc1, Δcup2, Δycf1, and Δcot1, transformed with the pYES2-GmMTP8.1 construct, was suppressed in the corresponding metal treatments, GmMTP8.1 expression rescued the sensitivities to excess Mn in the Δpmr1 mutant (Figure 7), suggesting that GmMTP8.1 is a specific Mn transporter.\n实验结果显示，GmMTP8.1在特定的________运输中起作用。",
+        "answer": "锰",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Total RNA was isolated from developing soybean seeds and analyzed by Northern blots (Fig. 5). A probe specific to the β-subunit of β-conglycinin hybridized to two RNA transcripts of 2.1 and 1.6 kb (Fig. 5A). The 1.6 kb transcript, which codes for the β-subunit [5], was barely detectable in rj1 soybean and its accumulation was clearly enhanced in presence of nitrogen (lane 3). However, both the 2.1 and 1.6 kb RNA transcripts were much more abundant in Rj1 soybean than rjirji soybean grown either in the absence or presence of nitrogen.\n问题：在分析大豆种子的RNA时，采用了________技术来分离和研究总RNA。",
+        "answer": "Northern blot",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "Total RNA was isolated from developing soybean seeds and analyzed by Northern blots (Fig. 5). A probe specific to the β-subunit of β-conglycinin hybridized to two RNA transcripts of 2.1 and 1.6 kb (Fig. 5A). The 1.6 kb transcript, which codes for the β-subunit [5], was barely detectable in rj1 soybean and its accumulation was clearly enhanced in presence of nitrogen (lane 3). However, both the 2.1 and 1.6 kb RNA transcripts were much more abundant in Rj1 soybean than rjirji soybean grown either in the absence or presence of nitrogen.\n无论氮是否存在，Rj1大豆中的2.1和1.6 kb转录本的丰度均高于________大豆。",
+        "answer": "rjirji",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "An appropriate sowing period can improve yield and quality. Timely sowing ensures a high seedling survival rate, uniform and healthy emergence, good growth, and strong stems. The optimal sowing period for Shengdou 118 is from June 10th to 25th. It is recommended to use no-tillage precision seeding technology with straw mulching. The soil moisture should be suitable at the time of sowing, with a seeding depth of 3-5 cm. After sowing, sprinkler irrigation should be applied.\n问题：Shengdou 118 的理想播种时间范围是________到________。",
+        "answer": "June 10th，June 25th",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "An appropriate sowing period can improve yield and quality. Timely sowing ensures a high seedling survival rate, uniform and healthy emergence, good growth, and strong stems. The optimal sowing period for Shengdou 118 is from June 10th to 25th. It is recommended to use no-tillage precision seeding technology with straw mulching. The soil moisture should be suitable at the time of sowing, with a seeding depth of 3-5 cm. After sowing, sprinkler irrigation should be applied.\n播种 Shengdou 118 后应采用哪种灌溉方式？",
+        "answer": "喷灌",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "From the yield composition at maturity of different soybean varieties (Table 4), it can be seen that the conventional variety Jiyu 441 has a higher number of pods per plant, pod weight per plant, seed weight per plant, and 100-seed weight compared to the conventional variety Changnong 35. However, the number of seeds per plant in Jiyu 441 is significantly lower than that in Changnong 35, resulting in a final yield lower than that of Changnong 35. The high-yield variety Changnong 39 significantly outperforms the other two conventional varieties in terms of the number of pods per plant, pod weight per plant, number of seeds per plant, seed weight per plant, and 100-seed weight, with differences reaching a highly significant level. Considering all factors, its final yield is significantly higher than that of the other two conventional varieties\n问题：与长农35相比，尽管吉育441的每株豆荚数、豆荚重量、种子重量和百粒重更高，但其________显著更低。",
+        "answer": "每株的种子数",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "From the yield composition at maturity of different soybean varieties (Table 4), it can be seen that the conventional variety Jiyu 441 has a higher number of pods per plant, pod weight per plant, seed weight per plant, and 100-seed weight compared to the conventional variety Changnong 35. However, the number of seeds per plant in Jiyu 441 is significantly lower than that in Changnong 35, resulting in a final yield lower than that of Changnong 35. The high-yield variety Changnong 39 significantly outperforms the other two conventional varieties in terms of the number of pods per plant, pod weight per plant, number of seeds per plant, seed weight per plant, and 100-seed weight, with differences reaching a highly significant level. Considering all factors, its final yield is significantly higher than that of the other two conventional varieties\nChangnong 39 在豆荚数量、豆荚重量、种子数量、种子重量以及百粒重等方面均胜过________和________。",
+        "answer": "Jiyu 441，Changnong 35",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
+    },
+    {
+        "instruction": "这是一道关于农业的填空题，你作为一名农业的大学生，应当按以下规则作答：填空题通常需要根据题目要求填写空缺处的内容。\n注意，你的回答应当仅包括横线中应当填写的内容，不要包括任何其他内容。如果有多个横线，请用逗号分隔填写内容。\n例如：\n正确答案：答案1, 答案2\n请你严格按照这个格式回答，不要有额外输出。\n例如：\n问题：黄丰占的父本丰秀占的稻米质量达到了________标准。\n正确答案：国标优\n问题：",
+        "question": "From the yield composition at maturity of different soybean varieties (Table 4), it can be seen that the conventional variety Jiyu 441 has a higher number of pods per plant, pod weight per plant, seed weight per plant, and 100-seed weight compared to the conventional variety Changnong 35. However, the number of seeds per plant in Jiyu 441 is significantly lower than that in Changnong 35, resulting in a final yield lower than that of Changnong 35. The high-yield variety Changnong 39 significantly outperforms the other two conventional varieties in terms of the number of pods per plant, pod weight per plant, number of seeds per plant, seed weight per plant, and 100-seed weight, with differences reaching a highly significant level. Considering all factors, its final yield is significantly higher than that of the other two conventional varieties\n问题：Changnong 39 的最终产量显著高于其他两种常规品种，主要是由于其在多个方面的________。\n\n改写问题：Changnong 39 的最终产量明显超过其他两种常规品种，主要原因是其在多个方面的________。",
+        "answer": "显著差异",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_blank_fill"
     }
 ]

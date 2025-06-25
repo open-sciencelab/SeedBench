@@ -1478,5 +1478,1205 @@
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Antioxidant enzymes are very important in the process of salt tolerance of plants, and they are often used as indicators to evaluate plant salt tolerance. The analysis of enzyme activities showed that, after the treatment of histidine, the activities of SOD, POD and CAT in the root tissues were significantly increased by 21.92%, 12.84% and 59%, respectively (Figure 2A), which were significantly higher than those with the salt stress treatment. In addition, the content of MDA was significantly reduced after the histidine treatment.\n组氨酸处理对植物的抗盐胁迫作用是什么？\nA. 仅影响酶活性\nB. 减少MDA含量\nC. 增加MDA含量\nD. 不影响MDA含量",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Antioxidant enzymes are very important in the process of salt tolerance of plants, and they are often used as indicators to evaluate plant salt tolerance. The analysis of enzyme activities showed that, after the treatment of histidine, the activities of SOD, POD and CAT in the root tissues were significantly increased by 21.92%, 12.84% and 59%, respectively (Figure 2A), which were significantly higher than those with the salt stress treatment. In addition, the content of MDA was significantly reduced after the histidine treatment.\n组氨酸处理后，超氧化物歧化酶（SOD）的活性提升了多少百分比？\nA. 59%\nB. 30%\nC. 21.92%\nD. 12.84%",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "After 12 h of histidine treatment, all DEGs in T1 were downregulated, including Auxin early response genes (AUX/IAA), auxin response factor (ARF), small auxin upregulated RNA(SAUR), gretchen hagen3 (GH3), Abscisic acid receptor (PYL), Jasmonic acid inhibitor (JAZ). However, after 24 h of histidine treatment, some DEGs were up-regulated and some down-regulated. Thirteen up-regulated genes were involved GH3, cytokinin receptor (AHK2/3/4), DELLA, phytochrome interaction factors 4 (PIF4), ABA response element (ABRE), ABRE binding protein (AREB/ABF), and JAZ. Five down-regulated genes were involved GH3, SAUR, and TCH4.\n处理组氨酸12小时后，所有差异表达基因的表达变化情况如何？\nA. 所有基因均上调\nB. 所有基因均下调\nC. 没有基因表达变化\nD. 部分基因上调，部分基因下调",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "After 12 h of histidine treatment, all DEGs in T1 were downregulated, including Auxin early response genes (AUX/IAA), auxin response factor (ARF), small auxin upregulated RNA(SAUR), gretchen hagen3 (GH3), Abscisic acid receptor (PYL), Jasmonic acid inhibitor (JAZ). However, after 24 h of histidine treatment, some DEGs were up-regulated and some down-regulated. Thirteen up-regulated genes were involved GH3, cytokinin receptor (AHK2/3/4), DELLA, phytochrome interaction factors 4 (PIF4), ABA response element (ABRE), ABRE binding protein (AREB/ABF), and JAZ. Five down-regulated genes were involved GH3, SAUR, and TCH4.\n经过12小时的组氨酸处理后，以下哪个基因表现为下调？\nA. GH3\nB. AREB/ABF\nC. AHK2/3/4\nD. PIF4",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Subsequently, we endeavored to determine whether the crown root phenotype of ZmSPL12 OE lines was consistent with that of the primary roots. Therefore, a crown root compaction experiment was conducted, prolonging the maize growth period to three months, similar to the seedling compaction experiment. Photographic analysis revealed that the crown roots of the OE lines had a somewhat less robust appearance than those of wild-type plants, despite no significant differences in length. Conversely, the crown roots of the KO lines exhibited greater length compared to those of the wild-type.\nZmSPL12 KO线的冠根与野生型植物相比有哪些特征？\nA. 更长\nB. 更加纤细\nC. 无显著差异\nD. 更短",
+        "answer": "A",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For standard maize cultivation, a bulk density (BD) of 0.8 g cm?3 was considered to be normal density, and 1.2 g cm?3 was considered to be high density. Scanning and photographic analyses were performed to assess root phenotypes (Figure 2). Similar to those found in soil, the primary root length of the ZmSPL12 OE lines grown in test tubes with normal BD was shorter than those of wild-type plants. However, the root growth of wild-type plants was significantly suppressed under high BD compared to the OE lines, indicating that the ZmSPL12 OE lines have a higher penetration ability than the wild-type plants.\n标准玉米种植时，正常土壤密度的数值是多少？\nA. 1.0 g cm?3\nB. 1.2 g cm?3\nC. 0.6 g cm?3\nD. 0.8 g cm?3",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For standard maize cultivation, a bulk density (BD) of 0.8 g cm?3 was considered to be normal density, and 1.2 g cm?3 was considered to be high density. Scanning and photographic analyses were performed to assess root phenotypes (Figure 2). Similar to those found in soil, the primary root length of the ZmSPL12 OE lines grown in test tubes with normal BD was shorter than those of wild-type plants. However, the root growth of wild-type plants was significantly suppressed under high BD compared to the OE lines, indicating that the ZmSPL12 OE lines have a higher penetration ability than the wild-type plants.\n在高土壤密度环境中，哪类玉米植株的根系生长会受到明显抑制？\nA. 转基因植株\nB. 杂交植株\nC. ZmSPL12 OE系\nD. 野生型植株",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For standard maize cultivation, a bulk density (BD) of 0.8 g cm?3 was considered to be normal density, and 1.2 g cm?3 was considered to be high density. Scanning and photographic analyses were performed to assess root phenotypes (Figure 2). Similar to those found in soil, the primary root length of the ZmSPL12 OE lines grown in test tubes with normal BD was shorter than those of wild-type plants. However, the root growth of wild-type plants was significantly suppressed under high BD compared to the OE lines, indicating that the ZmSPL12 OE lines have a higher penetration ability than the wild-type plants.\n在研究中，采用了哪种技术来评估根系表型？\nA. 扫描和摄影分析\nB. 热成像分析\nC. 显微镜分析\nD. 化学分析",
+        "answer": "A",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The results revealed that soil compaction leads to significantly reduced root cap length in wild-type plants, whereas the ZmSPL12 OE lines exhibited only minimal change in this trait. Statistical analysis showed that the number of cell layers within the root cap remained comparable between the genotypes regardless of soil compaction, indicating that compaction might primarily inhibit root cap cell elongation. In particular, the ZmSPL12 OE lines displayed resilience to this compaction effect. Measurements of the root elongation zone showed that soil compaction drastically shortened cell length and broadened cell width in both genotypes. Nevertheless, in the ZmSPL12 OE lines, the cell length within the elongation zone was relatively unaffected, although there was a slight increase in cell width. These findings were in line with earlier studies, which reported that plants exposed to soil compaction displayed shorter roots and increased root diameters [12,33].\n土壤压实会如何影响野生型植物的根冠长度？\nA. 根冠长度不变\nB. 根冠长度显著增加\nC. 根冠长度减少\nD. 根冠长度增加",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The survival rate (SR) of plants harboring a single transgene ranged from 37 to 42%. Plants carrying both transgenes had SR values ranging from 62 to 66% (Figure 1A,B). By contrast, wild-type A188 maize plants exhibited a 23% survival rate. The combined overexpression of ZmVPP1 with ZmNAC111 could indeed increase maize seedling survival rate under drought stress over that of WT or plants expressing either gene alone (Figure 1C,D).\n在干旱条件下，野生型A188玉米的存活率是多少？\nA. 42%\nB. 23%\nC. 37%\nD. 66%",
+        "answer": "B",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The survival rate (SR) of plants harboring a single transgene ranged from 37 to 42%. Plants carrying both transgenes had SR values ranging from 62 to 66% (Figure 1A,B). By contrast, wild-type A188 maize plants exhibited a 23% survival rate. The combined overexpression of ZmVPP1 with ZmNAC111 could indeed increase maize seedling survival rate under drought stress over that of WT or plants expressing either gene alone (Figure 1C,D).\n在干旱条件下，哪种植物的存活率最高？\nA. 具有单一转基因的植物\nB. 未知类型植物\nC. 野生型A188玉米植物\nD. 具有两个转基因的植物",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To validate the functions of ZmMADS4 and ZmMADS67, we knocked them out individually using the CRISPR/Cas9 system (Fig. 6a–d). We isolated two homozygous ZmMADS4 knockout (KO) lines and two homozygous ZmMADS67 KO lines with frame-shift mutations (Figs 6b,d, S4a,b). Phenotypic analysis showed that both KO lines conferred increased leaf number below the primary ear, total leaf number, and time to anthesis relative to the wildtype (LH244; Fig. 6e–j), indicating functions of ZmMADS4 and ZmMADS67 in promoting floral transition.\nZmMADS4和ZmMADS67基因被敲除后，植株的叶片数量会发生什么变化？\nA. 叶片数量减少\nB. 叶片数量随机变化\nC. 叶片数量不变\nD. 叶片数量增加",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To validate the functions of ZmMADS4 and ZmMADS67, we knocked them out individually using the CRISPR/Cas9 system (Fig. 6a–d). We isolated two homozygous ZmMADS4 knockout (KO) lines and two homozygous ZmMADS67 KO lines with frame-shift mutations (Figs 6b,d, S4a,b). Phenotypic analysis showed that both KO lines conferred increased leaf number below the primary ear, total leaf number, and time to anthesis relative to the wildtype (LH244; Fig. 6e–j), indicating functions of ZmMADS4 and ZmMADS67 in promoting floral transition.\nZmMADS4和ZmMADS67基因敲除实验中，引入了哪种突变类型？\nA. 重复突变\nB. 框移突变\nC. 点突变\nD. 缺失突变",
+        "answer": "B",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Interestingly, although the absolute lipid contents were higher in smk10, the relative proportions of some lipid classes were significantly lower. The phospholipids including LPC and phosphatidylinositols (PI), glycolipids including monogalactosyl diacylglycerols (MGDG) and digalactosyl diacylglycerols (DGDG) etc., were markedly lower in the smk10 than in the wild-type (Fig.?4e). Over 16% of the individual lipids were markedly lower in the smk10, and 8.5% were markedly higher (Fig.?4f). As the endosperm cell size in smk10 was smaller than that of wild-type (Fig.?S7a,b), the increased absolute contents of lipids in smk10 might due to the large number of cells per unit weight of kernel. In fact, the total lipid content and most of individual lipids per kernel were significantly decreased in smk10 than that of the wild-type (Fig.?S18).\n在smk10中，哪种脂质的比例相对较小？\nA. 脂肪酸\nB. 胆固醇\nC. 磷脂类\nD. 甘油三酯",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Mn1 and ZmSWEET4c are essential for the development of fully differentiated transfer cells. To measure the abundance of?Mn1 protein, total proteins were isolated from immature wild-type and smk10 kernels at 4, 8 and 12 DAP and analysed by western blotting with anti-Mn1 mouse monoclonal antibody. Mn1 protein accumulation was significantly lower in smk10 than in the wild-type (Fig.?6e). To accurately determine the expression level of ZmSWEET4c in smk10 and the wild-type, we performed RNA in?situ hybridisation with 12 DAP kernels. Consistent with the RNA-seq results, ZmSWEET4c expression was again significantly lower in smk10 than in the wild-type (Fig.?6f–h). These results indicated that ZmCTLP1 influenced the expression of key kernel development genes.\n问题：在smk10种子中，ZmSWEET4c的表达水平与野生型种子相比有何变化？\n\n问题：iPad Air 2 的发布和上市日期分别是什么时候？\nA. 2014年10月16日发布，2014年10月22日上市\nB. 2014年10月22日发布，2014年10月16日上市\nC. 2015年10月16日发布，2015年10月22日上市\nD. 2014年9月16日发布，2014年9月22日上市\n正确答案：A\n\n改写问题：iPad Air 2 于何时发布和上市？\n\n问题：液晶相的形成条件是什么？\nA. 物质的压力和温度\nB. 物质的分子组合和流动性\nC. 物质的电磁场和光学性质\nD. 物质的结晶特性和光电特性\n正确答案：B\n\n改写问题：液晶相是如何形成的？\n\n问题：iPad Air 2 的处理器型号是________。\n正确答案：A8X\n\n改写问题：iPad Air 2 配备了______处理器？\n\n问题：ZmSWEET4c的表达水平在smk10种子中与野生型种子相比如何？\nA. 显著增加\nB. 轻微增加\nC. 显著降低\nD. 没有变化\n正确答案：C\n\n改写问题：在smk10种子中，ZmSWEET4c的表达水平与野生型种子相比有何变化？\nA. 显著增加\nB. 轻微增加\nC. 显著降低\nD. 没有变化",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Mn1 and ZmSWEET4c are essential for the development of fully differentiated transfer cells. To measure the abundance of?Mn1 protein, total proteins were isolated from immature wild-type and smk10 kernels at 4, 8 and 12 DAP and analysed by western blotting with anti-Mn1 mouse monoclonal antibody. Mn1 protein accumulation was significantly lower in smk10 than in the wild-type (Fig.?6e). To accurately determine the expression level of ZmSWEET4c in smk10 and the wild-type, we performed RNA in?situ hybridisation with 12 DAP kernels. Consistent with the RNA-seq results, ZmSWEET4c expression was again significantly lower in smk10 than in the wild-type (Fig.?6f–h). These results indicated that ZmCTLP1 influenced the expression of key kernel development genes.\nZmSWEET4c表达的分析方法有哪些？\nA. RNA原位杂交\nB. 定量PCR\nC. 北方印迹法\nD. RNA测序",
+        "answer": "A",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the IMAS panel and CML505/LaPostaSeqC7-F64-2-6-2-2 DH pop, yield under low N stress was reduced by 59% and 48%, respectively. In DH pop CML550/CML511, the mean yield under low N stress was 5.45 t ha?1; however, this was a reduction of 47% relative to optimal conditions. Low N stress significantly (p?<?0.01) reduced protein and oil content (except in DH pop CML505/LaPostaSeqC7-F64-2-6-2-2) but had no significant effect on starch content.\n在低氮（N）胁迫条件下，哪个玉米种群的蛋白质和油含量保持稳定，没有明显下降？\nA. IMAS panel\nB. CML505/LaPostaSeqC7-F64-2-6-2-2\nC. CML550/CML511\nD. 所有种群都显著减少",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the IMAS panel and CML505/LaPostaSeqC7-F64-2-6-2-2 DH pop, yield under low N stress was reduced by 59% and 48%, respectively. In DH pop CML550/CML511, the mean yield under low N stress was 5.45 t ha?1; however, this was a reduction of 47% relative to optimal conditions. Low N stress significantly (p?<?0.01) reduced protein and oil content (except in DH pop CML505/LaPostaSeqC7-F64-2-6-2-2) but had no significant effect on starch content.\n在低氮（N）胁迫条件下，CML550/CML511种群的平均产量是多少？\nA. 4.45 t ha?1\nB. 6.45 t ha?1\nC. 5.45 t ha?1\nD. 7.45 t ha?1",
+        "answer": "C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the IMAS panel and CML505/LaPostaSeqC7-F64-2-6-2-2 DH pop, yield under low N stress was reduced by 59% and 48%, respectively. In DH pop CML550/CML511, the mean yield under low N stress was 5.45 t ha?1; however, this was a reduction of 47% relative to optimal conditions. Low N stress significantly (p?<?0.01) reduced protein and oil content (except in DH pop CML505/LaPostaSeqC7-F64-2-6-2-2) but had no significant effect on starch content.\n在低氮（N）胁迫条件下，哪种营养成分在所有玉米种群中保持稳定？\nA. 淀粉含量\nB. 油含量\nC. 纤维含量\nD. 蛋白质含量",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Under optimum conditions, GRMZM2G159307 and GRMZM2G104325 were encoded as ATP binding proteins for grain yield and starch content, respectively. GRMZM2G10816 (yield), GRMZM2G070523 and GRMZM2G080516 (oil content) were associated with DNA biosynthesis under low N stress conditions. Under both optimal and low N circumstances, GRMZM2G033694 was annotated in the Histone-lysine N-methyltransferase family.\n在低氮胁迫条件下，与油含量相关的基因是哪一个？\nA. GRMZM2G104325\nB. GRMZM2G070523\nC. GRMZM2G033694\nD. GRMZM2G159307",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Under optimum conditions, GRMZM2G159307 and GRMZM2G104325 were encoded as ATP binding proteins for grain yield and starch content, respectively. GRMZM2G10816 (yield), GRMZM2G070523 and GRMZM2G080516 (oil content) were associated with DNA biosynthesis under low N stress conditions. Under both optimal and low N circumstances, GRMZM2G033694 was annotated in the Histone-lysine N-methyltransferase family.\nGRMZM2G033694基因在什么情况下被归类为组蛋白赖氨酸N-甲基转移酶家族成员？\nA. 不在任何条件下\nB. 在最佳和低氮条件下\nC. 仅在低氮条件下\nD. 仅在最佳条件下",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Under waterlogging condition, the mean phenotypic values for PH, RL, SDW, RDW, and ARN decreased significantly (P < 0.01) but increased significantly (P< 0.01) for brace root related traits (BRNN, BRN, BRDW), suggesting that the treatment effects were significant (P < 0.01). The two most phenotypic variations under waterlogging treatment were SR (58.88% decreased) and BRN (74.12% increased).\n水涝环境中，哪种特性变化最为显著？\nA. SR (Stem Reduction)减少58.88%\nB. SDW (Shoot Dry Weight)减少\nC. RDW (Root Dry Weight)减少\nD. BRN (Brace Root Number)增加74.12%",
+        "answer": "D",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In this study, we employed the FarmCPU model to detect the associations between the SNPs and the germination traits under chilling stress (Fig. S2). A total 15 significant (P < 2. 03 × 10?6) SNPs were identified for these investigated traits (Table 2 and Fig. 2). Among them, PZE-104042136 was associated with both RL and SL, and PZE-107018981 was identified to correlate with FG and TG. Intriguingly, PZE-108063385 was associated with all the five traits.\n该研究采用哪种模型来分析SNP与冷应激下发芽性状的关联性？\nA. LASSO模型\nB. Ridge回归模型\nC. GWAS模型\nD. FarmCPU模型",
+        "answer": "D",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In this study, we employed the FarmCPU model to detect the associations between the SNPs and the germination traits under chilling stress (Fig. S2). A total 15 significant (P < 2. 03 × 10?6) SNPs were identified for these investigated traits (Table 2 and Fig. 2). Among them, PZE-104042136 was associated with both RL and SL, and PZE-107018981 was identified to correlate with FG and TG. Intriguingly, PZE-108063385 was associated with all the five traits.\n哪个SNP与根长和芽长均有关系？\nA. SNP PZE-107018981\nB. SNP PZE-109045678\nC. SNP PZE-104042136\nD. SNP PZE-108063385",
+        "answer": "C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Furthermore, RSRS and SLS displayed a significantly negative correlation (r?=?? 0.50, P?<?0.001). In contrast, RSRS and RLS showed a significantly positive correlation (r?=?0.56, P?<?0.001) (Table S4). These findings indicated that the five traits probably exert a synergistic effect on maize seed germination. In addition, the phenotype frequency distributions of the three traits RLS, RSRS, and SLS followed normal distributions (Fig. S1), suggesting that they were genetically controlled by multiple genes.\nRLS、RSRS和SLS的表型频率呈现怎样的分布形式？\nA. 正态分布\nB. 指数分布\nC. 对数正态分布\nD. 随机分布",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Based on the three significant SNPs within Zm00001d017932, the 68 lines were classed into three major haplotypes. Among these, haplotype II (TAT) had the highest phenotypic values of SGT (0.97) and RLS (14.43 cm), whereas haplotype III (TCG) presented the lowest SGT (0.63) and RLS (9.16 cm) values (Fig. 3d, e). A t test showed that significant differences in SGT (P?<?0.05) and RLS (P?<?0.01) existed between haplotype II and haplotype III (Fig. 3d, e). Herein, the haplotype with a higher RLS or SGT was designated as a favorable haplotype, and thus, haplotype II (TAT) and haplotype III (TCG) were confirmed as the favorable and unfavorable haplotypes for Zm00001d017932, respectively.\n基因Zm00001d017932的主要单倍型数量是多少？\nA. 四个\nB. 三个\nC. 两个\nD. 五个",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The differential N response of PEP carboxylase compared to CER and initial Rubisco activity was more clearly revealed when data were expressed per unit of leaf N (Fig. 5). Between VT and R3 there was a much larger relative decrease in CER and initial Rubisco activity compared to PEP carboxylase activity. Additionally, whereas CER and initial Rubisco activity declined or stayed constant with increasing N availability, there was a pronounced increase in PEP carboxylase activity in response to N treatment.\n在哪个生长阶段可以看到CER和初始Rubisco活性相较于PEP羧化酶活性有明显的相对下降？\nA. VT至R3\nB. R4至R6\nC. V5至V7\nD. V1至V3",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The differential N response of PEP carboxylase compared to CER and initial Rubisco activity was more clearly revealed when data were expressed per unit of leaf N (Fig. 5). Between VT and R3 there was a much larger relative decrease in CER and initial Rubisco activity compared to PEP carboxylase activity. Additionally, whereas CER and initial Rubisco activity declined or stayed constant with increasing N availability, there was a pronounced increase in PEP carboxylase activity in response to N treatment.\n当氮含量增加时，CER和初始Rubisco活性会发生怎样的变化？\nA. 减少或保持不变\nB. 显著减少\nC. 显著增加\nD. 增加",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Moreover, the sequence motifs of a ω amino acid serine to which the GPI anchor is linked and the ω?+?2 amino acid glycine followed by a spacer of five amino acids containing a proline and a subsequent stretch of 12 hydrophobic amino acids meet all sequence requirements of a GPI-anchored protein. Furthermore, the RTH3 protein contains a central cysteine-rich domain between amino acids 419 and 462, which includes eight cysteine residues, although the CCVS domain that appears in Arabidopsis GPI-anchored COBRA-like proteins is only conserved as CCVT.\nGPI锚定蛋白的序列特征中，哪种氨基酸与GPI锚连接？\nA. 丝氨酸\nB. 半胱氨酸\nC. 甘氨酸\nD. 脯氨酸",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Moreover, the sequence motifs of a ω amino acid serine to which the GPI anchor is linked and the ω?+?2 amino acid glycine followed by a spacer of five amino acids containing a proline and a subsequent stretch of 12 hydrophobic amino acids meet all sequence requirements of a GPI-anchored protein. Furthermore, the RTH3 protein contains a central cysteine-rich domain between amino acids 419 and 462, which includes eight cysteine residues, although the CCVS domain that appears in Arabidopsis GPI-anchored COBRA-like proteins is only conserved as CCVT.\n在此上下文中，Arabidopsis GPI-anchored COBRA-like proteins的CCVS结构域以何种形式存在？\nA. CCVS\nB. CCVT\nC. CCVP\nD. CCVG",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The cysteine-rich region also contained a number of predicted N-glycosylation sites which are frequently associated with GPI-anchored proteins (Roudier et al., 2002). Moreover, only a weak similarity to a cellulose-binding domain II has been identified between amino acid residues 224 to 274 (E-value 0.009). Finally, like all members of the COBRA gene family, the RTH3 protein also contains a central phytochelatine synthase (PCS) domain. Phytochelatine synthetases are known to play a role in plant detoxification from heavy metals (Cobbett, 2000).\nRTH3蛋白的哪个片段与纤维素结合域II显示出较弱的相似性？\nA. 氨基酸残基224到274\nB. 氨基酸残基100到150\nC. 氨基酸残基300到350\nD. 氨基酸残基1到50",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The cysteine-rich region also contained a number of predicted N-glycosylation sites which are frequently associated with GPI-anchored proteins (Roudier et al., 2002). Moreover, only a weak similarity to a cellulose-binding domain II has been identified between amino acid residues 224 to 274 (E-value 0.009). Finally, like all members of the COBRA gene family, the RTH3 protein also contains a central phytochelatine synthase (PCS) domain. Phytochelatine synthetases are known to play a role in plant detoxification from heavy metals (Cobbett, 2000).\nRTH3蛋白的核心区域归属于哪个基因家族？\nA. MYB基因家族\nB. WRKY基因家族\nC. NAC基因家族\nD. COBRA基因家族",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The cysteine-rich region also contained a number of predicted N-glycosylation sites which are frequently associated with GPI-anchored proteins (Roudier et al., 2002). Moreover, only a weak similarity to a cellulose-binding domain II has been identified between amino acid residues 224 to 274 (E-value 0.009). Finally, like all members of the COBRA gene family, the RTH3 protein also contains a central phytochelatine synthase (PCS) domain. Phytochelatine synthetases are known to play a role in plant detoxification from heavy metals (Cobbett, 2000).\nRTH3蛋白中预测的N-糖基化位点通常在哪种蛋白中发现？\nA. GPI锚定蛋白\nB. 线粒体蛋白\nC. 核心蛋白\nD. 细胞膜蛋白",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We further referenced the 550 proteins unique to the highly purified intact PBs against the subcellular proteomes in the PPDB (Sun et al., 2009). One third of them produced no hits in the databases and more than half (56.7%) were present in at least two different organelles (Fig. 3C and Supplementary Table S4). These proteins are most likely localized in the maize endosperm PBs. Only 10% of them were identified in a single organelle proteome, most likely the contaminants mainly from the cytosol, chloroplasts, and mitochondria (inset in Fig. 3C). Besides zeins, the only two PB-associated proteins so far identified, O1 (GRMZM2G449909_P01, No. 1422) (Wang et al., 2012a) and FL1 (GRMZM2G094532_P01, No. 262) (Holding et al., 2007), were both present in the proteomes.\n研究表明，仅有10%的蛋白质被鉴定为仅存在于单一细胞器中，这些蛋白质可能源自何处？\nA. 高尔基体\nB. 细胞核\nC. 细胞质、叶绿体和线粒体\nD. 内质网",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Thus, it seems that other HnRNPs are responsible for zein mRNAs transport and localization. Another cytoskeletal-associated RBP, Tudor-SN, could bind both prolamine and glutelin RNA-RNP particles and separately transport them into the PB-ER and cisternal ER in rice endosperm cells (Wang et al., 2008). Downregulation of Tudor-SN resulted in decreased expression of prolamine genes at both transcriptional and translational levels, and thus a reduced number of prolamine PBs (Wang et al., 2008).\nTudor-SN在水稻胚乳细胞中将RNA-RNP颗粒运送至哪个位置？\nA. 高尔基体\nB. 细胞核\nC. 线粒体\nD. PB-ER和囊状ER",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The effects of salt stress upon the total thiamine pool and the distribution of thiamine compounds very closely matched those observed under water stress conditions (Fig. 5A). In addition, and similar to drought conditions, the activities of TPK and TPPH progressively increased by 80–90% (Fig. 5B). Once again, the smallest changes were observed for TMPS activity. Interestingly, a statistically significant enhancement of TK activity by c. 50% was found to be induced by salt stress, detectable for salt concentrations of 0.2 M and higher (Fig. 5B).\n盐胁迫下，哪种酶的活性变化最不显著？\nA. 硫胺素焦磷酸激酶（TPK）\nB. 硫胺素焦磷酸水解酶（TPPH）\nC. 转酮醇酶（TK）\nD. 硫胺素单磷酸合酶（TMPS）",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The effects of salt stress upon the total thiamine pool and the distribution of thiamine compounds very closely matched those observed under water stress conditions (Fig. 5A). In addition, and similar to drought conditions, the activities of TPK and TPPH progressively increased by 80–90% (Fig. 5B). Once again, the smallest changes were observed for TMPS activity. Interestingly, a statistically significant enhancement of TK activity by c. 50% was found to be induced by salt stress, detectable for salt concentrations of 0.2 M and higher (Fig. 5B).\n盐胁迫对转酮醇酶（TK）活性有何影响？\nA. 活性显著降低约80%\nB. 活性显著增强约50%\nC. 活性降低约50%\nD. 活性不变",
+        "answer": "B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "There were no statistically significant effects on the total phenolic content (Fig. 2C, D) in Fe3O4 NP-treated plants. Furthermore, there was no change in the antioxidant content (Fig. 2E, F), indicating no external stress induced by Fe3O4 NP exposure. Taken together, the phenotypic, physiological and biochemical results indicated that exposure to Fe3O4 NPs (50 mg/kg and 500 mg/kg) did not induce any stress responses in plants. Elanchezhian et al. (2017) also found that maize plants fertilized with the optimal recommended dose of Fe3O4 NPs (54 μM) registered diminution in antioxidant enzyme activities.\n问题：在浓度为50 mg/kg和500 mg/kg时，Fe3O4 NPs对植物产生了什么影响？\nA. 引起显著的生理压力\nB. 导致生长停滞\nC. 增强光合作用\nD. 没有压力反应",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "There were no statistically significant effects on the total phenolic content (Fig. 2C, D) in Fe3O4 NP-treated plants. Furthermore, there was no change in the antioxidant content (Fig. 2E, F), indicating no external stress induced by Fe3O4 NP exposure. Taken together, the phenotypic, physiological and biochemical results indicated that exposure to Fe3O4 NPs (50 mg/kg and 500 mg/kg) did not induce any stress responses in plants. Elanchezhian et al. (2017) also found that maize plants fertilized with the optimal recommended dose of Fe3O4 NPs (54 μM) registered diminution in antioxidant enzyme activities.\nFe3O4纳米颗粒对植物的生化特性产生怎样的影响？\nA. 减少生化活性\nB. 生化特性没有变化\nC. 增加生化活性\nD. 使生化特性波动",
+        "answer": "B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Typically, sugars are a source of carbon and energy (Koch, 2004). Moreover, some sugars such as glucose, fructose, and sucrose also act as signalling molecules in plant responses to biotic and abiotic stresses (Zaragoza et al., 2009). Upon Fe3O4 NP exposure, there were no significant changes in the total sugar in maize leaves, but the ratio of reducing sugar to non-reducing sugar changed (Fig. S3A). The presence of Fe3O4 NPs slightly increased the reducing sugar content and decreased the non-reducing sugar content. Interestingly, there were no effects on roots exposed directly to NPs (Fig. S3B).\nFe3O4纳米颗粒对直接暴露的玉米根部糖含量有什么作用？\nA. 增加\nB. 减少\nC. 完全消失\nD. 没有影响",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Non-targeted metabolomics analysis by GC/MS identified 304 metabolites (Table S1), and PCA results showed that PSNP exposure caused significant changes in the overall distribution of metabolites (Fig. 5A). Exposure to 100 nm PSNPs significantly upregulated 85 metabolites in plant roots, but did not significantly downregulate any metabolites. Exposure to 300 nm PSNPs significantly upregulated 73 metabolites, but did not significantly downregulate any metabolites. Exposure to 500 nm PSNPs significantly upregulated 84 metabolites and significantly downregulated 2 metabolites (Fig. 5B). The Venn diagram showed co-expression of 47 (38.2%) metabolites after exposure to PSNPs of different particle sizes (Fig. 5C). These metabolites included galactonic acid, malic acid, N-acetylaspartate, citric acid, hypoxanthine, and l-glutamine (Fig. 5D). Overall, PSNP exposure clearly affected plant root metabolism.\n不同PSNP粒径下共同表达的代谢物占总体的百分比是多少？\nA. 47.0%\nB. 25.0%\nC. 38.2%\nD. 50.0%",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Metabolite resonances were assigned on the basis of previous studies (Fan 1996; Tate et al. 2001) and publicly available databases (e.g., Spectral Database for Organic Compounds, Biological Magnetic Resonance Data Bank, and Madison Metabolomics Consortium Database). These assignments were further confirmed with extensive 2D NMR data from COSY and TOCSY spectra. The identified chemical shifts of the compounds were listed in Table S4. The maize metabolome was dominated by 39 polar metabolites and 15 non-polar metabolites or regions (Fig. 3 and Supplementary Table S4).\n玉米代谢组中含有多少种极性代谢物？\nA. 50种\nB. 15种\nC. 39种\nD. 20种",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The 1H NMR spectrum was divided into three main regions: aromatic hydrogens from 6.0 to 8.0 ppm; hydrogens attached to oxygen groups in carbon a (defined as sugar-like) from 4.2 to 3.0 ppm, and aliphatic hydrogens from 3.0 to 0.5 ppm (Fig. 1). HS had a poorly resolved aromatic proton region and an intense and broad region attributed to sugar-like and polyether components.\n在1H NMR光谱中，HS样品中的芳香氢区域呈现出怎样的特征？\nA. 强烈且尖锐\nB. 高分辨率\nC. 模糊且分辨率低\nD. 清晰且窄",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The suitable planting period is from April 25 to June 25. The planting density should be 4,500 to 5,000 plants per mu. In fields with high water and fertilizer conditions, the density can be appropriately increased, while in fields with low water and fertilizer conditions, the density should be appropriately reduced. When sowing, ensure sufficient moisture and plant the seeds at an appropriate depth to achieve full germination and strong, uniform seedlings. Thinning should be done during the 3-leaf stage, and final plant density should be determined at the 4-leaf stage.\n播种时应满足哪些条件以确保种子顺利发芽？\nA. 充足的阳光\nB. 适当的风速\nC. 适当的温度\nD. 充足的水分",
+        "answer": "D",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Under water stress and low nitrogen conditions, the plant height, ear position height, stem diameter, ear length, and ear diameter of each hybrid were reduced to varying degrees, with an average decrease of 3.3%, 3.7%, 6.3%, 20.9%, and 8.3% compared to the control. The tip cap length increased by an average of 36.2% compared to the control. The ear length in the WT treatment or NT treatment was reduced compared to the control, while the tip cap length increased by 27.4% and 37.9%, respectively, with the other traits being similar to the control. The impact of low nitrogen stress on corn growth and morphological traits is greater than that of water stress.\n在水分或低氮胁迫条件下，哪个生长参数相较于对照组减少得最多？\nA. 穗位高度\nB. 穗长\nC. 植株高度\nD. 穗粗",
+        "answer": "B",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Under water stress and low nitrogen conditions, the plant height, ear position height, stem diameter, ear length, and ear diameter of each hybrid were reduced to varying degrees, with an average decrease of 3.3%, 3.7%, 6.3%, 20.9%, and 8.3% compared to the control. The tip cap length increased by an average of 36.2% compared to the control. The ear length in the WT treatment or NT treatment was reduced compared to the control, while the tip cap length increased by 27.4% and 37.9%, respectively, with the other traits being similar to the control. The impact of low nitrogen stress on corn growth and morphological traits is greater than that of water stress.\n水分胁迫下，穗顶盖长度相较于对照组增加了多少百分比？\nA. 20.9%\nB. 36.2%\nC. 27.4%\nD. 37.9%",
+        "answer": "C",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We then performed a gene ontology (GO) analysis of this dataset (Figure S2; Table S4), which showed that clock-controlled genes (CCGs) were involved in diverse biological processes. These included, but were not limited to, immune response, hormone signalling, light signalling, metabolism and photosynthesis, which is in accordance to previous reports (Covington et al., 2008; Hsu and Harmer, 2012). Amplitude histogram analysis reveals that most transcripts oscillate with a relative amplitude below 3, while a minority of circadian transcripts oscillate at high amplitude. This latter set includes the core circadian clock genes (Figure S3), and is consistent to what is known in mammals and fruit flies (Hughes et al., 2009, 2012).\n振幅分析中，哪些转录本表现出高振幅的振荡？\nA. 所有转录本\nB. 无昼夜节律转录本\nC. 少数昼夜节律转录本\nD. 大多数转录本",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Auxin was indirectly shown to accumulate in the cells of the proembryo at early embryonic stages (Friml et al., 2003). In addition to the already mentioned auxin efflux carrier PIN1, we were also able to detect the auxin biosynthesis genes TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS1 (TAA1, AT1G70560) and YUCCA4 (YUC4, AT5G11320) as well as SHORT INTERNODES (SHI, AT5G66350) and MYB77 (AT3G50060) as being proembryo enriched, which are involved in auxin biosynthesis and signal transduction, respectively (Cheng et al., 2007; Shin et al., 2007; Stepanova et al., 2008; Baylis et al., 2013).\n在胚胎早期阶段，生长素积累在哪些细胞中？\nA. 花粉细胞\nB. 根细胞\nC. 叶片细胞\nD. 原胚细胞",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Auxin was indirectly shown to accumulate in the cells of the proembryo at early embryonic stages (Friml et al., 2003). In addition to the already mentioned auxin efflux carrier PIN1, we were also able to detect the auxin biosynthesis genes TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS1 (TAA1, AT1G70560) and YUCCA4 (YUC4, AT5G11320) as well as SHORT INTERNODES (SHI, AT5G66350) and MYB77 (AT3G50060) as being proembryo enriched, which are involved in auxin biosynthesis and signal transduction, respectively (Cheng et al., 2007; Shin et al., 2007; Stepanova et al., 2008; Baylis et al., 2013).\n问题：下列哪个基因是生长素外排载体？\nA. TAA1\nB. YUC4\nC. PIN1\nD. MYB77",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Auxin was indirectly shown to accumulate in the cells of the proembryo at early embryonic stages (Friml et al., 2003). In addition to the already mentioned auxin efflux carrier PIN1, we were also able to detect the auxin biosynthesis genes TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS1 (TAA1, AT1G70560) and YUCCA4 (YUC4, AT5G11320) as well as SHORT INTERNODES (SHI, AT5G66350) and MYB77 (AT3G50060) as being proembryo enriched, which are involved in auxin biosynthesis and signal transduction, respectively (Cheng et al., 2007; Shin et al., 2007; Stepanova et al., 2008; Baylis et al., 2013).\nTRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS1 (TAA1) 和 YUCCA4 (YUC4) 的主要作用是什么？\nA. 生长素降解\nB. 生长素信号转导\nC. 生长素运输\nD. 生长素合成",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The sr45–1 mutant exhibits a significantly narrower flower petal compared to the wild type [2, 3]. This phenotype was mostly recovered by SR45.1-GFP, but not SR45.2-GFP [3]. After fertilization, the sr45–1 mutant had a reduction in seed yield (an average of 45 vs. 59 seeds per silique, 76% of Col-0), and the mutant silique was visibly shorter. This defect in the sr45–1 mutant was significantly improved by SR45.1-GFP, to 90% of Col-0, but not SR45.2-GFP (83% of Col-0) (Fig. 1).\nsr45–1突变体的花瓣与野生型相比有哪些区别？\nA. 花瓣颜色不同\nB. 花瓣更窄\nC. 花瓣更宽\nD. 花瓣数量增加",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The sr45–1 mutant exhibits a significantly narrower flower petal compared to the wild type [2, 3]. This phenotype was mostly recovered by SR45.1-GFP, but not SR45.2-GFP [3]. After fertilization, the sr45–1 mutant had a reduction in seed yield (an average of 45 vs. 59 seeds per silique, 76% of Col-0), and the mutant silique was visibly shorter. This defect in the sr45–1 mutant was significantly improved by SR45.1-GFP, to 90% of Col-0, but not SR45.2-GFP (83% of Col-0) (Fig. 1).\n哪个GFP融合蛋白可以有效恢复sr45–1突变体的表型？\nA. SR45.2-GFP\nB. SR45.1-GFP\nC. SR45.4-GFP\nD. SR45.3-GFP",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The results showed that little TCP2 protein was detected in plants of either the WT background or cry1 background pre-treated in darkness, but the level increased in blue light and red light, especially in the WT background (>6-fold) within 2h of the blue light treatment. No appreciable change of TCP2 protein expression level was detected when the plants were transferred from darkness to far-red light. The TCP2 protein level increased faster in the WT background than that in the cry1 mutant background (Fig. 2A, C).\n在蓝光处理后，TCP2蛋白在WT背景中的表达如何变化？\nA. 没有变化\nB. 显著增加\nC. 显著减少\nD. 轻微增加",
+        "answer": "B",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The results showed that little TCP2 protein was detected in plants of either the WT background or cry1 background pre-treated in darkness, but the level increased in blue light and red light, especially in the WT background (>6-fold) within 2h of the blue light treatment. No appreciable change of TCP2 protein expression level was detected when the plants were transferred from darkness to far-red light. The TCP2 protein level increased faster in the WT background than that in the cry1 mutant background (Fig. 2A, C).\n在下面哪种光照环境中，TCP2蛋白的表达水平保持不变？\nA. 蓝光\nB. 红光\nC. 黑暗\nD. 远红光",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The results showed that little TCP2 protein was detected in plants of either the WT background or cry1 background pre-treated in darkness, but the level increased in blue light and red light, especially in the WT background (>6-fold) within 2h of the blue light treatment. No appreciable change of TCP2 protein expression level was detected when the plants were transferred from darkness to far-red light. The TCP2 protein level increased faster in the WT background than that in the cry1 mutant background (Fig. 2A, C).\n在WT背景中，TCP2蛋白的表达变化与cry1突变体背景相比是怎样的？\nA. 在WT背景下减少更快\nB. 在cry1背景下增加更快\nC. 在WT背景下增加更快\nD. 两者增加速度相同",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Unlike wild-type and the intermediate stm-2 allele [10], the strong stm-1 allele gives rise to an enlarged region between the cotyledons and the hypocotyl. This enlarged region corresponds to an area of fused cotyledon petioles and not the hypocotyl (as described above and in Fig. 1). This fused cotyledon phenotype is enhanced in the knat6-1 stm-2 seedlings, where the fusion of cotyledons is extended to the lamina [44]. We also observed the enhanced fusion of the cotyledon, lamina, and petioles in the stm-1 clv3-1 knat6-1 triple mutant seedlings (Fig. 1).\n哪个等位基因会引起子叶与下胚轴之间区域的扩展？\nA. 强stm-1等位基因\nB. 野生型等位基因\nC. 中间型stm-2等位基因\nD. knat6-1等位基因",
+        "answer": "A",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Unlike wild-type and the intermediate stm-2 allele [10], the strong stm-1 allele gives rise to an enlarged region between the cotyledons and the hypocotyl. This enlarged region corresponds to an area of fused cotyledon petioles and not the hypocotyl (as described above and in Fig. 1). This fused cotyledon phenotype is enhanced in the knat6-1 stm-2 seedlings, where the fusion of cotyledons is extended to the lamina [44]. We also observed the enhanced fusion of the cotyledon, lamina, and petioles in the stm-1 clv3-1 knat6-1 triple mutant seedlings (Fig. 1).\n在stm-1 clv3-1 knat6-1三重突变体幼苗中，观察到的融合现象涉及哪些部位？\nA. 仅根部\nB. 仅叶片\nC. 子叶、叶片和叶柄\nD. 仅子叶",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The results demonstrated that FaMYB63 is capable of binding to the AtSOS1-promoter fragment containing an MBS (Fig. 8A). A subsequent electrophoretic mobility shift assay was performed to gain a more comprehensive understanding of the interaction between FaMYB63 and the AtSOS1 gene promoter. As depicted in Fig. 8B, the FaMYB63-GST complex bound to the MBS element in the AtSOS1 promoter, leading to a mobility shift. This observation suggests that FaMYB63 binds to a DNA fragment containing the MBS element in the AtSOS1 promoter, thereby regulating its expression. When the AAACCA cis-element was replaced with GGGGGG, the binding was disrupted. These results indicated that FaMYB63 could bind to the AAACCA promoter of AtSOS1.\nFaMYB63可以结合哪个基因的启动子片段？\nA. AtSOS2\nB. AtSOS4\nC. AtSOS1\nD. AtSOS3",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The results demonstrated that FaMYB63 is capable of binding to the AtSOS1-promoter fragment containing an MBS (Fig. 8A). A subsequent electrophoretic mobility shift assay was performed to gain a more comprehensive understanding of the interaction between FaMYB63 and the AtSOS1 gene promoter. As depicted in Fig. 8B, the FaMYB63-GST complex bound to the MBS element in the AtSOS1 promoter, leading to a mobility shift. This observation suggests that FaMYB63 binds to a DNA fragment containing the MBS element in the AtSOS1 promoter, thereby regulating its expression. When the AAACCA cis-element was replaced with GGGGGG, the binding was disrupted. These results indicated that FaMYB63 could bind to the AAACCA promoter of AtSOS1.\n探讨FaMYB63与AtSOS1基因启动子相互作用的实验技术是什么？\nA. Western blotting\nB. RNA sequencing\nC. Electrophoretic mobility shift assay\nD. Chromatin immunoprecipitation",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The results demonstrated that FaMYB63 is capable of binding to the AtSOS1-promoter fragment containing an MBS (Fig. 8A). A subsequent electrophoretic mobility shift assay was performed to gain a more comprehensive understanding of the interaction between FaMYB63 and the AtSOS1 gene promoter. As depicted in Fig. 8B, the FaMYB63-GST complex bound to the MBS element in the AtSOS1 promoter, leading to a mobility shift. This observation suggests that FaMYB63 binds to a DNA fragment containing the MBS element in the AtSOS1 promoter, thereby regulating its expression. When the AAACCA cis-element was replaced with GGGGGG, the binding was disrupted. These results indicated that FaMYB63 could bind to the AAACCA promoter of AtSOS1.\nFaMYB63-GST复合物与AtSOS1启动子的哪个元素结合会引起迁移率的变化？\nA. CAAT box\nB. TATA box\nC. MBS element\nD. Enhancer",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The results demonstrated that FaMYB63 is capable of binding to the AtSOS1-promoter fragment containing an MBS (Fig. 8A). A subsequent electrophoretic mobility shift assay was performed to gain a more comprehensive understanding of the interaction between FaMYB63 and the AtSOS1 gene promoter. As depicted in Fig. 8B, the FaMYB63-GST complex bound to the MBS element in the AtSOS1 promoter, leading to a mobility shift. This observation suggests that FaMYB63 binds to a DNA fragment containing the MBS element in the AtSOS1 promoter, thereby regulating its expression. When the AAACCA cis-element was replaced with GGGGGG, the binding was disrupted. These results indicated that FaMYB63 could bind to the AAACCA promoter of AtSOS1.\nFaMYB63通过结合哪个DNA序列来调节AtSOS1基因的表达？\nA. 含有GGGGGG的片段\nB. 含有CAAT box的片段\nC. 含有MBS元素的片段\nD. 含有TATA box的片段",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Further, the robustness and performance of the model were evaluated using cross-validation and permutation tests (Supplementary Figure S4). For the cross-validation test, in all cases, R2Y was above 90%, and the Q2 of the “p” component was higher than 70%. The permutation test showed that p-value was less than 0.05. These results indicated that the discrimination of the two groups is significant and reliable. Therefore, there was a significant reprogramming of the metabolome in both leaves and roots following the application of SWE.\n交叉验证的结果表明，R2Y在所有情况下均超过了多少百分比？\nA. 70%\nB. 90%\nC. 95%\nD. 80%",
+        "answer": "B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Further, the robustness and performance of the model were evaluated using cross-validation and permutation tests (Supplementary Figure S4). For the cross-validation test, in all cases, R2Y was above 90%, and the Q2 of the “p” component was higher than 70%. The permutation test showed that p-value was less than 0.05. These results indicated that the discrimination of the two groups is significant and reliable. Therefore, there was a significant reprogramming of the metabolome in both leaves and roots following the application of SWE.\n问题：根据研究结果，SWE的使用引发了哪些显著变化？\nA. 生长速度的增加\nB. 叶片和根部的形态变化\nC. 细胞结构的改变\nD. 代谢组的显著重编程",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Plants grown at 6 °C showed a strong (absolute Cohen's d > 1) increase of proline, myo-inositol, glutamic acid, raffinose, aspartic acid, galactinol, citric acid, glutamine, malic acid, sucrose, and alanine (in descending order of |Cohen's d|), whereas under the 16 °C growth condition, threonine, threitol, glycine, spermidine, succinic acid, serine, pyruvic acid, isoleucine, lysine, ornithine, and 4-amino-butanoic acid accumulated relative to the respective alternative, lower growth temperature condition.\n16°C条件下，相较于6°C条件下，哪种代谢物有积累？\nA. Proline\nB. Aspartic acid\nC. Threonine\nD. Myo-inositol",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Plants grown at 6 °C showed a strong (absolute Cohen's d > 1) increase of proline, myo-inositol, glutamic acid, raffinose, aspartic acid, galactinol, citric acid, glutamine, malic acid, sucrose, and alanine (in descending order of |Cohen's d|), whereas under the 16 °C growth condition, threonine, threitol, glycine, spermidine, succinic acid, serine, pyruvic acid, isoleucine, lysine, ornithine, and 4-amino-butanoic acid accumulated relative to the respective alternative, lower growth temperature condition.\n在6°C的环境中，哪种代谢物没有明显积累？\nA. Malic acid\nB. Citric acid\nC. Glutamine\nD. Threonine",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In our attempt to identify metabolites that carry stress memory, we wondered whether acclimation to various abiotic stress treatments could alter common metabolic pathways. Therefore, multiple comparisons among significantly altered metabolites (SAMs) were performed to investigate commonalities in responses to treatments. As shown in Supplemental Figure 3, approximately 45% of the humidity SAMs were condition specific, whereas the specific percentages of SAMs under HL, drought, heat-drought, heat-drought-HL, cold, and cold-HL were less than 20%, and those under heat and heat-HL were less than 7%.\n在湿度环境中，SAMs中有多少是具有条件特异性的？\nA. 70%\nB. 45%\nC. 20%\nD. 10%",
+        "answer": "B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In our attempt to identify metabolites that carry stress memory, we wondered whether acclimation to various abiotic stress treatments could alter common metabolic pathways. Therefore, multiple comparisons among significantly altered metabolites (SAMs) were performed to investigate commonalities in responses to treatments. As shown in Supplemental Figure 3, approximately 45% of the humidity SAMs were condition specific, whereas the specific percentages of SAMs under HL, drought, heat-drought, heat-drought-HL, cold, and cold-HL were less than 20%, and those under heat and heat-HL were less than 7%.\n在潮湿环境中，SAMs中有多少是特定条件下的？\nA. 70%\nB. 45%\nC. 20%\nD. 10%",
+        "answer": "B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Dynamic changes in carbohydrate contents were assessed in wild-type and mutant plants within the first 8h, and 38h after LL/HL transfer (Fig. 2). Starch contents linearly increased with time only in wild-type and tpt-2 mutant plants and approached levels of ~100 μmol g–1 fresh weight (FW) at the end of day 2 (i.e. after 38h; Fig. 2A). The soluble sugars sucrose (Suc), glucose (Glc), and fructose (Fru) dramatically increased in adg1-1 within the first 8h and 38h after LL/HL transfer, but showed only a transient increase in wild-type, tpt-2, and adg1-1/tpt-2 plants (Fig. 2B–D).\nLL/HL转移后，野生型、tpt-2和adg1-1/tpt-2植物的可溶性糖含量发生了怎样的变化？\nA. 稳定不变\nB. 显著增加\nC. 短暂增加\nD. 持续减少",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The pH optimum for the d-CDes reaction was determined to pH?8.0, in contrast to l-CDes activity with an optimum of pH 9.0 [20]. The purified d-CDes proteins were as heat labile as other proteins as demonstrated by incubation experiments in 100?mm Tris/HCl pH?8.0, for 15?min at elevated temperature and subsequent enzyme activity analysis. They lost activity at 50?°C and no activity was left at 60°C.\nl-CDes反应的最佳pH值是哪个？\nA. pH 7.0\nB. pH 10.0\nC. pH 9.0\nD. pH 8.0",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The pH optimum for the d-CDes reaction was determined to pH?8.0, in contrast to l-CDes activity with an optimum of pH 9.0 [20]. The purified d-CDes proteins were as heat labile as other proteins as demonstrated by incubation experiments in 100?mm Tris/HCl pH?8.0, for 15?min at elevated temperature and subsequent enzyme activity analysis. They lost activity at 50?°C and no activity was left at 60°C.\nd-CDes反应在实验条件下应使用哪种缓冲液进行？\nA. Tris/HCl缓冲液\nB. 磷酸盐缓冲液\nC. 醋酸缓冲液\nD. 碳酸氢钠缓冲液",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In previous experiments it was demonstrated that the E.?colid-CDes protein catalysed the β-replacement reaction of O-acetyl-d-serine with sulfide to form d-cysteine [10]. Therefore it was tested whether the Arabidopsisd-CDes protein exhibits O-acetyl-d-serine(thiol)lyase or O-acetyl-l-serine(thiol)lyase activity, this was not the case. β-chloro-d-alanine and β-chloro-l-alanine were used in the O-acetyl-l-serine(thiol)lyase (OAS-TL) assay instead of O-acetyl-l/d-serine and the formation of cysteine was determined; the d-CDes protein did not reveal any activity in this assay. The protein was also tested for β-cyanoalanine synthase activity by using d-cysteine and cyanide as substrates; the d-CDes protein did not show any β-cyanoalanine synthase activity.\n在实验中，E. coli的d-CDes蛋白催化了哪种化学反应？\nA. O-acetyl-d-serine与硫化物的β-替代反应\nB. β-chloro-l-alanine与硫化物的反应\nC. O-acetyl-d-serine与氰化物的反应\nD. O-acetyl-l-serine与硫化物的反应",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In previous experiments it was demonstrated that the E.?colid-CDes protein catalysed the β-replacement reaction of O-acetyl-d-serine with sulfide to form d-cysteine [10]. Therefore it was tested whether the Arabidopsisd-CDes protein exhibits O-acetyl-d-serine(thiol)lyase or O-acetyl-l-serine(thiol)lyase activity, this was not the case. β-chloro-d-alanine and β-chloro-l-alanine were used in the O-acetyl-l-serine(thiol)lyase (OAS-TL) assay instead of O-acetyl-l/d-serine and the formation of cysteine was determined; the d-CDes protein did not reveal any activity in this assay. The protein was also tested for β-cyanoalanine synthase activity by using d-cysteine and cyanide as substrates; the d-CDes protein did not show any β-cyanoalanine synthase activity.\nArabidopsis的d-CDes蛋白在实验中显示了哪些活性？\nA. O-acetyl-l-serine(thiol)lyase活性\nB. 两种活性都没有表现\nC. β-cyanoalanine合成酶活性\nD. O-acetyl-d-serine(thiol)lyase活性",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In previous experiments it was demonstrated that the E.?colid-CDes protein catalysed the β-replacement reaction of O-acetyl-d-serine with sulfide to form d-cysteine [10]. Therefore it was tested whether the Arabidopsisd-CDes protein exhibits O-acetyl-d-serine(thiol)lyase or O-acetyl-l-serine(thiol)lyase activity, this was not the case. β-chloro-d-alanine and β-chloro-l-alanine were used in the O-acetyl-l-serine(thiol)lyase (OAS-TL) assay instead of O-acetyl-l/d-serine and the formation of cysteine was determined; the d-CDes protein did not reveal any activity in this assay. The protein was also tested for β-cyanoalanine synthase activity by using d-cysteine and cyanide as substrates; the d-CDes protein did not show any β-cyanoalanine synthase activity.\nO-acetyl-l-serine(thiol)lyase (OAS-TL)测试中采用了哪些替代物质？\nA. β-chloro-d-alanine和β-chloro-l-alanine\nB. d-cysteine和氰化物\nC. O-acetyl-l-serine和氰化物\nD. O-acetyl-d-serine和硫化物",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In previous experiments it was demonstrated that the E.?colid-CDes protein catalysed the β-replacement reaction of O-acetyl-d-serine with sulfide to form d-cysteine [10]. Therefore it was tested whether the Arabidopsisd-CDes protein exhibits O-acetyl-d-serine(thiol)lyase or O-acetyl-l-serine(thiol)lyase activity, this was not the case. β-chloro-d-alanine and β-chloro-l-alanine were used in the O-acetyl-l-serine(thiol)lyase (OAS-TL) assay instead of O-acetyl-l/d-serine and the formation of cysteine was determined; the d-CDes protein did not reveal any activity in this assay. The protein was also tested for β-cyanoalanine synthase activity by using d-cysteine and cyanide as substrates; the d-CDes protein did not show any β-cyanoalanine synthase activity.\n在β-cyanoalanine合成酶活性测试中，d-CDes蛋白使用了哪些底物？\nA. β-chloro-l-alanine和硫化物\nB. d-cysteine和氰化物\nC. O-acetyl-d-serine和硫化物\nD. O-acetyl-l-serine和硫化物",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In previous experiments it was demonstrated that the E.?colid-CDes protein catalysed the β-replacement reaction of O-acetyl-d-serine with sulfide to form d-cysteine [10]. Therefore it was tested whether the Arabidopsisd-CDes protein exhibits O-acetyl-d-serine(thiol)lyase or O-acetyl-l-serine(thiol)lyase activity, this was not the case. β-chloro-d-alanine and β-chloro-l-alanine were used in the O-acetyl-l-serine(thiol)lyase (OAS-TL) assay instead of O-acetyl-l/d-serine and the formation of cysteine was determined; the d-CDes protein did not reveal any activity in this assay. The protein was also tested for β-cyanoalanine synthase activity by using d-cysteine and cyanide as substrates; the d-CDes protein did not show any β-cyanoalanine synthase activity.\n在实验过程中，d-CDes蛋白显示出怎样的活性？\nA. 高度活性\nB. 低活性\nC. 无活性\nD. 中等活性",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Another potential confounding factor is protein length, as it correlates positively with ω (i.e., genes encoding shorter proteins tend to be more selectively constrained; Subramanian and Kumar 2004; Ingvarsson 2007; table 1) and negatively with closeness (i.e., genes acting at the center of the network tend to encode shorter proteins, in agreement with previous observations in Drosophila; Lemos et al. 2005; table 1). However, the correlation between ω and both betweenness (ρ = ?0.052, P = 0.001) and closeness (ρ = ?0.032, P = 0.048) remains significant when protein lengths are controlled for (supplementary table S1, Supplementary Material online), indicating that the tendency for central genes to evolve under strong levels of selective constraint is also independent of protein length.\n结论表明中心基因在强选择性约束下的进化趋势与哪些因素无关？\nA. 基因表达水平\nB. 基因组大小\nC. 网络密度\nD. 蛋白质长度",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "These differences remain significant when self-interactions and interactions among proteins encoded by paralogs are removed from the analysis (P = 0.049), or when genes are classified as duplicated or singleton based on whether they present annotated paralogs in the Ensembl plants database release 14 (Kersey et al. 2012) (P = 1.62 × 10?4). Furthermore, degree positively correlates with the number of paralogs annotated in Ensembl plants (ρ = 0.089, P = 1.02 × 10?11), even when only duplicated genes are considered (ρ = 0.086, P = 5.85 × 10?9).\n在遗传学研究中，去除自我相互作用及旁系同源基因编码的蛋白质间的相互作用后，差异仍然显著，其P值是多少？\nA. 0.01\nB. 0.049\nC. 0.05\nD. 0.1",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A comparison of 2D 15N–1H HSQC spectra of the truncated At1g16640 constructs revealed significant differences (Fig. 1C). We evaluated the spectra based on the number of signals, chemical shift dispersion, and the uniformity of the peak intensities and linewidths. One sample, the 1–92 construct, precipitated heavily, precluding NMR analysis. The At1g16640 1–102 construct produced the best HSQC spectrum, with good peak dispersion and uniform peak intensity. Spectral features in the HSQC of the full-length protein (Fig. 1A) consistent with the presence of disordered residues and aggregation were eliminated.\n在对截短的At1g16640构建体进行2D 15N–1H HSQC光谱比较时，哪个构建体的HSQC光谱表现最佳？\nA. 1–110构建体\nB. 1–92构建体\nC. 1–102构建体\nD. 1–120构建体",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "There is a weak correlation between AOP2 expression and flowering (Fig. S1B), but it seems unlikely that this relationship reflects causality, when functional allelic variation does not. In conclusion, although it has been demonstrated that AOP2 can affect flowering time (Kerwin et al. 2011; Jensen et al. 2015), the considerable functional AOP2 variation observed in the Swedish population is not significantly correlated with flowering time, suggesting that the highly significant association between chr4:1355057 and flowering time arises for other reasons.\nAOP2表达与植物开花时间的关系是否体现了因果性？\n\n问题：以下哪种条件有助于液晶相的形成？\nA. 物质的压力和温度\nB. 物质的分子结构和流动性\nC. 物质的电磁场和光学特性\nD. 物质的结晶特性和光电特性\n正确答案：B\n\n改写问题：哪些因素促进液晶相的生成？\n\n问题：iPad Air 2 的处理器型号是________。\n正确答案：A8X\n\n改写问题：iPad Air 2 使用了哪种型号的处理器？\n\n问题：AOP2表达与开花时间之间的关系是否反映了因果关系？\nA. 否，与因果关系无关\nB. 是，完全反映因果关系\nC. 是，部分反映因果关系\nD. 否，因缺乏功能性等位基因变异而不太可能反映因果关系\n正确答案：D\n\n改写问题：AOP2的表达与开花时间的关联是否揭示了因果关系？\nA. 否，与因果关系无关\nB. 是，完全反映因果关系\nC. 是，部分反映因果关系\nD. 否，因缺乏功能性等位基因变异而不太可能反映因果关系",
+        "answer": "D",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "There is a weak correlation between AOP2 expression and flowering (Fig. S1B), but it seems unlikely that this relationship reflects causality, when functional allelic variation does not. In conclusion, although it has been demonstrated that AOP2 can affect flowering time (Kerwin et al. 2011; Jensen et al. 2015), the considerable functional AOP2 variation observed in the Swedish population is not significantly correlated with flowering time, suggesting that the highly significant association between chr4:1355057 and flowering time arises for other reasons.\nchr4:1355057与开花时间的显著关联可能由哪些因素导致？\nA. AOP2变异\nB. 其他因素而非AOP2变异\nC. 环境因素\nD. 基因突变",
+        "answer": "B",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A weak significant correlation was found between the latitude and the accumulation of anthocyanins under control (ρ = 0.15, p = 0.006) and stress (ρ = 0.13, p = 0.023) conditions. This suggests a trend of northern accessions accumulating more anthocyanin than southern accessions (Fig 1B). However, as can be expected from the weak clines, accessions with different accumulation phenotypes often occur in close range of each other. In the United Kingdom, for example, accessions of the whole range of accumulation under both control and stress conditions occur, indicating that macro climate is not the most important factor determining selection of constitutive and stress-induced anthocyanin accumulation.\n在压力条件下，纬度与花青素积累的相关性系数是多少？\nA. ρ = 0.13\nB. ρ = 0.10\nC. ρ = 0.18\nD. ρ = 0.23",
+        "answer": "A",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In order to detect causal loci for the variation in anthocyanin accumulation, GWA mapping was applied. This resulted in the detection of a highly significant association of 12 SNPs with the accumulation of anthocyanins induced by PEG (Fig 4B and S2 Table). This locus spans a region of 15 kb on chromosome 1 (Fig 4C). Three genes are located in this region, viz., a calmodulin-like gene (AT1G66400) and two transcription factors of the MYB-family, MYB114 (AT1G66380) and MYB90 (PAP2, AT1G66390). Both transcription factors have been annotated to play a role in anthocyanin accumulation [16]\n花青素积累的相关位点在哪条染色体上？\nA. 染色体2\nB. 染色体3\nC. 染色体4\nD. 染色体1",
+        "answer": "D",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the interaction with the non-pathogenic isolate, metabolic process and defense-related functions accounted for 28.1 and 37 % of the modulated genes at 72 hpi, falling to 24.6 and 19.4 % at 96 hpi, respectively (Fig. 3a and c). An opposite trend was observed in response to the pathogenic isolate and the two functional classes accounted for about 19–21 % at 72 hpi, increasing to 31–32 % in the later stage of inoculation (Fig. 3b and d).\n在与非致病性分离株相互作用的72小时后，代谢过程相关基因在调节基因中所占的百分比是多少？\nA. 31-32%\nB. 28.1%\nC. 24.6%\nD. 19-21%",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the interaction with the non-pathogenic isolate, metabolic process and defense-related functions accounted for 28.1 and 37 % of the modulated genes at 72 hpi, falling to 24.6 and 19.4 % at 96 hpi, respectively (Fig. 3a and c). An opposite trend was observed in response to the pathogenic isolate and the two functional classes accounted for about 19–21 % at 72 hpi, increasing to 31–32 % in the later stage of inoculation (Fig. 3b and d).\n在与致病性分离株相互作用的后期接种阶段，代谢过程和防御相关功能基因占调节基因的百分比范围是多少？\nA. 28.1%和37%\nB. 19-21%\nC. 24.6%和19.4%\nD. 31-32%",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the interaction with the non-pathogenic isolate, metabolic process and defense-related functions accounted for 28.1 and 37 % of the modulated genes at 72 hpi, falling to 24.6 and 19.4 % at 96 hpi, respectively (Fig. 3a and c). An opposite trend was observed in response to the pathogenic isolate and the two functional classes accounted for about 19–21 % at 72 hpi, increasing to 31–32 % in the later stage of inoculation (Fig. 3b and d).\n非致病性分离株相互作用后96小时，代谢过程相关基因在调节基因中的百分比是多少？\nA. 24.6%\nB. 31-32%\nC. 28.1%\nD. 19-21%",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "There are multiple tryptophan-dependent IAA biosynthesis pathways in plants. The tryptophan aminotransferases?TAR1?and?TAR2?convert trp to indole-3-pyruvate (IPA), which is converted to indole acetic acid (IAA) by the YUCCA flavin monooxygenase. Further,?superroot2?(SUR2) encodes the cytochrome P450 monooxygenase CYP83B1, involved in glucosinolate biosynthesis and auxin homeostasis. We found two PBZ-up?SUR2?at 12 HAI and one PBZ-down?TAR2?at 24 HAI, indicating that GA promotes IAA production at these time points.\n植物中，哪种氨基酸是IAA（吲哚乙酸）合成的前体？\nA. 色氨酸\nB. 苯丙氨酸\nC. 组氨酸\nD. 赖氨酸",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "There are multiple tryptophan-dependent IAA biosynthesis pathways in plants. The tryptophan aminotransferases?TAR1?and?TAR2?convert trp to indole-3-pyruvate (IPA), which is converted to indole acetic acid (IAA) by the YUCCA flavin monooxygenase. Further,?superroot2?(SUR2) encodes the cytochrome P450 monooxygenase CYP83B1, involved in glucosinolate biosynthesis and auxin homeostasis. We found two PBZ-up?SUR2?at 12 HAI and one PBZ-down?TAR2?at 24 HAI, indicating that GA promotes IAA production at these time points.\nSUR2基因编码的酶在植物中参与了哪种物质的合成？\nA. 碳水化合物合成\nB. 葡萄糖苷合成\nC. 蛋白质合成\nD. 脂肪酸合成",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Interestingly, there were six TFs belonging to four different families specifically expressed in the black, endosperm-specific module, including ETHYLENE RESPONSE FACTOR 1 (ERF1, Glyma.13G122700), CYTOKININ RESPONSE FACTOR 4 (Glyma.14G123900), MADS-box transcription factor family protein (Glyma.05G140000 and Glyma.18G053400) and TELOMERASE ACTIVATOR 1 (TAC1, Glyma.10G184500 and Glyma.20G206000).\n以下哪种转录因子归属于ETHYLENE RESPONSE FACTOR家族？\nA. MADS-box transcription factor family proteins\nB. CYTOKININ RESPONSE FACTOR 4\nC. ETHYLENE RESPONSE FACTOR 1\nD. TELOMERASE ACTIVATOR 1",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Interestingly, there were six TFs belonging to four different families specifically expressed in the black, endosperm-specific module, including ETHYLENE RESPONSE FACTOR 1 (ERF1, Glyma.13G122700), CYTOKININ RESPONSE FACTOR 4 (Glyma.14G123900), MADS-box transcription factor family protein (Glyma.05G140000 and Glyma.18G053400) and TELOMERASE ACTIVATOR 1 (TAC1, Glyma.10G184500 and Glyma.20G206000).\nTELOMERASE ACTIVATOR 1的基因ID是哪一个？\nA. Glyma.20G206000\nB. Glyma.18G053400\nC. Glyma.14G123900\nD. Glyma.13G122700",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A total of nine out of ten families were significantly enriched amongst the DEGs specific to one seed tissue (Figure 6A; P < 0.005; embryo proper- YABBY, TALE; endosperm- M-type_MADS, MIKC_MADS, B3, BBR-BPC; epidermis- EIL; hilum- MYB; suspensor- NAC). The ERF TF family was the only enriched family shared between tissues (endothelium and epidermis).\n在研究中，哪个转录因子家族在胚胎本体中表现出特异性富集？\nA. M-type_MADS\nB. NAC\nC. YABBY\nD. MYB",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A total of nine out of ten families were significantly enriched amongst the DEGs specific to one seed tissue (Figure 6A; P < 0.005; embryo proper- YABBY, TALE; endosperm- M-type_MADS, MIKC_MADS, B3, BBR-BPC; epidermis- EIL; hilum- MYB; suspensor- NAC). The ERF TF family was the only enriched family shared between tissues (endothelium and epidermis).\n问题：在种子结构中，ERF转录因子家族在哪两个组织中共同富集？\nA. 胚乳和表皮\nB. 表皮和内皮\nC. 内皮和胚乳\nD. 胚胎本体和胚乳",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "A total of nine out of ten families were significantly enriched amongst the DEGs specific to one seed tissue (Figure 6A; P < 0.005; embryo proper- YABBY, TALE; endosperm- M-type_MADS, MIKC_MADS, B3, BBR-BPC; epidermis- EIL; hilum- MYB; suspensor- NAC). The ERF TF family was the only enriched family shared between tissues (endothelium and epidermis).\n在研究中，MYB转录因子家族在哪种种子组织中表现出特异性富集？\nA. 胚乳\nB. 种脐（hilum）\nC. 胚胎本体\nD. 表皮",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Leaf total nonstructural carbohydrate (TNC) content was also significantly decreased in the elevated temperature (Fig. 1i, p-value <0.10) and drought (Fig. 1g, p-value <0.10) treatments, but not in elevated [O3] (Fig. 1h, p-value >0.10). Average leaf TNC values for elevated temperature and drought were 1131.9 and 2166.0 μmol g DW?1, respectively, representing a 23.1 and 21.2% decrease from control conditions.\n当温度升高时，叶片中的总非结构性碳水化合物（TNC）含量会发生怎样的变化？\nA. 显著减少\nB. 无显著变化\nC. 轻微增加\nD. 显著增加",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Leaf total nonstructural carbohydrate (TNC) content was also significantly decreased in the elevated temperature (Fig. 1i, p-value <0.10) and drought (Fig. 1g, p-value <0.10) treatments, but not in elevated [O3] (Fig. 1h, p-value >0.10). Average leaf TNC values for elevated temperature and drought were 1131.9 and 2166.0 μmol g DW?1, respectively, representing a 23.1 and 21.2% decrease from control conditions.\n干旱对叶片中的总非结构性碳水化合物（TNC）含量有什么影响？\nA. 显著减少\nB. 无显著变化\nC. 显著增加\nD. 轻微减少",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Leaf total nonstructural carbohydrate (TNC) content was also significantly decreased in the elevated temperature (Fig. 1i, p-value <0.10) and drought (Fig. 1g, p-value <0.10) treatments, but not in elevated [O3] (Fig. 1h, p-value >0.10). Average leaf TNC values for elevated temperature and drought were 1131.9 and 2166.0 μmol g DW?1, respectively, representing a 23.1 and 21.2% decrease from control conditions.\n当臭氧浓度（[O3]）升高时，叶片中的总非结构性碳水化合物（TNC）含量会发生怎样的变化？\nA. 轻微增加\nB. 无显著变化\nC. 显著减少\nD. 显著增加",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Leaf total nonstructural carbohydrate (TNC) content was also significantly decreased in the elevated temperature (Fig. 1i, p-value <0.10) and drought (Fig. 1g, p-value <0.10) treatments, but not in elevated [O3] (Fig. 1h, p-value >0.10). Average leaf TNC values for elevated temperature and drought were 1131.9 and 2166.0 μmol g DW?1, respectively, representing a 23.1 and 21.2% decrease from control conditions.\n在温度升高的情况下，叶片中总非结构性碳水化合物（TNC）的平均含量是多少？\nA. 2500.0 μmol g DW?1\nB. 1500.0 μmol g DW?1\nC. 2166.0 μmol g DW?1\nD. 1131.9 μmol g DW?1",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Multiple sequence alignment of all twelve differentially expressed MCM genes in the soybean seed coat was completed with the sequences of known MCM genes in Arabidopsis (AtMCM2–7), maize (ZmMCM2–7), pea (PsMCM2–7), and two Brassica species (B. oleracea BoMCM2–7, B. rapa BrMCM2–7) (Additional file 5: Figure S2). Soybean MCM2 and MCM7 genes had between ~76–84% amino acid identity with both B. oleracea and B. rapa MCM genes, while soybean MCM4, 5 and 6 genes showed higher amino acid sequence similarity with B. rapa MCM genes (Additional file 6: Table S4), ranging from ~73–78% identity. Soybean MCM3 (GmMCM3) genes Glyma05g25980 and Glyma08g08920 had 76–77% identity with BoMCM3 and BrMCM3_2, but 32% identity with BrMCM3_1.\n问题：大豆种子外皮中的MCM基因与哪个植物的MCM基因有76-84%的氨基酸相似度？\nA. 阿拉伯芥\nB. 玉米\nC. 甘蓝和白菜\nD. 豌豆",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Multiple sequence alignment of all twelve differentially expressed MCM genes in the soybean seed coat was completed with the sequences of known MCM genes in Arabidopsis (AtMCM2–7), maize (ZmMCM2–7), pea (PsMCM2–7), and two Brassica species (B. oleracea BoMCM2–7, B. rapa BrMCM2–7) (Additional file 5: Figure S2). Soybean MCM2 and MCM7 genes had between ~76–84% amino acid identity with both B. oleracea and B. rapa MCM genes, while soybean MCM4, 5 and 6 genes showed higher amino acid sequence similarity with B. rapa MCM genes (Additional file 6: Table S4), ranging from ~73–78% identity. Soybean MCM3 (GmMCM3) genes Glyma05g25980 and Glyma08g08920 had 76–77% identity with BoMCM3 and BrMCM3_2, but 32% identity with BrMCM3_1.\n大豆MCM3基因与BrMCM3_1的氨基酸相似度是多少？\nA. 32%\nB. 84%\nC. 76%\nD. 77%",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For instance, most GmGRAS genes in the LISCL, SHR and SCL3 subfamilies exhibited low gene expressions in all tissues, however, some genes (GmGRAS67, GmGRAS82 and GmGRAS83 in the LISCL subfamily; GmGRAS97 in the SHR subfamily; GmGRAS15 and GmGRAS65 in the SCL3 subfamily) showed relatively high expression levels in root and nodule.\nSCL3亚家族中，哪个基因在根和根瘤中表达水平较高？\nA. GmGRAS67\nB. GmGRAS83\nC. GmGRAS82\nD. GmGRAS15",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For instance, most GmGRAS genes in the LISCL, SHR and SCL3 subfamilies exhibited low gene expressions in all tissues, however, some genes (GmGRAS67, GmGRAS82 and GmGRAS83 in the LISCL subfamily; GmGRAS97 in the SHR subfamily; GmGRAS15 and GmGRAS65 in the SCL3 subfamily) showed relatively high expression levels in root and nodule.\n问题：哪个基因在根和根瘤中表达水平较高，但不属于LISCL亚家族？\nA. GmGRAS83\nB. GmGRAS97\nC. GmGRAS67\nD. GmGRAS82",
+        "answer": "B",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GmPME7 mainly expressed in flowers, root and nodules; GmPME94 showed relatively high expressions in leaves, stem and pods; GmPME105 highly expressed in stem, root, root hairs, nodules and seeds; GmPME121 displayed superior expressions in SAM, stem, root, root hairs and pods. Besides, GmPME111 and GmPME122 were from the Group II clade and uniformly exhibited high expressions in flowers (Fig. 11b). GmPME38 and GmPME60 from the Group III clade were depicted in Fig. 11c. GmPME38 presented relatively high expression levels in stem, root hairs, nodules, pods and seeds. Whereas, GmPME60 displayed considerable expressions in SAM, stem, nodules, pods and seeds. The two extracted genes (GmPME71 and GmPME113) from the Group IV clade exhibited superior expressions in pods and seeds, and GmPME71 simultaneously owned relatively high expression in SAM (Fig. 11d).\nGmPME71基因除了在豆荚和种子中高表达之外，还在什么部位表现出较高的表达水平？\nA. 叶子\nB. 根瘤\nC. SAM\nD. 花",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The seed-flooding tolerance of 347 soybean lines of YHSBG population was evaluated using three germination-related traits GR, NSR and EC. The values of descriptive statistics, ANOVA (F-value) and estimates of heritability (h2) for all three studied traits of the YHSBG population in two different environments JP14 and HY15 were presented in Table 1. In JP14, the mean of GR and NSR were 0.55 and 0.40, respectively, and their ranges were 0–1.00 and 0–0.94. Furthermore, the mean of EC was 1248 us/mL, and ranges from 153 to 2840 us/mL. However, compared with the mean in JP14, the means of GR and NSR in HY15 were lower, whereas the mean of EC was relatively higher (Table 1), suggesting that seed-flooding tolerance in soybean is an environmentally sensitive trait.\n在HY15环境中，与JP14相比，哪个特征的平均值更高？\nA. 电导率（EC）\nB. 胚根种子数（NSR）\nC. 发芽时间\nD. 发芽率（GR）",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the present study, the MLM model was performed to identify significant QTNs associated with GR, NSR and EC. A total of 8, 6 and 11 QTNs were identified to be associated with GR, NSR and EC, respectively, at the significance level of ?log10P = 4 in JP14, HY15 and Combined-environments (Table 2 and Figure 5). The eight QTNs of GR were distributed on four different chromosomes Chr.01, Chr.08, Chr.13 and Chr.14. Among these QTNs, only qGR-13-2 located on Chr.13 was detected consistently in all three environments, explaining 4.51%–6.62% of the phenotypic variation (PV).\n在研究中，采用了哪种模型来识别与生长率（GR）、每行种子数（NSR）和穗周长（EC）相关的重要QTN？\nA. SVM模型\nB. GLM模型\nC. MLM模型\nD. LMM模型",
+        "answer": "C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the present study, the MLM model was performed to identify significant QTNs associated with GR, NSR and EC. A total of 8, 6 and 11 QTNs were identified to be associated with GR, NSR and EC, respectively, at the significance level of ?log10P = 4 in JP14, HY15 and Combined-environments (Table 2 and Figure 5). The eight QTNs of GR were distributed on four different chromosomes Chr.01, Chr.08, Chr.13 and Chr.14. Among these QTNs, only qGR-13-2 located on Chr.13 was detected consistently in all three environments, explaining 4.51%–6.62% of the phenotypic variation (PV).\n研究中识别QTN的显著性水平是多少？\nA. ?log10P = 4\nB. ?log10P = 2\nC. ?log10P = 5\nD. ?log10P = 3",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the present study, the MLM model was performed to identify significant QTNs associated with GR, NSR and EC. A total of 8, 6 and 11 QTNs were identified to be associated with GR, NSR and EC, respectively, at the significance level of ?log10P = 4 in JP14, HY15 and Combined-environments (Table 2 and Figure 5). The eight QTNs of GR were distributed on four different chromosomes Chr.01, Chr.08, Chr.13 and Chr.14. Among these QTNs, only qGR-13-2 located on Chr.13 was detected consistently in all three environments, explaining 4.51%–6.62% of the phenotypic variation (PV).\n与生长率（GR）相关的QTN分布在几条染色体上？\nA. 3条\nB. 2条\nC. 5条\nD. 4条",
+        "answer": "D",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The correlation coefficients for the five traits were calculated based on the BLUP values and are summarized in Table 2. There was a significant positive correlation between plant height (PH) and number of nodes on main stem (NN), with a correlation coefficient of 0.894. There was also a significant positive correlation between PH, NN, branch number (BN) and stem diameter (DI). Additionally, 100-seed weight (100-SW) was only significantly positively correlated with DI, with a correlation coefficient of 0.244. Correlation analysis showed that there was a positive correlation between PH, NN, BN, DI and 100-SW in soybean.\n在相关性分析中，哪个特征与茎直径（DI）呈现显著的正相关关系？\nA. 花数（FN）\nB. 100粒种子重量（100-SW）\nC. 叶片面积（LA）\nD. 根系长度（RL）",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "For all the studied traits, the genotype component accounted for the highest proportion of the observed variations. Moreover, medium to high broad-sense heritability (h2) was observed, ranging from 0.61 (seed yield per plant, SYP) to 0.99 (100-seed weight, HSW) in individual environments (Supplementary Table S1) and from 0.80 (SYP) to 0.99 (HSW) in the combined environment (Table 1).\n在单一环境下，哪个性状的遗传率是最低的？\nA. 每株种子产量（SYP）\nB. 植物高度\nC. 发芽率\nD. 100粒种子重量（HSW）",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In agreement with proteomic findings (Das et al. [49]), a direct correlation for key amino acids such as glutamine and glutamate was reflected in this metabolomic investigation. The proteomics study [49] indicated that cytosolic glutamine synthetase, which assimilates ammonium to glutamine using glutamate as a substrate, is reduced significantly during drought, and alleviates nitric oxide (active radicals) levels to activate drought tolerance mechanisms in soybeans. Our metabolic data supports proteomic findings, as glutamate was found to be reduced during drought stress.\n在蛋白质组学的研究中，干旱时期哪种酶的含量显著降低？\nA. 谷氨酸脱氢酶\nB. 丙氨酸转氨酶\nC. 谷氨酰胺合成酶\nD. 天冬氨酸转氨酶",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In agreement with proteomic findings (Das et al. [49]), a direct correlation for key amino acids such as glutamine and glutamate was reflected in this metabolomic investigation. The proteomics study [49] indicated that cytosolic glutamine synthetase, which assimilates ammonium to glutamine using glutamate as a substrate, is reduced significantly during drought, and alleviates nitric oxide (active radicals) levels to activate drought tolerance mechanisms in soybeans. Our metabolic data supports proteomic findings, as glutamate was found to be reduced during drought stress.\n谷氨酰胺合成酶减少会对大豆产生什么影响？\nA. 增加一氧化氮水平\nB. 增加氨水平\nC. 减少氨水平\nD. 缓解一氧化氮水平",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "During the R6–8 stages, we observed the accumulation of amino acids (proline, isoleucine, valine, alanine, threonine, glutamic acid, aspartic acid, leucine, asparagine, and glutamine) (Figures 2B and 3). During stages R6 and R8, seed filling is completed and senescence is initiated. At these stages, several amino acids accumulate in seeds, among which the major ones are glutamic acid, aspartic acid, arginine, leucine, and lysine.\n种子中储存的主要氨基酸不包含哪一种？\nA. 苯丙氨酸\nB. 谷氨酸\nC. 精氨酸\nD. 天冬氨酸",
+        "answer": "A",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The sweeter taste is one of the major differences between grain and vegetable soybeans, which is determined by the higher sucrose content in vegetable soybean. Therefore, we focused on the expressions of genes related to sucrose metabolism and transport. Genes for sweet and waxy corn had been studied, and eight genes of maize endosperm mutant have been used for commercial breeding, including shrunken2 (sh2), brittle1 (bt1), brittle2 (bt2), sugary1 (su1), sugary enhancer1 (se1), amylose extender1 (ae1), dull endosperm1 (du1), and waxy1 (wx1) (Yang and Wang, 2005). The expression of most genes homologous to sh2, bt1 and su1 was higher in Williams 82 than Jiaoda 133 (Fig. 6A), which would contribute to accumulation of sucrose in Jiaoda 133. In contrast, the expression of genes homologous to bt2, se1, ae1, and du1 was lower in Williams 82 than Jiaoda 133 (Fig. 6A), which could increase the amylopectin content and contribute to waxy taste in Jiaoda 133. The expression patterns of two genes homologous to wx1 were opposite in the two genotypes (Fig. 6A), potentially leading to no difference in amylose\n问题：以下哪个玉米胚乳突变基因未被用于商业育种？\nA. photosynthesis1 (ps1)\nB. shrunken2 (sh2)\nC. brittle1 (bt1)\nD. sugary enhancer1 (se1)",
+        "answer": "A",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The sweeter taste is one of the major differences between grain and vegetable soybeans, which is determined by the higher sucrose content in vegetable soybean. Therefore, we focused on the expressions of genes related to sucrose metabolism and transport. Genes for sweet and waxy corn had been studied, and eight genes of maize endosperm mutant have been used for commercial breeding, including shrunken2 (sh2), brittle1 (bt1), brittle2 (bt2), sugary1 (su1), sugary enhancer1 (se1), amylose extender1 (ae1), dull endosperm1 (du1), and waxy1 (wx1) (Yang and Wang, 2005). The expression of most genes homologous to sh2, bt1 and su1 was higher in Williams 82 than Jiaoda 133 (Fig. 6A), which would contribute to accumulation of sucrose in Jiaoda 133. In contrast, the expression of genes homologous to bt2, se1, ae1, and du1 was lower in Williams 82 than Jiaoda 133 (Fig. 6A), which could increase the amylopectin content and contribute to waxy taste in Jiaoda 133. The expression patterns of two genes homologous to wx1 were opposite in the two genotypes (Fig. 6A), potentially leading to no difference in amylose\n在Williams 82和Jiaoda 133之间，哪种基因的表达模式相互对立，可能导致两种基因型的直链淀粉含量无差异？\nA. wx1\nB. su1\nC. sh2\nD. bt1",
+        "answer": "A",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "In the co-downregulated genes, we also found a few SWEET genes (Fig. 4a,b). SWEETs play a critical role in allocating photosynthates into the sink organs and resultantly determining seed weight and quality. In soybean, GmSWEET10a/GmSWEET39 (Miao et al., 2020; Wang et al., 2020; Zhang et al., 2020) and GmSWEET10b (Wang et al., 2020) have been identified as important players that transport sugar from seed coat to embryo and determine multiple seed traits (Wang et al., 2020).\nSWEET基因会影响大豆种子的哪些特性？\nA. 种子重量和质量\nB. 种子颜色和形状\nC. 种子大小和数量\nD. 种子发芽速度",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We compared the expression levels of 14 GmMIP genes with GmPEPC (internal control) in roots of soybean by qPCR at 0, 2, 4 and 12 h of 20% PEG treatment (Fig. 7). The relative expression (RE) of GmPIP1;4, GmPIP1;7, GmPIP2;3, GmPIP2;4, GmPIP2;5, GmTIP1;9 and GmTIP2;2 significantly increased (>2-fold) at 12 h compared to 0 h PEG stress. However, GmPIP2;3 first showed a significant decrease in RE before peaking at 12 h PEG stress. GmPIP1;4, GmPIP1;7 and GmTIP1;9 showed a gradual increase from 0 to 4 h followed by a rapid increase at 12 h. GmPIP1;8 showed significant decrease in RE at 2 and 4 h PEG stress. The expression pattern of GmPIP1;3 decreased 2 h after application of PEG, and began to increase at 4 h and peaked at 12 h after application. The expression of GmPIP2;10 and GmPIP2;11 decreased gradually to 4 h and expression was maximized 12 h post application of PEG. The expression pattern of GmTIP4;1 increased at 2 h and decreased gradually with minimum expression at 12 h. GmTIP2;6 expressed 2 and 4 h after application of PEG stress. The RE of the remaining GmMIPs fluctuated non-significantly at various time points after application of PEG stress.\n在PEG胁迫条件下，GmPIP2;3基因的表达在12小时内呈现怎样的变化趋势？\nA. 初期下降后在12小时达到峰值\nB. 持续下降\nC. 在4小时达到峰值后下降\nD. 持续上升",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "We compared the expression levels of 14 GmMIP genes with GmPEPC (internal control) in roots of soybean by qPCR at 0, 2, 4 and 12 h of 20% PEG treatment (Fig. 7). The relative expression (RE) of GmPIP1;4, GmPIP1;7, GmPIP2;3, GmPIP2;4, GmPIP2;5, GmTIP1;9 and GmTIP2;2 significantly increased (>2-fold) at 12 h compared to 0 h PEG stress. However, GmPIP2;3 first showed a significant decrease in RE before peaking at 12 h PEG stress. GmPIP1;4, GmPIP1;7 and GmTIP1;9 showed a gradual increase from 0 to 4 h followed by a rapid increase at 12 h. GmPIP1;8 showed significant decrease in RE at 2 and 4 h PEG stress. The expression pattern of GmPIP1;3 decreased 2 h after application of PEG, and began to increase at 4 h and peaked at 12 h after application. The expression of GmPIP2;10 and GmPIP2;11 decreased gradually to 4 h and expression was maximized 12 h post application of PEG. The expression pattern of GmTIP4;1 increased at 2 h and decreased gradually with minimum expression at 12 h. GmTIP2;6 expressed 2 and 4 h after application of PEG stress. The RE of the remaining GmMIPs fluctuated non-significantly at various time points after application of PEG stress.\n在PEG胁迫条件下，哪个基因在2小时和4小时的时间点上表现出显著的表达水平降低？\nA. GmPIP1;8\nB. GmTIP1;9\nC. GmPIP2;5\nD. GmPIP1;4",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To examine the GTPase activity of the native and variant Gα proteins, we performed a phosphate (Pi) release assay in the absence or presence of an RGS protein (Roy Choudhury et al.,?2012). Native Gα1 protein as well as the variants Gα1S110D and Gα1S315D exhibited slow phosphate release, which significantly increased in the presence of RGS2 protein (Figures?3b and S8). The variant Gα1Q223L showed no Pi release, either by itself or in the presence of RGS protein (Figure?3b). Similarly, negligible Pi release was observed in the protein variants Gα1S50D, Gα1S53D, Gα1quadA and Gα1quadD (Figures?3b and S8). Overall, these data establish that under in?vitro conditions, SymRKs phosphorylate Gα proteins in their active site, which causes a complete loss of their GTP binding and GTPase activity\n在研究中，哪种Gα蛋白变体无论是否存在RGS蛋白都不释放磷酸盐？\nA. Gα1S110D\nB. Gα1S315D\nC. Gα1S50D\nD. Gα1Q223L",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "To examine the GTPase activity of the native and variant Gα proteins, we performed a phosphate (Pi) release assay in the absence or presence of an RGS protein (Roy Choudhury et al.,?2012). Native Gα1 protein as well as the variants Gα1S110D and Gα1S315D exhibited slow phosphate release, which significantly increased in the presence of RGS2 protein (Figures?3b and S8). The variant Gα1Q223L showed no Pi release, either by itself or in the presence of RGS protein (Figure?3b). Similarly, negligible Pi release was observed in the protein variants Gα1S50D, Gα1S53D, Gα1quadA and Gα1quadD (Figures?3b and S8). Overall, these data establish that under in?vitro conditions, SymRKs phosphorylate Gα proteins in their active site, which causes a complete loss of their GTP binding and GTPase activity\nSymRKs在体外对Gα蛋白的影响是什么？\nA. 完全失去GTP结合和GTPase活性\nB. 增加磷酸盐释放\nC. 增强GTP结合和GTPase活性\nD. 促进蛋白质合成",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "The planting time for high-quality (high oil) soybeans is generally the same as or slightly earlier than that for high-yield soybeans. Timely early planting helps increase the fat content in soybean seeds, and late-maturing varieties should also be planted early. In the Huang-Huai region, summer soybeans should be planted early to catch the right timing, with the optimal planting period for high-quality (high oil, high protein) soybeans being from June 10th to 20th.\n优质大豆（高油、高蛋白）的理想播种时间是什么时候？\nA. 5月20日至30日\nB. 5月1日至10日\nC. 6月10日至20日\nD. 7月1日至10日",
+        "answer": "C",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "From the diurnal variation of the photosynthetic rate of different soybean varieties under cloudy conditions (Figure 4B), it can be seen that, influenced by the cloudy weather, the high-yield variety Changnong 39 exhibits a brief midday photosynthetic rest phenomenon. The maximum photosynthetic rate of the population occurs between 10:00 and 11:00. For the conventional varieties Jiyu 441 and Changnong 35, the midday photosynthetic rest phenomenon is not obvious, showing a single peak curve. Among them, the maximum photosynthetic rate of the Jiyu 441 population occurs earlier than that of Changnong 39.\n在多云天气下，哪个大豆品种显示出短暂的午间光合作用休眠现象？\nA. Changnong 39\nB. Changnong 35\nC. 所有品种都表现出这种现象\nD. Jiyu 441",
+        "answer": "A",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "From the diurnal variation of the photosynthetic rate of different soybean varieties under cloudy conditions (Figure 4B), it can be seen that, influenced by the cloudy weather, the high-yield variety Changnong 39 exhibits a brief midday photosynthetic rest phenomenon. The maximum photosynthetic rate of the population occurs between 10:00 and 11:00. For the conventional varieties Jiyu 441 and Changnong 35, the midday photosynthetic rest phenomenon is not obvious, showing a single peak curve. Among them, the maximum photosynthetic rate of the Jiyu 441 population occurs earlier than that of Changnong 39.\n在多云天气下，哪个大豆品种的最大光合作用速率比Changnong 39更早出现？\nA. 两者都是\nB. Jiyu 441\nC. 两者都不是\nD. Changnong 35",
+        "answer": "B",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "context_single_choice"
     }
 ]
