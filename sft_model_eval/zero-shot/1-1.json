@@ -2044,7 +2044,7 @@
         "question": "在Gmzf_CCCHs基因家族中，主要的亚细胞定位是哪里？\nA. 液泡\nB. 细胞质\nC. 细胞核\nD. 叶绿体",
         "answer": "C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
@@ -2054,7 +2054,7 @@
         "question": "在大豆的性状中，哪个性状与主茎节数（NN）具有显著正相关？\nA. 100粒重（100-SW）\nB. 植株高度（PH）\nC. 株型（Plant Type）\nD. 分枝数（BN）",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
@@ -2064,7 +2064,7 @@
         "question": "以下哪个性状与茎粗（DI）具有显著正相关？\nA. 叶片数（Leaf Number）\nB. 100粒重（100-SW）\nC. 花期（Flowering Time）\nD. 根系长度（Root Length）",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
@@ -2074,7 +2074,7 @@
         "question": "根据相关性分析，以下哪个性状与分枝数（BN）有显著正相关？\nA. 种子颜色（Seed Color）\nB. 叶片形状（Leaf Shape）\nC. 叶片颜色（Leaf Color）\nD. 植株高度（PH）",
         "answer": "D",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
@@ -2864,7 +2864,7 @@
         "question": "在低氮（N）胁迫下，哪一玉米种群的蛋白质和油含量没有显著减少？\nA. IMAS panel\nB. CML505/LaPostaSeqC7-F64-2-6-2-2\nC. CML550/CML511\nD. 所有种群都显著减少",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -2874,7 +2874,7 @@
         "question": "在低氮（N）胁迫下，CML550/CML511种群的平均产量是多少？\nA. 4.45 t ha?1\nB. 6.45 t ha?1\nC. 5.45 t ha?1\nD. 7.45 t ha?1",
         "answer": "C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -2884,7 +2884,7 @@
         "question": "在低氮（N）胁迫下，哪种营养成分在所有玉米种群中没有显著受到影响？\nA. 淀粉含量\nB. 油含量\nC. 纤维含量\nD. 蛋白质含量",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -2894,7 +2894,7 @@
         "question": "哪个基因与低氮（N）胁迫条件下的油含量有关？\nA. GRMZM2G104325\nB. GRMZM2G070523\nC. GRMZM2G033694\nD. GRMZM2G159307",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -2904,7 +2904,7 @@
         "question": "GRMZM2G033694基因在什么条件下被注释为组蛋白赖氨酸N-甲基转移酶家族的一部分？\nA. 不在任何条件下\nB. 在最佳和低氮条件下\nC. 仅在低氮条件下\nD. 仅在最佳条件下",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -2914,7 +2914,7 @@
         "question": "在水涝条件下，哪种性状的变化幅度最显著？\nA. SR (Stem Reduction)减少58.88%\nB. SDW (Shoot Dry Weight)减少\nC. RDW (Root Dry Weight)减少\nD. BRN (Brace Root Number)增加74.12%",
         "answer": "D",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -2924,7 +2924,7 @@
         "question": "该研究使用了哪种模型来检测SNP与发芽性状在冷应激下的关联？\nA. LASSO模型\nB. Ridge回归模型\nC. GWAS模型\nD. FarmCPU模型",
         "answer": "D",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -2934,7 +2934,7 @@
         "question": "哪个SNP与根长（RL）和芽长（SL）都有关联？\nA. SNP PZE-107018981\nB. SNP PZE-109045678\nC. SNP PZE-104042136\nD. SNP PZE-108063385",
         "answer": "C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -2944,7 +2944,7 @@
         "question": "RLS、RSRS和SLS的表型频率分布是什么？\nA. 正态分布\nB. 指数分布\nC. 对数正态分布\nD. 随机分布",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -2954,7 +2954,7 @@
         "question": "基因Zm00001d017932有多少个主要单倍型？\nA. 四个\nB. 三个\nC. 两个\nD. 五个",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_single_choice"
@@ -3354,7 +3354,7 @@
         "question": "在HY15环境中，与JP14相比，哪项特征的平均值相对较高？\nA. 电导率（EC）\nB. 胚根种子数（NSR）\nC. 发芽时间\nD. 发芽率（GR）",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
@@ -3364,7 +3364,7 @@
         "question": "在研究中，使用了哪种模型来识别与生长率（GR）、每行种子数（NSR）和穗周长（EC）相关的重要QTN？\nA. SVM模型\nB. GLM模型\nC. MLM模型\nD. LMM模型",
         "answer": "C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
@@ -3374,7 +3374,7 @@
         "question": "研究中识别QTN的显著性水平是？\nA. ?log10P = 4\nB. ?log10P = 2\nC. ?log10P = 5\nD. ?log10P = 3",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
@@ -3384,7 +3384,7 @@
         "question": "与生长率（GR）相关的QTN分布在多少条染色体上？\nA. 3条\nB. 2条\nC. 5条\nD. 4条",
         "answer": "D",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
@@ -3394,7 +3394,7 @@
         "question": "在相关性分析中，哪个特征与茎直径（DI）有显著正相关？\nA. 花数（FN）\nB. 100粒种子重量（100-SW）\nC. 叶片面积（LA）\nD. 根系长度（RL）",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
@@ -3404,7 +3404,7 @@
         "question": "在单一环境中，哪个性状的遗传率最低？\nA. 每株种子产量（SYP）\nB. 植物高度\nC. 发芽率\nD. 100粒种子重量（HSW）",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
