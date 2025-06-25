@@ -9,29 +9,45 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout current repo
         uses: actions/checkout@v4
         with:
           lfs: true
           fetch-depth: 0
 
-      - name: Set Git config
+      - name: Setup Git config
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
 
-      - name: Add HF remote
-        run: |
-          git remote add hf "https://USER:${{ secrets.HF_TOKEN }}@huggingface.co/${{ secrets.HF_REPO }}"
+      - name: Clone and update HuggingFace repo
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-
-      - name: Add ModelScope remote
         run: |
-          git remote add ms "https://oauth2:${{ secrets.MODELSCOPE_TOKEN }}@www.modelscope.cn/${{ secrets.MODELSCOPE_REPO }}.git"
+          git clone "https://oauth2:$HF_TOKEN@huggingface.co/datasets/yj12869741/SeedBench" hf_repo
+          
+          rm -rf hf_repo/one-shot
+          rm -rf hf_repo/zero-shot
+          cp -r sft_model_eval/one-shot hf_repo/
+          cp -r sft_model_eval/zero-shot hf_repo/
+          
+          cd hf_repo
+          git add .
+          git commit -m "Update sft_model_eval from GitHub"
+          git push origin main
 
-      - name: Push to Hugging Face
-        run: git push hf HEAD:main --force
-
-      - name: Push to ModelScope
-        run: git push ms HEAD:master --force
+      - name: Clone and update ModelScope repo
+        env:
+          MODELSCOPE_TOKEN: ${{ secrets.MODELSCOPE_TOKEN }}
+        run: |
+          git clone "https://oauth2:$MODELSCOPE_TOKEN@www.modelscope.cn/y12869741/SeedBench.git" ms_repo
+          
+          rm -rf ms_repo/one-shot
+          rm -rf ms_repo/zero-shot
+          cp -r sft_model_eval/one-shot ms_repo/
+          cp -r sft_model_eval/zero-shot ms_repo/
+          
+          cd ms_repo
+          git add .
+          git commit -m "Update sft_model_eval from GitHub"
+          git push origin master
