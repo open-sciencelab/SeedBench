@@ -2314,7 +2314,7 @@
         "question": "在HY15环境中，与JP14相比，大豆种子的正常幼苗率（NSR）平均值________。",
         "answer": "较低",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
@@ -2324,7 +2324,7 @@
         "question": "在HY15环境中，与JP14相比，大豆种子的电导率（EC）平均值________。",
         "answer": "较高",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
@@ -2334,7 +2334,7 @@
         "question": "在多个环境和不同的GWAS模型中稳定检测到的SNP被称为________。",
         "answer": "稳定的多性状关联（MTAs）",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
@@ -2344,7 +2344,7 @@
         "question": "SNP AX-93793,210 是使用四种不同的GWAS模型识别的，这些模型包括________。",
         "answer": "BLINK, FarmCPU, GLM, 和 MLMM",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
@@ -3504,7 +3504,7 @@
         "question": "GRMZM2G016477基因被预测编码为一种富含亮氨酸重复的________。  ",
         "answer": "受体样蛋白激酶",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_blank_fill"
@@ -3514,7 +3514,7 @@
         "question": "被识别为根分枝负调控因子的两个基因是________和________。",
         "answer": "Zm00001d050783，Zm00001d017751",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_blank_fill"
@@ -3524,7 +3524,7 @@
         "question": "在种子萌发过程中，Zm00001d003657 的表达模式是________。",
         "answer": "下调",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_blank_fill"
@@ -3534,7 +3534,7 @@
         "question": "Zm00001d029793 编码的是一种________。",
         "answer": "glutathione S-transferase F9",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_blank_fill"
@@ -3544,7 +3544,7 @@
         "question": "在 SCL326 中，Zm00001d017932 在种子萌发期间的表达是________。",
         "answer": "上调",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_blank_fill"
@@ -4054,7 +4054,7 @@
         "question": "大多数Gmzf_CCCH基因（116个中的104个）定位于________。  ",
         "answer": "细胞核",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
@@ -4064,7 +4064,7 @@
         "question": "Branch Number (BN) 受________和________的影响。  ",
         "answer": "G, G × E",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
@@ -4074,7 +4074,7 @@
         "question": "显著的SNP（AX-93793,210）位于________号染色体上。",
         "answer": "11",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
@@ -4084,7 +4084,7 @@
         "question": "极度敏感的大豆种质在碱性处理下与对照组相比，________显著减少。",
         "answer": "地上部分和根部生物量",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
@@ -4094,7 +4094,7 @@
         "question": "在对357个大豆地方品种进行分组时，使用了________算法来根据相似性进行分组。  ",
         "answer": "K-means聚类",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
@@ -4104,7 +4104,7 @@
         "question": "在识别出的三个组中，组I包含________个地方品种。  ",
         "answer": "92",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_blank_fill"
