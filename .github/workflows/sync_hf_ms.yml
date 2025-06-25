@@ -26,28 +26,42 @@ jobs:
         run: |
           git clone "https://oauth2:$HF_TOKEN@huggingface.co/datasets/yj12869741/SeedBench" hf_repo
           
+          # 删除目标目录并复制新内容
           rm -rf hf_repo/one-shot
           rm -rf hf_repo/zero-shot
           cp -r sft_model_eval/one-shot hf_repo/
           cp -r sft_model_eval/zero-shot hf_repo/
           
           cd hf_repo
-          git add .
-          git commit -m "Update sft_model_eval from GitHub"
-          git push origin main
+          # 检查是否有文件变动
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes detected in HuggingFace repo"
+          else
+            echo "Changes detected, pushing to HuggingFace"
+            git add .
+            git commit -m "Update sft_model_eval from GitHub"
+            git push origin main
+          fi
 
       - name: Clone and update ModelScope repo
         env:
           MODELSCOPE_TOKEN: ${{ secrets.MODELSCOPE_TOKEN }}
         run: |
-          git clone "https://oauth2:$MODELSCOPE_TOKEN@www.modelscope.cn/y12869741/SeedBench.git" ms_repo
+          git clone "https://oauth2:$MODELSCOPE_TOKEN@www.modelscope.cn/datasets/y12869741/SeedBench.git" ms_repo
           
+          # 删除目标目录并复制新内容
           rm -rf ms_repo/one-shot
           rm -rf ms_repo/zero-shot
           cp -r sft_model_eval/one-shot ms_repo/
           cp -r sft_model_eval/zero-shot ms_repo/
           
           cd ms_repo
-          git add .
-          git commit -m "Update sft_model_eval from GitHub"
-          git push origin master
+          # 检查是否有文件变动
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes detected in ModelScope repo"
+          else
+            echo "Changes detected, pushing to ModelScope"
+            git add .
+            git commit -m "Update sft_model_eval from GitHub"
+            git push origin master
+          fi
