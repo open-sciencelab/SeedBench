@@ -19,7 +19,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git lfs install --skip-repo  # 全局安装 LFS
+          git lfs install --skip-repo
 
       - name: Sync to HuggingFace
         env:
@@ -28,10 +28,9 @@ jobs:
           GIT_LFS_SKIP_SMUDGE=1 git clone "https://oauth2:$HF_TOKEN@huggingface.co/datasets/yj12869741/SeedBench" hf_repo
           
           cd hf_repo
-          git config lfs.https://huggingface.co/datasets/yj12869741/SeedBench.git/info/lfs.access basic
+          git config lfs.url "https://oauth2:$HF_TOKEN@huggingface.co/datasets/yj12869741/SeedBench.git/info/lfs"
           
           rm -rf one-shot zero-shot
-          
           cp -r ../sft_model_eval/one-shot ../sft_model_eval/zero-shot .
           
           if [ -z "$(git status --porcelain)" ]; then
@@ -42,7 +41,6 @@ jobs:
             git commit -m "Update sft_model_eval from GitHub"
             
             git lfs push origin main
-            
             git push origin main
           fi
 
@@ -53,10 +51,9 @@ jobs:
           GIT_LFS_SKIP_SMUDGE=1 git clone "https://oauth2:$MODELSCOPE_TOKEN@www.modelscope.cn/datasets/y12869741/SeedBench.git" ms_repo
           
           cd ms_repo
-          git config lfs.https://www.modelscope.cn/datasets/y12869741/SeedBench.git/info/lfs.access basic
+          git config lfs.url "https://oauth2:$MODELSCOPE_TOKEN@www.modelscope.cn/datasets/y12869741/SeedBench.git/info/lfs"
           
           rm -rf one-shot zero-shot
-          
           cp -r ../sft_model_eval/one-shot ../sft_model_eval/zero-shot .
           
           if [ -z "$(git status --porcelain)" ]; then
@@ -67,6 +64,5 @@ jobs:
             git commit -m "Update sft_model_eval from GitHub"
             
             git lfs push origin master
-            
             git push origin master
           fi
