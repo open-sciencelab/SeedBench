@@ -2348,5 +2348,1195 @@
             "level2": "Glycine max"
         },
         "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在振幅分析中，哪些类型的转录本以高振幅振荡？\nA. 所有转录本\nB. 无昼夜节律转录本\nC. 少数昼夜节律转录本\nD. 大多数转录本",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在早期胚胎阶段，生长素在哪些细胞中积累？\nA. 花粉细胞\nB. 根细胞\nC. 叶片细胞\nD. 原胚细胞",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪个基因是生长素外排载体？\nA. TAA1\nB. YUC4\nC. PIN1\nD. MYB77",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS1 (TAA1) 和 YUCCA4 (YUC4) 的主要功能是什么？\nA. 生长素降解\nB. 生长素信号转导\nC. 生长素运输\nD. 生长素合成",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "sr45–1突变体的花瓣与野生型相比有什么不同？\nA. 花瓣颜色不同\nB. 花瓣更窄\nC. 花瓣更宽\nD. 花瓣数量增加",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "哪种GFP融合蛋白能够显著恢复sr45–1突变体的表型？\nA. SR45.2-GFP\nB. SR45.1-GFP\nC. SR45.4-GFP\nD. SR45.3-GFP",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "TCP2蛋白在蓝光处理后在WT背景下的表达变化是什么？\nA. 没有变化\nB. 显著增加\nC. 显著减少\nD. 轻微增加",
+        "answer": "B",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在以下哪种光照条件下，TCP2蛋白表达没有显著变化？\nA. 蓝光\nB. 红光\nC. 黑暗\nD. 远红光",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "TCP2蛋白在WT背景下的表达变化与cry1突变体背景相比如何？\nA. 在WT背景下减少更快\nB. 在cry1背景下增加更快\nC. 在WT背景下增加更快\nD. 两者增加速度相同",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "哪个等位基因导致子叶和下胚轴之间区域扩大？\nA. 强stm-1等位基因\nB. 野生型等位基因\nC. 中间型stm-2等位基因\nD. knat6-1等位基因",
+        "answer": "A",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在stm-1 clv3-1 knat6-1三重突变体幼苗中，观察到的融合现象涉及哪些部分？\nA. 仅根部\nB. 仅叶片\nC. 子叶、叶片和叶柄\nD. 仅子叶",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "FaMYB63能够与哪个基因的启动子片段结合？\nA. AtSOS2\nB. AtSOS4\nC. AtSOS1\nD. AtSOS3",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "研究FaMYB63与AtSOS1基因启动子相互作用的方法是什么？\nA. Western blotting\nB. RNA sequencing\nC. Electrophoretic mobility shift assay\nD. Chromatin immunoprecipitation",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "FaMYB63-GST复合物与AtSOS1启动子中的哪个元素结合导致迁移率变化？\nA. CAAT box\nB. TATA box\nC. MBS element\nD. Enhancer",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "FaMYB63通过结合哪个DNA片段调控AtSOS1基因的表达？\nA. 含有GGGGGG的片段\nB. 含有CAAT box的片段\nC. 含有MBS元素的片段\nD. 含有TATA box的片段",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "交叉验证结果显示，R2Y在所有情况下都超过了多少百分比？\nA. 70%\nB. 90%\nC. 95%\nD. 80%",
+        "answer": "B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "根据结论，SWE的应用导致了什么显著变化？\nA. 生长速度的增加\nB. 叶片和根部的形态变化\nC. 细胞结构的改变\nD. 代谢组的显著重编程",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在16°C条件下，哪个代谢物相对于6°C条件下有积累？\nA. Proline\nB. Aspartic acid\nC. Threonine\nD. Myo-inositol",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪个代谢物在6°C条件下没有显著积累？\nA. Malic acid\nB. Citric acid\nC. Glutamine\nD. Threonine",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在湿度条件下，SAMs中有多少是条件特异性的？\nA. 70%\nB. 45%\nC. 20%\nD. 10%",
+        "answer": "B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在LL/HL转移后，野生型、tpt-2和adg1-1/tpt-2植物的可溶性糖含量变化如何？\nA. 稳定不变\nB. 显著增加\nC. 短暂增加\nD. 持续减少",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "l-CDes反应的最适pH值是多少？\nA. pH 7.0\nB. pH 10.0\nC. pH 9.0\nD. pH 8.0",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在实验条件下，d-CDes反应需要在什么缓冲液中进行？\nA. Tris/HCl缓冲液\nB. 磷酸盐缓冲液\nC. 醋酸缓冲液\nD. 碳酸氢钠缓冲液",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在实验中，E. coli的d-CDes蛋白催化了哪个反应？\nA. O-acetyl-d-serine与硫化物的β-替代反应\nB. β-chloro-l-alanine与硫化物的反应\nC. O-acetyl-d-serine与氰化物的反应\nD. O-acetyl-l-serine与硫化物的反应",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Arabidopsis的d-CDes蛋白在测试中表现出什么活性？\nA. O-acetyl-l-serine(thiol)lyase活性\nB. 两种活性都没有表现\nC. β-cyanoalanine合成酶活性\nD. O-acetyl-d-serine(thiol)lyase活性",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在O-acetyl-l-serine(thiol)lyase (OAS-TL)测试中使用了哪些替代物质？\nA. β-chloro-d-alanine和β-chloro-l-alanine\nB. d-cysteine和氰化物\nC. O-acetyl-l-serine和氰化物\nD. O-acetyl-d-serine和硫化物",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "d-CDes蛋白在β-cyanoalanine合成酶活性测试中使用了哪些底物？\nA. β-chloro-l-alanine和硫化物\nB. d-cysteine和氰化物\nC. O-acetyl-d-serine和硫化物\nD. O-acetyl-l-serine和硫化物",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在实验中，d-CDes蛋白表现出什么样的活性？\nA. 高度活性\nB. 低活性\nC. 无活性\nD. 中等活性",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "结论指出中心基因在强选择性约束下进化的趋势与什么无关？\nA. 基因表达水平\nB. 基因组大小\nC. 网络密度\nD. 蛋白质长度",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在遗传研究中，移除自我相互作用和由旁系同源基因编码的蛋白质之间的相互作用后，差异仍然显著，其P值是多少？\nA. 0.01\nB. 0.049\nC. 0.05\nD. 0.1",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在对截短的At1g16640构建体进行2D 15N–1H HSQC光谱比较时，哪个构建体产生了最佳的HSQC光谱？\nA. 1–110构建体\nB. 1–92构建体\nC. 1–102构建体\nD. 1–120构建体",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "AOP2表达与开花时间之间的关系是否反映了因果关系？\nA. 否，与因果关系无关\nB. 是，完全反映因果关系\nC. 是，部分反映因果关系\nD. 否，因缺乏功能性等位基因变异而不太可能反映因果关系",
+        "answer": "D",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "chr4:1355057与开花时间的显著关联可能源于什么因素？\nA. AOP2变异\nB. 其他因素而非AOP2变异\nC. 环境因素\nD. 基因突变",
+        "answer": "B",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在压力条件下，纬度与花青素积累之间的相关性系数是多少？\nA. ρ = 0.13\nB. ρ = 0.10\nC. ρ = 0.18\nD. ρ = 0.23",
+        "answer": "A",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "与花青素积累相关的位点位于哪个染色体上？\nA. 染色体2\nB. 染色体3\nC. 染色体4\nD. 染色体1",
+        "answer": "D",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "组氨酸处理对植物的抗盐胁迫有何影响？\nA. 仅影响酶活性\nB. 减少MDA含量\nC. 增加MDA含量\nD. 不影响MDA含量",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在组氨酸处理后，超氧化物歧化酶（SOD）的活性增加了多少百分比？\nA. 59%\nB. 30%\nC. 21.92%\nD. 12.84%",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在组氨酸处理12小时后，所有差异表达基因（DEGs）的表达变化是什么？\nA. 所有基因均上调\nB. 所有基因均下调\nC. 没有基因表达变化\nD. 部分基因上调，部分基因下调",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在组氨酸处理12小时后，下列哪个基因是下调的？\nA. GH3\nB. AREB/ABF\nC. AHK2/3/4\nD. PIF4",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "ZmSPL12 KO线的冠根与野生型植物相比有什么特点？\nA. 更长\nB. 更加纤细\nC. 无显著差异\nD. 更短",
+        "answer": "A",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "标准玉米栽培中，正常土壤密度的值是多少？\nA. 1.0 g cm?3\nB. 1.2 g cm?3\nC. 0.6 g cm?3\nD. 0.8 g cm?3",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在高土壤密度条件下，哪种玉米植株的根系生长受到显著抑制？\nA. 转基因植株\nB. 杂交植株\nC. ZmSPL12 OE系\nD. 野生型植株",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "研究中使用了哪种方法来评估根系表型？\nA. 扫描和摄影分析\nB. 热成像分析\nC. 显微镜分析\nD. 化学分析",
+        "answer": "A",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "土壤压实对野生型植物的根冠长度有何影响？\nA. 根冠长度不变\nB. 根冠长度显著增加\nC. 根冠长度减少\nD. 根冠长度增加",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "野生型A188玉米植物在干旱胁迫下的存活率是多少？\nA. 42%\nB. 23%\nC. 37%\nD. 66%",
+        "answer": "B",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在干旱胁迫下，哪种植物的存活率最高？\nA. 具有单一转基因的植物\nB. 未知类型植物\nC. 野生型A188玉米植物\nD. 具有两个转基因的植物",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "ZmMADS4和ZmMADS67基因敲除后对植株的叶片数量有何影响？\nA. 叶片数量减少\nB. 叶片数量随机变化\nC. 叶片数量不变\nD. 叶片数量增加",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在ZmMADS4和ZmMADS67基因敲除实验中，哪种类型的突变被引入？\nA. 重复突变\nB. 框移突变\nC. 点突变\nD. 缺失突变",
+        "answer": "B",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在smk10中，哪类脂质的相对比例较低？\nA. 脂肪酸\nB. 胆固醇\nC. 磷脂类\nD. 甘油三酯",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "ZmSWEET4c的表达水平在smk10种子中与野生型种子相比如何？\nA. 显著增加\nB. 轻微增加\nC. 显著降低\nD. 没有变化",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "分析ZmSWEET4c表达的方法是什么？\nA. RNA原位杂交\nB. 定量PCR\nC. 北方印迹法\nD. RNA测序",
+        "answer": "A",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在低氮（N）胁迫下，哪一玉米种群的蛋白质和油含量没有显著减少？\nA. IMAS panel\nB. CML505/LaPostaSeqC7-F64-2-6-2-2\nC. CML550/CML511\nD. 所有种群都显著减少",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在低氮（N）胁迫下，CML550/CML511种群的平均产量是多少？\nA. 4.45 t ha?1\nB. 6.45 t ha?1\nC. 5.45 t ha?1\nD. 7.45 t ha?1",
+        "answer": "C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在低氮（N）胁迫下，哪种营养成分在所有玉米种群中没有显著受到影响？\nA. 淀粉含量\nB. 油含量\nC. 纤维含量\nD. 蛋白质含量",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "哪个基因与低氮（N）胁迫条件下的油含量有关？\nA. GRMZM2G104325\nB. GRMZM2G070523\nC. GRMZM2G033694\nD. GRMZM2G159307",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GRMZM2G033694基因在什么条件下被注释为组蛋白赖氨酸N-甲基转移酶家族的一部分？\nA. 不在任何条件下\nB. 在最佳和低氮条件下\nC. 仅在低氮条件下\nD. 仅在最佳条件下",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在水涝条件下，哪种性状的变化幅度最显著？\nA. SR (Stem Reduction)减少58.88%\nB. SDW (Shoot Dry Weight)减少\nC. RDW (Root Dry Weight)减少\nD. BRN (Brace Root Number)增加74.12%",
+        "answer": "D",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "该研究使用了哪种模型来检测SNP与发芽性状在冷应激下的关联？\nA. LASSO模型\nB. Ridge回归模型\nC. GWAS模型\nD. FarmCPU模型",
+        "answer": "D",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "哪个SNP与根长（RL）和芽长（SL）都有关联？\nA. SNP PZE-107018981\nB. SNP PZE-109045678\nC. SNP PZE-104042136\nD. SNP PZE-108063385",
+        "answer": "C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "RLS、RSRS和SLS的表型频率分布是什么？\nA. 正态分布\nB. 指数分布\nC. 对数正态分布\nD. 随机分布",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "基因Zm00001d017932有多少个主要单倍型？\nA. 四个\nB. 三个\nC. 两个\nD. 五个",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在哪个生长阶段观察到CER和初始Rubisco活性相对于PEP羧化酶活性有较大的相对下降？\nA. VT至R3\nB. R4至R6\nC. V5至V7\nD. V1至V3",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "随着氮的增加，CER和初始Rubisco活性如何变化？\nA. 减少或保持不变\nB. 显著减少\nC. 显著增加\nD. 增加",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GPI-anchored protein的序列特征中，哪个氨基酸与GPI锚定相连？\nA. 丝氨酸\nB. 半胱氨酸\nC. 甘氨酸\nD. 脯氨酸",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在该上下文中，Arabidopsis GPI-anchored COBRA-like proteins的CCVS结构域被保留为哪种形式？\nA. CCVS\nB. CCVT\nC. CCVP\nD. CCVG",
+        "answer": "B",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "RTH3蛋白的哪一部分与纤维素结合域II表现出弱相似性？\nA. 氨基酸残基224到274\nB. 氨基酸残基100到150\nC. 氨基酸残基300到350\nD. 氨基酸残基1到50",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "RTH3蛋白的中心域属于哪个基因家族？\nA. MYB基因家族\nB. WRKY基因家族\nC. NAC基因家族\nD. COBRA基因家族",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "RTH3蛋白中预测的N-糖基化位点通常存在于哪类蛋白中？\nA. GPI锚定蛋白\nB. 线粒体蛋白\nC. 核心蛋白\nD. 细胞膜蛋白",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "根据研究，只有10%的蛋白质被识别为存在于单一细胞器中，这些蛋白质可能来自哪里？\nA. 高尔基体\nB. 细胞核\nC. 细胞质、叶绿体和线粒体\nD. 内质网",
+        "answer": "C",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Tudor-SN在水稻胚乳细胞中将RNA-RNP颗粒运输到哪里？\nA. 高尔基体\nB. 细胞核\nC. 线粒体\nD. PB-ER和囊状ER",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在盐胁迫条件下，哪种酶活性变化最小？\nA. 硫胺素焦磷酸激酶（TPK）\nB. 硫胺素焦磷酸水解酶（TPPH）\nC. 转酮醇酶（TK）\nD. 硫胺素单磷酸合酶（TMPS）",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "盐胁迫对转酮醇酶（TK）活性的影响是什么？\nA. 活性显著降低约80%\nB. 活性显著增强约50%\nC. 活性降低约50%\nD. 活性不变",
+        "answer": "B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在50 mg/kg和500 mg/kg浓度下，Fe3O4 NPs对植物的影响是什么？\nA. 引起显著的生理压力\nB. 导致生长停滞\nC. 增强光合作用\nD. 没有压力反应",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Fe3O4 NPs对植物的生化特性有什么影响？\nA. 减少生化活性\nB. 生化特性没有变化\nC. 增加生化活性\nD. 使生化特性波动",
+        "answer": "B",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "Fe3O4纳米颗粒对直接暴露的玉米根部糖含量有何影响？\nA. 增加\nB. 减少\nC. 完全消失\nD. 没有影响",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在不同PSNP粒径下共同表达的代谢物占总数的百分比是多少？\nA. 47.0%\nB. 25.0%\nC. 38.2%\nD. 50.0%",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "玉米代谢组中有多少种极性代谢物？\nA. 50种\nB. 15种\nC. 39种\nD. 20种",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在1H NMR光谱中，芳香氢区域在HS样品中表现如何？\nA. 强烈且尖锐\nB. 高分辨率\nC. 模糊且分辨率低\nD. 清晰且窄",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "播种时应确保什么条件以促进种子充分发芽？\nA. 充足的阳光\nB. 适当的风速\nC. 适当的温度\nD. 充足的水分",
+        "answer": "D",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在水分胁迫或低氮胁迫处理下，哪个生长参数比对照组减少最多？\nA. 穗位高度\nB. 穗长\nC. 植株高度\nD. 穗粗",
+        "answer": "B",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在水分胁迫条件下，穗顶盖长度比对照组增加了多少百分比？\nA. 20.9%\nB. 36.2%\nC. 27.4%\nD. 37.9%",
+        "answer": "C",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在与非致病性分离株的相互作用中，72小时后代谢过程相关基因占调节基因的百分比是多少？\nA. 31-32%\nB. 28.1%\nC. 24.6%\nD. 19-21%",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在与致病性分离株的相互作用中，后期接种阶段代谢过程和防御相关功能的基因占调节基因的百分比范围是多少？\nA. 28.1%和37%\nB. 19-21%\nC. 24.6%和19.4%\nD. 31-32%",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在与非致病性分离株的相互作用中，96小时后代谢过程相关基因占调节基因的百分比是多少？\nA. 24.6%\nB. 31-32%\nC. 28.1%\nD. 19-21%",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在植物中，哪种氨基酸是IAA（吲哚乙酸）生物合成途径的前体？\nA. 色氨酸\nB. 苯丙氨酸\nC. 组氨酸\nD. 赖氨酸",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "SUR2基因编码的酶在植物中参与了哪种生物合成？\nA. 碳水化合物合成\nB. 葡萄糖苷合成\nC. 蛋白质合成\nD. 脂肪酸合成",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪个转录因子属于ETHYLENE RESPONSE FACTOR家族？\nA. MADS-box transcription factor family proteins\nB. CYTOKININ RESPONSE FACTOR 4\nC. ETHYLENE RESPONSE FACTOR 1\nD. TELOMERASE ACTIVATOR 1",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "TELOMERASE ACTIVATOR 1的一个基因ID是哪个？\nA. Glyma.20G206000\nB. Glyma.18G053400\nC. Glyma.14G123900\nD. Glyma.13G122700",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在研究中，哪种转录因子家族在胚胎本体（embryo proper）中特异性富集？\nA. M-type_MADS\nB. NAC\nC. YABBY\nD. MYB",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在种子组织中，ERF转录因子家族在哪两个组织中共享富集？\nA. 胚乳和表皮\nB. 表皮和内皮\nC. 内皮和胚乳\nD. 胚胎本体和胚乳",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在研究中，MYB转录因子家族在哪个种子组织中特异性富集？\nA. 胚乳\nB. 种脐（hilum）\nC. 胚胎本体\nD. 表皮",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在提高温度的情况下，叶片总非结构性碳水化合物（TNC）含量如何变化？\nA. 显著减少\nB. 无显著变化\nC. 轻微增加\nD. 显著增加",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "干旱对叶片总非结构性碳水化合物（TNC）含量的影响是什么？\nA. 显著减少\nB. 无显著变化\nC. 显著增加\nD. 轻微减少",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在提高臭氧浓度（[O3]）的情况下，叶片总非结构性碳水化合物（TNC）含量如何变化？\nA. 轻微增加\nB. 无显著变化\nC. 显著减少\nD. 显著增加",
+        "answer": "B",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在提高温度的条件下，叶片总非结构性碳水化合物（TNC）含量的平均值是多少？\nA. 2500.0 μmol g DW?1\nB. 1500.0 μmol g DW?1\nC. 2166.0 μmol g DW?1\nD. 1131.9 μmol g DW?1",
+        "answer": "D",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在大豆种子外皮中，MCM基因与哪个物种的MCM基因具有76-84%的氨基酸相似性？\nA. 阿拉伯芥\nB. 玉米\nC. 甘蓝和白菜\nD. 豌豆",
+        "answer": "C",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "大豆MCM3基因与BrMCM3_1的氨基酸相似性是多少？\nA. 32%\nB. 84%\nC. 76%\nD. 77%",
+        "answer": "A",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在SCL3亚家族中，哪个基因在根和根瘤中具有较高的表达水平？\nA. GmGRAS67\nB. GmGRAS83\nC. GmGRAS82\nD. GmGRAS15",
+        "answer": "D",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪个基因不属于LISCL亚家族但在根和根瘤中表达水平较高？\nA. GmGRAS83\nB. GmGRAS97\nC. GmGRAS67\nD. GmGRAS82",
+        "answer": "B",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "GmPME71基因除了在豆荚和种子中有高表达外，还在哪个部位表达相对较高？\nA. 叶子\nB. 根瘤\nC. SAM\nD. 花",
+        "answer": "C",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在HY15环境中，与JP14相比，哪项特征的平均值相对较高？\nA. 电导率（EC）\nB. 胚根种子数（NSR）\nC. 发芽时间\nD. 发芽率（GR）",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在研究中，使用了哪种模型来识别与生长率（GR）、每行种子数（NSR）和穗周长（EC）相关的重要QTN？\nA. SVM模型\nB. GLM模型\nC. MLM模型\nD. LMM模型",
+        "answer": "C",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "研究中识别QTN的显著性水平是？\nA. ?log10P = 4\nB. ?log10P = 2\nC. ?log10P = 5\nD. ?log10P = 3",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "与生长率（GR）相关的QTN分布在多少条染色体上？\nA. 3条\nB. 2条\nC. 5条\nD. 4条",
+        "answer": "D",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在相关性分析中，哪个特征与茎直径（DI）有显著正相关？\nA. 花数（FN）\nB. 100粒种子重量（100-SW）\nC. 叶片面积（LA）\nD. 根系长度（RL）",
+        "answer": "B",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在单一环境中，哪个性状的遗传率最低？\nA. 每株种子产量（SYP）\nB. 植物高度\nC. 发芽率\nD. 100粒种子重量（HSW）",
+        "answer": "A",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在蛋白质组学研究中，哪种酶在干旱期间显著减少？\nA. 谷氨酸脱氢酶\nB. 丙氨酸转氨酶\nC. 谷氨酰胺合成酶\nD. 天冬氨酸转氨酶",
+        "answer": "C",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "谷氨酰胺合成酶的减少对大豆的影响是什么？\nA. 增加一氧化氮水平\nB. 增加氨水平\nC. 减少氨水平\nD. 缓解一氧化氮水平",
+        "answer": "D",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在种子中积累的主要氨基酸不包括以下哪一种？\nA. 苯丙氨酸\nB. 谷氨酸\nC. 精氨酸\nD. 天冬氨酸",
+        "answer": "A",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "以下哪一个不是用于商业育种的玉米胚乳突变基因？\nA. photosynthesis1 (ps1)\nB. shrunken2 (sh2)\nC. brittle1 (bt1)\nD. sugary enhancer1 (se1)",
+        "answer": "A",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在Williams 82和Jiaoda 133之间，哪种基因的表达模式相反，可能导致两种基因型中直链淀粉含量没有差异？\nA. wx1\nB. su1\nC. sh2\nD. bt1",
+        "answer": "A",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "SWEET基因对大豆种子的哪些特性有影响？\nA. 种子重量和质量\nB. 种子颜色和形状\nC. 种子大小和数量\nD. 种子发芽速度",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在PEG胁迫下，GmPIP2;3基因的表达水平在12小时时表现出什么趋势？\nA. 初期下降后在12小时达到峰值\nB. 持续下降\nC. 在4小时达到峰值后下降\nD. 持续上升",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在PEG胁迫下，哪一个基因在2小时和4小时时表现出显著的表达水平下降？\nA. GmPIP1;8\nB. GmTIP1;9\nC. GmPIP2;5\nD. GmPIP1;4",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在研究中，哪种Gα蛋白变体在有或没有RGS蛋白的情况下都没有磷酸盐释放？\nA. Gα1S110D\nB. Gα1S315D\nC. Gα1S50D\nD. Gα1Q223L",
+        "answer": "D",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "SymRKs在体外对Gα蛋白的作用是什么？\nA. 完全失去GTP结合和GTPase活性\nB. 增加磷酸盐释放\nC. 增强GTP结合和GTPase活性\nD. 促进蛋白质合成",
+        "answer": "A",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "高品质（高油、高蛋白）大豆的最佳种植期是什么时候？\nA. 5月20日至30日\nB. 5月1日至10日\nC. 6月10日至20日\nD. 7月1日至10日",
+        "answer": "C",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在多云天气条件下，哪种大豆品种表现出短暂的正午光合作用休息现象？\nA. Changnong 39\nB. Changnong 35\nC. 所有品种都表现出这种现象\nD. Jiyu 441",
+        "answer": "A",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
+    },
+    {
+        "instruction": "这是一道关于农业的单选题，你作为一名农业的大学生，应当按以下规则作答：请从A,B,C,D中选出一个唯一的正确选项，并回答。\n注意，你的回答应当仅包括正确选项的字母，不要包含多余的空格或其他字符。\n例如：\n正确答案：C\n请你严格按照这个格式回答，不要有额外输出。\n问题：",
+        "question": "在多云天气条件下，哪种大豆品种的最大光合作用速率发生时间早于Changnong 39？\nA. 两者都是\nB. Jiyu 441\nC. 两者都不是\nD. Changnong 35",
+        "answer": "B",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_single_choice"
     }
 ]

@@ -1141,16 +1141,6 @@
     },
     {
         "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
-        "question": "What is the name of the gene discussed in the text?",
-        "answer": "The name of the gene discussed in the text is SDR7-6.",
-        "split": {
-            "level1": "基因功能预测",
-            "level2": "Oryza sativa"
-        },
-        "task_type": "key_text_generation"
-    },
-    {
-        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
         "question": "According to the China Rice Data Center, what plant traits does the SDR7-6 gene potentially influence?",
         "answer": "According to the China Rice Data Center, the SDR7-6 gene potentially influences plant traits such as Rice blast resistance, bacterial leaf blight resistance, plant height, chlorophyll content, panicle length, seed size, photoperiod sensitivity, grain yield, grain width, grain thickness, hydrogen peroxide content, jasmonic acid content, thousand grain weight, individual plant yield, and lesion type.",
         "split": {
@@ -2765,6 +2755,1276 @@
         "answer": "The pattern of Changnong 39's leaf area index creates favorable conditions for photosynthesis.",
         "split": {
             "level1": "中国品种农艺性状查询",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "AT3G11340基因在ET处理下的表达变化是怎样的？",
+        "answer": "AT3G11340基因在ET处理下的表达变化为大约12.8倍增加（log2 FC = 3.7）相比于CK。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "AT3G11340基因属于哪个蛋白质超家族？",
+        "answer": "AT3G11340基因属于UDP-Glycosyltransferase超家族蛋白。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "AT4G25490基因的功能是什么？",
+        "answer": "AT4G25490基因的功能是C-repeat/DRE结合因子1（CBF1）。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在实验中，使用26S蛋白酶体抑制剂MG132对TCP2蛋白水平有什么影响？",
+        "answer": "在实验中，使用MG132后，TCP2蛋白水平仅略有下降，而在没有MG132的情况下，TCP2蛋白水平显著下降。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "与野生型（WT）相比，bag2和bag6单突变体以及bag2 bag6双突变体对热应激的敏感性如何？",
+        "answer": "bag2和bag6单突变体以及bag2 bag6双突变体对热应激比野生型（WT）幼苗更敏感。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "扫描电子显微镜（SEM）揭示了 stm-1 knat6-1 突变体的什么特殊表型？",
+        "answer": "扫描电子显微镜（SEM）揭示了 stm-1 knat6-1 突变体的异常顶端分生组织（SAM）表型。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "stm 和 knat6 突变对 clv3 花序大小的调控有什么效果？",
+        "answer": "stm 和 knat6 突变对 clv3 花序大小的调控具有累加效应。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "GST-DREB2C与32P标记的WT FLC启动子片段孵育时观察到了什么现象？",
+        "answer": "GST-DREB2C与32P标记的WT FLC启动子片段孵育时观察到了迁移率减慢，表明发生了结合。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "DREB2C过表达植株的角果大小与野生型植株相比如何？",
+        "answer": "DREB2C过表达植株的角果比野生型植株的小（DREB2C过表达植株：4.5?±?2.1 mm；WT：14.7?±?1.2 mm）。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "DREB2C过表达植株的角果表现型有哪些变化？",
+        "answer": "DREB2C过表达植株的角果表现型变化多样，从大多数种子可育的角果到种子流产或胚珠未受精的角果都有。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "DREB2C过表达植株的种子流产率与野生型植株相比如何？",
+        "answer": "DREB2C过表达植株的种子流产率始终高于野生型植株，并且在不同的转基因系和实验中存在变异。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在高湿度、寒冷和寒冷-高湿度条件下，植物的Psto滴度和Bot真菌生物量有什么变化？",
+        "answer": "在高湿度、寒冷和寒冷-高湿度条件下，植物的Psto滴度和Bot真菌生物量显著高于标准条件。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在干旱和高温条件下，细菌滴度和真菌生物量有什么变化？",
+        "answer": "在干旱和高温条件下，细菌滴度减少了一半，而在高温和高温-干旱条件下，真菌生物量减少了一半。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "研究发现了哪些胁迫条件对植物的免疫防御网络有影响？",
+        "answer": "研究发现高湿度、寒冷、寒冷-高湿度、干旱和高温条件对植物的免疫防御网络有影响。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Bot和Col感染表现出怎样的免疫反应模式？",
+        "answer": "Bot和Col感染表现出异质的免疫反应模式。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "哪个等位基因对病原体表现出耐受性？",
+        "answer": "只有一个等位基因sdh2.1-2对病原体表现出耐受性。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "f6′h1-5突变植物在分泌物中显示出什么特征？",
+        "answer": "f6′h1-5突变植物在分泌物中仅显示出微量的scopoletin，表明缺乏合成。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在F6′H1下游的分泌物中检测到哪种额外的代谢物？",
+        "answer": "在F6′H1下游的分泌物中检测到esculetin作为额外的代谢物。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "香豆素如scopoletin和esculetin在植物生物学上可能扮演什么角色？",
+        "answer": "香豆素如scopoletin和esculetin可能在动员细胞外不溶性Fe(III)中扮演角色。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "高光（HL）暴露后，Fv/Fm比值在最初的3小时内发生了什么变化？",
+        "answer": "高光（HL）暴露后，Fv/Fm比值在最初的3小时内由于光抑制而下降，随后缓慢恢复。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Which phosphor carbohydrates are listed in the context?",
+        "answer": "The phosphor carbohydrates listed are fructose-6-phosphate and glucose-6-phosphate.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What sugar alcohols are identified in the context?",
+        "answer": "The sugar alcohols identified are galactinol and myoinositol.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "With what is PGI1 expression correlated?",
+        "answer": "PGI1 expression is correlated with glucose-6-phosphate content.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在N8-acetylspd补充的植物中，N8-acetylspd的含量增加了多少倍？",
+        "answer": "在N8-acetylspd补充的植物中，N8-acetylspd的含量增加了1,600倍。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在拟南芥和大麦之间，哪四对直系同源基因显示出一致的高降解率？",
+        "answer": "在拟南芥和大麦之间，THI1、THIC、PSII的D1和PTERIN DEHYDRATASE这四对直系同源基因显示出一致的高降解率。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "实验中，AtBAG6在阿拉伯芥叶组织中冷处理后多少分钟才观察到转录？",
+        "answer": "实验中，AtBAG6在阿拉伯芥叶组织中冷处理后90分钟才观察到转录。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "AtBAG6在阿拉伯芥植物中的研究与什么生物学过程相关？",
+        "answer": "AtBAG6在阿拉伯芥植物中的研究与冷响应相关。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在Arabidopsis thaliana成熟种子中，脂肪酸与总蛋白质的比例是多少？",
+        "answer": "在Arabidopsis thaliana成熟种子中，脂肪酸与总蛋白质的比例大约是1。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "通过什么方法识别蛋白质条带？",
+        "answer": "蛋白质条带通过分析其胰蛋白酶肽使用LC–MS/MS进行识别。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "油体CF6部分中恢复了哪些蛋白质？",
+        "answer": "油体CF6部分中恢复了四种油体蛋白，分布在条带1–4中，分子质量范围为18,569到21,279 Da。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "哪些蛋白质具有单个酪氨酸残基和+45质量变化的硝化肽？",
+        "answer": "Rubisco、Rubisco activase 和 transketolase 这三种蛋白质具有单个酪氨酸残基和+45质量变化的硝化肽。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "最终的NMR结构集合揭示了什么样的拓扑结构？",
+        "answer": "最终的NMR结构集合揭示了一种紧凑的七股β-桶状拓扑结构，每端附近有一个短α螺旋。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Col-0中非功能性AOP2等位基因的结果是什么？",
+        "answer": "Col-0中非功能性AOP2等位基因导致不同的硫代葡萄糖苷的积累，这一点由Kliebenstein等人（2001）先前确定。",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "NERD1基因与哪些表型相关？",
+        "answer": "NERD1基因与胚珠数量和生育力表型相关。",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "NERD1基因在拟南芥的哪个器官中表达？",
+        "answer": "NERD1基因在拟南芥的花器官中表达。",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在转座子（TEs）中进行的mCHH水平的全基因组关联研究（GWAS）样本量是多少？",
+        "answer": "在转座子（TEs）中进行的mCHH水平的全基因组关联研究（GWAS）样本量是9,228个个体TEs，分布在所有774条线中。",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "哪些基因在mCHH水平的GWAS中显示出强信号？",
+        "answer": "在mCHH水平的GWAS中，NRPE1’、CMT2b’和CMT2a’显示出强信号。",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "SNP82066位于哪个基因的上下游区域？",
+        "answer": "SNP82066位于RIF10的上游和一个被注释为阳离子氨基酸转运蛋白4 (CAT4; At3G03720) 的基因的下游的基因间区域。",
+        "split": {
+            "level1": "Gwas",
+            "level2": "Arabidopsis thaliana"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What are some of the enriched items in the CK12h vs. HT12h group?",
+        "answer": "The enriched items in the CK12h vs. HT12h group include RNA modification, chloroplast RNA modification, phenylpropanoid metabolic process, protein folding, response to heat, and secondary active transmembrane transporter activity.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Which process related to RNA is enriched in the CK12h vs. HT12h group?",
+        "answer": "RNA modification and chloroplast RNA modification are enriched in the CK12h vs. HT12h group.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Which enriched item in the CK24h vs. HT24h group involves a response to a chemical compound?",
+        "answer": "Response to hydrogen peroxide and response to an antibiotic are enriched in the CK24h vs. HT24h group.",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "色氨酸合成酶/吲哚-3-甘油磷酸裂解酶在防御反应中有什么功能？",
+        "answer": "色氨酸合成酶/吲哚-3-甘油磷酸裂解酶将吲哚-3-甘油磷酸转化为吲哚，作为防御化合物并作为色氨酸和防御相关苯并噁嗪类化合物合成的前体。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Farnesyl diphosphate synthase 2 (FPS2) 的功能是什么？",
+        "answer": "FPS2 催化异戊烯基二磷酸与烯丙基二磷酸（如二甲基烯丙基二磷酸）的缩合，并作为许多分支途径的起始点，生产异戊二烯类最终产物。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Extradiol ring-cleavage dioxygenase 的功能是什么？",
+        "answer": "Extradiol ring-cleavage dioxygenase 裂解3,4-二羟基苯丙氨酸以产生贝塔拉米酸。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "盐胁迫处理对植物根部的O2‐水平有什么影响？",
+        "answer": "盐胁迫处理显著增加了植物根部的O2‐水平。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "DAB和NBT染色结果在盐胁迫下的植物根尖显示了什么颜色变化？",
+        "answer": "DAB和NBT染色结果在盐胁迫下的植物根尖显示深棕色和深蓝色斑块。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "组氨酸处理后植物根尖的斑块颜色有什么变化？",
+        "answer": "组氨酸处理后植物根尖的斑块颜色变浅，表明ROS水平发生变化。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "实验观察表明盐胁迫和组氨酸处理对植物根部的ROS水平有何影响？",
+        "answer": "实验观察表明盐胁迫显著增加了植物根部的O2‐水平，而组氨酸处理增加了整体ROS水平但减少了O2‐和H2O2的累积水平。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "外源MT处理后，ABA和JA水平与干旱胁迫植物相比有何变化？",
+        "answer": "外源MT处理后，ABA水平比干旱胁迫植物高21.55%，JA水平比干旱胁迫植物低43.56%。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "How much did the mRNA levels of ZmbHLH121 increase in the homozygous line compared to wild-type B73?",
+        "answer": "The mRNA levels of ZmbHLH121 increased over 100-fold in the homozygous line compared to wild-type B73.",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What change in root anatomy was observed in ZmbHLH121-OX compared to B73 wild-type under greenhouse control conditions?",
+        "answer": "ZmbHLH121-OX demonstrated a significant 1.4-fold increase in RCA formation compared to B73 wild-type under greenhouse control conditions.",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Under what conditions was the functional validation of ZmbHLH121 as a positive regulator of RCA formation conducted?",
+        "answer": "The functional validation of ZmbHLH121 as a positive regulator of RCA formation was conducted under controlled conditions.",
+        "split": {
+            "level1": "Gene",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "rte2基因的功能是什么？",
+        "answer": "rte2基因编码一个B效流转运蛋白。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在与Mn相关的研究中，最强信号位于哪个染色体的哪个位置？",
+        "answer": "最强信号位于染色体1的162.9到163.2 Mb之间。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "FG（Final Germination）与哪些特性之间存在显著的正相关？",
+        "answer": "FG与TG（Total Germination）、RL（Root Length）、SL（Shoot Length）之间存在显著的正相关（P < 0.01）。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "TG（Total Germination）与FG（Final Germination）之间的相关性如何？",
+        "answer": "TG和FG之间显示出最强的正相关，相关系数为0.81。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "SL（Shoot Length）与RRS（Relative Root Size）之间的相关性如何？",
+        "answer": "SL与RRS之间没有显著的负相关。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在对照条件下，Zm00001d010459基因的表达在0 h到24 h之间发生了什么变化？",
+        "answer": "在对照条件下，Zm00001d010459基因的表达从0 h到24 h增加，然后在两个品系中都减少。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What conclusion can be drawn from the experiment regarding ethylene's effect on maize seeds?",
+        "answer": "Ethylene significantly improved the germination ratio of haplotype III-lines, indicating that ethylene promotes germination in maize seeds with low-germination ability.",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Zea mays L."
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在重铬酸钾的暴露条件下，检测到哪两种酶的合成增加？",
+        "answer": "在重铬酸钾的暴露条件下，检测到d-3-磷酸甘油醛脱氢酶和酒精脱氢酶的合成增加。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "铬暴露导致酶上调的原因是什么？",
+        "answer": "铬暴露导致氧化应激，进而导致厌氧条件。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "玉米幼苗在什么条件下能够提高耐受缺氧的能力？",
+        "answer": "玉米幼苗在适应低氧条件下能够提高耐受缺氧的能力。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "ZmPR10.1和ZmPR10基因在什么植物中被过表达以评估抗菌活性？",
+        "answer": "ZmPR10.1和ZmPR10基因在拟南芥中被过表达以评估抗菌活性。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "使用什么方法确认ZmPR10.1或ZmPR10转基因的存在？",
+        "answer": "使用从基因组DNA中提取的特定引物对的PCR结果确认ZmPR10.1或ZmPR10转基因的存在。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "FL1蛋白在内质网中的作用是什么？",
+        "answer": "FL1蛋白是第一个被表征的围绕PB的内质网膜蛋白，通过促进22-kDa α-zein沉积影响PB的生物发生。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "AtERdj2A在拟南芥中的功能是什么？",
+        "answer": "AtERdj2A是拟南芥J结构域内质网膜蛋白的同源物，通过影响花粉萌发对拟南芥的生长至关重要。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "酵母同源物Sec63p的作用是什么？",
+        "answer": "酵母同源物Sec63p通过介导蛋白质跨内质网膜的转运来促进细胞生长。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在RNAi抑制sHSP26表达后，有多少个斑点的丰度减少？",
+        "answer": "在RNAi抑制sHSP26表达后，有28个斑点的丰度减少。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Which proteins exhibited weak interactions with sHSP26 according to the experiment?",
+        "answer": "The proteins that exhibited weak interactions with sHSP26 are ATP synthase subunit α and ATP synthase subunit γ.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Fe3O4纳米颗粒对玉米植物的叶绿素含量有何影响？",
+        "answer": "Fe3O4纳米颗粒对玉米植物的叶绿素a、叶绿素b或类胡萝卜素含量没有显著影响。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "300 nm PSNPs对茎生物量的影响是什么？",
+        "answer": "300 nm PSNPs使茎生物量减少了4.7%。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "散粉期与吐丝期之间的相关性系数是多少？",
+        "answer": "散粉期与吐丝期之间的相关性系数为0.96，表明它们之间具有最高显著的正相关性。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "穗重与穗宽之间的相关性系数是多少？",
+        "answer": "穗重与穗宽之间的相关性系数为0.52，表明它们之间具有高度显著的正相关性。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "为什么不推荐过早收获玉米？",
+        "answer": "过早收获玉米不推荐，因为这会影响营养积累和籽粒质量。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "玉米成熟的标志有哪些？",
+        "answer": "玉米成熟的标志包括籽粒基部出现黑色形成层、乳线消失以及叶子变黄。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "玉米成熟后应如何处理以确保质量？",
+        "answer": "玉米成熟后应及时收获、脱粒、干燥和储存以确保质量。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在水分胁迫和低氮条件下，产量抗性指数与哪些指标呈现显著负相关？",
+        "answer": "在水分胁迫和低氮条件下，产量抗性指数与ASI（开花-吐丝间隔）呈现显著负相关，并与穗顶盖长度呈现显著负相关。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在水分胁迫条件下，ARI与哪些指标呈现显著相关？",
+        "answer": "在水分胁迫条件下，ARI与产量、每行籽粒数、千粒重、穗长、穗顶盖长度和ASI呈现显著相关。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在水分胁迫和低氮条件下，产量抗性指数与千粒重的相关性如何？",
+        "answer": "在水分胁迫和低氮条件下，产量抗性指数与千粒重呈现显著正相关。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在水分胁迫条件下，ARI与ASI的相关性如何？",
+        "answer": "在水分胁迫条件下，ARI与ASI呈现显著相关。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "穗尖空长度与哪个农艺性状关系最小？",
+        "answer": "穗尖空长度与穗长关系最小。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Zea_mays"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "R-line ‘Kefeng 1’ 和 S-line ‘NN1138-2’ 在对 Soybean Mosaic Virus (SMV) 的反应上有什么不同？",
+        "answer": "R-line ‘Kefeng 1’ 显示出抗性，症状出现较晚且较轻微；S-line ‘NN1138-2’ 显示出易感性，症状明显且逐步加重。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "哪些组织之间共享ERF TF家族的富集？",
+        "answer": "ERF TF家族的富集在内皮（endothelium）和表皮（epidermis）组织之间共享。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在QH34中，下调的基因与拟南芥中的哪个IAA家族蛋白相似？",
+        "answer": "在QH34中，下调的基因与拟南芥IAA27相似。",
+        "split": {
+            "level1": "Transcriptome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "GmDW1基因的转录长度是多少？",
+        "answer": "GmDW1基因的转录长度为2768个碱基对(bp)。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "GmDW1蛋白中的Ent-kaurene-16 synthase结构域覆盖了哪些氨基酸位置？",
+        "answer": "GmDW1蛋白中的Ent-kaurene-16 synthase结构域覆盖了氨基酸位置34到815。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在BSA测序中识别出的第三外显子中的突变是什么？",
+        "answer": "在BSA测序中识别出的第三外显子中的突变是T-to-A的变化。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Gmdw1基因的第六内含子中识别出的第二个SNP突变是什么？",
+        "answer": "Gmdw1基因的第六内含子中识别出的第二个SNP突变是A2416G。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Gmdw1基因的第六内含子中识别出的3个碱基缺失是什么？",
+        "answer": "Gmdw1基因的第六内含子中识别出的3个碱基缺失是AAA。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "哪一个突变导致Gmdw1基因中氨基酸的替换？",
+        "answer": "只有第三外显子中的单个错义点突变（T1224A）导致Gmdw1基因中氨基酸的替换。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Glyma.19G176300 也被称为什么？",
+        "answer": "Glyma.19G176300 也被称为 NopC Related Protein (GmCRP)。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在 Suinong 14 和 Zyd 00006 中，SNP 分析发现 Glyma.19G176300 的启动子区域和外显子中分别有多少个 SNP？",
+        "answer": "在 Suinong 14 和 Zyd 00006 中，SNP 分析发现 Glyma.19G176300 的启动子区域有 5 个 SNP，外显子中有 2 个 SNP。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Glyma.19G176300 (GmCRP) 在感染野生菌株 HH103 后被建议作为与什么相关的候选基因？",
+        "answer": "Glyma.19G176300 (GmCRP) 在感染野生菌株 HH103 后被建议作为与 NopC 相关的候选基因。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "PH13的昼夜转录模式是怎样的？",
+        "answer": "PH13表现出与GmCOP1a和GmCOP1b相似的昼夜转录模式，在黎明时达到峰值，在黄昏时下降。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "GmCOP1a和GmCOP1b在大豆中有什么作用？",
+        "answer": "GmCOP1a和GmCOP1b在大豆中控制植株高度。",
+        "split": {
+            "level1": "Gene",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在Gmzf_CCCHs中，响应甲基茉莉酸（MeJA）的元件包含哪些基序？",
+        "answer": "在Gmzf_CCCHs中，响应甲基茉莉酸（MeJA）的元件包含CGTCA-motif和TGACG-motif。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Gmzf_CCCHs可能参与哪两种激素介导的信号通路？",
+        "answer": "Gmzf_CCCHs可能参与茉莉酸（JA）和脱落酸（ABA）介导的信号通路。",
+        "split": {
+            "level1": "GWAS",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在干旱胁迫下，哪两种氨基酸的含量增加？",
+        "answer": "在干旱胁迫下，缬氨酸和亮氨酸的含量增加。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "这些氨基酸和渗透溶质的积累对大豆有什么潜在影响？",
+        "answer": "这些氨基酸和渗透溶质的积累表明大豆可能具有增强的抗逆境能力，如干旱。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "豆科植物叶片在早期阶段是如何合成单糖的？",
+        "answer": "在豆科植物叶片的早期阶段，单糖通过光合作用合成。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在温室研究中，glyphosate对GR大豆的根系生长有何影响？",
+        "answer": "在温室研究中，glyphosate减少了GR大豆的根系生长。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Glyphosate对大豆的shikimate积累有何显著影响？",
+        "answer": "Glyphosate显著增加了大豆中的shikimate积累。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "How does the pod texture and flavor of Jiaoda 133 compare to Williams 82 when boiled?",
+        "answer": "Jiaoda 133 pods are sweet, soft, and fragrant when boiled, while Williams 82 pods are hard and neither sweet nor fragrant.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What is the 100-grain weight difference between Jiaoda 133 and Williams 82 at maturity?",
+        "answer": "At maturity, the 100-grain weight of Jiaoda 133 is 31.38 g, whereas Williams 82 is 17.87 g, showing a 1.75-fold difference.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What is the sucrose content in Jiaoda 133 compared to Williams 82?",
+        "answer": "The sucrose content is significantly higher in Jiaoda 133 (2.39 g/100 g) than in Williams 82 (1.52 g/100 g).",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "In which plant variety is gene expression in M5 more strongly up-regulated and then down-regulated compared to the other?",
+        "answer": "Gene expression in M5 is more strongly up-regulated and then down-regulated in Williams 82 compared to Jiaoda133.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Which gene expression is associated with cellulose microfibril organization and cell wall activities?",
+        "answer": "Gene expression in M4 is associated with cellulose microfibril organization and cell wall activities.",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在WT种子中，可溶性蛋氨酸水平沿着哪种地理梯度变化？",
+        "answer": "在WT种子中，可溶性蛋氨酸水平沿着南北纬度梯度变化，大约变化两倍。",
+        "split": {
+            "level1": "Metabolome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在种子发育的哪个阶段GmMFT的表达达到峰值？",
+        "answer": "GmMFT的表达在30天后期（30 DPA）达到峰值。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在GmMIPs的分析中，哪些非水基底物的特异性决定位置（SDPs）被观察到？",
+        "answer": "在GmMIPs的分析中，特异性决定位置（SDPs）被观察到的非水基底物包括氨、硼酸、二氧化碳、过氧化氢和尿素。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在不育组中，有多少个基因显著下调？",
+        "answer": "在不育组中，有五个基因显著下调。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "NACK2的拟南芥同源物是什么，它在植物中有什么作用？",
+        "answer": "NACK2的拟南芥同源物是TES，TES在植物中是有丝分裂细胞质分裂所必需的。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "GmMs1基因在不育植物中的表达情况如何？",
+        "answer": "GmMs1基因在不育植物中的表达几乎不可检测，并且与可育个体显著不同。",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What was the main research objective in the study?",
+        "answer": "The main research objective was to investigate the localization of GmMs1 at the subcellular level.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "In which plant were the constructs transiently expressed?",
+        "answer": "The constructs were transiently expressed in Nicotiana benthamiana leaves.",
+        "split": {
+            "level1": "Proteome",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What genetic marker is the sterility line linked to?",
+        "answer": "The sterility line is linked to the ms1 allele.",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "List the six different types of sterility identified in the research.",
+        "answer": "The six different types of sterility identified are: Male completely sterile and female fertile (MS-FF), Male completely sterile and female partially sterile (MS-FPS), Male partially sterile and female fertile (MPS-FF), Both male and female completely sterile (MS-FS), Both male and female partially sterile (MPS-FPS), Male partially sterile and female completely sterile (MPS-FS).",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "大豆育种的最低脂肪含量指标是多少？",
+        "answer": "大豆育种的最低脂肪含量指标是≥22%。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "大豆育种中提高脂肪含量的指标范围是多少？",
+        "answer": "大豆育种中提高脂肪含量的指标范围是22.5%到24.4%。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "大豆育种中大豆粉的蛋白质含量在提取后应不低于多少？",
+        "answer": "大豆育种中大豆粉的蛋白质含量在提取后应不低于44%。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What is the seed treatment method mentioned in the context?",
+        "answer": "The seed treatment method involves using a 35% Doconazole seed dressing agent at a ratio of 1:80~100 for coating.",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What additional treatment is recommended for every kilogram of seeds?",
+        "answer": "For every kilogram of seeds, mix 200 mL of 62.5 g/L Metalaxyl·Mancozeb suspension seed dressing agent and 5 g of 30% Thiamethoxam suspension seed dressing agent.",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What is the concentration of the Doconazole seed dressing agent used in the treatment?",
+        "answer": "The concentration of the Doconazole seed dressing agent used is 35%.",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "What are the two components of the additional seed treatment mentioned in the context?",
+        "answer": "The two components are 62.5 g/L Metalaxyl·Mancozeb suspension seed dressing agent and 30% Thiamethoxam suspension seed dressing agent.",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在R6阶段，Changnong 39的净光合速率比Changnong 35高出多少百分比？",
+        "answer": "在R6阶段，Changnong 39的净光合速率比Changnong 35高出20.78%。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "在R7阶段，Changnong 35的净光合速率下降了多少百分比？",
+        "answer": "在R7阶段，Changnong 35的净光合速率下降了61.82%。",
+        "split": {
+            "level1": "Breeding",
+            "level2": "Glycine max"
+        },
+        "task_type": "key_text_generation"
+    },
+    {
+        "instruction": "这是一道关于农业的问答题，你作为一名农业的大学生，应当按以下规则作答：问答题的输入和输出都是文本类型。\n注意，你的回答应当仅包括问题的答案，不要包括任何其他内容。\n问题：",
+        "question": "Which high-yield variety is compared to the conventional variety Jiyu 441?",
+        "answer": "The high-yield variety compared to the conventional variety Jiyu 441 is Changnong 39.",
+        "split": {
+            "level1": "Breeding",
             "level2": "Glycine max"
         },
         "task_type": "key_text_generation"
