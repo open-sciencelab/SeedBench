@@ -15,53 +15,58 @@ jobs:
           lfs: true
           fetch-depth: 0
 
-      - name: Setup Git config
+      - name: Setup Git and LFS
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          git lfs install --skip-repo  # 全局安装 LFS
 
-      - name: Clone and update HuggingFace repo
+      - name: Sync to HuggingFace
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          git clone "https://oauth2:$HF_TOKEN@huggingface.co/datasets/yj12869741/SeedBench" hf_repo
-          
-          # 删除目标目录并复制新内容
-          rm -rf hf_repo/one-shot
-          rm -rf hf_repo/zero-shot
-          cp -r sft_model_eval/one-shot hf_repo/
-          cp -r sft_model_eval/zero-shot hf_repo/
+          GIT_LFS_SKIP_SMUDGE=1 git clone "https://oauth2:$HF_TOKEN@huggingface.co/datasets/yj12869741/SeedBench" hf_repo
           
           cd hf_repo
-          # 检查是否有文件变动
+          git config lfs.https://huggingface.co/datasets/yj12869741/SeedBench.git/info/lfs.access basic
+          
+          rm -rf one-shot zero-shot
+          
+          cp -r ../sft_model_eval/one-shot ../sft_model_eval/zero-shot .
+          
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes detected in HuggingFace repo"
           else
             echo "Changes detected, pushing to HuggingFace"
             git add .
             git commit -m "Update sft_model_eval from GitHub"
+            
+            git lfs push origin main
+            
             git push origin main
           fi
 
-      - name: Clone and update ModelScope repo
+      - name: Sync to ModelScope
         env:
           MODELSCOPE_TOKEN: ${{ secrets.MODELSCOPE_TOKEN }}
         run: |
-          git clone "https://oauth2:$MODELSCOPE_TOKEN@www.modelscope.cn/datasets/y12869741/SeedBench.git" ms_repo
-          
-          # 删除目标目录并复制新内容
-          rm -rf ms_repo/one-shot
-          rm -rf ms_repo/zero-shot
-          cp -r sft_model_eval/one-shot ms_repo/
-          cp -r sft_model_eval/zero-shot ms_repo/
+          GIT_LFS_SKIP_SMUDGE=1 git clone "https://oauth2:$MODELSCOPE_TOKEN@www.modelscope.cn/datasets/y12869741/SeedBench.git" ms_repo
           
           cd ms_repo
-          # 检查是否有文件变动
+          git config lfs.https://www.modelscope.cn/datasets/y12869741/SeedBench.git/info/lfs.access basic
+          
+          rm -rf one-shot zero-shot
+          
+          cp -r ../sft_model_eval/one-shot ../sft_model_eval/zero-shot .
+          
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes detected in ModelScope repo"
           else
             echo "Changes detected, pushing to ModelScope"
             git add .
             git commit -m "Update sft_model_eval from GitHub"
+            
+            git lfs push origin master
+            
             git push origin master
           fi
