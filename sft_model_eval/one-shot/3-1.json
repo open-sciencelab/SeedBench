@@ -1174,7 +1174,7 @@
         "question": "The predicted subcellular locations of the Gmzf_CCCHs showed that most of the Gmzf_CCCHs (104 of 116) were localized in nucleus. Seven Gmzf_CCCH genes were predicted to be localized in chloroplast and 3 localized in cytoplasm. The other 2 Gmzf_CCCH genes (Glyma03g02000.3 and Glyma08g39400.1) were localized in vacuole and mitochondrial, respectively.\nGmzf_CCCHs基因家族的主要亚细胞定位在哪里？\nA. 液泡\nB. 细胞质\nC. 细胞核\nD. 叶绿体",
         "answer": "C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
@@ -1184,7 +1184,7 @@
         "question": "The correlation coefficients for the five traits were calculated based on the BLUP values and are summarized in Table 2. There was a significant positive correlation between plant height (PH) and number of nodes on main stem (NN), with a correlation coefficient of 0.894. There was also a significant positive correlation between PH, NN, branch number (BN) and stem diameter (DI). Additionally, 100-seed weight (100-SW) was only significantly positively correlated with DI, with a correlation coefficient of 0.244. Correlation analysis showed that there was a positive correlation between PH, NN, BN, DI and 100-SW in soybean.\n在大豆的特性中，哪个特性与主茎节数（NN）呈显著正相关？\nA. 100粒重（100-SW）\nB. 植株高度（PH）\nC. 株型（Plant Type）\nD. 分枝数（BN）",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
@@ -1194,7 +1194,7 @@
         "question": "The correlation coefficients for the five traits were calculated based on the BLUP values and are summarized in Table 2. There was a significant positive correlation between plant height (PH) and number of nodes on main stem (NN), with a correlation coefficient of 0.894. There was also a significant positive correlation between PH, NN, branch number (BN) and stem diameter (DI). Additionally, 100-seed weight (100-SW) was only significantly positively correlated with DI, with a correlation coefficient of 0.244. Correlation analysis showed that there was a positive correlation between PH, NN, BN, DI and 100-SW in soybean.\n哪个特征与茎粗（DI）呈显著正相关？\nA. 叶片数（Leaf Number）\nB. 100粒重（100-SW）\nC. 花期（Flowering Time）\nD. 根系长度（Root Length）",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
@@ -1204,7 +1204,7 @@
         "question": "The correlation coefficients for the five traits were calculated based on the BLUP values and are summarized in Table 2. There was a significant positive correlation between plant height (PH) and number of nodes on main stem (NN), with a correlation coefficient of 0.894. There was also a significant positive correlation between PH, NN, branch number (BN) and stem diameter (DI). Additionally, 100-seed weight (100-SW) was only significantly positively correlated with DI, with a correlation coefficient of 0.244. Correlation analysis showed that there was a positive correlation between PH, NN, BN, DI and 100-SW in soybean.\n根据相关性分析，下列哪一性状与分枝数（BN）呈显著正相关？\nA. 种子颜色（Seed Color）\nB. 叶片形状（Leaf Shape）\nC. 叶片颜色（Leaf Color）\nD. 植株高度（PH）",
         "answer": "D",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
@@ -1644,7 +1644,7 @@
         "question": "In the IMAS panel and CML505/LaPostaSeqC7-F64-2-6-2-2 DH pop, yield under low N stress was reduced by 59% and 48%, respectively. In DH pop CML550/CML511, the mean yield under low N stress was 5.45 t ha?1; however, this was a reduction of 47% relative to optimal conditions. Low N stress significantly (p?<?0.01) reduced protein and oil content (except in DH pop CML505/LaPostaSeqC7-F64-2-6-2-2) but had no significant effect on starch content.\n在低氮（N）胁迫条件下，哪个玉米种群的蛋白质和油含量保持稳定，没有明显下降？\nA. IMAS panel\nB. CML505/LaPostaSeqC7-F64-2-6-2-2\nC. CML550/CML511\nD. 所有种群都显著减少",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -1654,7 +1654,7 @@
         "question": "In the IMAS panel and CML505/LaPostaSeqC7-F64-2-6-2-2 DH pop, yield under low N stress was reduced by 59% and 48%, respectively. In DH pop CML550/CML511, the mean yield under low N stress was 5.45 t ha?1; however, this was a reduction of 47% relative to optimal conditions. Low N stress significantly (p?<?0.01) reduced protein and oil content (except in DH pop CML505/LaPostaSeqC7-F64-2-6-2-2) but had no significant effect on starch content.\n在低氮（N）胁迫条件下，CML550/CML511种群的平均产量是多少？\nA. 4.45 t ha?1\nB. 6.45 t ha?1\nC. 5.45 t ha?1\nD. 7.45 t ha?1",
         "answer": "C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -1664,7 +1664,7 @@
         "question": "In the IMAS panel and CML505/LaPostaSeqC7-F64-2-6-2-2 DH pop, yield under low N stress was reduced by 59% and 48%, respectively. In DH pop CML550/CML511, the mean yield under low N stress was 5.45 t ha?1; however, this was a reduction of 47% relative to optimal conditions. Low N stress significantly (p?<?0.01) reduced protein and oil content (except in DH pop CML505/LaPostaSeqC7-F64-2-6-2-2) but had no significant effect on starch content.\n在低氮（N）胁迫条件下，哪种营养成分在所有玉米种群中保持稳定？\nA. 淀粉含量\nB. 油含量\nC. 纤维含量\nD. 蛋白质含量",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -1674,7 +1674,7 @@
         "question": "Under optimum conditions, GRMZM2G159307 and GRMZM2G104325 were encoded as ATP binding proteins for grain yield and starch content, respectively. GRMZM2G10816 (yield), GRMZM2G070523 and GRMZM2G080516 (oil content) were associated with DNA biosynthesis under low N stress conditions. Under both optimal and low N circumstances, GRMZM2G033694 was annotated in the Histone-lysine N-methyltransferase family.\n在低氮胁迫条件下，与油含量相关的基因是哪一个？\nA. GRMZM2G104325\nB. GRMZM2G070523\nC. GRMZM2G033694\nD. GRMZM2G159307",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -1684,7 +1684,7 @@
         "question": "Under optimum conditions, GRMZM2G159307 and GRMZM2G104325 were encoded as ATP binding proteins for grain yield and starch content, respectively. GRMZM2G10816 (yield), GRMZM2G070523 and GRMZM2G080516 (oil content) were associated with DNA biosynthesis under low N stress conditions. Under both optimal and low N circumstances, GRMZM2G033694 was annotated in the Histone-lysine N-methyltransferase family.\nGRMZM2G033694基因在什么情况下被归类为组蛋白赖氨酸N-甲基转移酶家族成员？\nA. 不在任何条件下\nB. 在最佳和低氮条件下\nC. 仅在低氮条件下\nD. 仅在最佳条件下",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -1694,7 +1694,7 @@
         "question": "Under waterlogging condition, the mean phenotypic values for PH, RL, SDW, RDW, and ARN decreased significantly (P < 0.01) but increased significantly (P< 0.01) for brace root related traits (BRNN, BRN, BRDW), suggesting that the treatment effects were significant (P < 0.01). The two most phenotypic variations under waterlogging treatment were SR (58.88% decreased) and BRN (74.12% increased).\n水涝环境中，哪种特性变化最为显著？\nA. SR (Stem Reduction)减少58.88%\nB. SDW (Shoot Dry Weight)减少\nC. RDW (Root Dry Weight)减少\nD. BRN (Brace Root Number)增加74.12%",
         "answer": "D",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -1704,7 +1704,7 @@
         "question": "In this study, we employed the FarmCPU model to detect the associations between the SNPs and the germination traits under chilling stress (Fig. S2). A total 15 significant (P < 2. 03 × 10?6) SNPs were identified for these investigated traits (Table 2 and Fig. 2). Among them, PZE-104042136 was associated with both RL and SL, and PZE-107018981 was identified to correlate with FG and TG. Intriguingly, PZE-108063385 was associated with all the five traits.\n该研究采用哪种模型来分析SNP与冷应激下发芽性状的关联性？\nA. LASSO模型\nB. Ridge回归模型\nC. GWAS模型\nD. FarmCPU模型",
         "answer": "D",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -1714,7 +1714,7 @@
         "question": "In this study, we employed the FarmCPU model to detect the associations between the SNPs and the germination traits under chilling stress (Fig. S2). A total 15 significant (P < 2. 03 × 10?6) SNPs were identified for these investigated traits (Table 2 and Fig. 2). Among them, PZE-104042136 was associated with both RL and SL, and PZE-107018981 was identified to correlate with FG and TG. Intriguingly, PZE-108063385 was associated with all the five traits.\n哪个SNP与根长和芽长均有关系？\nA. SNP PZE-107018981\nB. SNP PZE-109045678\nC. SNP PZE-104042136\nD. SNP PZE-108063385",
         "answer": "C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -1724,7 +1724,7 @@
         "question": "Furthermore, RSRS and SLS displayed a significantly negative correlation (r?=?? 0.50, P?<?0.001). In contrast, RSRS and RLS showed a significantly positive correlation (r?=?0.56, P?<?0.001) (Table S4). These findings indicated that the five traits probably exert a synergistic effect on maize seed germination. In addition, the phenotype frequency distributions of the three traits RLS, RSRS, and SLS followed normal distributions (Fig. S1), suggesting that they were genetically controlled by multiple genes.\nRLS、RSRS和SLS的表型频率呈现怎样的分布形式？\nA. 正态分布\nB. 指数分布\nC. 对数正态分布\nD. 随机分布",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -1734,7 +1734,7 @@
         "question": "Based on the three significant SNPs within Zm00001d017932, the 68 lines were classed into three major haplotypes. Among these, haplotype II (TAT) had the highest phenotypic values of SGT (0.97) and RLS (14.43 cm), whereas haplotype III (TCG) presented the lowest SGT (0.63) and RLS (9.16 cm) values (Fig. 3d, e). A t test showed that significant differences in SGT (P?<?0.05) and RLS (P?<?0.01) existed between haplotype II and haplotype III (Fig. 3d, e). Herein, the haplotype with a higher RLS or SGT was designated as a favorable haplotype, and thus, haplotype II (TAT) and haplotype III (TCG) were confirmed as the favorable and unfavorable haplotypes for Zm00001d017932, respectively.\n基因Zm00001d017932的主要单倍型数量是多少？\nA. 四个\nB. 三个\nC. 两个\nD. 五个",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_single_choice"
@@ -2494,7 +2494,7 @@
         "question": "The seed-flooding tolerance of 347 soybean lines of YHSBG population was evaluated using three germination-related traits GR, NSR and EC. The values of descriptive statistics, ANOVA (F-value) and estimates of heritability (h2) for all three studied traits of the YHSBG population in two different environments JP14 and HY15 were presented in Table 1. In JP14, the mean of GR and NSR were 0.55 and 0.40, respectively, and their ranges were 0–1.00 and 0–0.94. Furthermore, the mean of EC was 1248 us/mL, and ranges from 153 to 2840 us/mL. However, compared with the mean in JP14, the means of GR and NSR in HY15 were lower, whereas the mean of EC was relatively higher (Table 1), suggesting that seed-flooding tolerance in soybean is an environmentally sensitive trait.\n在HY15环境中，与JP14相比，哪个特征的平均值更高？\nA. 电导率（EC）\nB. 胚根种子数（NSR）\nC. 发芽时间\nD. 发芽率（GR）",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
@@ -2504,7 +2504,7 @@
         "question": "In the present study, the MLM model was performed to identify significant QTNs associated with GR, NSR and EC. A total of 8, 6 and 11 QTNs were identified to be associated with GR, NSR and EC, respectively, at the significance level of ?log10P = 4 in JP14, HY15 and Combined-environments (Table 2 and Figure 5). The eight QTNs of GR were distributed on four different chromosomes Chr.01, Chr.08, Chr.13 and Chr.14. Among these QTNs, only qGR-13-2 located on Chr.13 was detected consistently in all three environments, explaining 4.51%–6.62% of the phenotypic variation (PV).\n在研究中，采用了哪种模型来识别与生长率（GR）、每行种子数（NSR）和穗周长（EC）相关的重要QTN？\nA. SVM模型\nB. GLM模型\nC. MLM模型\nD. LMM模型",
         "answer": "C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
@@ -2514,7 +2514,7 @@
         "question": "In the present study, the MLM model was performed to identify significant QTNs associated with GR, NSR and EC. A total of 8, 6 and 11 QTNs were identified to be associated with GR, NSR and EC, respectively, at the significance level of ?log10P = 4 in JP14, HY15 and Combined-environments (Table 2 and Figure 5). The eight QTNs of GR were distributed on four different chromosomes Chr.01, Chr.08, Chr.13 and Chr.14. Among these QTNs, only qGR-13-2 located on Chr.13 was detected consistently in all three environments, explaining 4.51%–6.62% of the phenotypic variation (PV).\n研究中识别QTN的显著性水平是多少？\nA. ?log10P = 4\nB. ?log10P = 2\nC. ?log10P = 5\nD. ?log10P = 3",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
@@ -2524,7 +2524,7 @@
         "question": "In the present study, the MLM model was performed to identify significant QTNs associated with GR, NSR and EC. A total of 8, 6 and 11 QTNs were identified to be associated with GR, NSR and EC, respectively, at the significance level of ?log10P = 4 in JP14, HY15 and Combined-environments (Table 2 and Figure 5). The eight QTNs of GR were distributed on four different chromosomes Chr.01, Chr.08, Chr.13 and Chr.14. Among these QTNs, only qGR-13-2 located on Chr.13 was detected consistently in all three environments, explaining 4.51%–6.62% of the phenotypic variation (PV).\n与生长率（GR）相关的QTN分布在几条染色体上？\nA. 3条\nB. 2条\nC. 5条\nD. 4条",
         "answer": "D",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
@@ -2534,7 +2534,7 @@
         "question": "The correlation coefficients for the five traits were calculated based on the BLUP values and are summarized in Table 2. There was a significant positive correlation between plant height (PH) and number of nodes on main stem (NN), with a correlation coefficient of 0.894. There was also a significant positive correlation between PH, NN, branch number (BN) and stem diameter (DI). Additionally, 100-seed weight (100-SW) was only significantly positively correlated with DI, with a correlation coefficient of 0.244. Correlation analysis showed that there was a positive correlation between PH, NN, BN, DI and 100-SW in soybean.\n在相关性分析中，哪个特征与茎直径（DI）呈现显著的正相关关系？\nA. 花数（FN）\nB. 100粒种子重量（100-SW）\nC. 叶片面积（LA）\nD. 根系长度（RL）",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"
@@ -2544,7 +2544,7 @@
         "question": "For all the studied traits, the genotype component accounted for the highest proportion of the observed variations. Moreover, medium to high broad-sense heritability (h2) was observed, ranging from 0.61 (seed yield per plant, SYP) to 0.99 (100-seed weight, HSW) in individual environments (Supplementary Table S1) and from 0.80 (SYP) to 0.99 (HSW) in the combined environment (Table 1).\n在单一环境下，哪个性状的遗传率是最低的？\nA. 每株种子产量（SYP）\nB. 植物高度\nC. 发芽率\nD. 100粒种子重量（HSW）",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_single_choice"

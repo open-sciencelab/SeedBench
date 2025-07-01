@@ -2294,7 +2294,7 @@
         "question": "The seed-flooding tolerance of 347 soybean lines of YHSBG population was evaluated using three germination-related traits GR, NSR and EC. The values of descriptive statistics, ANOVA (F-value) and estimates of heritability (h2) for all three studied traits of the YHSBG population in two different environments JP14 and HY15 were presented in Table 1. In JP14, the mean of GR and NSR were 0.55 and 0.40, respectively, and their ranges were 0–1.00 and 0–0.94. Furthermore, the mean of EC was 1248 us/mL, and ranges from 153 to 2840 us/mL. However, compared with the mean in JP14, the means of GR and NSR in HY15 were lower, whereas the mean of EC was relatively higher (Table 1), suggesting that seed-flooding tolerance in soybean is an environmentally sensitive trait.\n在HY15环境下，大豆种子的正常幼苗率（NSR）平均值与JP14相比如何变化？",
         "answer": "较低",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
@@ -2304,7 +2304,7 @@
         "question": "The seed-flooding tolerance of 347 soybean lines of YHSBG population was evaluated using three germination-related traits GR, NSR and EC. The values of descriptive statistics, ANOVA (F-value) and estimates of heritability (h2) for all three studied traits of the YHSBG population in two different environments JP14 and HY15 were presented in Table 1. In JP14, the mean of GR and NSR were 0.55 and 0.40, respectively, and their ranges were 0–1.00 and 0–0.94. Furthermore, the mean of EC was 1248 us/mL, and ranges from 153 to 2840 us/mL. However, compared with the mean in JP14, the means of GR and NSR in HY15 were lower, whereas the mean of EC was relatively higher (Table 1), suggesting that seed-flooding tolerance in soybean is an environmentally sensitive trait.\n在HY15环境中，大豆种子的电导率（EC）平均值与JP14相比如何变化？",
         "answer": "较高",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
@@ -2314,7 +2314,7 @@
         "question": "Further, some of these SNPs were consistently detected in multiple environments, using different GWAS models, and were found to be associated with more than one studied trait. Such SNPs were considered stable MTAs. For example, the significant SNP (AX-93793,210) on Chr.11 was identified consistently in five individual environments (E1, E2, E3, E4, and E5) and the combined environment. In addition, this SNP was also identified through four different GWAS models (BLINK, FarmCPU, GLM, and MLMM), and was found to be associated with two yield-related traits (HSW and SPP).\n在多种环境和不同的GWAS模型中持续识别出的SNP被称为________。",
         "answer": "稳定的多性状关联（MTAs）",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
@@ -2324,7 +2324,7 @@
         "question": "Further, some of these SNPs were consistently detected in multiple environments, using different GWAS models, and were found to be associated with more than one studied trait. Such SNPs were considered stable MTAs. For example, the significant SNP (AX-93793,210) on Chr.11 was identified consistently in five individual environments (E1, E2, E3, E4, and E5) and the combined environment. In addition, this SNP was also identified through four different GWAS models (BLINK, FarmCPU, GLM, and MLMM), and was found to be associated with two yield-related traits (HSW and SPP).\nSNP AX-93793,210 是通过哪四种不同的GWAS模型识别的？",
         "answer": "BLINK, FarmCPU, GLM, 和 MLMM",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
@@ -2874,7 +2874,7 @@
         "question": "The Cluster on chromosome 10 (qRBNv1-10-1 and qTRLv1-10-1) detected within the marker interval Snp62466_Snp62578 was significantly associated to RBN and TRL and spanned 50.5–51.5 cM genetic region. This region harbored two candidate genes GRMZM2G116542 and GRMZM2G016477 predicted to encode a putative Spc97 / Spc98 family of spindle pole body (SBP) component and a putative leucine-rich repeat receptor-like protein kinase, respectively.\nGRMZM2G016477基因预计编码一种富含亮氨酸重复的______。",
         "answer": "受体样蛋白激酶",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_blank_fill"
@@ -2884,7 +2884,7 @@
         "question": "The relative expression level results obtained through qRT-PCR revealed that three candidate genes viz. Zm00001d038676, Zm00001d015379, and Zm00001d018496 acted as positive regulators for root branching number while two genes viz. Zm00001d050783 and Zm00001d017751 acted as negative regulators for root branching in both GWAS and mapping accessions (Figs. 5 and 6) at all the considered stages (V1, V3).\n被鉴定为根分枝负调控因子的两个基因是________和________。",
         "answer": "Zm00001d050783，Zm00001d017751",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_blank_fill"
@@ -2894,7 +2894,7 @@
         "question": "Finally, the four candidate genes, Zm00001d017932, Zm00001d003657, Zm00001d029793, and Zm00001d017906, were considered specifically responsive to the whole seed germination process in SCL326 (Fig. 3a). These genes separately encode an agamous-like MADS-box protein, a scarecrow protein, a glutathione S-transferase F9, and an O-fucosyltransferase family protein (Table S5). Among them, the three genes Zm00001d003657, Zm00001d029793, and Zm00001d017906 were downregulated with the process of seed germination, whereas Zm00001d017932 was upregulated in SCL326 (Fig. 3a). The four genes were considered as the priority candidate genes responsible for the seed germination ability in this study.\n在种子萌发的过程中，Zm00001d003657 的表达趋势是________。",
         "answer": "下调",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_blank_fill"
@@ -2904,7 +2904,7 @@
         "question": "Finally, the four candidate genes, Zm00001d017932, Zm00001d003657, Zm00001d029793, and Zm00001d017906, were considered specifically responsive to the whole seed germination process in SCL326 (Fig. 3a). These genes separately encode an agamous-like MADS-box protein, a scarecrow protein, a glutathione S-transferase F9, and an O-fucosyltransferase family protein (Table S5). Among them, the three genes Zm00001d003657, Zm00001d029793, and Zm00001d017906 were downregulated with the process of seed germination, whereas Zm00001d017932 was upregulated in SCL326 (Fig. 3a). The four genes were considered as the priority candidate genes responsible for the seed germination ability in this study.\nZm00001d029793 编码的蛋白质是________。",
         "answer": "glutathione S-transferase F9",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_blank_fill"
@@ -2914,7 +2914,7 @@
         "question": "Finally, the four candidate genes, Zm00001d017932, Zm00001d003657, Zm00001d029793, and Zm00001d017906, were considered specifically responsive to the whole seed germination process in SCL326 (Fig. 3a). These genes separately encode an agamous-like MADS-box protein, a scarecrow protein, a glutathione S-transferase F9, and an O-fucosyltransferase family protein (Table S5). Among them, the three genes Zm00001d003657, Zm00001d029793, and Zm00001d017906 were downregulated with the process of seed germination, whereas Zm00001d017932 was upregulated in SCL326 (Fig. 3a). The four genes were considered as the priority candidate genes responsible for the seed germination ability in this study.\n在 SCL326 中，Zm00001d017932 在种子发芽阶段的表达情况是________。",
         "answer": "上调",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_blank_fill"
@@ -4034,7 +4034,7 @@
         "question": "The predicted subcellular locations of the Gmzf_CCCHs showed that most of the Gmzf_CCCHs (104 of 116) were localized in nucleus. Seven Gmzf_CCCH genes were predicted to be localized in chloroplast and 3 localized in cytoplasm. The other 2 Gmzf_CCCH genes (Glyma03g02000.3 and Glyma08g39400.1) were localized in vacuole and mitochondrial, respectively.\n大部分Gmzf_CCCH基因（116个中有104个）定位于________。",
         "answer": "细胞核",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
@@ -4044,7 +4044,7 @@
         "question": "Analysis of variance indicated that the genotype (G), environment (E) and genotype by environment interaction (G?×?E) had significant effects on plant height (PH), number of nodes on main stem (NN) and stem diameter (DI) (P?<?0.01; Table 1). The genotype (G) and genotype by environment interaction (G?×?E) had significant effects on branch number (BN) and 100-seed weight (100-SW), but the genotype by environment interaction (G?×?E) had no significant effects.\nBranch Number (BN) 受哪些因素的影响？",
         "answer": "G, G × E",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
@@ -4054,7 +4054,7 @@
         "question": "Further, some of these SNPs were consistently detected in multiple environments, using different GWAS models, and were found to be associated with more than one studied trait. Such SNPs were considered stable MTAs. For example, the significant SNP (AX-93793,210) on Chr.11 was identified consistently in five individual environments (E1, E2, E3, E4, and E5) and the combined environment. In addition, this SNP was also identified through four different GWAS models (BLINK, FarmCPU, GLM, and MLMM), and was found to be associated with two yield-related traits (HSW and SPP).\n显著的SNP（AX-93793,210）位于第几号染色体上？",
         "answer": "11",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
@@ -4064,7 +4064,7 @@
         "question": "After seven days of treatment, the soybean germplasm accessions exhibited a range of responses to alkaline treatment (AT), from sensitive to moderately tolerant and highly tolerant. Extremely sensitive accessions experienced the wilting of aboveground leaves, plant death, and significant reductions in both shoot and root biomass compared to CK (Figure 1A,B). Accessions with moderate alkaline tolerance displayed yellowing and the wilting of leaves, as well as reductions in shoot and root biomass under AT (Figure 1C,D). However, compared to sensitive cultivars, those with moderate alkaline tolerance exhibited a lesser reduction in both shoot and root biomass when exposed to AT, while alkaline-tolerant soybean accessions showed the least impact on root and shoot biomass under AT relative to CK (Figure 1E,F).\n问题：与对照组相比，极度敏感的大豆种质在碱性处理条件下，________显著减少。\n\n正确答案：地上部分和根部生物量\n\n改写问题：在碱性处理下，与对照组相比，极度敏感的大豆种质的________显著减少。",
         "answer": "地上部分和根部生物量",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
@@ -4074,7 +4074,7 @@
         "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow (Figure S2). Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\n问题：对357个大豆地方品种进行分组时，采用了________算法来根据相似性进行分类。  \n正确答案：K-means聚类",
         "answer": "K-means聚类",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"
@@ -4084,7 +4084,7 @@
         "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow (Figure S2). Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\n在识别出的三个组中，组I包括多少个地方品种？",
         "answer": "92",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_blank_fill"

@@ -1964,7 +1964,7 @@
         "question": "Gmzf_CCCHs主要参与哪些激素介导的信号通路？\nA. GA介导的信号通路\nB. JA介导的信号通路\nC. ABA介导的信号通路\nD. SA介导的信号通路",
         "answer": "B, C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_multiple_choice"
@@ -1974,7 +1974,7 @@
         "question": "以下哪种性状在单一环境中具有最高的广义遗传力？\nA. 种子产量每株（SYP）\nB. 100粒种子重量（HSW）\nC. 根系长度\nD. 植株高度",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_multiple_choice"
@@ -1984,7 +1984,7 @@
         "question": "以下哪些性状在Chr.04的单倍型等位基因中表现出显著差异？\nA. 叶面积\nB. SPP（每荚种子数）\nC. PPP（每株荚数）\nD. 株高",
         "answer": "B, C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_multiple_choice"
@@ -1994,7 +1994,7 @@
         "question": "以下哪些基因在大豆根组织中表现出最高的表达水平？\nA. Glyma.09g051100\nB. Glyma.01g220600\nC. Glyma.05g225700\nD. Glyma.11g209100",
         "answer": "D, A, B, C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_multiple_choice"
@@ -2574,7 +2574,7 @@
         "question": "MLM和FarmCPU模型在P值方面的表现如何？\nA. 产生的P值与预期P值相似\nB. 有效控制错误关联\nC. 产生的P值与预期P值不符\nD. 无法控制错误关联",
         "answer": "A, B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "key_multiple_choice"
@@ -2784,7 +2784,7 @@
         "question": "植物基因组中基因复制的常见类型包括哪些？\nA. 片段复制\nB. 逆转录复制\nC. 串联复制\nD. 单一基因复制",
         "answer": "C, A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_multiple_choice"
@@ -2794,7 +2794,7 @@
         "question": "MCScanX工具用于分析什么？\nA. 基因复制\nB. 基因表达\nC. 基因突变\nD. 基因组测序",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "key_multiple_choice"

@@ -1174,7 +1174,7 @@
         "question": "Many cis-acting elements related to hormone signaling pathways were found, such as methyl jasmonate (MeJA), salicylic acid (SA), abscisic acid (ABA), gibberellins (GA) and auxin (IAA). A total of 65 Gmzf_CCCHs were detected with MeJA-responsive elements, containing CGTCA-motif and TGACG-motif, and 77 for ABA-responsive element (ABRE), indicating that most of the Gmzf_CCCHs might participate in JA- and ABA-mediated signaling pathways.\nGmzf_CCCHs 主要参与哪些由激素调控的信号通路？\nA. GA介导的信号通路\nB. JA介导的信号通路\nC. ABA介导的信号通路\nD. SA介导的信号通路",
         "answer": "B, C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_multiple_choice"
@@ -1184,7 +1184,7 @@
         "question": "For all the studied traits, the genotype component accounted for the highest proportion of the observed variations. Moreover, medium to high broad-sense heritability (h2) was observed, ranging from 0.61 (seed yield per plant, SYP) to 0.99 (100-seed weight, HSW) in individual environments (Supplementary Table S1) and from 0.80 (SYP) to 0.99 (HSW) in the combined environment (Table 1).\n在单一环境中，哪种性状的广义遗传力最高？\nA. 种子产量每株（SYP）\nB. 100粒种子重量（HSW）\nC. 根系长度\nD. 植株高度",
         "answer": "B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_multiple_choice"
@@ -1194,7 +1194,7 @@
         "question": "The six stable markers mentioned above were used as a reference for the identification of haplotypes for yield-related traits. These stable markers were located on Chr.04 (AX-93703,924), Chr.05 (AX-93922099), Chr.11 (AX-93793,210), Chr.13 (AX-93807,406), Chr.18 (AX-94176727), and Chr.20 (AX-94199992). All the markers that were in strong LD (within ±670 kbp) with these six SNP markers, represented a haplotype block/locus . For example, 17 SNP markers were in strong LD with the reference marker AX-93703,924 (3,957,601–4291,705) and formed a haplotype block. Three haplotype alleles were identified within this haplotype block, in the soybean population . These three haplotype alleles identified on Chr.04 showed significant differences in the phenotypes of SPP and PPP.\n问题：在Chr.04的单倍型等位基因中，哪些性状显示出明显的差异？\nA. 叶面积\nB. SPP（每荚种子数）\nC. PPP（每株荚数）\nD. 株高",
         "answer": "B, C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_multiple_choice"
@@ -1204,7 +1204,7 @@
         "question": "Based on obtained annotation information, possible role in root development, and expression profiles related to root organs/tissues (e.g., roots, root stripped, root nodules, and root tips), we drew up a shortlist of 55 candidate genes (Table S4). We first used the ePlant (https://bar.utoronto.ca/eplant_soybean/, accessed on 16 April 2022) database to analyze the expression patterns of 55 candidate genes in different tissues. The result showed that all candidate genes were expressed in soybean root tissues . Furthermore, we selected the six highest expressed genes (Glyma.11g209100, Glyma.09g051100, Glyma.01g220600, Glyma.05g225700 Glyma.11g209200, and Glyma.13g261700) in the root, and data analysis was completed for these six genes using RNA-Seq soybean libraries (4085) and compared with other tissues (leaf, seedling, shoot, stem, meristem, flower, pod, nodule, seed, embryo, and endosperm). The result showed differential expression levels of six selected candidate genes in the othertissues .\n问题：在大豆根部组织中，哪些基因的表达水平最高？\nA. Glyma.09g051100\nB. Glyma.01g220600\nC. Glyma.05g225700\nD. Glyma.11g209100",
         "answer": "D, A, B, C",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_multiple_choice"
@@ -1484,7 +1484,7 @@
         "question": "The P values from the MLM (PCA?+?K) and FarmCPU models were similar and close to the expected P values and are more effective in controlling the false associations (Supplementary Figure S5). With MLM model, between Kinship and some of the markers, the confounding effect is more severe and may results into overfitting of the model. On the other hand, FarmCPU model which uses both the fixed effect model and the random effect model iteratively, able to completely remove the confounding from kinship by using a fixed-effect model without a kinship derived either from all markers, or associated markers. This process overcomes the model overfitting problems of stepwise regression (Liu et al. 2016). Therefore, further in this study we used the results only FarmCPU model for both optimum and low N management conditions.\nMLM和FarmCPU模型在P值表现上有哪些特点？\nA. 产生的P值与预期P值相似\nB. 有效控制错误关联\nC. 产生的P值与预期P值不符\nD. 无法控制错误关联",
         "answer": "A, B",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_multiple_choice"
@@ -1994,7 +1994,7 @@
         "question": "Gene duplication, including tandem and segmental duplications, is widespread in plant genomes, which is considered one of the major driving forces of genome evolution resulting in large gene family expansion in plants [30]. Duplicated genes are the source for creating novel genetic variation. MCScanX was used to analyze the gene duplications of Gmzf_CCCHs [31]. In total, 88 genes were involved in duplication. Five gene pairs Glyma02g17250/Glyma02g17260, Glyma03g30020/Glyma03g30030, Glyma09g35980Glyma09g35990, Glyma10g02550/Glyma10g02540, and Glyma12g01340/Glyma12g01350, were identified as tandem duplicated genes and located on chromosomes Gm02, Gm03, Gm09, Gm10 and Gm12 (Table S3, Fig. 3). 75% (87 of 116) of Gmzf_CCCHs were involved in segmental duplication forming 68 segmentally duplicated gene pairs (Table S3 and S4).\n植物基因组中常见的基因复制类型有哪些？\nA. 片段复制\nB. 逆转录复制\nC. 串联复制\nD. 单一基因复制",
         "answer": "C, A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_multiple_choice"
@@ -2004,7 +2004,7 @@
         "question": "Gene duplication, including tandem and segmental duplications, is widespread in plant genomes, which is considered one of the major driving forces of genome evolution resulting in large gene family expansion in plants [30]. Duplicated genes are the source for creating novel genetic variation. MCScanX was used to analyze the gene duplications of Gmzf_CCCHs [31]. In total, 88 genes were involved in duplication. Five gene pairs Glyma02g17250/Glyma02g17260, Glyma03g30020/Glyma03g30030, Glyma09g35980Glyma09g35990, Glyma10g02550/Glyma10g02540, and Glyma12g01340/Glyma12g01350, were identified as tandem duplicated genes and located on chromosomes Gm02, Gm03, Gm09, Gm10 and Gm12 (Table S3, Fig. 3). 75% (87 of 116) of Gmzf_CCCHs were involved in segmental duplication forming 68 segmentally duplicated gene pairs (Table S3 and S4).\nMCScanX工具的用途是什么？\nA. 基因复制\nB. 基因表达\nC. 基因突变\nD. 基因组测序",
         "answer": "A",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_multiple_choice"

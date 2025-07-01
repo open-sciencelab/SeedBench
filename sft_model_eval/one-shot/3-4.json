@@ -2534,7 +2534,7 @@
         "question": "By comparing the nucleotide differences of these genes between seed-flooding tolerant and sensitive lines, Glyma.13g248000 revealed one base mutation (T–A) at 145bp position in two seed-flooding tolerant lines L422 and L488, and this nonsynonymous mutation resulted in the single amino acid change (Cys-Ser) in protein . However, no base mutations/polymorphisms were observed in the other three candidate genes between tolerant and sensitive lines. Furthermore, sequence analysis of the 2 kb promoter region upstream of these four genes was performed. However, no nucleotide mutation was observed among these six tolerant and sensitive genotypes. Although no base mutation of Glyma.13g248000 was identified at 145 bp position in the seed-flooding tolerant line (L018), but the confirmation of this mutation in the remaining two seed-flooding tolerant line L422 and L488 suggested that Glyma.13g248000 was the most possible candidate gene associated with seed-flooding tolerance identified in this study, and this gene was designated as GmSFT.\n问题：为了确认种子的耐涝性，分析了哪些种系？",
         "answer": "种子耐涝性分析了种系L422、L488和L018，其中在L422和L488中确认了突变。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2544,7 +2544,7 @@
         "question": "By comparing the nucleotide differences of these genes between seed-flooding tolerant and sensitive lines, Glyma.13g248000 revealed one base mutation (T–A) at 145bp position in two seed-flooding tolerant lines L422 and L488, and this nonsynonymous mutation resulted in the single amino acid change (Cys-Ser) in protein . However, no base mutations/polymorphisms were observed in the other three candidate genes between tolerant and sensitive lines. Furthermore, sequence analysis of the 2 kb promoter region upstream of these four genes was performed. However, no nucleotide mutation was observed among these six tolerant and sensitive genotypes. Although no base mutation of Glyma.13g248000 was identified at 145 bp position in the seed-flooding tolerant line (L018), but the confirmation of this mutation in the remaining two seed-flooding tolerant line L422 and L488 suggested that Glyma.13g248000 was the most possible candidate gene associated with seed-flooding tolerance identified in this study, and this gene was designated as GmSFT.\n问题：哪个基因被认为与种子的耐涝性最密切相关？",
         "answer": "Glyma.13g248000被认为是与种子耐涝性最相关的候选基因，并被命名为GmSFT。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2554,7 +2554,7 @@
         "question": "Gene duplication, including tandem and segmental duplications, is widespread in plant genomes, which is considered one of the major driving forces of genome evolution resulting in large gene family expansion in plants [30]. Duplicated genes are the source for creating novel genetic variation. MCScanX was used to analyze the gene duplications of Gmzf_CCCHs [31]. In total, 88 genes were involved in duplication. Five gene pairs Glyma02g17250/Glyma02g17260, Glyma03g30020/Glyma03g30030, Glyma09g35980Glyma09g35990, Glyma10g02550/Glyma10g02540, and Glyma12g01340/Glyma12g01350, were identified as tandem duplicated genes and located on chromosomes Gm02, Gm03, Gm09, Gm10 and Gm12 . 75% (87 of 116) of Gmzf_CCCHs were involved in segmental duplication forming 68 segmentally duplicated gene pairs (Table S3 and S4).\n植物的基因复制可以分为哪几种类型？",
         "answer": "植物中的基因复制包括串联复制和片段复制。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2564,7 +2564,7 @@
         "question": "Gene duplication, including tandem and segmental duplications, is widespread in plant genomes, which is considered one of the major driving forces of genome evolution resulting in large gene family expansion in plants [30]. Duplicated genes are the source for creating novel genetic variation. MCScanX was used to analyze the gene duplications of Gmzf_CCCHs [31]. In total, 88 genes were involved in duplication. Five gene pairs Glyma02g17250/Glyma02g17260, Glyma03g30020/Glyma03g30030, Glyma09g35980Glyma09g35990, Glyma10g02550/Glyma10g02540, and Glyma12g01340/Glyma12g01350, were identified as tandem duplicated genes and located on chromosomes Gm02, Gm03, Gm09, Gm10 and Gm12 . 75% (87 of 116) of Gmzf_CCCHs were involved in segmental duplication forming 68 segmentally duplicated gene pairs (Table S3 and S4).\n植物基因组进化过程中，基因复制的重要性是什么？",
         "answer": "基因复制被认为是基因组进化的主要驱动力，导致植物中大型基因家族的扩展。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2574,7 +2574,7 @@
         "question": "Analysis of variance indicated that the genotype (G), environment (E) and genotype by environment interaction (G?×?E) had significant effects on plant height (PH), number of nodes on main stem (NN) and stem diameter (DI) (P?<?0.01; Table 1). The genotype (G) and genotype by environment interaction (G?×?E) had significant effects on branch number (BN) and 100-seed weight (100-SW), but the genotype by environment interaction (G?×?E) had no significant effects.\n基因型与环境交互作用（G×E）对哪些植物性状的影响不明显？",
         "answer": "基因型与环境交互作用（G×E）对分枝数（BN）和百粒重（100-SW）没有显著影响。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2584,7 +2584,7 @@
         "question": "Analysis of variance indicated that the genotype (G), environment (E) and genotype by environment interaction (G?×?E) had significant effects on plant height (PH), number of nodes on main stem (NN) and stem diameter (DI) (P?<?0.01; Table 1). The genotype (G) and genotype by environment interaction (G?×?E) had significant effects on branch number (BN) and 100-seed weight (100-SW), but the genotype by environment interaction (G?×?E) had no significant effects.\n基因型（G）、环境（E）以及基因型与环境的交互作用（G×E）对植物高度（PH）的影响是否具有统计学意义？",
         "answer": "基因型（G）、环境（E）和基因型与环境交互作用（G×E）对植物高度（PH）的影响显著（P < 0.01）。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2594,7 +2594,7 @@
         "question": "After seven days of treatment, the soybean germplasm accessions exhibited a range of responses to alkaline treatment (AT), from sensitive to moderately tolerant and highly tolerant. Extremely sensitive accessions experienced the wilting of aboveground leaves, plant death, and significant reductions in both shoot and root biomass compared to CK . Accessions with moderate alkaline tolerance displayed yellowing and the wilting of leaves, as well as reductions in shoot and root biomass under AT . However, compared to sensitive cultivars, those with moderate alkaline tolerance exhibited a lesser reduction in both shoot and root biomass when exposed to AT, while alkaline-tolerant soybean accessions showed the least impact on root and shoot biomass under AT relative to CK .\nWhat is the response of moderately alkaline-tolerant soybean accessions to alkaline treatment?",
         "answer": "Moderately alkaline-tolerant soybean accessions display yellowing and wilting of leaves, with reductions in shoot and root biomass under AT, but less reduction compared to sensitive cultivars.",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2604,7 +2604,7 @@
         "question": "After seven days of treatment, the soybean germplasm accessions exhibited a range of responses to alkaline treatment (AT), from sensitive to moderately tolerant and highly tolerant. Extremely sensitive accessions experienced the wilting of aboveground leaves, plant death, and significant reductions in both shoot and root biomass compared to CK . Accessions with moderate alkaline tolerance displayed yellowing and the wilting of leaves, as well as reductions in shoot and root biomass under AT . However, compared to sensitive cultivars, those with moderate alkaline tolerance exhibited a lesser reduction in both shoot and root biomass when exposed to AT, while alkaline-tolerant soybean accessions showed the least impact on root and shoot biomass under AT relative to CK .\nHow does alkaline treatment affect the root and shoot biomass of soybean accessions that tolerate alkaline conditions?",
         "answer": "Alkaline-tolerant soybean accessions show the least impact on root and shoot biomass under alkaline treatment relative to control (CK).",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2614,7 +2614,7 @@
         "question": "After seven days of treatment, the soybean germplasm accessions exhibited a range of responses to alkaline treatment (AT), from sensitive to moderately tolerant and highly tolerant. Extremely sensitive accessions experienced the wilting of aboveground leaves, plant death, and significant reductions in both shoot and root biomass compared to CK . Accessions with moderate alkaline tolerance displayed yellowing and the wilting of leaves, as well as reductions in shoot and root biomass under AT . However, compared to sensitive cultivars, those with moderate alkaline tolerance exhibited a lesser reduction in both shoot and root biomass when exposed to AT, while alkaline-tolerant soybean accessions showed the least impact on root and shoot biomass under AT relative to CK .\nWhat is the difference in biomass reduction between moderately tolerant soybean accessions and sensitive cultivars when exposed to alkaline conditions?",
         "answer": "The biomass reduction in moderately tolerant soybean accessions is less compared to that in sensitive cultivars under alkaline treatment.",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2624,7 +2624,7 @@
         "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow . Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\nWhat difficulty arose in dividing the soybean landraces?",
         "answer": "Direct and precise genotype partitioning was difficult despite genetic studies revealing distinct genotypes.",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2634,7 +2634,7 @@
         "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow . Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\nWhat clustering method was applied to categorize the soybean landraces?",
         "answer": "The K-means clustering algorithm was used to group the soybean landraces based on similarities.",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2644,7 +2644,7 @@
         "question": "Grouping the 357 soybean landraces into clusters corresponding to their major categories is a key step in highlighting the basic population structure of these landraces. Although genetic studies of landraces can reveal distinct genotypes, direct and precise genotype partitioning is difficult. As a result, we used K-means clustering algorithms to identify and group these landraces based on their similarities. We used the elbow method, which enables the determination of the number of clusters by the curve’s elbow . Using the elbow approach, we detected three clusters/groups (i.e., K = 3), with groups I, II, and III containing 92, 105, and 160 landraces, respectively, all three of which were found to have varying degrees of admixture.\nWhat method was used in the study to determine the ideal number of clusters?",
         "answer": "The optimal number of clusters was determined using the elbow method by identifying the curve's elbow.",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -2904,7 +2904,7 @@
         "question": "The two loci significantly associated with B comprised a mildly complex association signal spanning from 127.4 to 128.7?Mb on chromosome 3 (Figures 2 and 3; Supplementary Table S8). The peak SNP of each locus (locus 1: 3-127841465, P-value 2.68E-08; locus 2: 3-128693026, P-value 6.47E-08) was separated by a physical distance of ～851?kb, with virtually no LD (r2 = 0.03) between them. The peak SNP of the second locus, 3-128693026, was located ～59?kb from the open reading frame (ORF) of the rotten ear2 (rte2) gene (Zm00001d041590) encoding a B efflux transporter (Chatterjee et al. 2017).\n问题：rte2基因的作用是什么？\n\n改写问题：rte2基因负责编码一种B效流转运蛋白。",
         "answer": "rte2基因编码一个B效流转运蛋白。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_text_generation"
@@ -2914,7 +2914,7 @@
         "question": "Of the two loci associated with Mn (Figure 2), the strongest signal was located 162.9 to 163.2?Mb on chromosome 1 (Supplementary Figure S5). The peak SNP (1-162962818, P-value 3.61E-12) of this locus resided about 2.2?kb from a gene (Zm00001d030846) encoding a protein with 74% and 72% sequence identity to NRAMP3 and NRAMP4 of Arabidopsis (Supplementary Table S5) that in addition to Fe, export Mn from vacuoles to chloroplasts in leaf mesophyll cells (Lanquar et al. 2005, 2010).\n关于与锰相关的研究，最显著的信号位于哪个染色体的哪个区域？",
         "answer": "最强信号位于染色体1的162.9到163.2 Mb之间。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_text_generation"
@@ -2924,7 +2924,7 @@
         "question": "Those phenotypic difference among the panel suggested that chilling stress exerted distinct effects on seed germination for the various lines. Significantly (P < 0.01) positive correlations were observed between each pair of FG, TG, RL, and SL, among which TG and FG showed the strongest correlation with the correlation coefficient of 0.81. However, RRS displayed a significantly (P < 0.01) negative correlation with each of the other traits except SL (Fig. 1).\n问题：FG（最终萌发率）与哪些特性有显著的正相关关系？",
         "answer": "FG与TG（Total Germination）、RL（Root Length）、SL（Shoot Length）之间存在显著的正相关（P < 0.01）。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_text_generation"
@@ -2934,7 +2934,7 @@
         "question": "Those phenotypic difference among the panel suggested that chilling stress exerted distinct effects on seed germination for the various lines. Significantly (P < 0.01) positive correlations were observed between each pair of FG, TG, RL, and SL, among which TG and FG showed the strongest correlation with the correlation coefficient of 0.81. However, RRS displayed a significantly (P < 0.01) negative correlation with each of the other traits except SL (Fig. 1).\n问题：TG（总萌发率）与FG（最终萌发率）之间的关系是什么？\n\n正确答案：TG与FG之间表现出最显著的正相关，相关系数为0.81。",
         "answer": "TG和FG之间显示出最强的正相关，相关系数为0.81。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_text_generation"
@@ -2944,7 +2944,7 @@
         "question": "Those phenotypic difference among the panel suggested that chilling stress exerted distinct effects on seed germination for the various lines. Significantly (P < 0.01) positive correlations were observed between each pair of FG, TG, RL, and SL, among which TG and FG showed the strongest correlation with the correlation coefficient of 0.81. However, RRS displayed a significantly (P < 0.01) negative correlation with each of the other traits except SL (Fig. 1).\n问题：SL（Shoot Length）和RRS（Relative Root Size）之间的关系是什么？\n\n正确答案：SL和RRS之间没有明显的负相关。",
         "answer": "SL与RRS之间没有显著的负相关。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_text_generation"
@@ -2954,7 +2954,7 @@
         "question": "We therefore performed qRT-PCR to verify the expression difference of these genes above between SCL127 (a chilling-senstive line) and SCL326 (a chilling-tolerant line) during chilling-germination (0 h, 12 h, 24 h, 72 h, and 120 h). Under control condition, the expression of Zm00001d010459 was up-regulated from 0 h to 24 h and then down-regulated during the following stages in both SCL326 and SCL127. However, the expression was higher in SCL326 than in SCL127 at all the stages except 0 h in CK. In chilling stress, the expression of Zm00001d010459 was continuously increased throughout the whole cold treatment in both the lines, and the expression abundance was consecutively higher in SCL326 than in SCL127 at all treatment stages (Fig. 5A).\n在对照条件下，Zm00001d010459基因的表达在0 h到24 h期间经历了怎样的变化？",
         "answer": "在对照条件下，Zm00001d010459基因的表达从0 h到24 h增加，然后在两个品系中都减少。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_text_generation"
@@ -2964,7 +2964,7 @@
         "question": "To further verify the ethylene effect on seed germination, we investigated the germination ratio of the haplotype III-lines on the 7 d of ethylene treatment. As a result, the SGS of the haplotype III-lines was significantly (P?<?0.01) improved to 35.15% under ethylene treatment in comparison to that of 19.53% under the control (Fig. S6), suggesting that ethylene promoted the germination of maize seeds with low-germination ability.\nWhat inference can be made from the experiment about the impact of ethylene on maize seed germination?",
         "answer": "Ethylene significantly improved the germination ratio of haplotype III-lines, indicating that ethylene promotes germination in maize seeds with low-germination ability.",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Zea mays L."
         },
         "task_type": "context_text_generation"
@@ -3714,7 +3714,7 @@
         "question": "Many cis-acting elements related to hormone signaling pathways were found, such as methyl jasmonate (MeJA), salicylic acid (SA), abscisic acid (ABA), gibberellins (GA) and auxin (IAA). A total of 65 Gmzf_CCCHs were detected with MeJA-responsive elements, containing CGTCA-motif and TGACG-motif, and 77 for ABA-responsive element (ABRE), indicating that most of the Gmzf_CCCHs might participate in JA- and ABA-mediated signaling pathways.\n在Gmzf_CCCHs中，哪些基序是响应甲基茉莉酸（MeJA）的元件？",
         "answer": "在Gmzf_CCCHs中，响应甲基茉莉酸（MeJA）的元件包含CGTCA-motif和TGACG-motif。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
@@ -3724,7 +3724,7 @@
         "question": "Many cis-acting elements related to hormone signaling pathways were found, such as methyl jasmonate (MeJA), salicylic acid (SA), abscisic acid (ABA), gibberellins (GA) and auxin (IAA). A total of 65 Gmzf_CCCHs were detected with MeJA-responsive elements, containing CGTCA-motif and TGACG-motif, and 77 for ABA-responsive element (ABRE), indicating that most of the Gmzf_CCCHs might participate in JA- and ABA-mediated signaling pathways.\n问题：Gmzf_CCCHs可能涉及哪两种激素调节的信号通路？",
         "answer": "Gmzf_CCCHs可能参与茉莉酸（JA）和脱落酸（ABA）介导的信号通路。",
         "split": {
-            "level1": "GWAS",
+            "level1": "Gwas",
             "level2": "Glycine max"
         },
         "task_type": "context_text_generation"
