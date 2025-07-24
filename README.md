@@ -99,10 +99,30 @@ We evaluated 26 LLMs, including proprietary, open-source, and domain-specific mo
 Open an issue on this repository for questions or contributions.
 
 ```txt
-@inproceedings{ying2025seedbench,
-  title={SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science},
-  author={Ying, Jie and Chen, Zihong and Wang, Zhefan and Jiang, Wanli and Wang, Chenyang and Yuan, Zhonghang and Su, Haoyang and Kong, Huanjun and Yang, Fan and Dong, Nanqing},
-  booktitle={Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-  year={2025}
+@inproceedings{ying-etal-2025-seedbench,
+  title = "{S}eed{B}ench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science",
+  author = "Ying, Jie  and
+    Chen, Zihong  and
+    Wang, Zhefan  and
+    Jiang, Wanli  and
+    Wang, Chenyang  and
+    Yuan, Zhonghang  and
+    Su, Haoyang  and
+    Kong, Huanjun  and
+    Yang, Fan  and
+    Dong, Nanqing",
+  editor = "Che, Wanxiang  and
+    Nabende, Joyce  and
+    Shutova, Ekaterina  and
+    Pilehvar, Mohammad Taher",
+  booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  month = jul,
+  year = "2025",
+  address = "Vienna, Austria",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2025.acl-long.1516/",
+  pages = "31395--31449",
+  ISBN = "979-8-89176-251-0",
+  abstract = "Seed science is essential for modern agriculture, directly influencing crop yields and global food security. However, challenges such as interdisciplinary complexity and high costs with limited returns hinder progress, leading to a shortage of experts and insufficient technological support. While large language models (LLMs) have shown promise across various fields, their application in seed science remains limited due to the scarcity of digital resources, complex gene-trait relationships, and the lack of standardized benchmarks. To address this gap, we introduce SeedBench{---}the first multi-task benchmark specifically designed for seed science. Developed in collaboration with domain experts, SeedBench focuses on seed breeding and simulates key aspects of modern breeding processes. We conduct a comprehensive evaluation of 26 leading LLMs, encompassing proprietary, open-source, and domain-specific fine-tuned models. Our findings not only highlight the substantial gaps between the power of LLMs and the real-world seed science problems, but also make a foundational step for research on LLMs for seed design."
 }
 ```
